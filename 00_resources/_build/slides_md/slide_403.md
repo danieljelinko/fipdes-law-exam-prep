@@ -1,9 +1,8 @@
 ![Slide 403](food_law_slides/slide_403.png)
 
-### Option 2: — Use of a — recognised
+### Use of a recognised guide to good practice establishment
 
-guide to good
-practice
+Option 2:
 
 Flexibility in the development of HACCP based procedures - by
 using a recognised guide to good practice where the hazards
@@ -14,7 +13,6 @@ Examples…….. IS 340
 - Restaurants
 
 - Catering sectors dispatching prepared food from a central
-establishment
 
 - The bakery and confectionary sector
 

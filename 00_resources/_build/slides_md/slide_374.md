@@ -14,4 +14,4 @@ because they handle raw material for the production of gelatine or collagen
 
 5. Direct supply, by the producer, of small quantities of primary products to the final consumer
 
-or to local retail establishments directly supplying the final consumer
+- r to local retail establishments directly supplying the final consumer

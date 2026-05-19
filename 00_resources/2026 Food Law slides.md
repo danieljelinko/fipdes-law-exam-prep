@@ -2167,33 +2167,35 @@ Lets start creating your label
 
 ![Slide 150](food_law_slides/slide_150.png)
 
+### 12 Mandatory Requirements
+
 1. Name of the food *
 2. List of ingredients
 3. Allergens/intolerances
 4. Quantity of certain ingredients (QUID)
 5. Net quantity *
 6. Date of minimum durability or use by date
-
-12 Mandatory   7. Any special storage conditions and/or conditions of
-                  use
-
-requirements   8. Name or business name and address of the FBO
+7. Any special storage conditions and/or conditions of use
+8. Name or business name and address of the FBO
 9. Country of origin
 10. Instructions for use where necessary
-11. Alcoholic strength for beverages with more than
-                   1.2% alcohol by volume *
+11. Alcoholic strength for beverages with more than 1.2% alcohol by volume *
 12. Nutrition declaration
-               * These items must appear in the same field of vision
+
+*\* These items must appear in the same field of vision*
 
 ## Slide 151
 
 ![Slide 151](food_law_slides/slide_151.png)
 
-### A. Legal name — B. Customary name — C. Descriptive name
+### Name Under Which Product is Sold
 
-Name under         D. Trade name/brand name
-which product is
-sold               • Specific provisions – Annex VI
+A. Legal name
+B. Customary name
+C. Descriptive name
+D. Trade name/brand name
+
+- Specific provisions – Annex VI
 
 ## Slide 152
 
@@ -2216,14 +2218,13 @@ be used on the label
 
 ![Slide 153](food_law_slides/slide_153.png)
 
-### B)  The Customary — Name
+### B)  The Customary Name
 
 - In the absence of a legal name, a name customary in the Member
 
 State where the product is sold (to the final consumer) may be used
 
-- Customary name is the name accepted by consumers without
-needing further explanation e.g. spaghetti, muesli, fish fingers
+- Customary name is the name accepted by consumers without needing further explanation e.g. spaghetti, muesli, fish fingers
 
 - Description of product may be needed to avoid confusion
 
@@ -2231,143 +2232,90 @@ needing further explanation e.g. spaghetti, muesli, fish fingers
 
 ![Slide 154](food_law_slides/slide_154.png)
 
-### C)  The Descriptive — Name
+### C)  The Descriptive Name
 
 - In certain circumstances (in order to
 
 avoid confusion) a description may be
 required to indicate the true nature of
 the food and to distinguish it from
-other foods:
+- ther foods:
 
 ## Slide 155
 
 ![Slide 155](food_law_slides/slide_155.png)
 
-### D)  Trade Marks or — Brand Names
+### D)  Trade Marks or Brand Names the food for the consumer
 
-- Use of a trade mark or brand name is
-permitted in addition to the name of
-the food
+- Use of a trade mark or brand name is permitted in addition to the name of
 
 - Such names cannot appear instead of
 
 the legal name or customary name, as it
 does not provide sufficient information
-for the consumer
 
 ## Slide 156
 
 ![Slide 156](food_law_slides/slide_156.png)
 
-- Physical condition - Details of the physical condition of the food or
-                 the specific treatment it has undergone, e.g. powdered, freeze-
-                 dried, deep-frozen, refrozen, concentrated, smoked in all cases
-                 where omission could mislead
+### E) Specific Provisions – Annex VI *(part 1)*
 
-E) Specific    ❑ Frozen and sold defrosted – Name of the food shall be
-                 accompanied by the designation ‘defrosted’
-
-Provisions –   ❑ Foods treated with ionising radiation – ‘irradiated’ or ‘treated
-
-Annex VI
-                 with ionising radiation’
-
-- Normally/naturally present component substituted with different
-                 component/ingredient - in addition to ingredients list - a clear
-                 indication of component/ingredient used for the partial/whole
-                 substitution
+- **Physical condition** — Details of the physical condition of the food or the specific treatment it has undergone, e.g. powdered, freeze-dried, deep-frozen, refrozen, concentrated, smoked — in all cases where omission could mislead
+- **Frozen and sold defrosted** — Name of the food shall be accompanied by the designation 'defrosted'
+- **Foods treated with ionising radiation** — 'irradiated' or 'treated with ionising radiation'
+- **Normally/naturally present component substituted with different component/ingredient** — in addition to ingredients list, a clear indication of component/ingredient used for the partial/whole substitution
 
 ## Slide 157
 
 ![Slide 157](food_law_slides/slide_157.png)
 
-- Meat products/meat preparations/fishery products
-                 with added proteins/different animal protein - name
-                 of the food shall bear an indication of the presence of
-                 those proteins and of their origin.
+### E) Specific Provisions – Annex VI *(part 2)*
 
-E) Specific    ❑ Meat products/meat preparations having appearance
-                 of a cut/joint/slice/portion/carcase – name shall
-
-Provisions –     include an indication of presence of added water if it
-                 makes up >5 % of weight of the finished product
-
-Annex VI       ❑ Fishery products/prepared fishery products having
-                 appearance of a cut/joint/slice/portion/ filet/whole
-                 fishery product – name shall include an indication of
-                 presence of added water if it makes up >5 % of weight
-                 of the finished product
+- **Meat products/meat preparations/fishery products with added proteins/different animal protein** — name of the food shall bear an indication of the presence of those proteins and of their origin
+- **Meat products/meat preparations having appearance of a cut/joint/slice/portion/carcase** — name shall include an indication of presence of added water if it makes up >5% of weight of the finished product
+- **Fishery products/prepared fishery products having appearance of a cut/joint/slice/portion/filet/whole fishery product** — name shall include an indication of presence of added water if it makes up >5% of weight of the finished product
 
 ## Slide 158
 
 ![Slide 158](food_law_slides/slide_158.png)
 
-### ❑Physical condition - Details of the physical — condition of the food or the specific treatment — it has undergone, e.g. powdered, freeze-dried,
+### E) Specific Provisions – Annex VI *(part 3)*
 
-deep-frozen, refrozen, concentrated, smoked
-E) Specific     in all cases where omission could mislead
-
-Provisions –   ❑‘formed meat’ / ‘formed fish’ – meat
-                products, meat preparations and fishery
-
-Annex VI        products that give impression of whole pieces
-                of meat/fish but consist of different pieces
-                combined together by other ingredients or by
-                other means
+- **Physical condition** — Details of the physical condition of the food or the specific treatment it has undergone, e.g. powdered, freeze-dried, deep-frozen, refrozen, concentrated, smoked — in all cases where omission could mislead
+- **'formed meat' / 'formed fish'** — meat products, meat preparations and fishery products that give impression of whole pieces of meat/fish but consist of different pieces combined together by other ingredients or by other means
 
 ## Slide 159
 
 ![Slide 159](food_law_slides/slide_159.png)
 
-### What is an ingredient?
+### 2. The List of Ingredients
 
-Article 2.1(f)
-2. The List of   • ‘ingredient’ means any substance or product,
-                   including flavourings, food additives and food
+**What is an ingredient? — Article 2.1(f)**
 
-Ingredients        enzymes, and any constituent of a compound
-                   ingredient, used in the manufacture or
-                   preparation of a food and still present in the
-                   finished product, even if in an altered form;
-                   residues shall not be considered as
-                   ‘ingredients’;
+> 'ingredient' means any substance or product, including flavourings, food additives and food enzymes, and any constituent of a compound ingredient, used in the manufacture or preparation of a food and **still present in the finished product**, even if in an altered form; residues shall not be considered as 'ingredients'
 
 ## Slide 160
 
 ![Slide 160](food_law_slides/slide_160.png)
 
-- Constituents of an ingredient which have been
-                 temporarily separated during manufacture, which are
-                 later added but not in excess of the original amounts
-                 e.g. egg
-Ingredients    ❑ Food additives and food enzymes :
+### Ingredients Which Do Not Need to Be Listed
 
-which do not       ❑ serving no technological function in the final food
-- used as processing aids
-
-need to be     ❑ Carriers/substances not food additives but used in
-                 same way as carriers or processing aids
-
-listed         ❑ Water – used in manufacture to reconstitution of an
-                 ingredient or in case of liquid medium
+- **Constituents** of an ingredient which have been temporarily separated during manufacture, which are later added but not in excess of the original amounts (e.g. egg)
+- **Food additives and food enzymes:**
+    - serving no technological function in the final food
+    - used as processing aids
+- **Carriers/substances not food additives** but used in same way as carriers or processing aids
+- **Water** — used in manufacture to reconstitution of an ingredient or in case of liquid medium
 
 ## Slide 161
 
 ![Slide 161](food_law_slides/slide_161.png)
 
-2. The List of Ingredients   1.   The word Ingredients
-                                  should be at the beginning
-                                  of the list
+### 2. The List of Ingredients
 
-2. All ingredients should be
-                                  listed in descending order
-                                  of weight (at mixing bowl
-                                  stage)
-
-3. Names used should be
-                                  designated by their
-                                  specific name
+1. The word **Ingredients** should be at the beginning of the list
+2. All ingredients should be listed in **descending order of weight** (at mixing bowl stage)
+3. Names used should be designated by their **specific name**
 
 ## Slide 162
 
@@ -2385,8 +2333,7 @@ Foods which      4.
                         Cheese, butter, fermented milk and cream, to which no
                         ingredient has been added other than lactic products, food
 do not require          enzymes and micro-organism cultures essential to manufacture,
-                        or in the case of cheese other than fresh cheese and processed
-                        cheese the salt needed for its manufacture
+    - r in the case of cheese other than fresh cheese and processed cheese the salt needed for its manufacture
 
 a list of        5.
                       i.
@@ -2401,77 +2348,63 @@ ingredients           ii.    The name of the food enables the nature of the ingr
 
 ![Slide 163](food_law_slides/slide_163.png)
 
-1. An ingredient which is itself made up of several
-                     other ingredients e.g. jam in a biscuit, mayo in a
-                     sandwich
-2. For example jam can be listed as: jam (fruit, water,
-                     sugar, etc.) or fruit, water, sugar, etc.
+### Compound Ingredients
 
-Compound      3.      Listing the ingredients of a compound ingredient is
-                      not required when:
-    i. The composition is defined in Community
-
-Ingredients             legislation & where it constitutes <2% of the
-                        finished product
-    ii. It consists of mixtures of herbs and/or spices that
-                        constitute <2% of the finished product
-4. It is a foodstuff for which a list of ingredients is not
-                     required under Community legislation, e.g. alcohol
+1. An ingredient which is itself made up of several other ingredients e.g. jam in a biscuit, mayo in a sandwich
+2. For example jam can be listed as: *jam (fruit, water, sugar, etc.)* **or** *fruit, water, sugar, etc.*
+3. Listing the ingredients of a compound ingredient is **not required** when:
+    - i. The composition is defined in Community legislation & where it constitutes <2% of the finished product
+    - ii. It consists of mixtures of herbs and/or spices that constitute <2% of the finished product
+4. It is a foodstuff for which a list of ingredients is not required under Community legislation, e.g. alcohol
 
 ## Slide 164
 
 ![Slide 164](food_law_slides/slide_164.png)
 
-### Additives
+### Additives *(Regulation (EC) No 1333/2008)*
 
-- Food additives are substances added
+- Food additives are substances added intentionally to foodstuffs to perform certain technological functions, for example to colour, to sweeten or to preserve.
+- Only those additives that are on the list of authorised food additives may be used.
 
-intentionally to foodstuffs to perform certain
-technological functions, for example to colour,
-to sweeten or to preserve.
+**Labelling of additives:**
 
-- Only those additives that are on the list of
-authorised food additives may be used
-(Regulation (EC) No 1333/2008)
+1. Category of food additive (see next slide)
+2. Its specific name or its designated E number
 
-- Labelling of additives:
-
-1.
-
-2.
-
-Category of food additive (see next slide)
-
-Its specific name or it’s designated E number
-
-- Example: Antioxidant: Ascorbic Acid or
-
-Antioxidant: E300
+**Example:** Antioxidant: Ascorbic Acid *or* Antioxidant: E300
 
 ## Slide 165
 
 ![Slide 165](food_law_slides/slide_165.png)
 
-- Acid                      •   Flour treatment agent
-Categories of   • Emulsifier                •   Raising agent
+### Categories of Additives
 
-Additives       • Modified starch           •
-- 
-                                                Bulking agent
-                                                Foaming agent
+- Acid
+- Emulsifier
+- Modified starch
 - Acidity regulator
-- Sequestrant
-- Emulsifying salt          •   Carrier
-- Packaging gas             •   Gelling agent
-- Anti-caking agent         •   Stabiliser
-- Firming agent             •   Colour
-- Preservative              •   Glazing agent
-- Sweetener
+- Emulsifying salt
+- Packaging gas
+- Anti-caking agent
+- Firming agent
+- Preservative
 - Anti-foaming agent
-- Contrast enhancer
 - Flavour enhancer
+- Propellant Antioxidants
+- Flour treatment agent
+- Raising agent
+- Bulking agent
+- Foaming agent
+- Sequestrant
+- Carrier
+- Gelling agent
+- Stabiliser
+- Colour
+- Glazing agent
+- Sweetener
+- Contrast enhancer
 - Humectant
-- Propellant Antioxidants   •   Thickener
+- Thickener
 
 ## Slide 166
 
@@ -2482,78 +2415,65 @@ Additives       • Modified starch           •
 1. the functional class of the additive, and
 
 Food            2.    the specific name or designated E number
-- E.g. sodium nitrite, a preservative commonly used in cured meat
-                  products, must be listed in the list of ingredients as ‘‘Preservative:
+    - E.g. sodium nitrite, a preservative commonly used in cured meat products, must be listed in the list of ingredients as ‘‘Preservative:
 
 Additives and
                   Sodium Nitrite’ or ‘Preservative: E250’.
-- Sulphur Dioxide: The exception is food products containing
-                  sulphur dioxide and sulphites (E220-E228). Sulphur dioxide and
-                  sulphites must appear on the label under their chemical names
+    - Sulphur Dioxide: The exception is food products containing sulphur dioxide and sulphites (E220-E228). Sulphur dioxide and sulphites must appear on the label under their chemical names
 
 Sulphur           e.g. sodium metabisulphite, where present at levels exceeding
                   10mg/kg or 10mg/l, expressed as SO2.
-- So, the list of ingredients will show the additive category followed
+    - So, the list of ingredients will show the additive category followed
 
 Dioxide           by the additive name e.g. preservative: sodium
                   metabisulphite. Labelling the category and the additive number
                   is not sufficient. Therefore, it is not enough to label as
                   preservative: E220.
-- Preservative: Sodium Nitrite’ or ‘Preservative: E250’.
+    - Preservative: Sodium Nitrite’ or ‘Preservative: E250’.
 
 ## Slide 167
 
 ![Slide 167](food_law_slides/slide_167.png)
 
-### Foods containing one or more of the following food colours — (*):
+### Additional Labelling Rules Regarding Additives — Regulation 1333/2008
+
+Foods containing one or more of the following food colours (*) must carry the warning label:
 
 - Sunset yellow (E 110)
-Additional labelling   ❑ Quinoline yellow (E 104)
+- Quinoline yellow (E 104)
 - Carmoisine (E 122)
-rules regarding        ❑ Allura red (E 129)
-
-additives              ❑ Tartrazine (E 102)
+- Allura red (E 129)
+- Tartrazine (E 102)
 - Ponceau 4R (E 124)
-Regulation             Shall carry the following additional information on their
 
-1333/2008 on           labelling: ‘name or E number of the colour(s)’: may have an
-                       adverse effect on activity and attention in children’
+**Required additional labelling:** *'name or E number of the colour(s)': may have an adverse effect on activity and attention in children*
 
-Food Additives:        (*) With the exception of foods where the colour(s) has been
-                       used for the purposes of health or other marking on meat
-                       products or for stamping or decorative colouring on eggshell
+> (*) With the exception of foods where the colour(s) has been used for the purposes of health or other marking on meat products or for stamping or decorative colouring on eggshell
 
 ## Slide 168
 
 ![Slide 168](food_law_slides/slide_168.png)
 
-### What are Flavourings? — ‘Flavourings’ are used in or on foodstuffs to — impart a taste and/or odour
+### Flavourings
 
-Flavourings
-              Labelling of Flavours:
-              Must be indicated in the list of ingredients by the
-              word ‘flavourings’ or by a more specific name or
-              description, e.g. ‘Flavouring: Vanilla’
+**What are Flavourings?**
+'Flavourings' are used in or on foodstuffs to impart a taste and/or odour
+
+**Labelling of Flavours:**
+Must be indicated in the list of ingredients by the word 'flavourings' or by a more specific name or description, e.g. 'Flavouring: Vanilla'
 
 ## Slide 169
 
 ![Slide 169](food_law_slides/slide_169.png)
 
-- List hasn’t changed but Commission can amend it if
-                                              necessary
+### Allergens
 
-- Now required to be declared in the ingredients list or a
-                                              separate ‘contains’ statement if no ingredient list
+*Reg 1169/2011 — Annex II: List of ingredients (allergens)*
 
-- Clear reference to the name of the substance or product
-
-               Allergens                      as listed in Annex II;
-
-- Prepacked products - must be emphasised through a
-Reg 1169/2011                                 typeset which clearly distinguishes it from rest of
-Annex II: List of ingredients (allergens)     ingredients for e.g. means of font, style, background
-                                              colour.
-
+- List hasn't changed but Commission can amend it if necessary
+- Now required to be declared in the **ingredients list** or a separate 'contains' statement if no ingredient list
+- Clear reference to the name of the substance or product as listed in Annex II
+- Prepacked products — must be **emphasised** through a typeset which clearly distinguishes it from rest of ingredients e.g. means of font, **style**, background colour
 - Indication extended to non prepacked
 
 ## Slide 170
@@ -2570,54 +2490,51 @@ Crustaceans · Eggs · Fish · Peanuts · Soya · Milk · Tree Nuts · Celery ·
 
 ![Slide 171](food_law_slides/slide_171.png)
 
-### Labelling for — Allergens
+### Labelling for Allergens
+
+Visual comparison of old vs. new allergen labelling format. Under Reg 1169/2011, allergens must be **emphasised** (bold, italic, or different background colour) within the ingredients list — not just listed as plain text.
+
+**Old format:** allergens listed without emphasis (e.g. "...Wheatflour, Salt, Cream...").
+
+**New format:** allergens bolded within the full ingredients list (e.g. "...**Wheat**flour, Salt, **Cream**, ...**Celery** Seed...").
 
 ## Slide 172
 
 ![Slide 172](food_law_slides/slide_172.png)
 
-1. Cereals containing gluten, namely: wheat (such as
-                    spelt and khorasan wheat), rye, barley, oats or their
-                    hybridised strains, and products thereof, except:
-    a. wheat based glucose syrups including dextrose;
-    b. wheat based maltodextrins;
-    c. glucose syrups based on barley;
-Details of        d) cereals used for making alcoholic distillates
-                       including ethyl alcohol of agricultural origin;
+### Details of Allergens *(Annex II, Reg 1169/2011)*
 
-Allergens    2.
-             3.
-                   Crustaceans and products thereof;
-                   Eggs and products thereof;
-4. Fish and products thereof, except:
-    a. fish gelatine used as carrier for vitamin or
-                       carotenoid preparations;
-    b. fish gelatine or Isinglass used as fining agent in
-                       beer and wine;
+1. **Cereals containing gluten**, namely: wheat (such as spelt and khorasan wheat), rye, barley, oats or their hybridised strains, and products thereof, *except:*
+    - a) wheat based glucose syrups including dextrose
+    - b) wheat based maltodextrins
+    - c) glucose syrups based on barley
+    - d) cereals used for making alcoholic distillates including ethyl alcohol of agricultural origin
+2. **Crustaceans** and products thereof
+3. **Eggs** and products thereof
+4. **Fish** and products thereof, *except:*
+    - a) fish gelatine used as carrier for vitamin or carotenoid preparations
+    - b) fish gelatine or Isinglass used as fining agent in beer and wine
 
 ## Slide 173
 
 ![Slide 173](food_law_slides/slide_173.png)
 
-5. Peanuts and products thereof;
-6. Soybeans and products thereof, except:
-    a. fully refined soybean oil and fat (1);
-    b. natural mixed tocopherols (E306), natural D-alpha tocopherol, natural D-
+### Details of Allergens b)
 
-Details of
+5. Peanuts and products thereof
+6. Soybeans and products thereof, except:
+    - a) fully refined soybean oil and fat (1)
+    - b) natural mixed tocopherols (E306), natural D-alpha tocopherol, natural D-
+
                             alpha tocopherol acetate, and natural D-alpha tocopherol succinate from
                             soybean sources;
-    c. vegetable oils derived phytosterols and phytosterol esters from soybean
-                            sources;
+    - c) vegetable oils derived phytosterols and phytosterol esters from soybean sources
 
-Allergens
-    d. plant stanol ester produced from vegetable oil sterols from soybean
-                            sources;
+    - d) plant stanol ester produced from vegetable oil sterols from soybean sources
 7. Milk and products thereof (including lactose), except:
-    a. whey used for making alcoholic distillates including ethyl alcohol of
+    - a) whey used for making alcoholic distillates including ethyl alcohol of
 
 cont.        8.
-                  b)
                             agricultural origin;
                             lactitol;
                        Nuts, namely: almonds (Amygdalus communis L.), hazelnuts (Corylus avellana),
@@ -2631,105 +2548,88 @@ cont.        8.
 
 ![Slide 174](food_law_slides/slide_174.png)
 
-9. Celery and products thereof;
-10. Mustard and products thereof;
-11. Sesame seeds and products thereof;
-Details of   12. Sulphur dioxide and sulphites at
-                 concentrations of more than 10mg/kg or
-Allergens        10mg/litre in terms of the total SO2 which
-                 are to be calculated for products as
-                 proposed ready for consumption or as
-cont.            reconstituted according to the instructions
-                 of the manufacturers;
-13. Lupin and products thereof;
-14. Molluscs and products thereof.
+### Details of Allergens *(cont.)*
+
+9. **Celery** and products thereof
+10. **Mustard** and products thereof
+11. **Sesame seeds** and products thereof
+12. **Sulphur dioxide** and sulphites at concentrations of more than 10 mg/kg or 10 mg/litre in terms of the total SO₂, to be calculated for products as proposed ready for consumption or as reconstituted according to the instructions of the manufacturers
+13. **Lupin** and products thereof
+14. **Molluscs** and products thereof
 
 ## Slide 175
 
 ![Slide 175](food_law_slides/slide_175.png)
 
-### For cereals — containing gluten, — is it 'gluten' or the
+### For cereals cereal name that must be highlighted in the
 
-cereal name that
-must be
-highlighted in the
+containing gluten,
+is it 'gluten' or the
 list of ingredients?
 
 The cereal itself is considered the allergen and
 so must be highlighted e.g. wheat, oats, rye etc.
 Gluten may be placed in brackets after the name
-of the cereal.
+- f the cereal.
 
 ## Slide 176
 
 ![Slide 176](food_law_slides/slide_176.png)
 
-### When declaring nuts in the list of ingredients, — should the word 'nut' or the name of the nut be — highlighted?
+### Nuts
 
-1. The actual nut is considered the allergen so
-            this should be highlighted and not just the
-            word 'nut' e.g. hazelnut, almond etc.
-Nuts
-2. Pine nuts and coconuts are not considered
-            as being part of the category ‘nuts and
-            products thereof’ and so will not have to be
-            listed as an allergen. However, when used in
-            a food product, they must still be labelled in
-            the list of ingredients.
+**When declaring nuts in the list of ingredients, should the word 'nut' or the name of the nut be highlighted?**
+
+1. The **actual nut** is considered the allergen so this should be highlighted — **not** just the word 'nut' — e.g. hazelnut, almond etc.
+2. Pine nuts and coconuts are **not** considered as being part of the category 'nuts and products thereof' and so will not have to be listed as an allergen. However, when used in a food product, they must still be labelled in the list of ingredients.
 
 ## Slide 177
 
 ![Slide 177](food_law_slides/slide_177.png)
 
-### Pre-packaged foods
+### Pre-packaged foods and allergens       • Contains Box
 
 1. declare in the ingredients list
-                and
 
 How are         2.    emphasise through a TYPESET which clearly
                       distinguishes if from the rest of the ingredients for e.g.
                       means of font, style, background colour
 
-allergens       • Contains Box
-- The use of a ‘contains’ box or statement declaring, for
+    - The use of a ‘contains’ box or statement declaring, for
 
 identified on     example 'contains nuts', is no longer allowed. Allergenic
                   ingredients must now be declared and highlighted in the
                   list of ingredients only.
 
 labels?         • Non Pre-packaged foods
-- Since 13 December 2014, allergens must also be declared
-                  on non pre-packaged food e.g. restaurants, delis,
-                  canteens, takeaways, cafes, retail outlets etc.,
+    - Since 13 December 2014, allergens must also be declared
+    - n non pre-packaged food e.g. restaurants, delis, canteens, takeaways, cafes, retail outlets etc.,
 
 ## Slide 178
 
 ![Slide 178](food_law_slides/slide_178.png)
 
-### What is QUID? — ❑In certain circumstances, it is necessary to — state on the label, the quantity of an
+### Quantitative Ingredient Declaration (QUID)
 
-Quantitative    ingredient which is used in the manufacture or
-                preparation of a foodstuff.
-- % ingredient
-Ingredient        • next to the name of the food or
-- in the list of ingredients
-Declaration    ❑QUID is designed to help consumers to
-                compare the composition of similar products
-(QUID)          on ingredients likely to influence their choice.
+**What is QUID?**
+In certain circumstances, it is necessary to state on the label the quantity of an ingredient which is used in the manufacture or preparation of a foodstuff.
+
+- % ingredient shown next to the name of the food, or in the list of ingredients
+- QUID is designed to help consumers compare the composition of similar products on ingredients likely to influence their choice
 
 ## Slide 179
 
 ![Slide 179](food_law_slides/slide_179.png)
 
-### QUID is — required — when
+### QUID is required when
 
 - The ingredient is included in the name of the food, e.g. cheese &
 
-onion quiche (cheese & onion must be quantified)
+- nion quiche (cheese & onion must be quantified)
 
 EXAMPLE:  Ingredients:  Whole milk, Pasteurised egg, Wheat flour,
 Cheese (15%), Onion (12%), Vegetable oil, Hydrogenated vegetable
-oil, Modified maize starch, Salt, Dextrose
+- il, Modified maize starch, Salt, Dextrose
 
 - The ingredient is associated with the name of the food such as
 
@@ -2745,29 +2645,13 @@ NOTE: a serving suggestion does not need a QUID
 
 ![Slide 180](food_law_slides/slide_180.png)
 
-1. A solid foodstuff is presented in a liquid medium (e.g. kidney
-                   beans in salt water). In such cases, the net weight and the
-                   drained net weight must be declared and the quantity of
-                   ingredient can be calculated from the weight indications
-                   already given
-2. Existing legislation already requires the quantity of an
-                   ingredient or category of ingredients in question to be indicated
+### QUID Is Not Required When:
 
-QUID is not        on the label. e.g. Council Directive 2001/112/EC on Fruit Juices
-                   and certain similar products requires the fruit content of a fruit
-                   nectar to be declared such that ‘fruit content: X % minimum’
-
-required      3.   A small quantity of an ingredient or category of ingredient, 2%
-                   or less at the mixing bowl stage, is used for flavouring (e.g.
-                   garlic in garlic bread)
-
-when…..
-4. An ingredient or category of ingredient is in the name of a
-                   food, but is in such a small quantity so as not to affect
-                   consumers’ purchasing decisions (e.g. ‘malt’ in malt whiskey)
-5. No ingredient or category of ingredient significantly
-                   predominates by weight such as in a mixture of fruit or
-                   vegetables.
+1. A **solid foodstuff is presented in a liquid medium** (e.g. kidney beans in salt water) — net weight and drained net weight must be declared; quantity of ingredient can be calculated from weight indications already given
+2. **Existing legislation** already requires the quantity to be indicated on the label (e.g. Council Directive 2001/112/EC on Fruit Juices requires: 'fruit content: X% minimum')
+3. A **small quantity** (2% or less at mixing bowl stage) of an ingredient or category of ingredient is used for flavouring (e.g. garlic in garlic bread)
+4. An ingredient is **in the name of a food** but is in such a small quantity as not to affect consumers' purchasing decisions (e.g. 'malt' in malt whiskey)
+5. **No ingredient significantly predominates** by weight, such as in a mixture of fruit or vegetables
 
 ## Slide 181
 
@@ -2784,53 +2668,49 @@ Calculating        such as cooking, the QUID declaration should
                    finished product.
 
 QUID          3.   The average quantity of the ingredient or category
-                   of ingredients must be stated (should generally be
-                   expressed as a percentage that has been rounded to
-                   the nearest whole number or to the nearest 0.5
-                   decimal place in those cases where it is below 5%).
+    - f ingredients must be stated (should generally be expressed as a percentage that has been rounded to the nearest whole number or to the nearest 0.5 decimal place in those cases where it is below 5%).
 
 ## Slide 182
 
 ![Slide 182](food_law_slides/slide_182.png)
 
-### Example of Quid — Name of Product:                Butter Cookie
+### Example of QUID — **Butter** Cookie
 
-Ingredient                                                    Links to more examples:
-                                   Weight in
-                                     grams
-                                                              https://www.food.gov.uk/sites/default/files/multi
-Flour                                     100                 media/pdfs/quid.pdf
-Sugar                                      35
-Butter                                     50                 https://www.fsai.ie/faqs/quid.html
-Eggs                                       10
-Total Weight (at mixing bowl)             195
+| Ingredient | Weight (g) |
+|---|---|
+| Flour | 100 |
+| Sugar | 35 |
+| **Butter** | **50** |
+| Eggs | 10 |
+| **Total Weight (at mixing bowl)** | **195** |
+| Total Weight (after baking) | 169 |
 
-Total Weight (after baking)               169
+**Formula for QUID:** 50 ÷ 169 × 100 = **30%**
 
-Formula for Quid                     50         x 100 = 30%
-                                    169
+*(Butter is declared as 30% because the product loses moisture during baking — the denominator is the finished product weight, not the mixing bowl weight.)*
 
 ## Slide 183
 
 ![Slide 183](food_law_slides/slide_183.png)
 
-- Ingredients at mixing bowl stage:
-                 Minced beef 300g
-                 Kidney beans 200g
-                 Tomatoes 500g
-                 Onion 50g
-                 Celery 20g
-Chilli con       Garlic 20g
-                 Spices 5g
-                 Black pepper 3g
+### Chilli con Carne Recipe — QUID Exercise
 
-Carne Recipe     Salt 2g
+**Ingredients at mixing bowl stage:**
 
-                   Total weight 1100g
+| Ingredient | Weight (g) |
+|---|---|
+| Minced beef | 300 |
+| Kidney beans | 200 |
+| Tomatoes | 500 |
+| Onion | 50 |
+| Celery | 20 |
+| Garlic | 20 |
+| Spices | 5 |
+| Black pepper | 3 |
+| Salt | 2 |
+| **Total weight** | **1100** |
 
-                   Assume 10% loss of moisture during cooking?
-- 
-                   Calculate the QUID?
+Assume **10% loss of moisture during cooking**. Calculate the QUID for each ingredient.
 
 ## Slide 184
 
@@ -2839,33 +2719,25 @@ Carne Recipe     Salt 2g
 ### Net Quantity
 
 - Weight or volume
-
 - Metric (L/ml, Kg/g)
+- Imperial (lb/oz allowed until December 2009 — in addition to metric)
 
-- Imperial (lb/oz allowed until December 2009 - in addition
+**Exceptions** (net quantity declaration not required):
 
-to metric)
-
-Exceptions e.g.:
-
-- Multipacks (can/can’t be sold individually)
+- Multipacks (that can/cannot be sold individually)
 - Foods normally sold by number
-- Less than 5g/ml (except herbs and spices)
-- Sugar/confectionary/chocolate products <50g
+- Less than 5 g/ml (except herbs and spices)
+- Sugar/confectionery/chocolate products <50 g
 
-- E-mark
-
-- Average quantity (individual units may vary slightly)
+**E-mark:** Average quantity (individual units may vary slightly)
 
 ## Slide 185
 
 ![Slide 185](food_law_slides/slide_185.png)
 
-### Date of minimum durability
+### Date of Minimum Durability
 
-Regulation 1169/2011 requires that the shelf-life of a foodstuff be
-indicated by either a date of minimum durability (‘best before’) or a
-‘use by’ date.
+Regulation 1169/2011 requires that the shelf-life of a foodstuff be indicated by either a date of minimum durability ('best before') or a 'use by' date.
 
 But what is the difference between "Best Before" and "Use By"?
 
@@ -2873,18 +2745,17 @@ But what is the difference between "Best Before" and "Use By"?
 
 ![Slide 186](food_law_slides/slide_186.png)
 
-### ‘Best before’ date — Non-perishable foods, long shelf-life — e.g. dry pasta, biscuits, frozen foods
+### ‘Best before’ date ‘Use by’ date danger to human health durability
 
-‘Use by’ date
+Non-perishable foods, long shelf-life
+             e.g. dry pasta, biscuits, frozen foods
 
 Date of      From a microbiological point of view are highly perishable
              and likely after a short period to constitute an immediate
-             danger to human health
 
 minimum      e.g. foods with a short shelf-life that require refrigeration
              fall into this category, such as milk, minced meat, fish,
 
-durability
              and ready-to eat salads.
 
              Derogations, e.g. chewing gum, vinegar, bakery products
@@ -2894,29 +2765,13 @@ durability
 
 ![Slide 187](food_law_slides/slide_187.png)
 
-- Shelf-life is the period of time during which a food maintains its
-                acceptable or desirable characteristics under specified storage and
-                handling conditions – which can relate to the safety or quality of
-                the product and can be microbiological, chemical or physical in
-                nature.
+### Shelf Life: Best Before and Use By
 
-Shelf Life:   1.    BEST BEFORE The date of minimum durability, or ‘best before’
-                    date, is the date until which a foodstuff retains its specific
-                    properties e.g. taste, aroma, appearance, any specific qualities
+**Shelf-life** is the period of time during which a food maintains its acceptable or desirable characteristics under specified storage and handling conditions — which can relate to the safety or quality of the product and can be microbiological, chemical or physical in nature.
 
-Best Before         which relate to the product, vitamin content etc. when the
-                    product has been stored appropriately and the package
-                    unopened. Typically, a ‘best before’ date is used for food
-                    products such as canned, dried, ambient, frozen foods etc.
+1. **BEST BEFORE** — The date of minimum durability, or 'best before' date, is the date until which a foodstuff retains its specific properties e.g. taste, aroma, appearance, any specific qualities which relate to the product, vitamin content etc. when the product has been stored appropriately and the package unopened. Typically used for canned, dried, ambient, frozen foods etc. Many foods past their 'best before' date may be safe to eat, but their quality may have deteriorated.
 
-and Use By    2.
-                    Many foods that are past their ‘best before’ date may be safe to
-                    eat, but their quality may have deteriorated.
-                    USE BY In the case of foods, which from a microbiological point
-                    of view, are highly perishable and are therefore likely after a
-                    short period to constitute an immediate danger to human
-                    health, the date of minimum durability must be replaced by the
-                    ‘use by’ date.
+2. **USE BY** — In the case of foods which, from a microbiological point of view, are highly perishable and are therefore likely after a short period to constitute an immediate danger to human health, the date of minimum durability must be replaced by the 'use by' date.
 
 ## Slide 188
 
@@ -2924,38 +2779,30 @@ and Use By    2.
 
 ### Date Declaration
 
-Use by – day, month, optionally year
+**Use by** — day, month, optionally year
 
-Best before – short or long shelf life
+**Best before** — short or long shelf life:
 
-1.
+1. < 3 months: Day, Month — e.g. *Best Before: 5th May*
+2. 3–18 months: End Month, Year — e.g. *Best before: End August, 2008*
+3. > 18 months: End Year — e.g. *Best before: End 2010*
 
-2.
-
-3.
-
-< 3 months: Day, Month e.g. Best Before: 5th
-May
-
-3-18 months: End Month, Year e.g. Best before:
-End August, 2008
-
-> 18 months: End Year e.g. Best before: End 2010
-
-Reference to where the date can be given on the
-label – see Lid
+Reference to where the date can be given on the label — see Lid
 
 ## Slide 189
 
 ![Slide 189](food_law_slides/slide_189.png)
 
-### Exemptions — ❑Fresh fruit and vegetables — ❑Wines
+### Date Marking — Exemptions
 
+The following foods are exempt from date marking requirements:
+
+- Fresh fruit and vegetables
+- Wines
 - Beverages > 10% alcohol
 - Bakery products
-Date marking   ❑Vinegar
-
-– Exemptions   ❑Cooking salt
+- Vinegar
+- Cooking salt
 - Solid sugar
 - Chewing gums
 
@@ -2963,20 +2810,19 @@ Date marking   ❑Vinegar
 
 ![Slide 190](food_law_slides/slide_190.png)
 
-### Date of minimum durability:
+### Minimum Durability — Some Changes
 
-- Individual portions of ice cream – no longer exempt
+**Date of minimum durability — changes:**
 
-Minimum        ❑ Soft drinks, fruit juices/nectars alcoholic beverages in
-                 containers of more than 5 litres - no longer exempt
-               Frozen meat, frozen meat preps & frozen unprocessed
-durability –   fishery products
-- date of freezing or
+- Individual portions of ice cream — **no longer exempt**
+- Soft drinks, fruit juices/nectars, alcoholic beverages in containers of more than 5 litres — **no longer exempt**
 
-some           ❑ date of first freezing where product has been frozen
-                 more than once ( with words “frozen on…..” )
-               ‘Use by’ date expired
-changes        ❑ Food considered unsafe - Reg 178/2002
+**Frozen meat, frozen meat preparations & frozen unprocessed fishery products** must now show:
+
+- Date of freezing, **or**
+- Date of first freezing where product has been frozen more than once (with words "frozen on….")
+
+**'Use by' date expired:** Food considered unsafe — Reg 178/2002
 
 ## Slide 191
 
@@ -2984,13 +2830,8 @@ changes        ❑ Food considered unsafe - Reg 178/2002
 
 ### EFSA Guidance
 
-- Guidance on date marking and related food information: part 1
-
-(date marking) - see page 32 for decision tree
-
-- Guidance on date marking and related food information: part 2
-
-(food information)
+- Guidance on date marking and related food information: **part 1** (date marking) — see page 32 for decision tree
+- Guidance on date marking and related food information: **part 2** (food information)
 
 ## Slide 192
 
@@ -3011,55 +2852,39 @@ and food waste prevention – Final report, Publications Office, 2018, https://d
 
 ![Slide 193](food_law_slides/slide_193.png)
 
-### Date use by or best before particulars must be — followed by a description of the storage — conditions which must be observed
+### Storage Instructions or Conditions of Use
 
-Storage         Enables consumer to maintain quality of
-                product, e.g.
-instructions    ❑‘refrigerate after opening’
-- ‘store in a cool dry place’
-or conditions   ❑‘keep refrigerated and use within 3 days of
-                 opening’.
-of use
+Date 'use by' or 'best before' particulars must be followed by a description of the storage conditions which must be observed.
+
+Enables consumer to **maintain quality** of product, e.g.:
+
+- 'refrigerate after opening'
+- 'store in a cool dry place'
+- 'keep refrigerated and use within 3 days of opening'
 
 ## Slide 194
 
 ![Slide 194](food_law_slides/slide_194.png)
 
-### ❑The FBO responsible for the food information — shall be the operator under whose name or — Name or              business name the food is marketed or, if that
+### Name or Business Name and Address of the Food Business Operator
 
-operator is not established in the EU, the
-business name        importer into the EU market.
-
-and address of      ❑Contact details must be precise enough to
-                     enable a complainant to contact.
-the food business
-operator            ❑Website address on its own is not acceptable.
+- The FBO responsible for the food information shall be the operator under whose name or business name the food is marketed, or, if that operator is not established in the EU, the importer into the EU market
+- Contact details must be precise enough to enable a complainant to contact
+- Website address on its own is **not acceptable**
 
 ## Slide 195
 
 ![Slide 195](food_law_slides/slide_195.png)
 
-1. Origin required where a failure to indicate it might mislead the
-                consumer to a material degree, in particular if information
-                accompanying the food or label as a whole would otherwise imply
-                that the food has a different country of origin or place of
-                provenance e.g. Consumers mislead through pictorial
-                representations such as a map or country national flag.
-2. Some specific food products have origin labelling
-1. A limited number of foods must provide country of origin
-                    information, e.g. fresh fruit and vegetables, honey, olive oil and
-                    fish.
+### Origin
 
-Origin        2.    Meat such as beef and beef products must indicate where the
-                    animal was born, raised and slaughtered. From 1 April 2015,
-                    meat from pigs, sheep, goats and poultry must indicate the EU
-                    Member State or the country outside the EU where the animal
-                    was reared and slaughtered (more detailed information on
-                    these requirements can be found in Regulation (EU) No
-                    1337/2013).
-3. Also quality scheme regulation applies to origin labelling for some
-                products e.g. beef
-         http://www.bordbia.ie/consumer/qualityassurance/Pages/default.aspx
+1. Origin required where a failure to indicate it might **mislead the consumer to a material degree** — in particular if information accompanying the food or label as a whole would otherwise imply that the food has a different country of origin or place of provenance (e.g. consumers misled through pictorial representations such as a map or country national flag)
+
+2. Some specific food products have mandatory origin labelling:
+    - A limited number of foods must provide country of origin information, e.g. fresh fruit and vegetables, honey, olive oil and fish
+    - Meat such as beef and beef products must indicate where the animal was born, raised and slaughtered. From 1 April 2015, meat from pigs, sheep, goats and poultry must indicate the EU Member State or the country outside the EU where the animal was reared and slaughtered (Regulation (EU) No 1337/2013)
+
+3. Quality scheme regulation also applies to origin labelling for some products e.g. beef
 
 ## Slide 196
 
@@ -3076,11 +2901,10 @@ e.g.  reheat, boil, mix, not suitable for frying.
 
 ![Slide 197](food_law_slides/slide_197.png)
 
-### Alcoholic beverages
+### Alcoholic beverages strength
 
 Alcoholic beverages > 1.2% of alcohol
 must indicate the actual alcoholic
-strength
 
 Directive 87/250/EEC.
 
@@ -3094,7 +2918,7 @@ Directive 87/250/EEC.
 
 ![Slide 199](food_law_slides/slide_199.png)
 
-### You will need to generate — nutritional information for you — NPD product.
+### You will need to generate nutritional information for you — NPD product.
 
 ## Slide 200
 
@@ -3106,144 +2930,92 @@ Directive 87/250/EEC.
 
 ![Slide 201](food_law_slides/slide_201.png)
 
-### Mandatory Nutrition Labelling — Per 100g/ml — Energy                        kJ/kcal
+### Mandatory Nutrition Labelling — Per 100g/mlEnergy                        kJ/kcal
 
 Fat                           g
-                    of which saturates         g
-                 Carbohydrate                  g
-                    of which sugars            g
-                 Protein                       g
-                 Salt                          g
+    - f which saturates         g Carbohydrate                  g
+    - f which sugars            g Protein                       g Salt                          g
 
 - Information must appear in this order.
-- Where appropriate, a statement indicating that the salt content is exclusively due to the presence of
-    naturally occurring sodium may appear in close proximity to the nutrition declaration. Salt is
-    calculated by mutiplying the sodium content by 2.5.
+- Where appropriate, a statement indicating that the salt content is exclusively due to the presence of naturally occurring sodium may appear in close proximity to the nutrition declaration. Salt is calculated by mutiplying the sodium content by 2.5.
 - Contains negligible amount of … if applicable (see EU guidance on agreed “negligible amounts”
 
 ## Slide 202
 
 ![Slide 202](food_law_slides/slide_202.png)
 
-### Supplementary                                                   Per 100g/ml
+### Supplementary Nutrition Information
 
-Information                        Energy
-                                   Fat
-                                                                kJ/kcal
-                                                                g
-                                     of which saturates         g
-                                              monounsaturates   g
- Note: This is a closed list and              polyunsaturates   g
- other nutrients cannot be
-                                   Carbohydrate                 g
- added. If a healthy/nutrient
- claim is authorised and             of which sugars
- applies to a ‘non listed’                    polyols
- nutrient/substance then the
-                                              starch            g
- amount must be declared
- near to the nutrient list e.g.    Fibre                        g
- Omega 3                           Protein                      g
-                                   Salt                         g
-                                   Vitamins and Minerals         Units specified in
-                                                                Annex XIII    and % RI
+Mandatory nutrients (green in slide): Energy, Fat, of which saturates, Carbohydrate, of which sugars, Protein, Salt.
+
+**Supplementary nutrients** (optional additions, declared per 100g/ml):
+
+| Nutrient | Notes |
+|---|---|
+| monounsaturates | Sub-category of Fat |
+| polyunsaturates | Sub-category of Fat |
+| polyols | Sub-category of Carbohydrate |
+| starch | Sub-category of Carbohydrate |
+| Fibre | Standalone |
+| Vitamins and Minerals | Units specified in Annex XIII; declared as % RI |
+
+> **Note:** This is a **closed list** — other nutrients cannot be added. If a healthy/nutrient claim is authorised and applies to a 'non-listed' nutrient/substance, the amount must be declared near the nutrient list e.g. Omega 3.
 
 ## Slide 203
 
 ![Slide 203](food_law_slides/slide_203.png)
 
-1. Unprocessed products that comprise a single ingredient
-                   or category of ingredients e.g. eggs, coffee and sugar
-2. Processed products which the only processing they
+### Exemptions from Nutrition Declaration
 
-Exemptions    3.
-                   have been subjected to is maturing and that comprise a
-                   single ingredient or category of ingredients
-                   Waters intended for human consumption, including
-
-from               those where the only added ingredients are carbon
-                   dioxide and/or flavourings
+1. Unprocessed products that comprise a single ingredient or category of ingredients e.g. eggs, coffee and sugar
+2. Processed products which the only processing they have been subjected to is maturing and that comprise a single ingredient or category of ingredients
+3. Waters intended for human consumption, including those where the only added ingredients are carbon dioxide and/or flavourings
 4. A herb, a spice or mixtures thereof
-nutrition     5.
-              6.
-                   Salt and salt substitutes
-                   Table top sweeteners
-
-declaration   7.   Products covered by Directive 1999/4/EC of the
-                   European Parliament and of the Council of 22 February
-                   1999 relating to coffee extracts and chicory extracts,
-                   whole or milled coffee beans and whole or milled
-                   decaffeinated coffee beans
+5. Salt and salt substitutes
+6. Table top sweeteners
+7. Products covered by Directive 1999/4/EC of the European Parliament and of the Council of 22 February 1999 relating to coffee extracts and chicory extracts, whole or milled coffee beans and whole or milled decaffeinated coffee beans
 
 ## Slide 204
 
 ![Slide 204](food_law_slides/slide_204.png)
 
-8. Herbal and fruit infusions, tea, decaffeinated tea, instant or soluble tea or tea extract,
-                   decaffeinated instant or soluble tea or tea extract, which do not contain other added
-                   ingredients than flavourings which do not modify the nutritional value of the tea
+### Exemptions from Nutrition Declaration *(cont.)*
 
-9. Fermented vinegars and substitutes for vinegar, including those where the only added
-                   ingredients are flavourings
-
+8. Herbal and fruit infusions, tea, decaffeinated tea, instant or soluble tea or tea extract, which do not contain other added ingredients than flavourings which do not modify the nutritional value of the tea
+9. Fermented vinegars and substitutes for vinegar, including those where the only added ingredients are flavourings
 10. Flavourings
-
 11. Food additives
-
 12. Processing aids
-
-Exemptions   13.
-
-             14.
-
-             15.
-                   Food enzymes
-
-                   Gelatine
-
-                   Jam setting compounds
-
-continued    16.
-
-             17.
-
-             18.
-                   Yeast
-
-                   Chewing-gums
-
-                   Food in packaging or containers the largest surface of which has an area of less than 25
-                   cm2
-
-19. Food, including handcrafted food, directly supplied by the manufacturer of small
-                   quantities of products to the final consumer or to local retail establishments directly
-                   supplying the final consumer
-
+13. Food enzymes
+14. Gelatine
+15. Jam setting compounds
+16. Yeast
+17. Chewing-gums
+18. Food in packaging or containers the largest surface of which has an area of less than 25 cm²
+19. Food, including handcrafted food, directly supplied by the manufacturer of small quantities of products to the final consumer or to local retail establishments directly supplying the final consumer
 20. Beverages containing more than 1.2% by volume of alcohol
 
 ## Slide 205
 
 ![Slide 205](food_law_slides/slide_205.png)
 
-### Nutrition     Where the labelling of a prepacked food — provides the mandatory nutrition declaration, — the following information may be repeated:
+### information that may be
 
-information
-- (a)the energy value; or
-that may be
-- (b) the energy value together with the
-repeated        amounts of fat, saturates, sugars, and salt.
+Nutrition     Where the labelling of a prepacked food
+              provides the mandatory nutrition declaration,
+              the following information may be repeated:
+    - (a)the energy value; or
+    - (b) the energy value together with the repeated        amounts of fat, saturates, sugars, and salt.
 
 ## Slide 206
 
 ![Slide 206](food_law_slides/slide_206.png)
 
-### Inception Impact Assessment
+### Inception Impact Assessment labelling indications to certain products reduce food waste
 
 EU’s proposal for a revision of Regulation (EU) No 1169/2011 on the
 provision of food information to consumers.
 - a proposal for introducing a harmonised mandatory front-of-pack nutrition
-
-labelling
 
 - the setting of ‘nutrient profiles’ restricting promotion (via nutrition and
 
@@ -3251,11 +3023,7 @@ health claims on food labels) of foods which are high in fat, sugar and salt
 
 - consider proposing the extension of mandatory origin or provenance
 
-indications to certain products
-
 - revise the current EU rules on date marking (‘use-by’ and ‘best before’) to
-
-reduce food waste
 
 Read more here:  https://ec.europa.eu/info/law/better-regulation/have-
 your-say/initiatives/12749-Revision-of-food-information-to-consumers-
@@ -3281,22 +3049,19 @@ Deadline has passed:  25th March 2021
 
 ![Slide 208](food_law_slides/slide_208.png)
 
-### EU Consultation on Labelling
+### EU Consultation on Labelling say/initiatives/12749-Food-labelling- consultation_en
 
 https://ec.europa.eu/info/law/better-
 
                                           https://ec.europa.eu/info/law/better-                                                    regulation/have-your-
 
      Upcoming revisions to address                 regulation/have-your-
-                                                    say/initiatives/12749-Food-labelling-
 
   concerns for front-of-pack nutrition    say/initiatives/12749-Food-labelling-    revision-of-rules-on-information-
 
    labelling, origin labelling and date      revision-of-rules-on-information-                     provided-to-consumers/public-
 
                  marking.                     provided-to-consumers/public-                                                                                consultation_en
-
-                                                      consultation_en
 
 ## Slide 209
 
@@ -3330,11 +3095,9 @@ More on meat coming up.
 
 ![Slide 211](food_law_slides/slide_211.png)
 
-### Salt =Sodium Chloride
+### Salt =Sodium Chloride 1169/2011) you-eating prevention/nutrition/salt
 
 - Salt = Sodium x 2.5 (See Annex 1, Reg
-
-1169/2011)
 
 - Salt, not sodium is included in the nutrition
 
@@ -3343,17 +3106,12 @@ declaration  (Art. 30, Reg. 1169/2011)
 - How much salt are you eating?
 
 https://www.safefood.eu/How-much-salt-are-
-you-eating
 
-- EFSA have published draft reference values
-https://www.efsa.europa.eu/en/interactive-
-pages/drvs
+- EFSA have published draft reference values https://www.efsa.europa.eu/en/interactive-pages/drvs
 
 - EU Science Hub:
 
-https://ec.europa.eu/jrc/en/health-
-knowledge-gateway/promotion-
-prevention/nutrition/salt
+https://ec.europa.eu/jrc/en/health-knowledge-gateway/promotion-
 
 ## Slide 212
 
@@ -3376,34 +3134,28 @@ https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2019.5779
 
 ![Slide 213](food_law_slides/slide_213.png)
 
-### Where the labelling of a prepacked food — Front of Pack      provides the mandatory nutrition — declaration, the following information
+### Front of Pack Nutrition Information That May Be Repeated
 
-Nutrition          may be repeated:
+Where the labelling of a prepacked food provides the mandatory nutrition declaration, the following information may be repeated:
 
-information that
-may be repeated    (a)the energy value; or
-
-                   (b) the energy value together with the
-                   amounts of fat, saturates, sugars, and salt.
+- (a) the energy value; or
+- (b) the energy value together with the amounts of fat, saturates, sugars, and salt
 
 ## Slide 214
 
 ![Slide 214](food_law_slides/slide_214.png)
 
-### What about the traffic — light systems in use by — some manufacturers?
+### Traffic Light Systems — Discussion
 
-What do you think?
+*What about the traffic light systems in use by some manufacturers? What do you think?*
 
-                        See articles on
-                        Brightspace.
-
-Traffic Light Systems
+See articles on Brightspace.
 
 ## Slide 215
 
 ![Slide 215](food_law_slides/slide_215.png)
 
-### Allergen Labelling for loose — foods
+### Allergen Labelling for loose foods
 
 “In Ireland, national legislation stipulates that food allergen
 information for non-prepacked food must, as a minimum, be
@@ -3411,11 +3163,10 @@ provided in written format, but can also be provided verbally
 at any time. In certain circumstances, written food allergen
 information may need to be supplemented by verbal
 information, e.g. to assist people with vision impairment or
-other difficulties”.
+- ther difficulties”.
 
 FSAI Link:
-https://www.fsai.ie/legislation/food_legislation/food_informa
-tion_fic/allergens.html
+https://www.fsai.ie/legislation/food_legislation/food_information_fic/allergens.html
 
 ## Slide 216
 
@@ -3432,45 +3183,35 @@ Link to news article: https://www.bbc.com/news/business-45731201
 ![Slide 217](food_law_slides/slide_217.png)
 
 - Vegan – no legal definition
-- Artisan, Natural etc. – guidance only
-- Gluten Free – specific rules
-Voluntary   • Organic – specific rules
-Terms       • Free Range – specific rules
-- Organic – specific rules
-- Geographic Origin such as PDO, PGI –
-              specific rules
+    - Artisan, Natural etc. – guidance only
+    - Gluten Free – specific rules Voluntary   • Organic – specific rules Terms       • Free Range – specific rules
+    - Organic – specific rules
+    - Geographic Origin such as PDO, PGI – specific rules
 
 ## Slide 218
 
 ![Slide 218](food_law_slides/slide_218.png)
 
-### ❑No legal definition for the terms 'vegetarian' or 'vegan' — at European level — ❑Claims such as, 'suitable for vegetarians' or 'suitable for
+### Vegan & Vegetarian
 
-vegans' are subject to the general laws regarding
-              misleading information etc
- Vegan &     ❑These terms: ‘vegetarian’ and ‘vegan’ in food labelling
-              are used voluntarily by industry. Where these terms are
-Vegetarian    absent, consumers rely on the list of ingredients
-- Regulation 1169/2011 mandated that EU set which
-              foods are suitable for vegans and vegetarians (Article
-              36(3)(b) Regulation (EU) No 1169/2011).
-- Some more resources here.
+- No legal definition for the terms 'vegetarian' or 'vegan' at European level
+- Claims such as, 'suitable for vegetarians' or 'suitable for vegans' are subject to the general laws regarding misleading information etc.
+- These terms: 'vegetarian' and 'vegan' in food labelling are used voluntarily by industry. Where these terms are absent, consumers rely on the list of ingredients
+- Regulation 1169/2011 mandated that EU set which foods are suitable for vegans and vegetarians (Article 36(3)(b) Regulation (EU) No 1169/2011)
+- Some more resources — see Brightspace
 
 ## Slide 219
 
 ![Slide 219](food_law_slides/slide_219.png)
 
-- Food business operators should ensure that the
-              use of certain marketing terms is consistent
-              with the specific provisions laid by FSAI
-              Guidance Document 29
-1. Artisan
-Marketing   2. Farmhouse
-3. Traditional
-   Terms    4. Natural
+### Marketing Terms
 
-            https://www.fsai.ie/news_centre/press_releases/
-            marketing_terms_14052015.html
+Food business operators should ensure that the use of certain marketing terms is consistent with the specific provisions laid by **FSAI Guidance Document 29**:
+
+1. Artisan
+2. Farmhouse
+3. Traditional
+4. Natural
 
 ## Slide 220
 
@@ -3504,36 +3245,26 @@ price, then farmers and workers receive the market price.
 
 ![Slide 222](food_law_slides/slide_222.png)
 
-1. “gluten free” (gluten content not exceeding 20 mg/kg
-                    or 20ppm)
+### Labelling of Gluten Free
 
-1. “very low gluten” (gluten content above 20 up to 100
-                    mg/kg) or
+1. **"gluten free"** — gluten content not exceeding **20 mg/kg or 20 ppm**
+2. **"very low gluten"** — gluten content above 20 up to 100 mg/kg
 
-Labelling of   References:
-               COMMISSION IMPLEMENTING REGULATION (EU) No
-Gluten Free    828/2014 of 30 July 2014 on the requirements for the
-               provision of information to consumers on the absence or
-               reduced presence of gluten in food
-               And Article 36(3)(d) of Reg (EU) 1169/2011
+**References:**
+- Commission Implementing Regulation (EU) No 828/2014 of 30 July 2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in food
+- Article 36(3)(d) of Reg (EU) 1169/2011
 
 ## Slide 223
 
 ![Slide 223](food_law_slides/slide_223.png)
 
-### ❑Organic food is the product of an agricultural or aqua — cultural system of farming that places a strong emphasis — on environmental protection and animal welfare.
+### What is Organic Food?
 
-- Very specific EU and Irish legislation which sets out the
-                                             criteria.
-What is organic
-   food?                                    ❑Must be certified from one of the inspection bodies
-                                             designated by DAFM.
+- Organic food is the product of an agricultural or aqua cultural system of farming that places a strong emphasis on environmental protection and animal welfare
+- Very specific EU and Irish legislation which sets out the criteria
+- Must be certified from one of the inspection bodies designated by DAFM
 
-- https://www.agriculture.gov.ie/farmingsectors/organicfa
-                                              rming/organicproducerprocessorinformation/
-
-Ref: Council Regulation (EC) No 834/2007 of 28 June 2007 on organic production and labelling of organic products
-and repealing Regulation (EEC) No 2092/91 OJ L 189, 20.7.2007, p. 1–23
+*Ref: Council Regulation (EC) No 834/2007 of 28 June 2007 on organic production and labelling of organic products and repealing Regulation (EEC) No 2092/91, OJ L 189, 20.7.2007, p. 1–23*
 
 ## Slide 224
 
@@ -3556,8 +3287,7 @@ responsible for upholding the Organic standards as defined by the EU.
 
 The term ‘free range’ legally defined for two
 foods – eggs and poultry meat
-http://www.agriculture.gov.ie/media/migration/f
-armingsectors/poultry/guidelinesforfreerangepou
+http://www.agriculture.gov.ie/media/migration/farmingsectors/poultry/guidelinesforfreerangepou
 ltryproducersandslaughterhouses72010.pdf
 
 ## Slide 226
@@ -3572,7 +3302,7 @@ ltryproducersandslaughterhouses72010.pdf
 
 ![Slide 227](food_law_slides/slide_227.png)
 
-### Next Week - — Labelling — continued
+### Next Week Labelling continued
 
 ---
 
@@ -3610,19 +3340,11 @@ Date: 25th February 2026
 
 ![Slide 230](food_law_slides/slide_230.png)
 
-### Sustainable Cookbook & — Recipe Competition
+### Sustainable Cookbook & Recipe Competition
 
-- TU Dublin's Healthy Campus is once again
-collaborating with the School of Biological,
-Health and Sports Sciences in the creation
-of Volume 3 of the TU Dublin Sustainable
-Cookbook. Submissions are invited for
-recipes that are healthy, sustainable,
-quick, easy, and budget-friendly. There are
-great prizes to be won, and this is a great
-opportunity to feature your culinary
-flair. Closing date for submissions 27
-February.
+- TU Dublin's Healthy Campus is once again collaborating with the School of Biological, Health and Sports Sciences in the creation
+- f Volume 3 of the TU Dublin Sustainable Cookbook. Submissions are invited for recipes that are healthy, sustainable, quick, easy, and budget-friendly. There are great prizes to be won, and this is a great
+- pportunity to feature your culinary flair. Closing date for submissions 27 February.
 
 - Submit your recipe here
 
@@ -3630,62 +3352,29 @@ February.
 
 ![Slide 231](food_law_slides/slide_231.png)
 
-### TU Dublin is hosting the inaugural Student — Sustainability Research Conference on 31 March — 2026 at the East Quad Grangegorman.
+### TU Dublin — Student Sustainability Research Conference, 31 March 2026
 
-- 
+*(East Quad, Grangegorman)*
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-This conference is an opportunity for students of all
-disciplines and levels of study from across Ireland to share
-ideas and best practice for sustainability-related projects with
-each other and to take part in student led sustainability
-activities.
-
-If you have completed work or are working on research
-projects, this is a chance to present you findings and ideas to
-fellow students.
-
-Key details:
-
-Presentation will be short (approx 7 minutes) and in a format
-you think suitable.
-
-The Irish Journal of Social Economic and Environmental
-Sustainability will publish a set of abstracts and summaries of
-the work presented at the conference.
-
-The morning is dedicated to presentations while in the
-afternoon the focus will be on activities.
-
-The Career Development Centre of TU Dublin will be
-providing information on careers opportunities in
-sustainability.
-
-To apply, please fill out this form
+- This conference is an opportunity for students of all disciplines and levels of study from across Ireland to share ideas and best practice for sustainability-related projects with each other and to take part in student led sustainability activities.
+- If you have completed work or are working on research projects, this is a chance to present your findings and ideas to fellow students.
+- **Key details:**
+- Presentation will be short (approx 7 minutes) and in a format you think suitable.
+- The Irish Journal of Social Economic and Environmental Sustainability will publish a set of abstracts and summaries of the work presented at the conference.
+- The morning is dedicated to presentations while in the afternoon the focus will be on activities.
+- The Career Development Centre of TU Dublin will be providing information on careers opportunities in sustainability.
+- To apply, please fill out this form
 
 ## Slide 232
 
 ![Slide 232](food_law_slides/slide_232.png)
 
-### Can you find your way around — an EU Regulation?
+### Lecture FAQs and AOB
+
+Can you find your way around
+          an EU Regulation?
 
 Today’s   Health and Nutrition Claims
-Lecture
-
-          FAQs and AOB
 
 ## Slide 233
 
@@ -3704,6 +3393,8 @@ https://www.fsai.ie/food_businesses/food_safety_training/online.html
 
 ![Slide 234](food_law_slides/slide_234.png)
 
+### 12 Mandatory use
+
 1. Name of the food *
 2. List of ingredients
 3. Allergens/intolerances
@@ -3713,8 +3404,6 @@ https://www.fsai.ie/food_businesses/food_safety_training/online.html
 Last week:     6. Date of minimum durability or use by date
 7. Any special storage conditions and/or conditions of
 
-12 Mandatory
-                  use
 8. Name or business name and address of the FBO
 
 requirements   9. Country of origin
@@ -3734,7 +3423,7 @@ requirements   9. Country of origin
 
 ![Slide 236](food_law_slides/slide_236.png)
 
-### EU Food Labelling — System (FLIS)
+### EU Food Labelling System (FLIS) information-
 
 - The Food Labelling Information System provides a user friendly IT
 
@@ -3745,7 +3434,6 @@ existing guidance documents:
 
 - https://ec.europa.eu/food/safety/labelling_nutrition/food-labelling-
 
-information-
 system_en#:~:text=The%20Food%20Labelling%20Information%20Sys
 tem,provisions%20and%20existing%20guidance%20documents.
 
@@ -3766,15 +3454,12 @@ Where can you find a published copy of this?
 
 ### How to reference EU legislation?
 
-- You should cite regulations by including the legislation type, number
-and title, followed by publication details in the Official Journal (OJ).
+- You should cite regulations by including the legislation type, number and title, followed by publication details in the Official Journal (OJ).
 - This can be very confusing as the numbering system has evolved over
 
 time and there is more than one European institution involved.
 
-- In the list of references/bibliography, the title of legislation should be
-cited exactly, capitalisation unaltered regardless of the referencing
-style.
+- In the list of references/bibliography, the title of legislation should be cited exactly, capitalisation unaltered regardless of the referencing style.
 
 - On the following slide, there is an example of the full title (sometimes
 
@@ -3784,24 +3469,24 @@ called long-title).
 
 ![Slide 239](food_law_slides/slide_239.png)
 
-### Author (Date) = European Parliament & Council (2011), — followed by the full title and then the Official Journal details and date
+### Author (Date) = European Parliament & Council (2011),
+
+followed by the full title and then the Official Journal details and date
 
 Regulation (EU) No 1169/2011 of the European Parliament
 and of the Council of 25 October 2011 on the provision of food
 information to consumers, amending Regulations (EC)
 No 1924/2006 and (EC) No 1925/2006 of the European Parliament and
-of the Council, and repealing Commission Directive 87/250/EEC, Council
-Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive
-2000/13/EC of the European Parliament and of the Council,
-Commission Directives 2002/67/EC and 2008/5/EC and Commission
-Regulation (EC) No 608/2004 Text with EEA relevance, OJ L 304,
-22.11.2011, p. 18–63
+- f the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance, OJ L 304, 22.11.2011, p. 18–63
 
 ## Slide 240
 
 ![Slide 240](food_law_slides/slide_240.png)
 
-### If you wish for clarity, you can include the following details:  Consoldiated — version accessed online [date]: https://eur-lex.europa.eu/legal- — content/EN/TXT/?uri=CELEX%3A02011R1169-20180101
+### If you wish for clarity, you can include the following details:  Consoldiated
+
+version accessed online [date]: https://eur-lex.europa.eu/legal-
+content/EN/TXT/?uri=CELEX%3A02011R1169-20180101
 
 - Please note that the consolidated version always states at the beginning:
 
@@ -3824,12 +3509,9 @@ which can be very informative.
 
 ![Slide 241](food_law_slides/slide_241.png)
 
-### For in-text citation, you can use the short title:
+### Regulation (EU) No 1169/2011 Or Regulation (EC) No 178/2002
 
-Regulation (EU) No 1169/2011
-
-Or
-Regulation (EC) No 178/2002
+For in-text citation, you can use the short title:
 
 Note: The abbreviation EC refers to European Communities which
 ceased on 1.12.99.  It is now known as EU (European Union) now.
@@ -3878,9 +3560,7 @@ claims.
 ### What is “Food — Information”?
 
 - Article 2.2(a)
-- “… information concerning a food and made available to the final consumer
-                  by means of a label, other accompanying material, or any other means
-                  including modern technology tools or verbal communication “
+    - “… information concerning a food and made available to the final consumer by means of a label, other accompanying material, or any other means including modern technology tools or verbal communication “
 
 ## Slide 245
 
@@ -3897,95 +3577,64 @@ purchasing food.
 
 ![Slide 246](food_law_slides/slide_246.png)
 
-1. As to characteristics of the food and, in particular, as
-                   to its nature, identity, properties, composition,
-                   quantity, durability, country of origin or place of
-                   provenance, method of manufacture or production
+### Food Information Must Not Be Misleading
 
-    Food      2.   By attributing to the food effects or properties which
-                   it does not possess e.g. weight loosing capabilities
-information
-must not be   3.   By suggesting that the food possesses special
-                   characteristics when in fact all similar food possess
- misleading        such characteristics, in particular by specifically
-                   emphasising the presence or absence of certain
-                   ingredients and /or nutrients e.g. oranges containing
-                   Vitamin C
+Food information must not be misleading:
+
+1. As to **characteristics** of the food and, in particular, as to its nature, identity, properties, composition, quantity, durability, country of origin or place of provenance, method of manufacture or production
+2. By attributing to the food **effects or properties which it does not possess** e.g. weight losing capabilities
+3. By suggesting that the food possesses **special characteristics** when in fact **all similar food** possess such characteristics, in particular by specifically emphasising the presence or absence of certain ingredients and/or nutrients e.g. oranges containing Vitamin C
 
 ## Slide 247
 
 ![Slide 247](food_law_slides/slide_247.png)
 
-4. by suggesting, by means of the appearance, the
-                   description or pictorial representations, the presence
-                   of a particular food or an ingredient, while in reality a
-                   component naturally present or an ingredient
-                   normally used in that food has been substituted with
-    Food           a different component or a different ingredient.
+### Food Information Must Not Be Misleading *(cont.)*
 
-information   All of the above apply to:
-must not be   ❑Advertising
+4. By suggesting, by means of the appearance, the description or pictorial representations, the presence of a particular food or an ingredient, while in reality a **component naturally present** or an ingredient normally used in that food has been **substituted** with a different component or a different ingredient.
 
- misleading   ❑Presentation of foods, in particular their shape,
-               appearance or packaging, the packaging materials used,
-               the way in which they are arranged and the setting in
-               which they are displayed.
+**All of the above apply to:**
+
+- Advertising
+- Presentation of foods, in particular their shape, appearance or packaging, the packaging materials used, the way in which they are arranged and the setting in which they are displayed
 
 ## Slide 248
 
 ![Slide 248](food_law_slides/slide_248.png)
 
-### Per 100g/ml — Energy                                                  kJ/kcal — Fat                                                     g
+### Per 100g/ml Mandatory Nutrition
 
-Mandatory
-                       of which saturates                                   g
-Nutrition
- Labelling          Carbohydrate                                            g
-                       of which sugars                                      g
-                    Protein                                                 g
-                    Salt                                                    g
+Energy                                                  kJ/kcal
+                    Fat                                                     g
+    - f which saturates                                   g Labelling          Carbohydrate                                            g
+    - f which sugars                                      g Protein                                                 g Salt                                                    g
 
-- Information must appear in this order.
-- Where appropriate, a statement indicating that the salt content is exclusively due to the presence
-                 of naturally occurring sodium may appear in close proximity to the nutrition declaration. Salt is
-                 calculated by mutiplying the sodium content by 2.5.
-- Contains negligible amount of … if applicable (see EU guidance on agreed “negligible amounts”
+    - Information must appear in this order.
+    - Where appropriate, a statement indicating that the salt content is exclusively due to the presence
+    - f naturally occurring sodium may appear in close proximity to the nutrition declaration. Salt is calculated by mutiplying the sodium content by 2.5.
+    - Contains negligible amount of … if applicable (see EU guidance on agreed “negligible amounts”
 
 ## Slide 249
 
 ![Slide 249](food_law_slides/slide_249.png)
 
-### Per 100g/ml — Energy                        kJ/kcal
+### Per 100g/mlEnergy                        kJ/kcal
 
 Supplementary                       Fat
-                                       of which saturates
-                                                                  g
-                                                                  g
-Information                                     monounsaturates
-                                                polyunsaturates
-                                                                  g
-                                                                  g
+    - f which saturates g g Information                                     monounsaturates polyunsaturates g g
 - Note: This is a closed list and   Carbohydrate                  g
-other nutrients cannot be              of which sugars
-added. If a healthy/nutrient                    polyols
-claim is authorised and applies                 starch            g
-to a ‘non listed’
-nutrient/substance then the         Fibre                         g
-amount must be declared near        Protein                       g
-to the nutrient list e.g. Omega 3   Salt                          g
-                                    Vitamins and Minerals         Units specified   in Annex XIII   and % RI
+- ther nutrients cannot be              of which sugars added. If a healthy/nutrient                    polyols claim is authorised and applies                 starch            g to a ‘non listed’ nutrient/substance then the         Fibre                         g amount must be declared near        Protein                       g to the nutrient list e.g. Omega 3   Salt                          g Vitamins and Minerals         Units specified   in Annex XIII   and % RI
 
 ## Slide 250
 
 ![Slide 250](food_law_slides/slide_250.png)
 
-### Nutritional Labelling
+### Nutritional Labelling Nutrition information must be
 
 How must the information be
   What must appear in the nutrition
                                                       presented?
                declaration?
-                                            Nutrition information must be
    Information on the following must
                                           presented in a tabular format with
   be declared per 100g/ml of the final
@@ -4001,24 +3650,22 @@ How must the information be
 
 ![Slide 251](food_law_slides/slide_251.png)
 
-### Does the nutrition information have to be given per — 100g/ml only. — No, in addition to the amounts given per 100g/ml, other
+### Does the nutrition information have to be given per
 
-information can be provided voluntarily:
-- information can be given per portion or consumption
-Nutritional          unit provided the size and number of
-                     portions/consumption units are given. The portion or
- Labelling           unit used must be indicated in close proximity to the
-                     nutrition declaration.
-- the percentage Reference Intake (RI) value provided by
-                     the nutrients per 100g/ml of the product, and/or per
-                     portion/consumption unit, can also be given. RI values
-                     are listed in Annex XIII of the legislation.
+100g/ml only.
+              No, in addition to the amounts given per 100g/ml, other
+              information can be provided voluntarily:
+    - information can be given per portion or consumption Nutritional          unit provided the size and number of portions/consumption units are given. The portion or Labelling           unit used must be indicated in close proximity to the nutrition declaration.
+    - the percentage Reference Intake (RI) value provided by the nutrients per 100g/ml of the product, and/or per portion/consumption unit, can also be given. RI values are listed in Annex XIII of the legislation.
 
 ## Slide 252
 
 ![Slide 252](food_law_slides/slide_252.png)
 
-### Where the labelling of a prepacked food provides the — mandatory nutrition declaration, the following — information may be repeated:
+### Where the labelling of a prepacked food provides the
+
+mandatory nutrition declaration, the following
+                   information may be repeated:
 
 Front of Pack      (a)the energy value; or
 
@@ -4059,21 +3706,18 @@ https://ec.europa.eu/info/law/better-
 
 ![Slide 254](food_law_slides/slide_254.png)
 
-- Citizens’ (General Public) awareness of
-                      nutrition and health claims
-- Are citizens’ purchasing decisions influenced by
-                      nutrition and health claims
-FSAI Survey         • Do citizens think foods with nutrition and
-Unveils Irish         health claims are better
-- How familiar are consumers with Nutrition
-Attitudes to Food     declarations, logos, etc
+### FSAI Survey Unveils Irish Attitudes to Food Labelling (2009)
 
-Labelling           • If there is a claim, are they seeking additional
-                      info somewhere else on label?
-(2009) Here         • What information are consumers looking for?
+Survey questions covered:
+
+- Citizens' (General Public) awareness of nutrition and health claims
+- Are citizens' purchasing decisions influenced by nutrition and health claims?
+- Do citizens think foods with nutrition and health claims are better?
+- How familiar are consumers with Nutrition declarations, logos, etc.?
+- If there is a claim, are they seeking additional info somewhere else on label?
+- What information are consumers looking for?
 - What do they consider most important?
-- Opinion on Plant substances for which claim a
-                      health benefit
+- Opinion on plant substances for which a claim is made for a health benefit
 
 ## Slide 255
 
@@ -4085,12 +3729,7 @@ The legislation allows for various methods of calculating the nutrient values. I
 declared values in the nutrition table are average values and must be based on:
 - the manufacturer's analysis of the food
 - a calculation from the known or actual average values of the ingredients used; or
-- a calculation from generally established and accepted data
-Therefore, it is not mandatory to use a laboratory analysis and it may be possible for a food
-business operator to calculate the values themselves depending on the type of product. This
-could be done, for example, using nutrition information from suppliers, nutrition information on
-the label of the ingredients or using food composition tables, such as McCance and Widdowson
-and/or software based on this.
+- a calculation from generally established and accepted data Therefore, it is not mandatory to use a laboratory analysis and it may be possible for a food business operator to calculate the values themselves depending on the type of product. This could be done, for example, using nutrition information from suppliers, nutrition information on the label of the ingredients or using food composition tables, such as McCance and Widdowson and/or software based on this.
 
 See FAQs also!
 
@@ -4098,37 +3737,36 @@ See FAQs also!
 
 ![Slide 256](food_law_slides/slide_256.png)
 
-- EU Regulation 1169/2011
-- Provided Reference Intakes (RIs) for adults only
-              – see Annex XIII to the regulation
-- unless a Member State implements a
-Reference         national measure for “specific population
-                  groups”
-    Intake   ❑See FSAI: Healthy Eating and Active Living for
-              Adults, Teenagers and Children over 5 years
+### Reference Intake
 
-             http://referenceintakes.eu/reference-values.html
+- EU Regulation 1169/2011
+- Provided Reference Intakes (RIs) for adults only — see Annex XIII to the regulation
+    - unless a Member State implements a national measure for "specific population groups"
+- See FSAI: *Healthy Eating and Active Living for Adults, Teenagers and Children over 5 years*
 
 ## Slide 257
 
 ![Slide 257](food_law_slides/slide_257.png)
 
-### Nutrition and — Health Claims
+### Nutrition and Health Claims
+
+*(Section divider — diagram shows structure of EU Regulation 1924/2006: Nutrition Claims + Health Claims divided into Function Claims [Article 13.1, 13.5] and Reduction of Disease Risk Claims [Article 14]. See slide image.)*
 
 ## Slide 258
 
 ![Slide 258](food_law_slides/slide_258.png)
 
-### What is a — claim?
+### What is a which is not mandatory
+
+claim?
 
 Any message or representation,
-which is not mandatory
 
 ## Slide 259
 
 ![Slide 259](food_law_slides/slide_259.png)
 
-### Nutrition Claims
+### Nutrition Claims ELEX%3A32006R1924 ELEX%3A32006R1924
 
 Link to legislation:
   Regulation               https://eur-
@@ -4140,14 +3778,13 @@ Link to legislation:
   1924/2006    content/en/ALL/?uri=C
                content/en/ALL/?uri=C
 
-                ELEX%3A32006R1924
-                ELEX%3A32006R1924
-
 ## Slide 260
 
 ![Slide 260](food_law_slides/slide_260.png)
 
-### FSAI (2021) — Guidance Note “Information on — Nutrition and Health Claims”:
+### FSAI (2021) Guidance Note “Information on
+
+Nutrition and Health Claims”:
 
 - More information here.
 
@@ -4165,24 +3802,23 @@ What are nutrients?
 
 ![Slide 262](food_law_slides/slide_262.png)
 
-### Nutrients — (Macro and Micro) — Regulation No 1169/2011 defines
+### Nutrients (Macro and Micro) Regulation No 1169/2011 defines
 
 nutrient as:
-- Protein
-- Carbohydrate
-- Fat
-- Fibre
-- Sodium
-- Vitamins and minerals listed in point 1 of Part A
-                                        of Annex XIII to this Regulation (see page 9) and
-Example of a nutrition declaration.     substances which belong to or are components
-                                        of one of those categories
+    - Protein
+    - Carbohydrate
+    - Fat
+    - Fibre
+    - Sodium
+    - Vitamins and minerals listed in point 1 of Part A
+    - f Annex XIII to this Regulation (see page 9) and Example of a nutrition declaration.     substances which belong to or are components
+    - f one of those categories
 
 ## Slide 263
 
 ![Slide 263](food_law_slides/slide_263.png)
 
-### List of Nutrition — Claims — Annex of Regulation
+### List of Nutrition — ClaimsAnnex of Regulation
 
 This list is also on the
   1924/2006 (as amended)
@@ -4191,48 +3827,32 @@ lists the permitted nutrition
                                    claims on the European
 claims with their conditions
                                   Commission website here here.
-    of use (see handout).
+    - f use (see handout).
 
                   Note: Nutrition claims are
-                  only permitted if they are
-                    listed in the Annex of
-                      Regulation (EC) No
-                 1924/2006, last amended in
-                             2012.
+    - nly permitted if they are listed in the Annex of Regulation (EC) No 1924/2006, last amended in 2012.
 
 ## Slide 264
 
 ![Slide 264](food_law_slides/slide_264.png)
 
-### Why?
+### Why Nutrition Labelling?
 
 1. Consumer Protection
-
-2. Clear, accurate and
-substantiated
-
-3.
-
-Enables consumers to make
-informed and meaningful
-choices
-
-4. Allow fair competition between
-
-different food products
+2. Clear, accurate and substantiated — enables consumers to make informed and meaningful choices
+3. *(continued on slide — see image)*
+4. Allow fair competition between different food products
 
 ## Slide 265
 
 ![Slide 265](food_law_slides/slide_265.png)
 
-### Nutrition Claims
+### Nutrition Claims nutrients a food contains Source of Vitamin C
 
 Source of ... is the simplest type of claim about the
-nutrients a food contains
 - Protein
 - Carbohydrate
 - Fat
-                                 Source of Vitamin C
 - Fibre
 - Sodium
 - Vitamins & Minerals
@@ -4241,15 +3861,10 @@ nutrients a food contains
 
 ![Slide 266](food_law_slides/slide_266.png)
 
-### Nutrition Claims
+### Nutrition Claims Nutrition claims are lutein Regulation 1924/2006
 
-Nutrition claims are
-                             e.g. contains
- only permitted if they
-                          lycopene; contains
- are listed in Annex of
-                                 lutein
- Regulation 1924/2006
+e.g. contains
+- nly permitted if they lycopene; contains are listed in Annex of
 
 ## Slide 267
 
@@ -4272,22 +3887,23 @@ Product packaging examples (Irish market):
 
 ![Slide 269](food_law_slides/slide_269.png)
 
-### Vitamins &   Vitamins and minerals can — Minerals     only be added if listed in — FIC.
+### Vitamins &   Vitamins and minerals can
+
+Minerals     only be added if listed in
+             FIC.
 
 ## Slide 270
 
 ![Slide 270](food_law_slides/slide_270.png)
 
-### “Source of” Claims
+### “Source of” Claims 100ml*
 
 - Source of Vitamin C
 - Source of Iron
 
 For solid and liquid products* to claim ‘source
-of’, there must be at least 15% of the RI in
-100g/100ml* For beverages to claim ‘source
-of’, there must be at least 7.5% of the RI per
-100ml*
+- f’, there must be at least 15% of the RI in 100g/100ml* For beverages to claim ‘source
+- f’, there must be at least 7.5% of the RI per
 
 ## Slide 271
 
@@ -4319,18 +3935,15 @@ Product packaging examples — Vitamin D nutrition claims:
 
 ![Slide 274](food_law_slides/slide_274.png)
 
-### ‘Health claim’ means any claim that states, — suggests or implies that a relationship exists — between a food and health;
+### What is a Health Claim?
 
-‘Reduction of disease risk claim’ means any
-                                                             health claim that states, suggests or implies
-What is a Health Claim?                                      that the consumption of a food reduces a
-                                                             risk factor in the development of a disease
-Nutrition claim is regarding nutrient
-Health claim: is that the consumpotion of this food causes
-x effect in health
+*Note: Nutrition claim is regarding a nutrient; Health claim is that the consumption of this food causes X effect in health.*
 
-                                                             E.g. contains antioxidants, contains
-                                                             probiotics
+**'Health claim'** means any claim that states, suggests or implies that a relationship exists between a food and health.
+
+**'Reduction of disease risk claim'** means any health claim that states, suggests or implies that the consumption of a food reduces a risk factor in the development of a disease.
+
+E.g. contains antioxidants, contains probiotics.
 
 ## Slide 275
 
@@ -4350,9 +3963,8 @@ Specific health claims based on newly developed scientific evidence
 
 3. Article 14 claims:
 
-    a. Claims referring to reduction of disease risk
-    b. Claims referring to children’s development and health
-e.g. calcium is good for children’s growth
+    - a) Claims referring to reduction of disease risk
+    - b) Claims referring to children’s development and health e.g. calcium is good for children’s growth
 
 ## Slide 276
 
@@ -4368,29 +3980,16 @@ satiety or reduction of available energy from the diet.
 
 ![Slide 277](food_law_slides/slide_277.png)
 
-### Examples of Article 13 ‘general health’ claims — and conditions
+### Examples of Article 13 'General Health' Claims and Conditions
 
-- ‘Calcium is needed for the maintenance of normal teeth’
+- **'Calcium is needed for the maintenance of normal teeth'**
+    - This claim on calcium can be made on any food/food supplement which is at least a 'source of' calcium. This means it must contain a 'significant amount' (see table on page 9 for significant amounts).
 
-- This claim on calcium can be made on any food/food supplement which is at least a
-‘source of’ calcium.  This means it must contain a ‘significant amount’ (see table on
-page 9 for significant amounts).
+- **'Water contributes to the maintenance of normal regulation of the body's temperature'**
+    - This claim can be made only on water which complies with the Directive on the exploitation and marketing of natural mineral waters (2009/54/EC) and the Drinking Water Directive (98/83/EC). The product must clearly state that the effect is obtained when at least 2 litres of water (from all sources) is consumed per day.
 
-- ‘Water contributes to the maintenance of normal regulation of the body’s
-
-temperature’
-
-- This claim can be made only on water which complies with the Directive on the
-
-exploitation and marketing of natural mineral waters (2009/54/EC) and the Drinking
-Water Directive (98/83/EC). The product must clearly state that the effect is obtained
-when at least 2 litres of water (from all sources) is consumed per day.
-
-- ‘Oat grain fibre contributes to an increase in faecal bulk’
-
-- This claim can be made on foods containing oat grain fibre as long as the product
-meets the conditions for the nutrition claim ‘High fibre’ (i.e. the product must
-contain 6g fibre per 100g or at least 3g fibre per 100kcal)
+- **'Oat grain fibre contributes to an increase in faecal bulk'**
+    - This claim can be made on foods containing oat grain fibre as long as the product meets the conditions for the nutrition claim 'High fibre' (i.e. the product must contain 6g fibre per 100g or at least 3g fibre per 100kcal).
 
 ## Slide 278
 
@@ -4404,10 +4003,7 @@ evidence and/or containing proprietary data protected from unfair use.
 
 in faecal bulk
 
-- Conditions of use of the claim / Restriction of use / Reasons for non-
-authorisation:  The claim may be used only for food which is high in
-that fibre as referred to in the claim HIGH FIBRE as listed in the Annex
-to Regulation (EC) No 1924/2006
+- Conditions of use of the claim / Restriction of use / Reasons for non- authorisation:  The claim may be used only for food which is high in that fibre as referred to in the claim HIGH FIBRE as listed in the Annex to Regulation (EC) No 1924/2006
 
 ## Slide 279
 
@@ -4422,36 +4018,23 @@ health
 
 ![Slide 280](food_law_slides/slide_280.png)
 
-### Examples of Article 14.1.a claims and — conditions
+### Examples of Article 14.1.a Claims and Conditions
 
-- Example of a Claim:  Calcium helps to reduce the loss of bone mineral
-in post-menopausal women. Low bone mineral density is a risk factor
-for osteoporotic bone fractures
+- **Example of a Claim:** Calcium helps to reduce the loss of bone mineral in post-menopausal women. Low bone mineral density is a risk factor for osteoporotic bone fractures.
 
-- Conditions of use of the claim / Restriction of use / Reasons for non-
-authorisation:  The claim may be used only for food which provides at
-least 400 mg of calcium per quantified portion. Information shall be
-given to the consumer that the claim is specifically intended for
-women 50 years and older and the beneficial effect is obtained with a
-daily intake of at least 1 200 mg of calcium from all sources. For foods
-with added calcium the claim may be used only for those targeting
-women 50 years and older
+- **Conditions of use / Restriction of use / Reasons for non-authorisation:** The claim may be used only for food which provides at least 400 mg of calcium per quantified portion. Information shall be given to the consumer that the claim is specifically intended for women 50 years and older and the beneficial effect is obtained with a daily intake of at least 1,200 mg of calcium from all sources. For foods with added calcium the claim may be used only for those targeting women 50 years and older.
 
 ## Slide 281
 
 ![Slide 281](food_law_slides/slide_281.png)
 
-### Examples of Article 14.1.d claims and — conditions
+### Examples of Article 14.1.d claims and conditions
 
 - Claim:  Calcium and vitamin D are needed for normal growth and
 
 development of bone in children
 
-- Conditions of use of the claim / Restriction of use / Reasons for non-
-authorisation:  The claim can be used only for food which is at least a
-source of calcium and vitamin D as referred to in the claim SOURCE
-OF [NAME OF VITAMIN/S] AND/OR [NAME OF MINERAL/S] as listed in
-the Annex to Regulation 1924/2006.
+- Conditions of use of the claim / Restriction of use / Reasons for non- authorisation:  The claim can be used only for food which is at least a source of calcium and vitamin D as referred to in the claim SOURCE OF [NAME OF VITAMIN/S] AND/OR [NAME OF MINERAL/S] as listed in the Annex to Regulation 1924/2006.
 
 ## Slide 282
 
@@ -4463,9 +4046,11 @@ the Annex to Regulation 1924/2006.
 
 ![Slide 283](food_law_slides/slide_283.png)
 
-### Is ‘contains — antioxidants’ a   Yes. If in the naming of the 'substance' or 'category of — substances' there is a description or indication of a
+### Is ‘contains
 
-health claim?    functionality or effect on health the 'contain claim' is a health
+antioxidants’ a   Yes. If in the naming of the 'substance' or 'category of
+                  substances' there is a description or indication of a
+ health claim?    functionality or effect on health the 'contain claim' is a health
                   claim. In other words if the function is mentioned - even in
                   the naming of a substance or substances - this relates to a
                   health claim.
@@ -4476,12 +4061,9 @@ health claim?    functionality or effect on health the 'contain claim' is a heal
 
 ### What does it mean?
 
-- It refers to probiotic bacteria which are live
-              microorganisms which may provide a health benefit in
-              humans when consumed
-- The term ‘probiotic’, when used on a food label, is
-Probiotic     considered to be a health claim.
-- There are no approved health claims for probiotics.
+- It refers to probiotic bacteria which are live microorganisms which may provide a health benefit in humans when consumed
+    - The term ‘probiotic’, when used on a food label, is Probiotic     considered to be a health claim.
+    - There are no approved health claims for probiotics.
 
             See this link and search for claims.
 
@@ -4489,26 +4071,21 @@ Probiotic     considered to be a health claim.
 
 ![Slide 285](food_law_slides/slide_285.png)
 
-### “Yes, you can give the name of the — bacteria in the list of ingredients. Under — food law the name of the microorganism
+### “Yes, you can give the name of the
 
-culture(s) the product contains is not
+bacteria in the list of ingredients. Under
+                           food law the name of the microorganism
+                           culture(s) the product contains is not
                            required to be listed in the list of
 Extract from FSAI FAQs     ingredients but manufacturers can
 Can I mention the name     choose to give this information
-of the bacteria on my      voluntarily. In the case of fermented milk
-label e.g. Lactobacillus   and cream products (which includes
-rhamnosus?                 yogurt), the only ingredients required by
-                           law (Article 19 (1)(d) of Regulation (EU)
-                           No. 1169/2011) to be listed are
-                           ingredients other than the lactic
-                           products, enzymes and microorganism
-                           culture essential to their manufacture”.
+- f the bacteria on my      voluntarily. In the case of fermented milk label e.g. Lactobacillus   and cream products (which includes rhamnosus?                 yogurt), the only ingredients required by law (Article 19 (1)(d) of Regulation (EU) No. 1169/2011) to be listed are ingredients other than the lactic products, enzymes and microorganism culture essential to their manufacture”.
 
 ## Slide 286
 
 ![Slide 286](food_law_slides/slide_286.png)
 
-### EU register of — health claims
+### EU register of health claims
 
 This list is on the Community Register of
 claims on the European Commission
@@ -4518,13 +4095,13 @@ website here.
 
 ![Slide 287](food_law_slides/slide_287.png)
 
-### Summary:  How to find out if you can make a — nutrition or health claim on your food product
+### Summary:  How to find out if you can make a
+
+nutrition or health claim on your food product
 
 1. Describe your food product
 
-    a. What nutrients are in your food product?
-b.
-c.
+    - a) What nutrients are in your food product? b. c.
 
 How much of each nutrient is present in 100g or 100ml of your food, as eaten?
 Is your food product high in total fat, saturated fat, trans fat, sugars and salt, so that when nutrient profiles
@@ -4565,28 +4142,11 @@ b.
 
 ### Nutrient Profiles
 
-- Nutrient profiling is the science of classifying or ranking foods according to their nutritional
-
-composition for reasons related to preventing disease and promoting health.
-
-- Nutrient profiling can be used for various applications, including marketing of foods to
-
-children, health and nutrition claims, product labelling logos or symbols, information and
-education, provision of food to public institutions … (WHO)
-
-- The term nutrient profile refers to the nutrient composition of a food or diet. The purpose
-of establishing nutrient profiles is to prevent the use of claims masking the true nature of
-food products, e.g. a lollipop claiming to be ‘low in fat’, or a milk bottle claiming to ‘boost
-the immune system’. It aims to prevent consumers from being misled where foods high in
-saturated fat, sugar or salt may be made to appear healthier than they actually are by
-being accompanied by a health or nutrition claim.
-
-- 
-
-Regulation 1924/2006/EC establishes permitted nutrition and health claims for use on foods sold in the EU as well as associat ed conditions of use and restrictions (if any).  As part of this legislation, nutrient profiles were to
-be established which would guide the use of NHC on food
-
-- See more here.
+- Nutrient profiling is the science of classifying or ranking foods according to their nutritional composition for reasons related to preventing disease and promoting health.
+- Nutrient profiling can be used for various applications, including marketing of foods to children, health and nutrition claims, product labelling logos or symbols, information and education, provision of food to public institutions … (WHO)
+- The term nutrient profile refers to the nutrient composition of a food or diet. The purpose of establishing nutrient profiles is to prevent the use of claims masking the true nature of food products, e.g. a lollipop claiming to be 'low in fat', or a milk bottle claiming to 'boost the immune system'. It aims to prevent consumers from being **misled** where foods high in saturated fat, sugar or salt may be made to appear healthier than they actually are by being accompanied by a health or nutrition claim.
+- Regulation 1924/2006/EC establishes permitted nutrition and health claims for use on foods sold in the EU as well as associated conditions of use and restrictions. As part of this legislation, nutrient profiles **were to be established** which would guide the use of NHC on food.
+- See more — see Brightspace
 
 ## Slide 290
 
@@ -4594,19 +4154,7 @@ be established which would guide the use of NHC on food
 
 ### HFSS
 
-- The Advertising Standards
-
-Authority for Ireland (ASAI), the
-independent self-regulatory body
-committed to promoting the
-highest standards of marketing
-communications in Ireland, has
-unveiled new rules relating to the
-advertising of High Fat, Salt and
-Sugar (HFSS) products which will
-be incorporated into the Food and
-Non-Alcoholic Beverages Section
-of the ASAI Code.  More here.
+The Advertising Standards Authority for Ireland (ASAI), the independent self-regulatory body committed to promoting the highest standards of marketing communications in Ireland, has unveiled new rules relating to the advertising of **High Fat, Salt and Sugar (HFSS)** products which will be incorporated into the Food and Non-Alcoholic Beverages Section of the ASAI Code.
 
 ## Slide 291
 
@@ -4623,89 +4171,48 @@ Find out more
 
 ### Nutrient Profiles
 
-- Nutrient profiling is the science of classifying or ranking foods depending
-on their nutrient composition.  They can help filter whether a food is
-allowed to make a claim or not.  They can help prevent misleading claims
-about food high in fat, sugar, salt or calories.
-
-- FoP nutrition labels which calculate the score of a food, either by colour or
-symbol, are based on nutrient profiles e.g. Numerical, colour code traffic
-light system, the Keyhole symbol, heart/health logos and Nutriscore.
-
-- Nutrient profiles are intended to help consumers make healthier food
-choices. Nutrient profiles are calculated by using maximum values for
-restricted nutrients such as sugar and saturated fat and sometimes use
-minimum values for promoted nutrients such as fibre.
-
-- Based on these calculations, the food is given an overall score or
-
-permitted to display a symbol. The nutrient profiling criteria can be
-applicable to all food categories or be specific to different food categories.
-As such, an explanation of the nutrient profiling criteria does not appear
-on labels. As well as informing FoP nutrition labelling, nutrient profiles
-have a variety of applications, including regulation of food marketing to
-children.
-
-- 
-
-In the EU, it is intended to use the concept of nutrient profiles to
-determine if a food can make a nutrition or health claim. The intention is
-to prevent a positive health message (either by way of a nutritio
+- Nutrient profiling is the science of classifying or ranking foods depending on their nutrient composition. They can help filter whether a food is allowed to make a claim or not. They can help prevent misleading claims about food high in fat, sugar, salt or calories.
+- FoP nutrition labels which calculate the score of a food, either by colour or symbol, are based on nutrient profiles e.g. **Numerical, colour code traffic light system, the Keyhole symbol, heart/health logos and Nutriscore**.
+- Nutrient profiles are intended to help consumers make healthier food choices. Nutrient profiles are calculated by using maximum values for restricted nutrients such as sugar and saturated fat and sometimes use minimum values for promoted nutrients such as fibre.
+- Based on these calculations, the food is given an overall score or permitted to display a symbol. The nutrient profiling criteria can be applicable to all food categories or be specific to different food categories. As such, an explanation of the nutrient profiling criteria does not appear on labels. As well as informing FoP nutrition labelling, nutrient profiles have a variety of applications, including regulation of food marketing to children.
+- In the EU, it is intended to use the concept of nutrient profiles to determine if a food can make a nutrition or health claim. The intention is to prevent a positive health message (either by way of a nutrition or health claim) from being made on foods high in fat, sugar or salt.
 
 ## Slide 293
 
 ![Slide 293](food_law_slides/slide_293.png)
 
-- Food products bearing claims should not be inherently
-                 “unhealthy”. This means that foods bearing claims
-                 should not have high levels of nutrients that need to be
-                 restricted to prevent chronic diseases, e.g. fat, saturated
+- Food products bearing claims should not be inherently “unhealthy”. This means that foods bearing claims should not have high levels of nutrients that need to be restricted to prevent chronic diseases, e.g. fat, saturated
 
 Note about       fatty acids, trans fatty acids, sugars and salt.
-- Rules setting “nutrient profiles” will establish healthy
-Nutrient         limits for different categories of foods. (Article 4 of
-                 Regulation 1924/2006)
-Profiles and   • In 2008, the European Food Safety Authority published
-                 an opinion on nutrient profiles (http://www.efsa.
+    - Rules setting “nutrient profiles” will establish healthy Nutrient         limits for different categories of foods. (Article 4 of Regulation 1924/2006) Profiles and   • In 2008, the European Food Safety Authority published an opinion on nutrient profiles (http://www.efsa.
 Claims           europa.eu/en/efsajournal/pub/644.htm).
-- Levels for nutrient profiles have yet to be established by
-                 the Commission and Member States. In the meantime, it
-                 is inadvisable to put claims on food products high in
-                 these nutrients, particularly saturated fat, sugar and salt.
+    - Levels for nutrient profiles have yet to be established by the Commission and Member States. In the meantime, it is inadvisable to put claims on food products high in these nutrients, particularly saturated fat, sugar and salt.
 
 ## Slide 294
 
 ![Slide 294](food_law_slides/slide_294.png)
 
-### FSAI Food Reformulation Voluntary Goals
+### More information
 
-More
-                                      information
+FSAI Food Reformulation Voluntary Goals
+
                                       here.
 
 ## Slide 295
 
 ![Slide 295](food_law_slides/slide_295.png)
 
-- Regulation (EU) No 1169/2011 of the European
-Parliamentand of the Council of 25 October 2011 on the provision of
-foodinformation to consumers
+- Regulation (EU) No 1169/2011 of the European Parliamentand of the Council of 25 October 2011 on the provision of foodinformation to consumers
 
 ## Slide 296
 
 ![Slide 296](food_law_slides/slide_296.png)
 
-### Two new Regulations
+### Two new Regulations made on foods 1924–2006 1925–2006 minerals
 
 Regulation 1924/2006 … nutrition and health claims
-made on foods
-
-                     1924–2006
-
-                                                                          1925–2006
 
                                                      Regulation 1925/2006 … addition of vitamins and
-                                                     minerals
 
 ## Slide 297
 
@@ -4741,126 +4248,59 @@ Committee procedure with Scrutiny by Regulation (EC) No 108/2008.
 
 ![Slide 299](food_law_slides/slide_299.png)
 
-### Nutrition Information under FIC*
+### Nutrition Information Under FIC* — Summary
 
-- A summary of what FBOs must include in a nutrition declaration and other information they
-                           may include on a voluntary basis
+*\* Regulation 1169/2011 on the provision of food information to consumers*
 
-                 The minimum mandatory                      The Mandatory Rules
-                 information that must be
+**Mandatory nutrition declaration** (must appear per 100g/ml):
+
+| Nutrient | Unit |
+|---|---|
+| Energy | kJ/kcal |
+| Fat | g |
+| — of which saturates | g |
+| Carbohydrate | g |
+| — of which sugars | g |
+| Protein | g |
+| Salt | g |
+
+**Supplementary nutrients** (optional additions, in this order): monounsaturates, polyunsaturates, polyols, starch, fibre, vitamins and minerals (Annex XIII, with % RI).
+
+**The Mandatory Rules:**
 - Nutrients must be set out in the order shown
-                         included
-                                                 in the table
-- Information must be given per 100g/ml of
-Typical values               Per 100g/ml         food
-- Energy must be given in the order of kJ/kcal
-Energy                         kJ/kcal
-- All other nutrients must be given in g
-Fat                               g            • If the energy value or a nutrient is present in
-  of which saturates              g              negligible amounts, the statement “contains
-Carbohydrates                     g              negligible amounts of …” must be in close
-  of which sugars                 g              proximity to the nutrition declaration
-- If a product contains no added salt, a
-Protein                           g
-                                                 statement indicating that the salt content is
-Salt                              g              exclusively due to the presence of naturally
-                                                 occurring sodium may appear in close
-                                                 proximity to the nutrition declaration
+- Information must be given per **100g/ml** of food
+- Energy in kJ/kcal; all other nutrients in g
+- If a nutrient is present in negligible amounts: state "contains negligible amounts of …" in close proximity
+- If no added salt: a statement that salt content is exclusively due to naturally occurring sodium may appear in close proximity
 
-                   The declaration can be                 The Supplementary Rules
-                 expanded by adding one or
-- The nutrients highlighted in red are the only
-                 more of the supplementary       ones that can be added to the declaration
-                          nutrients            • If added, they must be in the order shown;
-                                                 declaring one of the supplementary nutrients
-Typical values                Per 100g/ml
-                                                 does not mean you have to declare them all
-Energy                           kJ/kcal       • Vitamins and minerals can only be included if
-Fat                                 g            they are listed in Annex XIII of FIC and present
-  of which saturates                g            in significant amounts
-          monounsaturates           g          • Vitamins and minerals must be declared in
-          polyunsaturates           g            the units specified in Annex XIII and must
-Carbohydrates                       g            declare the percentage of the reference intake
-  of which sugars                   g            (%RI) per 100g
-          polyols                   g
-- Once the mandatory and supplementary
-          starch                    g            nutrients are declared, no other nutrients can
-Fibre                                 g          be added as it is now a closed list
-Protein                               g        • If authorised nutrition claims are made for
-Salt                                g            other nutrients, the amounts of those
-                             Units specified
-                                                 nutrients must be declared close to but not in
-Vitamins and minerals         in Annex XIII      the table
-                                and % RI
-
-          * Regulation 1169/2011 on the provision of food information to consumers
+**The Supplementary Rules:**
+- Only the supplementary nutrients listed in red (Annex) can be added; declaring one does not require declaring all
+- Vitamins and minerals: must be in Annex XIII, present in significant amounts, declared in specified units with % RI
+- Once mandatory + supplementary nutrients declared, no other nutrients can be added (closed list)
+- If authorised nutrition claims relate to other nutrients, their amounts must be declared **close to but not in** the table
 
 ## Slide 300
 
 ![Slide 300](food_law_slides/slide_300.png)
 
-### Extra information can be added           The Rules for Per Portion/Consumption — to the mandatory declaration in                            Unit
+### Nutrition Information Under FIC — Per Portion, %RI, and Front of Pack Rules
 
-- This information can be provided as well
-                       the form of per portion or
-                                                               of but not instead of per 100g/ml
-                     consumption unit and/or % RI            • The FBO is responsible for deciding the
-                                                               size of a portion/consumption unit
-Example of per portion/per consumption unit
-                           Per   Per portion *      Per      • If an FBO chooses to provide nutrition
- Typical values                                                information per portion, the pack must
-                          100g    (2 biscuits)   biscuit**
-                         2065kJ      640kJ         320kJ       give a clear indication of the portion size
- Energy
-                        495kcal     160kcal       80kcal       and the number of portions in the pack
- Fat                     22.3g        6.8g          3.4g     • If an FBO chooses to provide nutrition
-   of which saturates    10.0g        3.0g          1.5g
-                                                               information per consumption unit, the
- Carbohydrates           64.6g       20.0g         10.0g
-   of which sugars       18.8g        5.8g          2.9g       pack must give a clear indication of the
- Protein                   6.7g       2.0g          1.0g       number of units in the pack
- Salt                      1.0g       0.4g          0.2g
-*This pack contains 10 portions
-**This pack contains 20 biscuits                                          The Rules for %RI
-Example of %RI per 100g
-- %RIs can be given per 100g/ml, per
-                                       % RI                    portion/consumption unit or both
- Typical values           Per 100g
-                                     per 100g
-                          823kJ
-- If %RIs are given for the mandatory
- Energy                                 10%                    nutrients they must be based on the
-                         195kcal
- Fat                        2.6g         4%                    reference intakes in Annex XIII - Part B
-   of which saturates       0.3g         2%                  • If %RIs are given for the mandatory
- Carbohydrates            37.5g         14%                    nutrients, the statement “reference
-   of which sugars          1.6g         2%
-                                                               intake of average adult
- Protein                    4.5g         9%
- Salt                      0.54g         9%
-                                                               (8400kJ/2000kcal)” must appear in close
-Reference intake of average adult (8400kJ/2000kcal)            proximity
+**Per portion / per consumption unit (optional):**
+- Can be provided in addition to, but **not instead of**, per 100g/ml
+- FBO decides the portion/consumption unit size
+- Pack must clearly indicate portion size and number of portions in pack
 
-                     Some mandatory nutrients can                         The Rules for FoP
-                     be voluntarily repeated on the          • FoP nutrition information can be
-                           front of pack (FoP)                 declared as energy only or energy plus
-                                                               fat, saturates, sugar and salt (energy + 4)
-Examples of FoP information                                  • Energy must be always declared as
-                                                               kJ/kcal per 100g/ml and may also be
-Energy only                                                    given per portion
-- Fat, saturates, sugar and salt can be
-                                                               declared per portion only, provided that
-                                                               the portion size and number of portions
-                                                               in the pack are clearly indicated and
-                                                               understandable to the consumer
-Energy +4                                                    • The information can also be declared as
-                                                               %RI per 100g/ml or per portion (the
-                                                               statement “reference intake of an
-                                                               average adult (8400kJ/2000kcal)” must
-                                                               appear when declared per 100g)
-- Nutrition information repeated on the
-                                                               FoP does not have to be in the same
-                                                               format as in the main declaration
+**%RI rules:**
+- %RIs can be given per 100g/ml, per portion/consumption unit, or both
+- Must be based on reference intakes in **Annex XIII Part B**
+- Statement "**reference intake of average adult (8400kJ/2000kcal)**" must appear in close proximity when %RI declared per 100g
+
+**Front of Pack (FoP) — voluntary:**
+- FoP can show: energy only, or energy + fat, saturates, sugar, salt (energy + 4)
+- Energy must always be declared as kJ/kcal per 100g/ml; may also be given per portion
+- Fat, saturates, sugar and salt: per portion only, provided portion size and number of portions clearly indicated
+- Can be declared as %RI per 100g/ml or per portion (with "reference intake of average adult (8400kJ/2000kcal)" statement)
+- FoP format does not need to match main declaration format
 
 ---
 
@@ -4892,18 +4332,16 @@ Date: 4th March 2025
 
 ![Slide 302](food_law_slides/slide_302.png)
 
-### Voluntary Terms
+### Voluntary Terms Today’s   • Gluten-Free Lecture
 
 - Vegetarian
-- Vegan
-Today’s   • Gluten-Free
-- Fairtrade
-Lecture
-- Organic
-- Free-Range
-- GMO
-- Geographic Indications
-- Other Voluntary Terms
+    - Vegan
+    - Fairtrade
+    - Organic
+    - Free-Range
+    - GMO
+    - Geographic Indications
+    - Other Voluntary Terms
 
 ## Slide 303
 
@@ -4912,74 +4350,37 @@ Lecture
 ### What is “Food — Information”?
 
 - Article 2.2(a)
-- “… information concerning a food and made available to the final consumer
-                  by means of a label, other accompanying material, or any other means
-                  including modern technology tools or verbal communication “
+    - “… information concerning a food and made available to the final consumer by means of a label, other accompanying material, or any other means including modern technology tools or verbal communication “
 
 ## Slide 304
 
 ![Slide 304](food_law_slides/slide_304.png)
 
-### What is the objective?
+### What is the Objective?
 
-To inform consumers as the
-exact nature and characteristics
-of the foodstuff and enable
-them to make an informed
-choice when purchasing food.
+To inform consumers as to the exact nature and characteristics of the foodstuff and enable them to make an informed choice when purchasing food.
 
-Should not be misleading
+Should not be misleading.
 
 ## Slide 305
 
 ![Slide 305](food_law_slides/slide_305.png)
 
-### Regulation (EC) No. 1169/2011 — Articles 6 and 7 are reproduced below
+### Regulation (EC) No. 1169/2011 — Articles 6 and 7
 
-- Any food intended for supply to the final consumer or to mass caterers shall be accompanied by food information in accordance with this
+**Basic requirement (Article 6):**
+Any food intended for supply to the final consumer or to mass caterers shall be accompanied by food information in accordance with this Regulation.
 
-Regulation. Article 7
+**Fair information practices (Article 7):**
 
-Fair information practices
-
-Basic requirement
-
-1.
-
-2.
-
-3.
-
-4.
-
-Food information shall not be misleading, particularly:
-a.
-
-as to the characteristics of the food and, in particular, as to its nature, identity, properties, composition, quantity, durability, country of origin or place of provenance,
-method of manufacture or production;
-by attributing to the food effects or properties which it does not possess;
-by suggesting that the food possesses special characteristics when in fact all similar foods possess such characteristics, in particular by specifically emphasising the
-presence or absence of certain ingredients and/or nutrients;
-by suggesting, by means of the appearance, the description or pictorial representations, the presence of a particular food or aningredient, while in reality
-a component naturally present or an ingredient normally used in that food has been substituted with a different component or a different ingredient.
-
-b.
-c.
-
-d.
-
-Food information shall be accurate, clear and easy to understand for the consumer.
-
-Subject to derogations provided for by Union law applicable to natural mineral waters and foods for particular nutritional uses, food information
-shall not attribute to any food the property of preventing, treating or curing a human disease, nor refer to such properties.
-
-Paragraphs 1, 2 and 3 shall also apply to:
-a.
-b.
-
-advertising;
-the presentation of foods, in particular their shape, appearance or packaging, the packaging materials used, the way in which they are arranged and the setting in
-which they are displayed.
+1. Food information shall **not be misleading**, particularly:
+    - a. as to the characteristics of the food and, in particular, as to its nature, identity, properties, composition, quantity, durability, country of origin or place of provenance, method of manufacture or production
+    - b. by attributing to the food effects or properties which it does not possess
+    - c. by suggesting that the food possesses special characteristics when in fact all similar foods possess such characteristics, in particular by specifically emphasising the presence or absence of certain ingredients and/or nutrients
+    - d. by suggesting, by means of the appearance, the description or pictorial representations, the presence of a particular food or an ingredient, while in reality a component naturally present or an ingredient normally used in that food has been substituted with a different component or a different ingredient
+2. Food information shall be **accurate, clear and easy to understand** for the consumer.
+3. Subject to derogations provided for by Union law, food information shall **not attribute to any food the property of preventing, treating or curing a human disease**.
+4. Paragraphs 1, 2 and 3 shall also apply to: a. advertising; b. the presentation of foods, in particular their shape, appearance or packaging, the packaging materials used, the way in which they are arranged and the setting in which they are displayed.
 
 ## Slide 306
 
@@ -4991,33 +4392,28 @@ which they are displayed.
 
 ![Slide 307](food_law_slides/slide_307.png)
 
-- Vegetarian & Vegan – no legal
-              definition
-- Marketing terms Artisan, Natural etc. –
-              guidance only
-- Fairtrade – certification rules
-Voluntary   • Gluten Free – specific rules
-Terms       • Organic – specific rules
-- Free Range – specific rules
-- Protected Geographic Origin e.g. PDO,
-              PGI, TSG – specific rules
-- GMO – specific rules
+### Voluntary Terms
+
+- Vegetarian & Vegan — no legal definition
+- Marketing terms Artisan, Natural etc. — guidance only
+- Fairtrade — certification rules
+- Gluten Free — specific rules
+- Organic — specific rules
+- Free Range — specific rules
+- Protected Geographic Origin e.g. PDO, PGI, TSG — specific rules
+- GMO — specific rules
 
 ## Slide 308
 
 ![Slide 308](food_law_slides/slide_308.png)
 
-### ❑No legal definition for the terms 'vegetarian' or 'vegan' — at European level — ❑Claims such as, 'suitable for vegetarians' or 'suitable for
+### Vegan & Vegetarian
 
-vegans' are subject to the general laws regarding
-              misleading information etc
- Vegan &     ❑These terms: ‘vegetarian’ and ‘vegan’ in food labelling
-Vegetarian    are used voluntarily by industry. Where these terms are
-              absent, consumers rely on the list of ingredients
-- Regulation 1169/2011 mandated that EU set which
-              foods are suitable for vegans and vegetarians (Article
-              36(3)(b) Regulation (EU) No 1169/2011).
-- Some more resources here.
+- No legal definition for the terms 'vegetarian' or 'vegan' at European level
+- Claims such as, 'suitable for vegetarians' or 'suitable for vegans' are subject to the general laws regarding misleading information etc.
+- These terms: 'vegetarian' and 'vegan' in food labelling are used voluntarily by industry. Where these terms are absent, consumers rely on the list of ingredients
+- Regulation 1169/2011 mandated that EU set which foods are suitable for vegans and vegetarians (Article 36(3)(b) Regulation (EU) No 1169/2011)
+- Some more resources — see Brightspace
 
 ## Slide 309
 
@@ -5030,23 +4426,20 @@ the criteria for a product to be suitable for vegetarians or vegans
 (such as thresholds for traces of animal products). Food
 companies producing these foods can voluntarily apply ISO
 standard 23662:2021 on food ingredients suitable for vegetarians
-or vegans, and there are also several voluntary private
-certification schemes.
+- r vegans, and there are also several voluntary private certification schemes.
 
 ## Slide 310
 
 ![Slide 310](food_law_slides/slide_310.png)
 
-### Vegan & Vegetarian
+### Vegan & Vegetarian ingredients
 
 - No legal definition for the terms 'vegetarian' or 'vegan' at European level
 - Claims such as, 'suitable for vegetarians' or 'suitable for vegans' are subject
 
 to the general laws regarding misleading information etc
 
-- These terms: ‘vegetarian’ and ‘vegan’ in food labelling are used voluntarily
-by industry. Where these terms are absent, consumers rely on the list of
-ingredients
+- These terms: ‘vegetarian’ and ‘vegan’ in food labelling are used voluntarily by industry. Where these terms are absent, consumers rely on the list of
 
 - The EU V-label  https://www.v-label.eu/the-v-label
 - This is voluntary but if you do use it, you must have a license.
@@ -5057,24 +4450,15 @@ ingredients
 
 ### The Vegan Society Trademark
 
-- “We register any company that produces
-                     vegan-friendly products. We aim to make
-                     the Vegan Trademark accessible to everyone
-                     whose products fit our specific criteria. This
-                     includes products containing no animal
-                     ingredients, vegan processing aids used in
-                     manufacturing, and ingredients that have
-                     never been tested on animals on behalf of
-                     the manufacturer.”
+- “We register any company that produces vegan-friendly products. We aim to make the Vegan Trademark accessible to everyone whose products fit our specific criteria. This includes products containing no animal ingredients, vegan processing aids used in manufacturing, and ingredients that have never been tested on animals on behalf of the manufacturer.”
 
-- This is voluntary but if you do use it, you
-                     must have a license.
+    - This is voluntary but if you do use it, you must have a license.
 
 ## Slide 312
 
 ![Slide 312](food_law_slides/slide_312.png)
 
-### Meat-Free Marketing Debate
+### Meat-Free Marketing Debate Webcourses
 
 - Should a sausage be called a
 
@@ -5093,37 +4477,19 @@ it contains no meat?
 vegans.”
 
 Ref:  Survey conducted by Surveygoo for Ingredients Communications February 2019 – see article on
-Webcourses
 
 ## Slide 313
 
 ![Slide 313](food_law_slides/slide_313.png)
 
-### Marketing Terms (Voluntary)
+### Marketing Terms *(Voluntary)*
 
-Food business operators should ensure that the
-use of certain marketing terms are consistent
-with the specific provisions laid by FSAI Guidance
-Document 29
+Food business operators should ensure that the use of certain marketing terms is consistent with the specific provisions laid by **FSAI Guidance Document 29**:
 
-1.
-
-2.
-
-3.
-
-4.
-
-Artisan
-
-Farmhouse
-
-Traditional
-
-Natural
-
-https://www.fsai.ie/news_centre/press_releases
-/marketing_terms_14052015.html
+1. Artisan
+2. Farmhouse
+3. Traditional
+4. Natural
 
 ## Slide 314
 
@@ -5164,18 +4530,11 @@ price, then farmers and workers receive the market price.
                       low gluten” (gluten content above 20 up to 100 mg/kg) or
 
                These statements may be accompanied by the following statements:
-- ‘Suitable for people intolerant to gluten’ or ‘Suitable for coeliacs’
-                 (Article 3.2 of Regulation (EU) 828/2014)
-Labelling of   • ‘Specifically formulated for people intolerant to gluten’ or
-                 ‘Specifically formulated for coeliacs’ (Article 3.3 of Regulation (EU)
-Gluten Free      828/2014) - if the food is specially produced, prepared and/or
-                 processed
+    - ‘Suitable for people intolerant to gluten’ or ‘Suitable for coeliacs’ (Article 3.2 of Regulation (EU) 828/2014) Labelling of   • ‘Specifically formulated for people intolerant to gluten’ or ‘Specifically formulated for coeliacs’ (Article 3.3 of Regulation (EU) Gluten Free      828/2014) - if the food is specially produced, prepared and/or processed
 
                References: COMMISSION IMPLEMENTING REGULATION (EU) No 828/2014 of 30 July 2014 on the
                requirements for the provision of information to consumers on the absence or reduced presence
-               of gluten in food
-               And Article 36(3)(d) of Reg (EU) 1169/2011
-               Guidance: Specialised Nutrition Europe (2025)
+    - f gluten in food And Article 36(3)(d) of Reg (EU) 1169/2011 Guidance: Specialised Nutrition Europe (2025)
 
 ## Slide 317
 
@@ -5183,17 +4542,13 @@ Gluten Free      828/2014) - if the food is specially produced, prepared and/or
 
 ### Using gluten-free on your label
 
-- The use of the ‘gluten-free’ declaration is voluntary and can only be
-used where the food as sold to the final consumer (either prepacked
-or non-prepacked) contains no more than 20 mg/kg of gluten.
+- The use of the ‘gluten-free’ declaration is voluntary and can only be used where the food as sold to the final consumer (either prepacked
+- r non-prepacked) contains no more than 20 mg/kg of gluten.
 
 - The use of the ‘gluten-free’ declaration should not mislead
 
 consumers, in line with the requirements of Article 7 of the legislation
-on the provision of food information to consumers (Regulation (EU)
-No. 1169/2011). For example, stating that a jam is gluten-free is
-misleading to the consumer, as it implies that this jam is special when,
-in fact, all jams are gluten-free.
+- n the provision of food information to consumers (Regulation (EU) No. 1169/2011). For example, stating that a jam is gluten-free is misleading to the consumer, as it implies that this jam is special when, in fact, all jams are gluten-free.
 
 ## Slide 318
 
@@ -5232,7 +4587,9 @@ gluten and having coeliac disease
 
 ![Slide 320](food_law_slides/slide_320.png)
 
-### REGULATION (EU) 2018/848 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL — of 30 May 2018 on organic production and labelling of organic products and repealing — Council Regulation (EC) No 834/2007
+### REGULATION (EU) 2018/848 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+- f 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007
 
 - Recital 1: Organic production is an overall system of farm management
 
@@ -5251,25 +4608,12 @@ well as to rural development.
 
 ![Slide 321](food_law_slides/slide_321.png)
 
-### Certifying Bodies in — Ireland Logos + — EU Logo
+### Certifying Bodies in Ireland Logos + EU Logo
 
-- The Organic Certification Bodies (OCBs) provide an
-                           inspection and certification service for all Organic
-                           Production Units in Ireland. They have been designated and
-                           are regulated by the Organic Unit of the Department of
-                           Agriculture, Food and the Marine (DAFM), and are
-                           responsible for upholding the Organic standards as defined
-                           by the EU.
-- The OCB sends an information pack on request. The pack is
-                           tailored to the producers’ needs and will generally contain
-                           information on the application and conversion process, an
-                           application form and a guide to the Organic Standards. Once
-                           the application and conversion plan are received and
-                           assessed, an initial inspection will be arranged.
-- The OCBs carry out annual inspections of every organic
-                           enterprise.
-- Further information can be sourced from these certification
-                           bodies.
+- The Organic Certification Bodies (OCBs) provide an inspection and certification service for all Organic Production Units in Ireland. They have been designated and are regulated by the Organic Unit of the Department of Agriculture, Food and the Marine (DAFM), and are responsible for upholding the Organic standards as defined by the EU.
+    - The OCB sends an information pack on request. The pack is tailored to the producers’ needs and will generally contain information on the application and conversion process, an application form and a guide to the Organic Standards. Once the application and conversion plan are received and assessed, an initial inspection will be arranged.
+    - The OCBs carry out annual inspections of every organic enterprise.
+    - Further information can be sourced from these certification bodies.
 
 ## Slide 322
 
@@ -5285,9 +4629,7 @@ well as to rural development.
 - Dutch: biologische
 - Portuguese: biológica
 - Polish: ekologicznej
-- Irish: organic, a. 1 (Tinneas) orgánach. 2 a Organic beings, beathaigh orgán
-acha. The law of organic growth, dlí an fháis orgánaigh. b Organic chemistr
-y, ceimic orgánach.
+- Irish: organic, a. 1 (Tinneas) orgánach. 2 a Organic beings, beathaigh orgán acha. The law of organic growth, dlí an fháis orgánaigh. b Organic chemistr y, ceimic orgánach.
 
 ## Slide 323
 
@@ -5307,17 +4649,18 @@ Organic Trust
 
 The term ‘free range’ legally defined for two
 foods – eggs and poultry meat
-http://www.agriculture.gov.ie/media/migration/f
-armingsectors/poultry/guidelinesforfreerangepou
+http://www.agriculture.gov.ie/media/migration/farmingsectors/poultry/guidelinesforfreerangepou
 ltryproducersandslaughterhouses72010.pdf
 
 ## Slide 325
 
 ![Slide 325](food_law_slides/slide_325.png)
 
-### Genetically Modified (GM) food contains or is produced — from a genetically modified organism (GMO)
+### Genetically Modified (GM) food contains or is produced
 
-GM food ingredients that can be marketed in the EU are
+from a genetically modified organism (GMO)
+
+             GM food ingredients that can be marketed in the EU are
              primarily derived from GM plants that have been
              engineered to be resistant to attack by specific pests or be
 What is GM   tolerant to certain herbicides.
@@ -5334,38 +4677,28 @@ Food?        The only GM crop currently cultivated in the EU is
 
 ![Slide 326](food_law_slides/slide_326.png)
 
-- S.I. No. 268 of 2013 implements Regulation (EC) No
-                    1829/2003 and Regulation (EC) No 1830/2003 which
-                    sets out specific labelling requirements for GM foods
-                    which are to be delivered as such to the final consumer
-                    or mass caterers and which:
-- contain or consist of GMOs; or
-- are produced from or contain ingredients produced from
-                    GMOs
-Labelling of GM
-     food         In the ingredients list:
-- “genetically modified” or
-- “produced from genetically modified (name of the
-                   ingredient)’ in parentheses immediately following the
-                   ingredient concerned (same font size as main list of
-                   ingredients)
+### GMOs Labelling of GM ingredients)
+
+- S.I. No. 268 of 2013 implements Regulation (EC) No 1829/2003 and Regulation (EC) No 1830/2003 which sets out specific labelling requirements for GM foods which are to be delivered as such to the final consumer
+    - r mass caterers and which:
+    - contain or consist of GMOs; or
+    - are produced from or contain ingredients produced from food         In the ingredients list:
+    - “genetically modified” or
+    - “produced from genetically modified (name of the ingredient)’ in parentheses immediately following the ingredient concerned (same font size as main list of
 
 ## Slide 327
 
 ![Slide 327](food_law_slides/slide_327.png)
 
-### EFSA safety assessment necessary — List of GM Food Ingredients Authorised in EU:
+### EFSA safety assessment necessary additives food additives additives food additives
 
+List of GM Food Ingredients Authorised in EU:
 1. Soya bean (herbicide tolerant) – food and food
-                     additives
 2. Maize (pest resistant/herbicide tolerant) – food and
-                     food additives
 
 Authorisation   3. Oilseed rape (herbicide tolerant) – food and food
-                     additives
 
- of GM Food     4. Cotton (pest resistant/herbicide tolerant) – food and
-                     food additives
+- f GM Food     4. Cotton (pest resistant/herbicide tolerant) – food and
 5. Sugar Beet (herbicide tolerant) – food
 6. Starch potato (enhanced starch) – food
 
@@ -5377,31 +4710,27 @@ Authorisation   3. Oilseed rape (herbicide tolerant) – food and food
 
 ### Reference:
 
-- Something to chew on : challenging
-             controversies in food and health / Mike Gibney
-             (2012)
+- Something to chew on : challenging controversies in food and health / Mike Gibney (2012)
 
 GM Foods   • Chapter 3: Modified Foods: Genetic or
   Debate     Atomic?
-- RTE Brainstrom Article here: What
-             could EU changes around genetically
-             modified crops mean for Ireland?
+    - RTE Brainstrom Article here: What could EU changes around genetically modified crops mean for Ireland?
 
 ## Slide 329
 
 ![Slide 329](food_law_slides/slide_329.png)
 
-### Protected names fall — into two categories:
+### Protected names fall into two categories:
 
 1. Products linked to a geographical
 
 location
 
-    a. Protected Designation of Origin
+    - a) Protected Designation of Origin
 
 (PDO)
 
-    b. Protected Geographic Indication
+    - b) Protected Geographic Indication
 
 (PGI)
 
@@ -5443,7 +4772,7 @@ production step has taken place.
 
 Traditional Specialities Guaranteed (TSG) emphasise traditional
 composition and mode of production of products (proven usage
-on the domestic market for at least 25 years).
+- n the domestic market for at least 25 years).
 
 Ref: Council Regulation 1151/2012 and S.I. No. 296 of 2015.
 
@@ -5461,12 +4790,10 @@ quality scheme in Ireland.
 
                  Products with Protected Geographical Indications
 Irish products   • Timoleague Brown Pudding
-- Clare Island Salmon
-   with PDO &    • Connemara Hill Lamb
-           PGI   • Waterford Blaa/Blaa
+    - Clare Island Salmon with PDO &    • Connemara Hill Lamb PGI   • Waterford Blaa/Blaa
 
                  Protected Designation of Origin Applications
-- “Oriel Sea Salt” and “Oriel Sea Minerals” -
+    - “Oriel Sea Salt” and “Oriel Sea Minerals” -
 
 ## Slide 332
 
@@ -5474,42 +4801,32 @@ Irish products   • Timoleague Brown Pudding
 
 ### PDO, PGI, TSG
 
-- Check here https://www.tmdn.org/giview/ a
-new search database for all geographical
-indications (GIs) protected at European Union
-level.
+- Check here https://www.tmdn.org/giview/ a new search database for all geographical indications (GIs) protected at European Union level.
 
-- Example:  Is Cheddar protected? Yes and No,
-“cheddaring” is a process and is not protected
-under this scheme.  If you do a search for
-cheddar, what do you find?
+- Example:  Is Cheddar protected? Yes and No, “cheddaring” is a process and is not protected under this scheme.  If you do a search for cheddar, what do you find?
 
 ## Slide 333
 
 ![Slide 333](food_law_slides/slide_333.png)
 
-### EU PGI:  ‘Irish Grass Fed Beef’ as new — island-of-Ireland Geographical Indication
+### EU PGI:  ‘Irish Grass Fed Beef’ as new island-of-Ireland Geographical Indication
 
 The grass fed standard is built on two key criteria, namely:
 - A minimum of 90% of an animal’s diet during their lifetime on a fresh weight basis must be grass
 
-or grass-based forages
+- r grass-based forages
 
 - The annual average days of grass stands at 220 days with an allowance of up to 40 days where soil
 
 type or weather may prevent longer grazing seasons.
 
 The cattle must be born, raised on grass, finished, slaughtered, chilled, and quartered in the island
-of Ireland geographical area. Link here to the PGI
-- The link between the product and the area in which it is produced is based on the consistently
-high eating quality, which in turn has led to a well-established reputation on EU and global
-markets. ‘Irish Grass Fed Beef’ will be registered and protected in all of the European Union and
-Northern Ireland.
+- f Ireland geographical area. Link here to the PGI
+- The link between the product and the area in which it is produced is based on the consistently high eating quality, which in turn has led to a well-established reputation on EU and global markets. ‘Irish Grass Fed Beef’ will be registered and protected in all of the European Union and Northern Ireland.
 
 - This new denomination will be added to the list of 1,672 food products already protected. The list
 
-of all protected geographical indications can be found in the eAmbrosia database. More
-information is available online at Quality Schemes and on our GIView portal.
+- f all protected geographical indications can be found in the eAmbrosia database. More information is available online at Quality Schemes and on our GIView portal.
 
 ## Slide 334
 
@@ -5546,20 +4863,18 @@ More information: http://ec.europa.eu/assets/sante/food/plants/pesticides/lop/in
 
 ### What are Plant Protection Products?
 
-Plant protection products are 'pesticides'   They are primarily used in the agricultural   They contain at least one active
-that protect crops or desirable or useful    sector but also in forestry, horticulture,    substance and have one of the following
-plants.                                      amenity areas and in home gardens.            functions:
-                                                                                           protect plants or plant products against
-                                                                                           pests/diseases, before or after harvest
-                                                                                           influence the life processes of plants (such as
-                                                                                           substances influencing their growth, excluding
-                                                                                           nutrients)
-                                                                                           preserve plant products
-                                                                                           destroy or prevent growth of undesired plants or parts
-                                                                                           of plants
-                                                                                           They may also contain other components including
-                                                                                           safeners and synergists.
-                                                                                           Glyphosphate is the active substance in Roundup
+Plant protection products are **'pesticides' that protect crops or desirable or useful plants**.
+
+They are primarily used in the agricultural sector but also in forestry, horticulture, amenity areas and in home gardens.
+
+They contain at least one active substance and have one of the following functions:
+
+- Protect plants or plant products against pests/diseases, before or after harvest
+- Influence the life processes of plants (such as substances influencing their growth, excluding nutrients)
+- Preserve plant products
+- Destroy or prevent growth of undesired plants or parts of plants
+
+They may also contain other components including safeners and synergists. Glyphosate is the active substance in Roundup.
 
 ## Slide 338
 
@@ -5567,11 +4882,7 @@ plants.                                      amenity areas and in home gardens. 
 
 ### Glyphosphate
 
-- On 12 December 2017, the Commission renewed
-the approval of glyphosate for 5 years, following
-support by a qualified majority of Member States
-in an Appeal Committee held on 27 November
-2017.
+- On 12 December 2017, the Commission renewed the approval of glyphosate for 5 years, following support by a qualified majority of Member States in an Appeal Committee held on 27 November 2017.
 
 - Therefore, glyphosate can be used as an active
 
@@ -5584,7 +4895,7 @@ evaluation of their safety.
 
 ![Slide 339](food_law_slides/slide_339.png)
 
-### Some facts — about — glyphosate
+### Some facts about glyphosate plants
 
 - Glyphosate is an active substance used in plant protection products to
 
@@ -5594,26 +4905,19 @@ control plants, which means it's a herbicide
 
 the EU and it has been used for several decades
 
-- Glyphosate has been thoroughly assessed by Member States, the
-European Chemicals Agency (ECHA) and the European Food Safety
-Authority (EFSA) in recent years
+- Glyphosate has been thoroughly assessed by Member States, the European Chemicals Agency (ECHA) and the European Food Safety Authority (EFSA) in recent years
 
 - Glyphosate-based pesticides are used as herbicides in agriculture,
 
 horticulture and in some non-cultivated areas
 
-- They are used primarily to combat weeds that compete with cultivated
-crops or present problems for other reasons (e.g. on railway tracks)
+- They are used primarily to combat weeds that compete with cultivated crops or present problems for other reasons (e.g. on railway tracks)
 
-- They are typically applied before crops are sown to control weeds and
-therefore facilitate better growth of crops by eliminating competing
-plants
+- They are typically applied before crops are sown to control weeds and therefore facilitate better growth of crops by eliminating competing
 
-- This eliminates or minimises the need to use ploughing machines ("zero
-tillage" farming), thereby reducing soil erosion and carbon emissions
+- This eliminates or minimises the need to use ploughing machines ("zero tillage" farming), thereby reducing soil erosion and carbon emissions
 
-- Glyphosate is also used to a lesser extent as a pre-harvest treatment to
-facilitate better harvesting by regulating plant growth and ripening
+- Glyphosate is also used to a lesser extent as a pre-harvest treatment to facilitate better harvesting by regulating plant growth and ripening
 
 Source:  https://ec.europa.eu/food/plant/pesticides/glyphosate_en
 
@@ -5621,27 +4925,22 @@ Source:  https://ec.europa.eu/food/plant/pesticides/glyphosate_en
 
 ![Slide 340](food_law_slides/slide_340.png)
 
-- Large amounts of chemicals introduced to
-   Why is this     environment each year
-- All these chemicals affect wildlife, insects,
-  important?           water quality and air quality.
+- Large amounts of chemicals introduced to Why is this     environment each year
+    - All these chemicals affect wildlife, insects, important?           water quality and air quality.
 
 How does this        • Reduce food for pollinators
-- Pesticides can also be found in a lot of the foods
- impact food       you eat such as fruits and vegetables.
+    - Pesticides can also be found in a lot of the foods impact food       you eat such as fruits and vegetables.
 
      and our     • Herbicides can infect drinking water and the air
                    we breathe, which in turn can cause many
      health?       health problems.
-- Sustainability
+    - Sustainability
 
 ## Slide 341
 
 ![Slide 341](food_law_slides/slide_341.png)
 
-### Member — States can — refuse or
-
-restrict
+### Member States can refuse or restrict
 
 National governments are the ones who decide
 what products (PPPs) can be sold, what formulae
@@ -5654,72 +4953,23 @@ properly used.
 
 ![Slide 342](food_law_slides/slide_342.png)
 
-- In 2013 the Commission restricted the use of
-                  neonicotinoids in order to protect bees.
-- More recently, in 2016, the Commission banned
-RESTRICTIONS:     at EU level a dangerous co-formulant used
-                  together with the active substance glyphosate
-    EXAMPLES      and reminded Member States of their
-                  obligation to limit the use of pesticides in some
-                  areas (in the vicinity of parks and playgrounds).
+- In 2013 the Commission restricted the use of neonicotinoids in order to protect bees.
+    - More recently, in 2016, the Commission banned RESTRICTIONS:     at EU level a dangerous co-formulant used together with the active substance glyphosate EXAMPLES      and reminded Member States of their
+    - bligation to limit the use of pesticides in some areas (in the vicinity of parks and playgrounds).
 
 ## Slide 343
 
 ![Slide 343](food_law_slides/slide_343.png)
 
-### US Cases
+### US Cases — Roundup / Glyphosate
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-A lawyer for a man who said his cancer was caused by Bayer AG’s glyphosate-based weed killer
-Roundup on Tuesday urged U.S. jurors to “send a message” to the company by holding it liable
-and awarding millions in damages.  The case is only the second of more than 11,200 Roundup
-lawsuits to go to trial in the United States as litigation setbacks and a prior jury verdict against
-the company have sent Bayer shares plunging.  “A responsible company would test its product. A
-responsible company would tell their customers if they knew it causes cancer,” Aimee Wagstaff,
-a lawyer for plaintiff Edwin Hardeman, said during closing arguments on Tuesday. She called
-conduct by Bayer’s Monsanto unit reckless and offensive.
-
-Bayer, which bought Roundup maker Monsanto in a $63 billion deal last year, denies the
-allegations, saying decades of studies by independent scientists have shown glyphosate and
-Roundup to be safe for human use.  In Hardeman’s case, the jury on March 19 found Roundup to
-have been a “substantial factor” in causing his non-Hodgkin’s lymphoma. That verdict followed a
-first phase of the trial that focused exclusively on science.
-
-The decision allowed the trial to proceed to a second phase in which the same jury will decide if
-Bayer is liable.  In the second phase lawyers for Hardeman were able to present previously
-excluded internal documents allegedly showing the company’s efforts to influence scientists and
-regulators about the popular product’s safety.  Jurors will now decide whether Roundup was
-defectively designed, whether Monsanto acted negligently, and if it failed to warn consumers of
-Roundup’s cancer risks. If jurors find the company liable, they can award compensatory and
-punitive damages.
-
-Brian Stekloff, a lawyer for Bayer, on Tuesday said the U.S. Environmental Protection Agency
-(EPA), which regulates herbicides, never removed Roundup from the market or required a cancer
-warning.  He also said any contribution to scientific studies by Monsanto employees had been
-properly disclosed, accusing plaintiffs of taking cherry-picked emails out of context.
-
-The EPA, the European Chemicals Agency and other regulators have found that glyphosate is not
-likely carcinogenic to humans. The World Health Organization’s cancer arm, however, reached a
-different conclusion in 2015, classifying glyphosate as “probably carcinogenic to humans.”
-
-In the first U.S. Roundup trial last year, another California man was awarded $289 million after a
-state court jury found the weed killer caused his cancer. That award was later reduced to $78
-million and is on appeal.
-
-Ref:  Reuters and Wall Street Journal
+- A lawyer for a man who said his cancer was caused by Bayer AG's glyphosate-based weed killer Roundup urged U.S. jurors to "send a message" to the company by holding it liable and awarding millions in damages. The case was the second of more than 11,200 Roundup lawsuits. "A responsible company would test its product. A responsible company would tell their customers if they knew it causes cancer," said the plaintiff's lawyer. She called conduct by Bayer's Monsanto unit reckless and offensive.
+- Bayer, which bought Roundup maker Monsanto in a $63 billion deal, denies the allegations, saying decades of studies by independent scientists have shown glyphosate and Roundup to be safe for human use. In Hardeman's case, the jury found Roundup to have been a "substantial factor" in causing his non-Hodgkin's lymphoma.
+- The decision allowed the trial to proceed to a second phase in which the same jury would decide if Bayer is liable. In the second phase lawyers for Hardeman were able to present previously excluded internal documents allegedly showing the company's efforts to influence scientists and regulators about the popular product's safety. Jurors would decide whether Roundup was defectively designed, whether Monsanto acted negligently, and if it failed to warn consumers of Roundup's cancer risks.
+- Bayer's lawyer said the U.S. EPA, which regulates herbicides, never removed Roundup from the market or required a cancer warning. He also said any contribution to scientific studies by Monsanto employees had been properly disclosed, accusing plaintiffs of taking cherry-picked emails out of context.
+- The EPA, the European Chemicals Agency and other regulators have found that glyphosate is **not likely carcinogenic** to humans. The World Health Organization's cancer arm, however, reached a different conclusion in 2015, classifying glyphosate as **"probably carcinogenic to humans."**
+- In the first U.S. Roundup trial, another California man was awarded $289 million after a state court jury found the weed killer caused his cancer. That award was later reduced to $78 million and is on appeal.
+- *Ref: Reuters and Wall Street Journal*
 
 ## Slide 344
 
@@ -5731,15 +4981,16 @@ Ref:  Reuters and Wall Street Journal
 
 ![Slide 345](food_law_slides/slide_345.png)
 
-### Food Fraud. Italian investigators have identified a huge — food fraud scandal involving balsamic vinegar.  Grape — must and wine products worth €15m (£12.9m), as well
+### Food Fraud. Italian investigators have identified a huge
 
+food fraud scandal involving balsamic vinegar.  Grape
+must and wine products worth €15m (£12.9m), as well
 as numerous documents showing how provenance and
 authenticity credentials were falsified, were seized,
 according to reports in the
 
 See The Guardian article:
-https://www.theguardian.com/world/2019/ma
-r/09/grapes-of-wrath-italian-police-target-fake-
+https://www.theguardian.com/world/2019/mar/09/grapes-of-wrath-italian-police-target-fake-
 balsamic-vinegar
 
 ## Slide 346
@@ -5754,17 +5005,18 @@ balsamic-vinegar
 
 ![Slide 347](food_law_slides/slide_347.png)
 
-### Farm to Fork Strategy — “designing a fair, healthy and — environmentally-friendly food system”
+### Farm to Fork Strategy
+
+“designing a fair, healthy and
+                        environmentally-friendly food system”
 
 ## Slide 348
 
 ![Slide 348](food_law_slides/slide_348.png)
 
-### Legislative framework for sustainable food — systems
+### Legislative Framework for Sustainable Food Systems
 
-- https://food.ec.europa.eu/horizontal-topics/farm-fork-
-
-strategy/legislative-framework_en
+- EU Farm to Fork Strategy — legislative framework reference
 
 ---
 
@@ -5808,9 +5060,7 @@ DAT E:11THMARCH2026
 ### What is “The Hygiene Package”
 
 The "Hygiene Package" is a set of European Union regulations designed to ensure a high level
-of food safety and consumer protection throughout the food production chain. Introduced in
-2006, the regulatory framework aims to harmonise food safety standards within the EU,
-covering all aspects of food production, processing and distribution.
+- f food safety and consumer protection throughout the food production chain. Introduced in 2006, the regulatory framework aims to harmonise food safety standards within the EU, covering all aspects of food production, processing and distribution.
 
 The Aim
 
@@ -5824,7 +5074,7 @@ food chain.
 
 ![Slide 351](food_law_slides/slide_351.png)
 
-### The Hygiene Package
+### The Hygiene Package Became applicable from 2006
 
 The rules are provided for in the following key acts:
 
@@ -5835,8 +5085,6 @@ The rules are provided for in the following key acts:
 3. Regulation (EC) 854/2004 relates to organisation of official controls on products of
 
 animal origin intended for human consumption.
-
-Became applicable from 2006
 
 ## Slide 352
 
@@ -5862,11 +5110,11 @@ animal origin intended for human consumption and amends Council Directives
 ### The Hygiene Package cont.
 
 With the coming into force of Regulation (EU) 2017/625 (the Official Control Regulation)
-on 14 December 2019, Regulation (EC) No 854/2004 was repealed. Provisions on
-official controls in products of animal origin can be found in:
+- n 14 December 2019, Regulation (EC) No 854/2004 was repealed. Provisions on
+- fficial controls in products of animal origin can be found in:
 
 Commission Delegated Regulation (EU) 2019/624 (Official controls of products of animal
-origin)
+- rigin)
 
 Commission Delegated Regulation (EU) 2019/625 (Import conditions),
 
@@ -5882,25 +5130,22 @@ to import products of animal origin)
 
 ![Slide 354](food_law_slides/slide_354.png)
 
-### A Commission report (2009)EN••• recounts the experience gained, including the difficulties — encountered (in 2006, 2007 and 2008) from the implementation of the hygiene package — by all interested actors. It does not suggest any detailed solutions to the difficulties
+### Commission Report (2009) on the Hygiene Package
 
-reported and is, therefore, not accompanied by proposals.
+A Commission report (2009) recounts the experience gained, including the difficulties encountered (in 2006, 2007 and 2008) from the implementation of the hygiene package by all interested actors. It does not suggest any detailed solutions to the difficulties reported and is, therefore, not accompanied by proposals.
 
-The report is accompanied by a Staff Working DocumentEN••• where annexes referred to
-in the report can be found.
+The report is accompanied by a Staff Working Document where annexes referred to in the report can be found.
 
 ## Slide 355
 
 ![Slide 355](food_law_slides/slide_355.png)
 
-### ❑Deficiencies in existing legislation — ❑Inconsistencies and being too prescriptive in some — instances
+### What Drove the Hygiene Package?
 
-- HACCP (see information provided re CODEX and
-             development of HACCP)
-What drove   ❑Different requirements for different commodities
-Hygiene      (ingredients) due to more processing, pre-packaging,
-             composite foods
-package?
+- Deficiencies in existing legislation
+- Inconsistencies and being too prescriptive in some instances
+- HACCP *(see information provided re CODEX and development of HACCP)*
+- Different requirements for different commodities (ingredients) due to more processing, pre-packaging, composite foods
 - Changes in consumer preferences
 - Sourcing of raw materials (global supply chains)
 - Processing and packaging technology
@@ -5910,8 +5155,9 @@ package?
 
 ![Slide 356](food_law_slides/slide_356.png)
 
-### Council Directives that were replaced — Directive 64/433/EEC: Fresh meat                            Directive 91/493/EEC: Fishery products
+### Council Directives that were replaced
 
+Directive 64/433/EEC: Fresh meat                            Directive 91/493/EEC: Fishery products
 Directive 71/118/EEC: Poultry meat                          Directive 91/494/EEC: Poultry meat (animal health rules)
 Directive 72/461/EEC: Fresh meat (animal health rules)      Directive 91/495/EEC: Rabbit meat and farmed game meat
 Directive 77/96/EEC: Trichina examination                   Directive 92/45/EEC: Game meat
@@ -5929,7 +5175,7 @@ Directive 91/492/EEC: Live bivalve molluscs
 
 ![Slide 357](food_law_slides/slide_357.png)
 
-### Main Principles
+### Main Principles they produce
 
 1.
 
@@ -5938,7 +5184,6 @@ Farm to Fork approach to food hygiene policy
 2.
 
 FBOs take primary responsibility for the safety of the food
-they produce
 
 3.
 
@@ -5952,13 +5197,11 @@ Food Handlers must have training
 
 ![Slide 358](food_law_slides/slide_358.png)
 
-### Regulation (EC) No. 852/2004
+### Regulation (EC) No 1019/2008 Regulation (EC) No 219/2009
+
+Regulation (EC) No. 852/2004
 
 Amended by:
-
-Regulation (EC) No 1019/2008
-
-Regulation (EC) No 219/2009
 
 Link to Consolidate Version of the Regulation:  https://eur-lex.europa.eu/legal-
 content/EN/TXT/?uri=CELEX%3A02004R0852-20090420&qid=1616520512591
@@ -5975,7 +5218,7 @@ https://eur-lex.europa.eu/homepage.html
 
 ![Slide 360](food_law_slides/slide_360.png)
 
-### National Legislation
+### National Legislation ◦ ◦
 
 Regulation (EC) No. 852/2004 has been given effect by a number of Government Departments
 in so far as it relates to their area of responsibility:
@@ -5983,10 +5226,6 @@ in so far as it relates to their area of responsibility:
 1.
 
 2.
-
-◦
-
-◦
 
 Food businesses supervised by Department of Agriculture, Food and the Marine (DAFM),
 Sea-Fisheries Protection Authority (SPFA) or Local Authorities:
@@ -6001,19 +5240,19 @@ S.I. No. 369 of 2006, as amended
 
 ![Slide 361](food_law_slides/slide_361.png)
 
-### National Guides to Good — Hygiene Practice for — Food and Feed
+### National Guides to Good Hygiene Practice for Food and Feed
 
-Search here.
+Register of national guides to good hygiene practice available on the European Commission website.
+
+Search for your sector's guide on the Commission register.
 
 ## Slide 362
 
 ![Slide 362](food_law_slides/slide_362.png)
 
-### Guidance Documentation
+### Guidance Documentation the hygiene of foodstuffs
 
 1. Guidance Document on implementation of certain provisions of Regulation (EC) No 852/2004 on
-
-the hygiene of foodstuffs
 
 http://trade.ec.europa.eu/doclib/docs/2013/june/tradoc_151371.pdf
 
@@ -6025,8 +5264,7 @@ Guidelines for Competent Authorities).
 
 https://ec.europa.eu/food/sites/food/files/safety/docs/biosafety-hygiene-faq_all_business_en.pdf
 
-3. Guidance Document on implementation of procedures based on the HACCP principles, and
-facilitation of the implementation of the HACCP principles in certain food businesses
+3. Guidance Document on implementation of procedures based on the HACCP principles, and facilitation of the implementation of the HACCP principles in certain food businesses
 
 https://www.fsai.ie/uploadedFiles/EU_Guidance_HACCP.pdf
 
@@ -6050,22 +5288,14 @@ How?  Environmental Health Officer (EHO)
 
 ![Slide 364](food_law_slides/slide_364.png)
 
-### Registration Requirements under Regulation 852/2004
+### Article 6: Registration and Approval
 
-1. All food businesses are required to register with the
+**Registration Requirements under Regulation 852/2004:**
 
-   ARTICLE 6    2.
-                     competent authorities (HSE/DAFM)
-                     The purpose of registration is to identify where food
- Registration        businesses are situated and what their activities are so as to
-                     enable official controls to be carried out
-
-and Approval    3.   Registration is seen as a simple administrative procedure
-                     whereby the competent authority is informed about the
-                     address of the establishment and the activity carried out
-4. Registration under 852/2004 is not the same as the previous
-                     requirement under the Food Hygiene Regulations and is not
-                     a ‘prior approval’
+1. All food businesses are required to register with the competent authorities (HSE/DAFM)
+2. The purpose of registration is to identify where food businesses are situated and what their activities are so as to enable official controls to be carried out
+3. Registration is seen as a simple administrative procedure whereby the competent authority is informed about the address of the establishment and the activity carried out
+4. Registration under 852/2004 is not the same as the previous requirement under the Food Hygiene Regulations and is **not** a 'prior approval'
 
 ## Slide 365
 
@@ -6092,93 +5322,80 @@ How?  Environmental Health Officer (EHO) or other  …
 FSAI Guidance Note 1:
 
 Guidance for the Health Service Executive on the Inspection
-of Food Businesses
+- f Food Businesses
 
 ## Slide 367
 
 ![Slide 367](food_law_slides/slide_367.png)
 
-### RISK CATEGORISATION OF — Reason for category               Examples of businesses — BUSINESS
+### RISK CATEGORISATION OF BUSINESS Where high-risk ready-to-eat
 
-- Shellfish production;
-                         Where the potential exists to     •Manufacturing / processing of baby food, meat & milk
-                         put vulnerable groups (infants,   products, cook-chill products, salads;
-HIGH-RISK                elderly, pregnant women & the     •Fish products / cooked meat distribution;
-                         sick) or large numbers of         •Delicatessen;
-                         consumers at risk                 •Hospital catering;
-- Butcher (mixed products)
+Reason for category               Examples of businesses
+    - Shellfish production; Where the potential exists to     •Manufacturing / processing of baby food, meat & milk put vulnerable groups (infants,   products, cook-chill products, salads; HIGH-RISK                elderly, pregnant women & the     •Fish products / cooked meat distribution; sick) or large numbers of         •Delicatessen; consumers at risk                 •Hospital catering
+    - Butcher (mixed products)
 
-- Manufacturing / processing of oils & fats, chocolate products
-- Frozen food distributor, cold stores, cash & carry
-                         Where high-risk ready-to-eat
-- Health food
-MEDIUM- RISK             foods are not prepared, but
-- shop, fish monger (raw only)
-                         the scale of business is large
-- B&B ( >6 people)
-- Butcher (raw meat only)
+    - Manufacturing / processing of oils & fats, chocolate products
+    - Frozen food distributor, cold stores, cash & carry
+    - Health food MEDIUM- RISK             foods are not prepared, but
+    - shop, fish monger (raw only) the scale of business is large
+    - B&B ( >6 people)
+    - Butcher (raw meat only)
 
-- Honey production
-- Manufacturing / processing of cereal products,
-- jam & jelly
-                         Where the potential to cause
-LOW-RISK                                                   •Dry goods distribution
-                         harm to consumers is low.
-- Greengrocer
-- B&B (<6 people)
-- Bakery
+    - Honey production
+    - Manufacturing / processing of cereal products,
+    - jam & jelly Where the potential to cause LOW-RISK                                                   •Dry goods distribution harm to consumers is low.
+    - Greengrocer
+    - B&B (<6 people)
+    - Bakery
 
 ## Slide 368
 
 ![Slide 368](food_law_slides/slide_368.png)
 
-### All reported inspections in food — businesses, 2020–2024
+### All reported inspections in food businesses, 2020–2024
 
 ## Slide 369
 
 ![Slide 369](food_law_slides/slide_369.png)
 
-### FOOD SAFETY AUTHORITY OF IRELAND (FSAI) — Subscribe To Email and SMS Alerts here. — Make a complaint here.
+### FOOD SAFETY AUTHORITY OF IRELAND (FSAI)
 
+Subscribe To Email and SMS Alerts here.
+               Make a complaint here.
 FSAI Updates   Enforcement orders here.
 
 ## Slide 370
 
 ![Slide 370](food_law_slides/slide_370.png)
 
-### Title: Type of Act = Regulation, number/year = 852/2004, name of institution = — “OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL”
+### Layout of Regulation 852/2004
 
-Preamble (Citations and Recitals)
+**Title:** Type of Act = Regulation, number/year = 852/2004, institution = "OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL"
 
-              Citations sets out the legal basis = “Having regard to the Treaty establishing ….”
+**Preamble (Citations and Recitals)**
+- **Citations** — sets out the legal basis = "Having regard to the Treaty establishing …."
+- **Recitals** — sets out the reasons for the contents of the enacting terms
 
-              Recitals sets out the reasons for the contents of the enacting terms
-             Chapters & Articles (enacting terms)
- Layout of   ❑ Chapter I: General Provisions
-
-Regulation   ❑ Chapter II: Food Business Operators’ Obligations
-
- 852/2004
+**Chapters & Articles (enacting terms):**
+- Chapter I: General Provisions
+- Chapter II: Food Business Operators' Obligations
 - Chapter III: Guides to Good Practice
-
 - Chapter IV: Imports & Exports
-
 - Chapter V: Final Provisions
 
-             Annex:
-- Annex I: General Hygiene Provisions for Primary Production & Associated
-              Operations
-
-- Annex II: General Hygiene Requirements for all Food Business Operators
-              (except when Annex applies)
+**Annex:**
+- Annex I: General Hygiene Provisions for Primary Production & Associated Operations
+- Annex II: General Hygiene Requirements for all Food Business Operators (except when Annex I applies)
 
 ## Slide 371
 
 ![Slide 371](food_law_slides/slide_371.png)
 
-### Annex I: General hygiene requirements for primary production & — associated operations — Annex II: General hygiene requirements for all food businesses
+### Annex I: General hygiene requirements for primary production &
 
-(except when Annex I applies)
+associated operations
+                  Annex II: General hygiene requirements for all food businesses
+                  (except when Annex I applies)
                   Chapter 1: General requirements for food premises
 
                   Chapter 2: Specific requirements for rooms where food is
@@ -6195,15 +5412,13 @@ requirements      Chapter 3: Requirements for movable and/or temporary premises
 
 ![Slide 372](food_law_slides/slide_372.png)
 
-### FBO has primary responsibility for food safety
+### Maintenance of cold chain Provisions Guides to Good Practice
 
-Need to ensure food safety throughout food chain
+FBO has primary responsibility for food safety
 
-             Maintenance of cold chain
+             Need to ensure food safety throughout food chain
 
 General      HACCP principles & Good Hygiene Practices (GHP)
-Provisions
-             Guides to Good Practice
 
              Microbiological criteria and temperature control
 
@@ -6213,18 +5428,15 @@ Provisions
 
 ![Slide 373](food_law_slides/slide_373.png)
 
-### Applies to all stages of production, processing — and distribution of food and to exports — This includes……
+### Article 1: Scope
+
+Applies to all stages of production, processing and distribution of food and to exports.
+
+**This includes:**
 
 - The sale of food via the internet
-ARTICLE 1:   oCertain businesses specialising in trading food
-              (brokers)
-   SCOPE     oPrimary production & associated operations:
-              i.e. the production, rearing or growing of primary
-              products including harvesting, milking and
-              farmed animal production prior to slaughter. It
-              also includes hunting and fishing and the
-              harvesting of wild products (defined in
-              Regulation (EC) 178/2002)
+- Certain businesses specialising in trading food (brokers)
+- Primary production & associated operations: i.e. the production, rearing or growing of primary products including harvesting, milking and farmed animal production prior to slaughter. It also includes hunting and fishing and the harvesting of wild products (defined in Regulation (EC) 178/2002)
 
 ## Slide 374
 
@@ -6244,7 +5456,7 @@ because they handle raw material for the production of gelatine or collagen
 
 5. Direct supply, by the producer, of small quantities of primary products to the final consumer
 
-or to local retail establishments directly supplying the final consumer
+- r to local retail establishments directly supplying the final consumer
 
 ## Slide 375
 
@@ -6254,16 +5466,11 @@ or to local retail establishments directly supplying the final consumer
 
 In general terms, the notion “small quantities” should be broad enough to allow:
 
-- Farmers to sell primary products directly to the final consumer e.g. farm gate sales or sales at
-local markets, to local retail shops for direct sale to the final consumer and to local restaurants.
+- Farmers to sell primary products directly to the final consumer e.g. farm gate sales or sales at local markets, to local retail shops for direct sale to the final consumer and to local restaurants.
 
-- Individuals who collect products in the wild such as mushrooms and berries to deliver their
-yield directly to the final consumer or to local retail shops for direct sale to the final consumer
-and to local restaurants.
+- Individuals who collect products in the wild such as mushrooms and berries to deliver their yield directly to the final consumer or to local retail shops for direct sale to the final consumer and to local restaurants.
 
-- It is up to Member States to further refine the notion of small quantities depending on the local
-situation, and to lay down under national law the rules necessary to ensure that the safety of
-the food is guaranteed (risk based approach).
+- It is up to Member States to further refine the notion of small quantities depending on the local situation, and to lay down under national law the rules necessary to ensure that the safety of the food is guaranteed (risk based approach).
 
 See EC Guidance document 852/2004
 
@@ -6293,9 +5500,7 @@ and others
 
 ![Slide 377](food_law_slides/slide_377.png)
 
-### Food Hygiene
-
-Article 1 (a)
+### Food Hygiene Article 1 (a)
 
 ‘food hygiene’, hereinafter called ‘hygiene’, means the measures and
 conditions necessary to control hazards and to ensure fitness for
@@ -6324,8 +5529,7 @@ NOTE:
 
 - Fresh meat is not a primary product since it is obtained after slaughter.
 
-- Fishery products remain primary products even after slaughter, bleeding, handling, gutting, removing
-fins, refrigeration and placing in containers for transport at the level of primary production.
+- Fishery products remain primary products even after slaughter, bleeding, handling, gutting, removing fins, refrigeration and placing in containers for transport at the level of primary production.
 
 - Cheese is the result of processing raw or heat treated milk & is therefore not a primary product.
 
@@ -6335,7 +5539,7 @@ See EC Guidance document 852/2004
 
 ![Slide 379](food_law_slides/slide_379.png)
 
-### Chapter II — Food Business Operators obligations
+### Chapter II Food Business Operators obligations
 
 Article 3:  General Obligations
 
@@ -6355,7 +5559,7 @@ Article 9:  Community Guides
 
 ![Slide 380](food_law_slides/slide_380.png)
 
-### FSMS and HACCP
+### FSMS and HACCP safety hazards during food
 
 A Food Safety Management System
                                             (FSMS) is the overall system a
@@ -6365,7 +5569,6 @@ A Food Safety Management System
                                            safety, which includes policies,
   identify, evaluate, and control food
                                           procedures, monitoring, training,
-      safety hazards during food
                                                cleaning schedules, and
       production or preparation.
                                           documentation. HACCP is one key
@@ -6387,16 +5590,16 @@ All other activities     Annex II of Regulation (EC) No.      Relevant requireme
 
 ![Slide 382](food_law_slides/slide_382.png)
 
-### Annex 1 – Scope — Associated operations..... — a)
+### Annex 1 – Scope a) c)
+
+Associated operations.....
 
 the transport, storage and handling of primary products at the place of
 production, provided that this does not substantially alter their nature;
 
-    b. the transport of live animals, where this is necessary to achieve the
+    - b) the transport of live animals, where this is necessary to achieve the
 
-objectives of this Regulation;
-
-c)
+- bjectives of this Regulation
 
 in the case of products of plant origin, fishery products and wild game,
 transport operations to deliver primary products, the nature of which has not
@@ -6446,7 +5649,7 @@ Annex II: General hygiene requirements for all food businesses (except when Anne
 
 ![Slide 385](food_law_slides/slide_385.png)
 
-### Article 4:  Gen & Specific Hygiene — Requirements — In addition, FBOs shall:
+### Article 4:  Gen & Specific Hygiene — RequirementsIn addition, FBOs shall:
 
 - Comply with microbiological criteria for foodstuffs
 
@@ -6460,7 +5663,7 @@ Annex II: General hygiene requirements for all food businesses (except when Anne
 
 ![Slide 386](food_law_slides/slide_386.png)
 
-### Who must — comply with the — HACCP
+### Who must comply with the — HACCP
 
 requirement of
 Regulation
@@ -6501,25 +5704,15 @@ GHP lays the foundation for HACCP
 
 ![Slide 389](food_law_slides/slide_389.png)
 
-1. Identifying any hazards that must be prevented, eliminated or
-                    reduced to acceptable levels
-2. Identifying the critical control points at the step or steps at which
-                    control is essential to prevent or eliminate a hazard or to reduce it
-                    to acceptable levels
-3. Establishing critical limits at critical control points which separate
-                    acceptability from unacceptability for the prevention, elimination or
-Article 5.2:        reduction of identified hazards
+### HACCP Principles — Article 5.2
 
-HACCP          4.   Establishing and implementing effective monitoring procedures at
-                    critical control points
-Principles     5.   Establishing corrective actions when monitoring indicates that a
-                    critical control point is not under control
-6. Establishing procedures, which shall be carried out regularly, to
-                    verify that the measures outlined in subparagraphs (1) to (5) are
-                    working effectively
-7. Establishing documents and records commensurate with the
-                    nature and size of the food business to demonstrate the effective
-                    application of the measures outlined in subparagraphs (1) to (6)
+1. Identifying any hazards that must be prevented, eliminated or reduced to acceptable levels
+2. Identifying the critical control points at the step or steps at which control is essential to prevent or eliminate a hazard or to reduce it to acceptable levels
+3. Establishing critical limits at critical control points which separate acceptability from unacceptability for the prevention, elimination or reduction of identified hazards
+4. Establishing and implementing effective monitoring procedures at critical control points
+5. Establishing corrective actions when monitoring indicates that a critical control point is not under control
+6. Establishing procedures, which shall be carried out regularly, to verify that the measures outlined in subparagraphs (1) to (5) are working effectively
+7. Establishing documents and records commensurate with the nature and size of the food business to demonstrate the effective application of the measures outlined in subparagraphs (1) to (6)
 
 ## Slide 390
 
@@ -6609,42 +5802,26 @@ Underpinned by **good hygiene practices**.
 
 ![Slide 396](food_law_slides/slide_396.png)
 
-### Review the HACCP based procedures when — Review    modifications are made to the process or — product
+### Articles 5.2 & 5.4: FBOs Are Also Required To…
 
-Articles 5.2 &
-5.4: Food
-Business                    Provide the Competent Authority (CA) with
-                  Provide
-Operators                   evidence of their compliance
-
-(FBOs) are also
-required to……..
-                            Ensure documents are kept up-to-date & are
-                  Ensure    retained for an appropriate length of time
+| Action | Requirement |
+|---|---|
+| **Review** | Review the HACCP based procedures when modifications are made to the process or product |
+| **Provide** | Provide the Competent Authority (CA) with evidence of their compliance |
+| **Ensure** | Ensure documents are kept up-to-date and are retained for an appropriate length of time |
 
 ## Slide 397
 
 ![Slide 397](food_law_slides/slide_397.png)
 
-### HACCP Flexibility
+### HACCP Flexibility — FSAI Guidance Note 11
 
-1.
+1. Flexibility in the **development** of HACCP based procedures
+2. Flexibility in the **application** of specific HACCP principles
 
-2.
+**Legal Basis:** Article 5 & Recital 15 of Regulation 852/2004
 
-Flexibility in the development of HACCP based procedures
-
-Flexibility in the application of specific HACCP principles
-
-Legal Basis:
-
-Article 5 & Recital 15 of Regulation 852/2004
-
-Guidance:
-
-Provided in EU Guidance document on HACCP principles
-
-FSAI Guidance Note 11
+**Guidance:** Provided in EU Guidance document on HACCP principles — **FSAI Guidance Note 11**
 
 ## Slide 398
 
@@ -6652,16 +5829,11 @@ FSAI Guidance Note 11
 
 ### Recital 15:  What do we mean by flexibility?
 
-- A certain amount of flexibility in relation to compliance with the
-HACCP is allowed.
+- A certain amount of flexibility in relation to compliance with the HACCP is allowed.
 
-- The prerequisite hygiene requirements are sufficient to control
-food safety without the need to develop a HACCP based system if
-the FBO is undertaking low-risk activities.
+- The prerequisite hygiene requirements are sufficient to control food safety without the need to develop a HACCP based system if the FBO is undertaking low-risk activities.
 
-- These prerequisite hygiene requirements which are set out in the
-food hygiene legislation i.e. Regulation EC (No) 852/2004 under
-Article 4 and in Annex II.
+- These prerequisite hygiene requirements which are set out in the food hygiene legislation i.e. Regulation EC (No) 852/2004 under Article 4 and in Annex II.
 
 ## Slide 399
 
@@ -6682,7 +5854,7 @@ knowledge through formal and/or informal training
 
 ![Slide 400](food_law_slides/slide_400.png)
 
-### Flexibility also in the application of — specific HACCP principles
+### Flexibility also in the application of specific HACCP principles
 
 - Critical limits
 
@@ -6722,31 +5894,29 @@ See:  Article 4 and Annex II of Reg. 852/2204 and FSAI Guidance Note 11
 
 ![Slide 402](food_law_slides/slide_402.png)
 
-### What are the Pre-requisite Requirements and general provisions?
+### Pre-requisite Requirements     ❑Potable Water transport
 
-- FBO has primary responsibility for food safety
+What are the Pre-requisite Requirements and general provisions?
+
+    - FBO has primary responsibility for food safety
 
      Option 1:   ❑Need to ensure food safety throughout food chain
 
-- Equipment and infrastructures – clean and in good repair
+    - Equipment and infrastructures – clean and in good repair
 
    Controlling   ❑Maintenance of cold chain
 
       Hazards    ❑Hazard Control using HACCP principles & Good Hygiene Practices (GHP)
 
-- Guides to Good Practice
+    - Guides to Good Practice
 
    though the    ❑Microbiological criteria and temperature control
 
- Pre-requisite
-- Imported food equal hygiene standards
+    - Imported food equal hygiene standards
 
-- Staff Handling and Personal Hygiene
-
-Requirements     ❑Potable Water
+    - Staff Handling and Personal Hygiene
 
                   Examples: market stalls, mobile vehicles, beverage/tea/coffee only, retail/grocery,
-                  transport
 
                   Reference: Article 4 and Annex II of Reg. 852/2204 and FSAI Guidance Note 11
 
@@ -6754,10 +5924,9 @@ Requirements     ❑Potable Water
 
 ![Slide 403](food_law_slides/slide_403.png)
 
-### Option 2: — Use of a — recognised
+### Use of a recognised guide to good practice establishment
 
-guide to good
-practice
+Option 2:
 
 Flexibility in the development of HACCP based procedures - by
 using a recognised guide to good practice where the hazards
@@ -6768,7 +5937,6 @@ Examples…….. IS 340
 - Restaurants
 
 - Catering sectors dispatching prepared food from a central
-establishment
 
 - The bakery and confectionary sector
 
@@ -6778,46 +5946,44 @@ establishment
 
 ![Slide 404](food_law_slides/slide_404.png)
 
-### OPTION 3: — Developing a — HACCP based
+### Developing a HACCP based system by HACCP Principles
 
-Businessses develop their own HACCP based system by apply the
+OPTION 3:
+                 Businessses develop their own HACCP based system by apply the
                  seven principles according to the classical Codex Alimentarius
                  approach.
-   system by
  applying the    Reference: Annex 1 of the European Commission Guidance
                  document.
-       HACCP
-    Principles
 
 ## Slide 405
 
 ![Slide 405](food_law_slides/slide_405.png)
 
-### Business Risk Category   GHP Alone Sufficient?
+### Low                      Yes High                     No
 
-Low                      Yes
+Business Risk Category   GHP Alone Sufficient?
 
 Medium                   Yes?
-
-High                     No
 
 ## Slide 406
 
 ![Slide 406](food_law_slides/slide_406.png)
 
-### QMS – Quality Management Systems — QMS (e.g. ISO 22000) is — not a legal requirement
+### QMS — Quality Management Systems
 
-Procedures based on HACCP
-                      principles
+Pyramid of food safety management (bottom to top):
 
-       GHP (Prerequisite requirements/Prerequisite
-                  programmes (PRPs)
+| Level | Description |
+|---|---|
+| **GHP** (base) | Prerequisite requirements / Prerequisite Programmes (PRPs) — legal requirement |
+| **HACCP** (middle) | Procedures based on HACCP principles — legal requirement |
+| **QMS** (top) | e.g. ISO 22000 — **not** a legal requirement |
 
 ## Slide 407
 
 ![Slide 407](food_law_slides/slide_407.png)
 
-### Voluntary Standards and Quality — Management Systems
+### Voluntary Standards and Quality Management Systems
 
 ISO is an independent, non-governmental international organization with a membership of
 161 national standards bodies.  Through its members, it brings together experts to share
@@ -6835,17 +6001,11 @@ https://www.brcglobalstandards.com/brc-global-standards/food-safety/
 
 ![Slide 408](food_law_slides/slide_408.png)
 
-### What information should the guide — contain?
+### What Information Should the Guide Contain?
 
-1. Cover all significant hazards
-
-(the guide could also highlight possible hazards linked to
-certain foods)
+1. Cover all significant hazards *(the guide could also highlight possible hazards linked to certain foods)*
 2. Clearly define procedures to control the hazards
-
-3. Define corrective action to be taken in the case of
-
-problems
+3. Define corrective action to be taken in the case of problems
 
 ## Slide 409
 
@@ -6859,9 +6019,7 @@ problems
 
 https://www.fsai.ie/uploadedFiles/EU_Guidance_852.pdf
 
-2. Commission Staff Working Document on the understanding of certain provisions on flexibility
-provided in the Hygiene Package.  (includes Frequently Asked Questions, Guidelines for FBOs
-& Guidelines for Competent Authorities).
+2. Commission Staff Working Document on the understanding of certain provisions on flexibility provided in the Hygiene Package.  (includes Frequently Asked Questions, Guidelines for FBOs & Guidelines for Competent Authorities).
 
 https://www.fsai.ie/uploadedFiles/EU_Guidance_flexibility.foodbusinesses.pdf
 
@@ -6891,15 +6049,13 @@ http://www.nsai.ie/
 
 ![Slide 411](food_law_slides/slide_411.png)
 
-### OPTION 3 — includes also — flexibility in
+### Option 3 — Flexibility in the Application of Specific HACCP Principles
 
-the    ❑Critical limits
-application of      ❑Monitoring
+Option 3 includes also flexibility in the application of:
 
-        specific    ❑Documents & records
-
-         HACCP
-     principles
+- Critical limits
+- Monitoring
+- Documents & records
 
 ## Slide 412
 
@@ -6923,15 +6079,14 @@ Non-numerical critical limits are permitted if valid, e.g.
 
 ![Slide 413](food_law_slides/slide_413.png)
 
-### Monitoring
+### Monitoring refrigeration/freezing facilities
 
 Monitoring may in many cases be a simple procedure, e.g. a visual observation or
 check of:
 
-othe temperature recorded on the temperature dial/display unit of
-refrigeration/freezing facilities
+- the temperature recorded on the temperature dial/display unit of
 
-othe physical properties of food subjected to a particular heat treatment
+- the physical properties of food subjected to a particular heat treatment
 
 e.g. boiling of liquid food demonstrated by liquids bubbling when stirred
 
@@ -6941,21 +6096,16 @@ e.g. boiling of liquid food demonstrated by liquids bubbling when stirred
 
 ### Monitoring cont.
 
-- Certain foods may be processed in a standard way using standard calibrated
-equipment e.g. certain cooking operations.
+- Certain foods may be processed in a standard way using standard calibrated equipment e.g. certain cooking operations.
 
-- In such cases, the temperature of the product need not be systematically
-measured provided:
+- In such cases, the temperature of the product need not be systematically measured provided:
 - the equipment is functioning properly,
 - the required time/temperature combination is respected and
 - the necessary controls for that purpose are carried out (and corrective action taken
 
 where necessary).
 
-- In restaurants, food is prepared in accordance with well established culinary
-procedures. This implies that measurements (e.g. food temperature
-measurements) need not be carried out systematically as long as the established
-procedures are followed.
+- In restaurants, food is prepared in accordance with well established culinary procedures. This implies that measurements (e.g. food temperature measurements) need not be carried out systematically as long as the established procedures are followed.
 
 ## Slide 415
 
@@ -6975,17 +6125,13 @@ HACCP related documentation should be:
 
 ![Slide 416](food_law_slides/slide_416.png)
 
-### HACCP related documentation should — include:
+### HACCP related documentation should include:
 
 1. Documents on HACCP based procedures:
 
-o
-
 Guides to good practice can substitute individual documentation on HACCP based procedures
 
-2. Records on measurements and analysis carried out: In the case of visual monitoring, records
-can be limited to measurements of non-compliance (i.e. ‘recording by exception’) and the
-corrective action must also be recorded
+2. Records on measurements and analysis carried out: In the case of visual monitoring, records can be limited to measurements of non-compliance (i.e. ‘recording by exception’) and the corrective action must also be recorded
 
 3. Records on GHP/prerequisites:
 
@@ -6998,14 +6144,13 @@ corrective action must also be recorded
 ### HACCP Training: Annex II Chapter XII Para 2
 
 Those responsible for the development and maintenance of HACCP based procedures or for the
-operation of relevant guides must receive adequate training in the application of the HACCP principles
+- peration of relevant guides must receive adequate training in the application of the HACCP principles
 
 - Adequate training:
 
 - Does not necessarily involve participation in training courses
 
-- Could be achieved through information campaigns from professional organisations or from the
-competent authorities
+- Could be achieved through information campaigns from professional organisations or from the competent authorities
 
 - Should be proportionate to the size and the nature of the business.
 
@@ -7098,7 +6243,7 @@ with economically motivated adulteration (EMA).
 
 ![Slide 424](food_law_slides/slide_424.png)
 
-### Questions — ?
+### Questions?
 
 ---
 
@@ -7116,48 +6261,30 @@ with economically motivated adulteration (EMA).
 
 ### Food Law & Regulatory Environment — *Course Title Slide*
 
-*(Course title slide — see image for module / lecturer / date metadata.)*
-
-Raw text:
-
-```
-Food Law &
-Regulatory
-Environment
-
-MODULE   TFCA1402
-
-MSC   CULINARY   INNOVAT ION   AND   FOOD   PRODUCT
-DEVELOPMENT
-
-LECTURER:SHEONA   FOLEY
-
-DAT E:25THMARCH   2025
-```
+| | |
+|---|---|
+| **Module code** | TFCA1402 |
+| **Programme** | MSc Culinary Innovation and Food Product Development |
+| **Lecturer** | Sheona Foley |
+| **Date** | 25th March 2025 |
 
 ## Slide 426
 
 ![Slide 426](food_law_slides/slide_426.png)
 
-### What is “The Hygiene Package”
+### What is "The Hygiene Package"
 
-The current hygiene rules, adopted in April 2004 by the European Parliament and the European
-Council which came into force on 1 January 2006 and are known collectively as the "Hygiene
-Package".
+The current hygiene rules, adopted in April 2004 by the European Parliament and the European Council which came into force on 1 January 2006 and are known collectively as the "Hygiene Package".
 
-The Aim
+**The Aim**
 
-The legislation aimed to merge, harmonise and simplify very detailed and complex hygiene
-requirements which had been scattered over many EU Directives. The overall aim is to create a
-single, transparent hygiene policy applicable to all food and all food operators, together with
-effective instruments to manage food safety and potential future food crises, throughout the
-food chain.
+The legislation aimed to merge, harmonise and simplify very detailed and complex hygiene requirements which had been scattered over many EU Directives. The overall aim is to create a single, transparent hygiene policy applicable to all food and all food operators, together with effective instruments to manage food safety and potential future food crises, throughout the food chain.
 
 ## Slide 427
 
 ![Slide 427](food_law_slides/slide_427.png)
 
-### The Hygiene Package
+### The Hygiene Package Became applicable from 2006
 
 The rules are provided for in the following key acts:
 
@@ -7167,9 +6294,7 @@ The rules are provided for in the following key acts:
 
 3. Regulation (EC) 854/2004 relates to organisation of official controls on products of animal
 
-origin intended for human consumption.
-
-Became applicable from 2006
+- rigin intended for human consumption.
 
 ## Slide 428
 
@@ -7178,27 +6303,25 @@ Became applicable from 2006
 ### Official Controls
 
 With the coming into force of Regulation (EU) 2017/625 (the Official Control Regulation)
-on 14 December 2019, Regulation (EC) No 854/2004 was repealed. Provisions on
-official controls in products of animal origin can be found in:
+- n 14 December 2019, Regulation (EC) No 854/2004 was repealed. Provisions on
+- fficial controls in products of animal origin can be found in:
 
 - Commission Delegated Regulation (EU) 2019/624 (Official controls of products of animal
-origin)
+- rigin)
 
 - Commission Delegated Regulation (EU) 2022/2292 (Public health import conditions)
 
-- Commission Implementing Regulation (EU) 2019/627 (Practical arrangement official
-controls products of animal origin)
+- Commission Implementing Regulation (EU) 2019/627 (Practical arrangement official controls products of animal origin)
 
 - Commission Implementing Regulation (EU) 2020/2235 (Import certificates)
 
-- Commission Implementing Regulation (EU) 2021/405 (Lists of third countries authorised
-to import products of animal origin)
+- Commission Implementing Regulation (EU) 2021/405 (Lists of third countries authorised to import products of animal origin)
 
 ## Slide 429
 
 ![Slide 429](food_law_slides/slide_429.png)
 
-### Implementing and — Delegating Acts
+### Implementing and Delegating Acts
 
 Both are types of non-legislative acts adopted by the European Commission based on a
 primary "basic act" and are subject to judicial review by the Court of Justice of the EU.
@@ -7220,42 +6343,21 @@ Ref:  Articles 290 and 291 of the Treaty on the Functioning of the European Unio
 
 ### Main Principles
 
-1.
-
-Farm to Fork approach to food hygiene policy
-
-2.
-
-FBOs take primary responsibility for the safety of the food
-they produce
-
-3.
-
-FSMS based on HACCP
-
-4.
-
-Traceability of all food + ingredients
-
-5.
-
-Food Handlers must have training
+1. Farm to Fork approach to food hygiene policy
+2. FBOs take primary responsibility for the safety of the food they produce
+3. FSMS based on HACCP
+4. Traceability of all food + ingredients
+5. Food Handlers must have training
 
 ## Slide 431
 
 ![Slide 431](food_law_slides/slide_431.png)
 
-### Who must — comply with the — HACCP
+### Who must comply with the HACCP requirement of Regulation 852/2004?
 
-requirement of
-Regulation
-852/2004?
+ALL food businesses with the exception of primary producers & associated operations
 
-ALL food businesses with the
-exception of primary producers &
-associated operations
-
-Article 5.3 & Article 16.2
+> Article 5.3 & Article 16.2
 
 ## Slide 432
 
@@ -7286,25 +6388,15 @@ i.e. shall have a system based on the 7 Codex HACCP principles
 
 ![Slide 434](food_law_slides/slide_434.png)
 
-1. Identifying any hazards that must be prevented, eliminated or
-                    reduced to acceptable levels
-2. Identifying the critical control points at the step or steps at which
-                    control is essential to prevent or eliminate a hazard or to reduce it
-                    to acceptable levels
-3. Establishing critical limits at critical control points which separate
-                    acceptability from unacceptability for the prevention, elimination or
-Article 5.2:        reduction of identified hazards
+### HACCP Principles — Article 5.2
 
-HACCP          4.   Establishing and implementing effective monitoring procedures at
-                    critical control points
-Principles     5.   Establishing corrective actions when monitoring indicates that a
-                    critical control point is not under control
-6. Establishing procedures, which shall be carried out regularly, to
-                    verify that the measures outlined in subparagraphs (1) to (5) are
-                    working effectively
-7. Establishing documents and records commensurate with the
-                    nature and size of the food business to demonstrate the effective
-                    application of the measures outlined in subparagraphs (1) to (6)
+1. Identifying any hazards that must be prevented, eliminated or reduced to acceptable levels
+2. Identifying the critical control points at the step or steps at which control is essential to prevent or eliminate a hazard or to reduce it to acceptable levels
+3. Establishing critical limits at critical control points which separate acceptability from unacceptability for the prevention, elimination or reduction of identified hazards
+4. Establishing and implementing effective monitoring procedures at critical control points
+5. Establishing corrective actions when monitoring indicates that a critical control point is not under control
+6. Establishing procedures, which shall be carried out regularly, to verify that the measures outlined in subparagraphs (1) to (5) are working effectively
+7. Establishing documents and records commensurate with the nature and size of the food business to demonstrate the effective application of the measures outlined in subparagraphs (1) to (6)
 
 ## Slide 435
 
@@ -7312,21 +6404,12 @@ Principles     5.   Establishing corrective actions when monitoring indicates th
 
 ### HACCP Flexibility
 
-1.
+1. Flexibility in the development of HACCP based procedures
+2. Flexibility in the application of specific HACCP principles
 
-2.
+**Legal Basis:** Article 5 & Recital 15 of Regulation 852/2004
 
-Flexibility in the development of HACCP based procedures
-
-Flexibility in the application of specific HACCP principles
-
-Legal Basis:
-
-Article 5 & Recital 15 of Regulation 852/2004
-
-Guidance:
-
-Provided in EU Guidance document on HACCP principles
+**Guidance:** Provided in EU Guidance document on HACCP principles
 
 ## Slide 436
 
@@ -7347,9 +6430,7 @@ knowledge through formal and/or informal training
 
 ![Slide 437](food_law_slides/slide_437.png)
 
-### Assessment of HACCP — compliance
-
-FSAI Guidance Note 11
+### Assessment of HACCP compliance FSAI Guidance Note 11
 
 The purpose of this guidance document is to provide a
 consistent approach within the environmental health service
@@ -7360,10 +6441,10 @@ requirement.
 
 ![Slide 438](food_law_slides/slide_438.png)
 
-### Regulation (EC) No 853/2004 — of the European Parliament and — of the Council of 29 April 2004
+### Regulation (EC) No 853/2004 laying down specific hygiene
 
-laying down specific hygiene
-rules for food of animal origin
+- f the European Parliament and
+- f the Council of 29 April 2004 rules for food of animal origin
 
 LINK HERE.
 
@@ -7392,18 +6473,13 @@ European Union (Food and Feed Hygiene) Regulations 2020, S.I. No. 22 of 2020
 
 - The Hygiene Package came into effect across all Member States from 1 January 2006.
 
-- The Hygiene Package revises and consolidates legislation in relation to food and feed hygiene
-along with the production, control and marketing of products of animal origin and animal
-health issues in relation to the production of those products.
+- The Hygiene Package revises and consolidates legislation in relation to food and feed hygiene along with the production, control and marketing of products of animal origin and animal health issues in relation to the production of those products.
 
-- The underlying philosophy is that food producers should bear full responsibility for the safety of
-the food they produce.
+- The underlying philosophy is that food producers should bear full responsibility for the safety of the food they produce.
 
 - Transposed into Irish legislation - S.I. No. 432 of 2009.
 
-- The regulations require food business operators that are primary producers of food products to
-apply for registration and the Department of Agriculture, Food and the Marine (DAFM) is a
-registering authority for this purpose.
+- The regulations require food business operators that are primary producers of food products to apply for registration and the Department of Agriculture, Food and the Marine (DAFM) is a registering authority for this purpose.
 
 ## Slide 442
 
@@ -7434,9 +6510,7 @@ facilitation/flexibility of the implementation in certain food businesses
 
 ![Slide 443](food_law_slides/slide_443.png)
 
-### Layout of Regulation 853/2004
-
-Chapters
+### Layout of Regulation 853/2004 Chapters Annex
 
 - Chapter I: General provisions
 
@@ -7445,8 +6519,6 @@ Chapters
 - Chapter III: Trade
 
 - Chapter IV: Final provisions
-
-Annex
 
 - Annex I: Definitions
 
@@ -7509,21 +6581,11 @@ registration but no approval.
 
 ![Slide 447](food_law_slides/slide_447.png)
 
-### Scope (Wholesale Activities)
+### Scope (Wholesale Activities) a) b)
 
 5. Applies to wholesale activities (i.e. when a wholesale or retail establishment carries out
 
-a)
-
-b)
-
-operations with a view to supplying food of animal origin to another establishment) except:
-for establishments for which the wholesale activities consist only of storage and transport. In that
-case, the requirements of Regulation (EC) No 852/2004, and the temperature requirements laid
-down in Regulation (EC) No 853/2004 apply,
-if the supply is, in accordance with national law, a marginal, localised and restricted activity of a
-retail establishment that mainly supplies the final consumer. In that event, only Regulation (EC) No
-852/2004 applies.
+- perations with a view to supplying food of animal origin to another establishment) except: for establishments for which the wholesale activities consist only of storage and transport. In that case, the requirements of Regulation (EC) No 852/2004, and the temperature requirements laid down in Regulation (EC) No 853/2004 apply, if the supply is, in accordance with national law, a marginal, localised and restricted activity of a retail establishment that mainly supplies the final consumer. In that event, only Regulation (EC) No 852/2004 applies.
 
 S.I. No. 340 of 2010 - Butcher Shop
 
@@ -7537,9 +6599,7 @@ S.I. No. 168 of 2012 - Retail Catering Establishments
 
 Reg 852/2004 and 853/2004 grant certain specified activities on the basis that
 they are regulated by national rules that ensure the achievement of the
-objectives of the EU Regulations. Ireland has introduced national rules in
-accordance with the derogations granted under Regulation (EC) No 853/2004
-for the following:
+- bjectives of the EU Regulations. Ireland has introduced national rules in accordance with the derogations granted under Regulation (EC) No 853/2004 for the following:
 
 - Marginal, Localised and Restricted Activity in Butcher Shops
 
@@ -7561,38 +6621,18 @@ Refers to the following for definitions:
 
 ![Slide 450](food_law_slides/slide_450.png)
 
-### ANNEX I
+### Annex I — Definitions *(Regulation 853/2004)*
 
-Definitions including :
+Definitions including:
 
-1.
-
-Fresh meat/minced/MSM
-
+1. Fresh meat / minced meat / MSM (mechanically separated meat)
 2. Untreated intestines, stomachs and bladders
-
-3.
-
-4.
-
-5.
-
-6.
-
-Blood
-
-Fresh fishery products
-
-Live Bivalve molluscs
-
-Raw Milk
-
+3. Blood
+4. Fresh fishery products
+5. Live Bivalve molluscs
+6. Raw Milk
 7. Whole Eggs and liquid egg
-
-8.
-
-Snails
-
+8. Snails
 9. Honey
 
 ## Slide 451
@@ -7663,7 +6703,7 @@ Section XV:  Collagen
 
 ![Slide 455](food_law_slides/slide_455.png)
 
-### Chapter II — Food Business Operators obligations
+### Chapter II Food Business Operators obligations
 
 FBOs obligations.....
 
@@ -7685,7 +6725,7 @@ placed on the market unless a health mark or identification mark is applied
 
 ![Slide 456](food_law_slides/slide_456.png)
 
-### Article 5: — Health and Identification Marks
+### Article 5:Health and Identification Marks
 
 1. Fresh meat must bear a health mark applied by an official veterinarian (see
 
@@ -7702,14 +6742,13 @@ mark. (see Annex II)
 ### Definition of Fresh Meat from Annex I
 
 1.10. ‘Fresh meat’ means meat that has not undergone any preserving process
-other than chilling, freezing or quick-freezing, including meat that is vacuum-
-wrapped or wrapped in a controlled atmosphere.
+- ther than chilling, freezing or quick-freezing, including meat that is vacuum- wrapped or wrapped in a controlled atmosphere.
 
 ## Slide 458
 
 ![Slide 458](food_law_slides/slide_458.png)
 
-### Health Mark
+### Health Mark Must be legible
 
 Health Mark must be an oval mark at least 6.5cm wide by
 4.5cm high, bearing the following information in perfectly
@@ -7725,15 +6764,12 @@ two letter code in accordance with ISO standard e.g. IE
 The mark must indicate the approval number of the
 slaughter house; and
 
-3. When applied in a slaughterhouse within the Community,
-the mark must include the abbreviation EC or similar
+3. When applied in a slaughterhouse within the Community, the mark must include the abbreviation EC or similar
 
 4. Mark may be applied directly to product, the
 
 wrapping or the packaging, or be printed on a label
 affixed to the product, the wrapping or packaging.
-
-Must be legible
 
 Must be irremovable tag or resistant material
 
@@ -7747,11 +6783,9 @@ Ref:  FSAI and DAFM websites for more information
 
 Identification of animals is at the heart of much of the EU legislation:
 
-- The localisation and tracing of animals for veterinary purposes, which is of crucial importance
-for the control of infectious diseases e.g. foot & mouth
+- The localisation and tracing of animals for veterinary purposes, which is of crucial importance for the control of infectious diseases e.g. foot & mouth
 
-- Traceability of meat is also important for animal and public health reasons and the
-management and supervision of livestock
+- Traceability of meat is also important for animal and public health reasons and the management and supervision of livestock
 
 - Link to video on Identification and traceability of animals here.
 
@@ -7762,7 +6796,7 @@ management and supervision of livestock
 ### Meat labelling confusing
 
 The requirement to state where meat originates differs depending on the type of meat.  For some meats,
-origin can be easily determined. For others, it is less clear.
+- rigin can be easily determined. For others, it is less clear.
 
 For beef, it’s simple. The country of origin must be given, according to the authority. That applies to both
 fresh and frozen cuts and cuts sold pre-packed or at a butcher counter.
@@ -7785,25 +6819,17 @@ last place the product underwent processing. It is not an indication of origin.)
 
 ![Slide 461](food_law_slides/slide_461.png)
 
-### Labelling of Meat a concern for — consumers
+### Labelling of Meat — A Concern for Consumers
 
-Certain meat-based foods sold in
-  supermarkets in the European Union            The European Commission wants to
-   are not properly labelled or do not           tighten food labelling rules in the
-   contain accurate information about              wake of the recent horsemeat
-     their ingredients - says Brussels          scandal. Report here. Published on
-                                says Brussels                   here
+- Certain meat-based foods sold in supermarkets in the European Union are not properly labelled or do not contain accurate information about their ingredients — *says Brussels-based consumer lobby group, the European Consumers Organisation.*
 
-    based consumer lobby group - the
-   based consumer lobby group
-                                                            May 6, 2013
-   European Consumers Organisation.
+- The European Commission wants to tighten food labelling rules in the wake of the recent **horsemeat scandal**. *(Published May 6, 2013)*
 
 ## Slide 462
 
 ![Slide 462](food_law_slides/slide_462.png)
 
-### FSAI has said that current meat — labelling is not ideal.
+### FSAI has said that current meat labelling is not ideal.
 
 ‘Origin Ireland’
 
@@ -7814,14 +6840,14 @@ and acknowledge that the information on the label can seem misleading”.
 and will come into force ...”
 
 New rules came into effect in 2020 - aimed at giving consumers greater clarity, the country of
-origin of the primary ingredient in a meat product must be given.
+- rigin of the primary ingredient in a meat product must be given.
 
 If the country indicated on a packet differs from where the primary ingredient comes from then
 the primary ingredient must also be labelled clearly as being different to that of the food.
 
 Primary ingredient will be defined in this new legislation as “an ingredient or ingredients of a
 food that represent more than 50% of that food or which are usually associated with the name
-of the food by the consumer,” according to the FSAI.
+- f the food by the consumer,” according to the FSAI.
 
 Ref:  9th February, 2019, Report from The Journal
 
@@ -7860,14 +6886,13 @@ Learn more here.
 ### HACCP Training: Annex II Chapter XII Para 2
 
 Those responsible for the development and maintenance of HACCP based procedures or for the
-operation of relevant guides must receive adequate training in the application of the HACCP principles
+- peration of relevant guides must receive adequate training in the application of the HACCP principles
 
 - Adequate training:
 
 - Does not necessarily involve participation in training courses
 
-- Could be achieved through information campaigns from professional organisations or from the
-competent authorities
+- Could be achieved through information campaigns from professional organisations or from the competent authorities
 
 - Should be proportionate to the size and the nature of the business.
 
@@ -7883,7 +6908,7 @@ See - FSAI Food Safety Training Booklet
 
 ![Slide 466](food_law_slides/slide_466.png)
 
-### SAFEFOOD — Report (2018)
+### SAFEFOOD Report (2018)
 
 This report provides details on the
 current situation across the island of
@@ -7899,20 +6924,21 @@ catering.
 
 ### Food safety knowledge and skills among — SMEs on the island of Ireland
 
-https://www.safefood.eu/SafeFood/media/SafeFoodLibrary/Documents/Publications/Research%
-20Reports/Food-safety-knowledge-and-skills-among-SMEs-on-the-island-of-Ireland.pdf
+https://www.safefood.eu/SafeFood/media/SafeFoodLibrary/Documents/Publications/Research%20Reports/Food-safety-knowledge-and-skills-among-SMEs-on-the-island-of-Ireland.pdf
 
 ## Slide 468
 
 ![Slide 468](food_law_slides/slide_468.png)
 
-### Table 1: European definition of Small and Medium Enterprises (SMEs) Size Number of employees — Annual turnover or annual balance sheet Medium
+### Table 1: European definition of Small and Medium Enterprises (SMEs) Size Number of employees
+
+Annual turnover or annual balance sheet Medium
 
 ## Slide 469
 
 ![Slide 469](food_law_slides/slide_469.png)
 
-### Food Safety — Culture
+### Food Safety Culture
 
 Since March 2021, there is a legal
 requirement that all food businesses to
@@ -7925,7 +6951,7 @@ existing food safety regulation, requires
 food businesses to provide evidence of
 an appropriate food safety culture by
 satisfying a number of requirements set
-out in the regulation.
+- ut in the regulation.
 
 See FSAI Open Meeting recorded Nov
 2021.
@@ -7940,9 +6966,11 @@ See FSAI Open Meeting recorded Nov
 
 ![Slide 471](food_law_slides/slide_471.png)
 
-### Food Fraud — The Food Safety Authority of Ireland (FSAI) state that — “Food fraud is committed when food is illegally
+### Food Fraud
 
-placed on the market with the intention of deceiving
+The Food Safety Authority of Ireland (FSAI) state that
+             “Food fraud is committed when food is illegally
+             placed on the market with the intention of deceiving
              the customer, usually for financial gain.”
              In recent years food fraud has become much more of
              an issue for consumers as global food supply has
@@ -7994,9 +7022,8 @@ Topics)     3.   Debate whether flexibility in the design of Food Safety Managem
 
 4. Cross Contamination: debate whether food manufacturers should be
                  held fully accountable for preventing cross-contamination in the context
-                 of allergens, gluten-free in products placed on the market, regardless of
-                 operational challenges. Indicate how this impacts labelling of food
-                 products.
+    - f allergens, gluten-free in products placed on the market, regardless of
+    - perational challenges. Indicate how this impacts labelling of food products.
 
 ## Slide 474
 
@@ -8008,11 +7035,9 @@ Topics)     3.   Debate whether flexibility in the design of Food Safety Managem
 
 ![Slide 475](food_law_slides/slide_475.png)
 
-### Links to other specific legislation
+### Wild Game Honey
 
-Wild Game
-
-Honey
+Links to other specific legislation
 
 Food Products Non-Animal Origin (includes chocolate, coffee, jam, olive oil,
 sugar, wine, chilli)
@@ -8086,13 +7111,10 @@ Assignment          Examination
 
 ![Slide 481](food_law_slides/slide_481.png)
 
-### Label Assignment (40%)
+### Label Assignment (40%) Feedback issued next Submitted module
 
-Feedback issued next
-               Marks will be issued   week – enabling you
-   Submitted
+Marks will be issued   week – enabling you
                    next week           to update your NPD
-                                             module
 
 ## Slide 482
 
@@ -8104,36 +7126,33 @@ Feedback issued next
    Invigilated
                   3 hours    be answered
       Exam
-                               out of 5
+    - ut of 5
 
 ## Slide 483
 
 ![Slide 483](food_law_slides/slide_483.png)
 
+### FBO Important No 1234/2007)
+
 - Regulation EC No 178/2002: Defines Food, Consumer Interests, Recall & Traceability
-- FOOD SAFETY AUTHORITY OF IRELAND ACT, 1998
+    - FOOD SAFETY AUTHORITY OF IRELAND ACT, 1998
 
-- Regulation EC No 852/2004: Hygiene of Foodstuffs - Food Hygiene & HACCP & FBO
-- Regulation EC No 853/2004: Hygiene of Food of Animal origin - Food Hygiene & HACCP &
-                FBO
-- ****Regulation EC No 2017/625: Official Controls Regulation
-- Regulation EC No 1169/2011: FIC & Nutritional Declarations
+    - Regulation EC No 852/2004: Hygiene of Foodstuffs - Food Hygiene & HACCP & FBO
+    - Regulation EC No 853/2004: Hygiene of Food of Animal origin - Food Hygiene & HACCP &
+    - ****Regulation EC No 2017/625: Official Controls Regulation
+    - Regulation EC No 1169/2011: FIC & Nutritional Declarations
 
-Important
-- ****Regulation EC No 2073/2005: Microbiological Criteria
-- Regulation EC No 1924/2006: Nutrition & Health Claims
+    - ****Regulation EC No 2073/2005: Microbiological Criteria
+    - Regulation EC No 1924/2006: Nutrition & Health Claims
 
 Regulations   • Regulation EC No 1925/2006: Vitamins & Minerals
-- REGULATION (EU) No 432/2012: permitted health claims made on foods, other than those
-                referring to the reduction of disease risk and to children's development and health
-- Regulation EC No 1331-1334/2008: Food additives, enzymes & flavourings
-- Regulation (EU) No 828/2014 : Gluten Intolerance
-- REGULATION (EU) No 1308/2013 … establishing a common organisation of the markets in
-                agricultural products (and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC)
-                  No 1234/2007)
+    - REGULATION (EU) No 432/2012: permitted health claims made on foods, other than those referring to the reduction of disease risk and to children's development and health
+    - Regulation EC No 1331-1334/2008: Food additives, enzymes & flavourings
+    - Regulation (EU) No 828/2014 : Gluten Intolerance
+    - REGULATION (EU) No 1308/2013 … establishing a common organisation of the markets in agricultural products (and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC)
 
-- ****Regulation (EU) 2015/2283: Novel Foods
-- **** Please note regulations in italics not covered in detail this year.
+    - ****Regulation (EU) 2015/2283: Novel Foods
+    - **** Please note regulations in italics not covered in detail this year.
 
 ## Slide 484
 
@@ -8164,7 +7183,7 @@ companies more than it risks undermining food safety standards.
 
 Cross Contamination:  debate whether food manufacturers should be held fully accountable for preventing
 cross-contamination in the context of allergens, gluten-free in products placed on the market, regardless of
-operational challenges.  Indicate how this impacts labelling of food products.
+- perational challenges.  Indicate how this impacts labelling of food products.
 
 ## Slide 485
 
@@ -8185,91 +7204,34 @@ York: Oxford University Press)
 
 ![Slide 487](food_law_slides/slide_487.png)
 
-### Enforcement Orders 14th April 2026
+### Enforcement Orders — 14 April 2026
 
-- 
+The FSAI reported that Environmental Health Officers in the HSE served **twelve Closure Orders** and **two Prohibition Orders** on food businesses during March for breaches of food safety legislation, pursuant to the FSAI Act, 1998 and the EU (Official Controls in Relation to Food Legislation) Regulations, 2020.
 
-- 
+**Eight Closure Orders under the FSAI Act, 1998:**
 
-- 
+1. Kebab House 66 (Service Sector), Moore Street Mall, 58 Parnell Street, Dublin 1
+2. Georgian Delight (Restaurant/Café), Unit 3, Moore Street Mall, 58–66 Parnell Street, Dublin 1
+3. Dailo Nepali Kitchen (Restaurant/Café), Kitchen 4, Moore Street Mall, 58–66 Parnell Street, Dublin 1
+4. Tiramisu Mania (Manufacturer), Moore Street Mall, 58 Parnell Street, Dublin 1
+5. Spicy Bite (Restaurant/Café), Unit 1, Moore Mall, Moore Street, Dublin 1
+6. Glanmore Foods Limited, Grange Community College (Service Sector), Donaghmede, Dublin 13
+7. Eskimo Pizza Bandon (Closed area: potato peeling room) (Take Away), 1 St Patrick's Quay, Bandon, Cork
+8. Eurospar (Retailer), 25–27 Annesley Bridge Road, Fairview, Dublin 3
 
-- 
+**Four Closure Orders under EU Official Controls Regulations, 2020:**
 
-- 
+1. Bruno Gomes (Wholesaler/Distributor), domestic dwelling at Ferndale, Navan, Meath
+2. Arsh Bazzar (Closed area: Butcher area) (Retailer), 6 Mary Street, Clonmel, Tipperary
+3. Mars Pizza (Take Away), Coolbeg, Kildimo, Limerick
+4. Meet Brazil (Closed area: kitchen upstairs; retail area downstairs can remain open) (Retailer), Castle Hill, Enniscorthy, Wexford
 
-- 
+**Two Prohibition Orders under EU Official Controls Regulations, 2020:**
 
-The Food Safety Authority of Ireland (FSAI) today reported that Environmental Health Officers in the Health Service Executive (HSE) served twelve Closure Orders and two Prohibition Orders on food
-businesses during the month of March for breaches of food safety legislation, pursuant to the FSAI Act, 1998 and the European Union (Official Controls in Relation to Food Legislation) Regulations, 2020.
+1. Al-Eman Halal Shop Limited (Butcher Shop/Retailer), 21 Irishtown, Clonmel, Tipperary
+2. Pinoy Sari Sari (Retailer), 25–26 Mary Street, Dublin City
 
-Eight Closure Orders were served under the FSAI Act, 1998 on:
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-Kebab House 66 (Service Sector), Moore Street Mall, 58 Parnell Street, Dublin 1
-
-Georgian Delight (Restaurant/ Café), Unit 3, Moore Street Mall, 58-66 Parnell Street, Dublin 1
-
-Dailo Nepali Kitchen (Restaurant/ Café), Kitchen 4, Moore Street Mall, 58-66 Parnell Street, Dublin 1
-
-Tiramisu Mania (Manufacturer), Moore Street Mall, 58 Parnell Street, Dublin 1
-
-Spicy Bite (Restaurant/ Café), Unit 1, Moore Mall, Moore Street, Dublin 1
-
-Glanmore Foods Limited, Grange Community College (Service Sector), Grange Abbey Road, Donaghmede, Dublin 13
-
-Eskimo Pizza Bandon (Closed area: the potato peeling room at the rear of the premises) (Take Away), 1 St Patrick’s Quay, Bandon, Cork
-
-Eurospar (Retailer), 25-27 Annesley Bridge Road, Fairview, Dublin 3
-
-Four Closure Orders were served under the European Union (Official Controls in Relation to Food Legislation) Regulations, 202 0 on:
-
-- 
-
-- 
-
-- 
-
-- 
-
-Bruno Gomes (Wholesaler/ Distributor), A food business in operation from a domestic dwelling at Ferndale, Navan, Meath
-
-Arsh Bazzar (Closed area: Butcher area) (Retailer), 6 Mary Street, Clonmel, Tipperary
-
-Mars Pizza (Take Away), Coolbeg, Kildimo, Limerick
-
-Meet Brazil (Closed area: the kitchen area upstairs serving the restaurant and take away. The retail area downstairs can remain open.) (Retailer), Castle Hill, Enniscorthy, Wexford
-
-Two Prohibition Orders were served under the European Union (Official Controls in Relation to Food Legislation) Regulations,  2020 on:
-
-- 
-
-- 
-
-Al-Eman Halal Shop Limited (Butcher Shop/Retailer), 21 Irishtown, Clonmel Tipperary
-
-Pinoy Sari Sari (Retailer), 25-26 Mary Street, Dublin City
-
-Among the reasons for the Enforcement Orders in March are: active cockroach infestation; dead cockroaches noted inside a frid ge; evidence of rodent activity; dead mouse in a cockroach trap; rodent
-droppings under the sink area; meat being air dried in a bedroom; no suitable hand washing facilities available to food workers; no hot water or soap for hand washing; cleaning materials stored in dirty
-stagnant water; thick waste discharge covering an entire floor in a kitchen; equipment observed to be heavily soiled and in a n unclean condition; insufficient traceability information; no food safety
-management system or procedures in place for food safety; no commercial documents or other suitable records to establish the traceability of the foods.
-
-Lind to FSAI information here.
+**Reasons for Enforcement Orders:** active cockroach infestation; dead cockroaches in a fridge; evidence of rodent activity; dead mouse in a cockroach trap; rodent droppings under the sink; meat air-dried in a bedroom; no suitable hand washing facilities; no hot water or soap; cleaning materials stored in dirty stagnant water; thick waste discharge on kitchen floor; heavily soiled equipment; insufficient traceability information; no food safety management system; no commercial documents to establish traceability.
 
 ## Slide 488
 
@@ -8281,17 +7243,10 @@ Lind to FSAI information here.
 
 ![Slide 489](food_law_slides/slide_489.png)
 
-### Case Studies
+### Case Studies e-coli-outbreaks
 
-- Ecoli
-https://food.ec.europa.eu/document/download/fa17f6a4-fe5c-451f-
-bd3b-29b164a45563_en?filename=biosafety_food-borne-
-disease_cswd_lessons-learned.pdf
-And https://www.efsa.europa.eu/en/topics/topic/shiga-toxin-producing-
-e-coli-outbreaks
-- Horsemeat
-https://www.irishtimes.com/health/2023/01/07/a-decade-on-how-the-
-horsemeat-scandal-changed-the-way-the-world-thinks-of-food-safety/
+- Ecoli https://food.ec.europa.eu/document/download/fa17f6a4-fe5c-451f- bd3b-29b164a45563_en?filename=biosafety_food-borne- disease_cswd_lessons-learned.pdf And https://www.efsa.europa.eu/en/topics/topic/shiga-toxin-producing-
+- Horsemeat https://www.irishtimes.com/health/2023/01/07/a-decade-on-how-the-horsemeat-scandal-changed-the-way-the-world-thinks-of-food-safety/
 
 ## Slide 490
 
@@ -8333,21 +7288,9 @@ sprouting seeds are now required.
 
 ### Food Fraud
 
-- The Food Safety Authority of Ireland (FSAI) state
-               that “Food fraud is committed when food is
-               illegally placed on the market with the intention
-               of deceiving the customer, usually for financial
-               gain.”
-- In recent years food fraud has become much
-               more of an issue for consumers as global food
-               supply has become so complex that it is
-               almost impossible for food producers and
-               retailers to guarantee the provenance of their
-               products. This has spurred initiatives to
-               address these growing concerns. The effects of
-               a food fraud can range from economic losses
-               for producers, harming people’s health and
-               brand/reputational damage.
+- The Food Safety Authority of Ireland (FSAI) state that “Food fraud is committed when food is illegally placed on the market with the intention
+    - f deceiving the customer, usually for financial gain.”
+    - In recent years food fraud has become much more of an issue for consumers as global food supply has become so complex that it is almost impossible for food producers and retailers to guarantee the provenance of their products. This has spurred initiatives to address these growing concerns. The effects of a food fraud can range from economic losses for producers, harming people’s health and brand/reputational damage.
 
 ## Slide 493
 
@@ -8357,23 +7300,19 @@ sprouting seeds are now required.
 
 - TACCP and VACCP address threats and vulnerabilities instead of hazards.
 
-- TACCP stands for Threat Assessment and Critical Control Points. This
-protocol focuses on tampering, intentional adulteration of food, and food
-defence.
+- TACCP stands for Threat Assessment and Critical Control Points. This protocol focuses on tampering, intentional adulteration of food, and food defence.
 
-- VACCP stands for Vulnerability Assessment and Critical Control Points. It
-focuses on food fraud as well, and widens the scope to include systematic
-prevention of any potential adulteration of food, whether intentional or not,
-by identifying the vulnerable points in a supply chain. It is especially
-concerned with economically motivated adulteration (EMA).
+- VACCP stands for Vulnerability Assessment and Critical Control Points. It focuses on food fraud as well, and widens the scope to include systematic prevention of any potential adulteration of food, whether intentional or not, by identifying the vulnerable points in a supply chain. It is especially concerned with economically motivated adulteration (EMA).
 
 ## Slide 494
 
 ![Slide 494](food_law_slides/slide_494.png)
 
-### “any suspected intentional action by businesses or — individuals for the purpose of deceiving purchasers and — gaining undue advantage therefrom, in violation of the
+### “any suspected intentional action by businesses or
 
-rules referred to in Article 1(2) of Regulation (EU)
+individuals for the purpose of deceiving purchasers and
+               gaining undue advantage therefrom, in violation of the
+               rules referred to in Article 1(2) of Regulation (EU)
                2017/625 (the agri-food chain legislation)”.
 
 What is Food   These intentional infringements to the EU agri-food chain
@@ -8383,8 +7322,7 @@ What is Food   These intentional infringements to the EU agri-food chain
                environment as regards GMOs and plant protection
                products.
 
-- Link: https://ec.europa.eu/food/safety/food-fraud/what-
-                 does-it-mean_en
+    - Link: https://ec.europa.eu/food/safety/food-fraud/what- does-it-mean_en
 
 ## Slide 495
 
@@ -8417,7 +7355,7 @@ The four criteria (with icons):
 
 people and led to between 370 and 835 fatalities in Spain;
 
-- dioxin in Belgium resulting in massive economic losses (1999);
+- dioxin in Belgium resulting in massive economic losses (1999)
 - milk adulterated with melamine in China resulting in more than 50,000 sick
 
 babies and around six fatalities (2008), and more recently,
@@ -8426,7 +7364,7 @@ babies and around six fatalities (2008), and more recently,
 
 casualties in the Czech Republic and Poland (2012-2014);
 
-- horse meat in beef products (2013);
+- horse meat in beef products (2013)
 - fipronil in eggs (2017) and
 - the slaughter of sick cows (2019)
 
@@ -8492,15 +7430,13 @@ suspected.
 
 ![Slide 500](food_law_slides/slide_500.png)
 
-### Food Fraud
+### Food Fraud mean_en
 
 - For more information, For more information: "Handbook on Food
 
 Authenticity Issues and Related Analytical Techniques".
 
 - Link:  https://ec.europa.eu/food/safety/food-fraud/what-does-it-
-
-mean_en
 
 ## Slide 501
 
@@ -8546,7 +7482,7 @@ training
 
 ![Slide 504](food_law_slides/slide_504.png)
 
-### Assessment of HACCP — compliance
+### Assessment of HACCP compliance
 
 - FSAI Guidance Note 11
 - The purpose of this guidance document
@@ -8560,11 +7496,9 @@ with the HACCP requirement.
 
 ![Slide 505](food_law_slides/slide_505.png)
 
-### EU Guidance platform
+### EU Guidance platform hygiene/guidance-platform_en
 
 - Link here https://food.ec.europa.eu/food-safety/biological-safety/food-
-
-hygiene/guidance-platform_en
 
 - Includes link to useful guides:
 
@@ -8583,49 +7517,18 @@ hygiene/guidance-platform_en
 
 ### Cross Contamination
 
-- What do we mean by cross contamination?
+- **What do we mean by cross contamination?**
+- It is the process by which a ‘gluten-free’ product loses that status because it comes into contact with something that is not ‘gluten-free’
+- ‘Gluten-free’ status must prevail at **every link of the chain**. Cross-contamination with gluten can occur at any stage, unintentionally, for example:
 
-- 
-
-- 
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-It is the process by which a ‘gluten-free’ product loses that status because it comes into contact with something that is not
-‘gluten-free’
-
-‘Gluten-free’ status must prevail at every link of the chain.  Cross-contamination with gluten can occur at any stage,
-unintentionally, for example
-
-Incorrect formulation
-
-Inappropriate production sequencing
-
-Poor rework
-
-Product carry-over
-
-Use of common equipment
-
-Poor clean-up and/or sanitation
-
-Poor equipment design
-
-Human error
+1. Incorrect formulation
+2. Inappropriate production sequencing
+3. Poor rework
+4. Product carry-over
+5. Use of common equipment
+6. Poor clean-up and/or sanitation
+7. Poor equipment design
+8. Human error
 
 ## Slide 508
 
@@ -8668,11 +7571,9 @@ Introduce CCP’s to control these hazards
 
 ![Slide 510](food_law_slides/slide_510.png)
 
-### “Unintentional presence” — Cross contamination & Allergens
+### “Unintentional presence” Cross contamination & Allergens
 
-- The legislation does not apply to unintentional cross-contamination of
-foods with allergenic ingredients which are used on a manufacturing site
-for foods which are known to contain allergens.
+- The legislation does not apply to unintentional cross-contamination of foods with allergenic ingredients which are used on a manufacturing site for foods which are known to contain allergens.
 
 - Manufacturers should have in place good manufacturing practices
 
@@ -8747,17 +7648,17 @@ DATE:24THAPRIL   2026
 ### Sustainability on your label?
 
 - How to communicate
-- Regulation on Deforestation-free Products
+    - Regulation on Deforestation-free Products
 
 Today's Topics   Healthy Food
 
-- Nutrient Profiles
-- Reformulation
+    - Nutrient Profiles
+    - Reformulation
 
                  Two Terms governed by legislation and regulation:
 
-- Organic
-- GMO
+    - Organic
+    - GMO
 
 ## Slide 514
 
@@ -8771,44 +7672,26 @@ How can you indicate sustainability on your label?
 
 ![Slide 515](food_law_slides/slide_515.png)
 
-### Farm to Fork Strategy — Sustainable EU food system
+### Farm to Fork Strategy
 
-“designing a fair, healthy and
-                        environmentally-friendly food system”
+**Sustainable EU food system**
 
-                        Expectation that Sustainable Food Laws
-                        would follow
+> "designing a fair, healthy and environmentally-friendly food system"
+
+Expectation that Sustainable Food Laws would follow.
+
+*(See slide image for the Farm to Fork wheel diagram: Sustainable Food Production, Sustainable Food Processing & Distribution, Sustainable Food Consumption, Food Loss & Waste Prevention.)*
 
 ## Slide 516
 
 ![Slide 516](food_law_slides/slide_516.png)
 
-### EU’s proposal for a revision of Regulation (EU) No — 1169/2011 on the provision of food information to — consumers.
+### EU's Proposal for a Revision of Regulation (EU) No 1169/2011
 
-1.
-
-Proposal for mandatory front-of-pack nutrition labelling
-
-2. Nutrient Profiles - the setting of ‘nutrient profiles’ restricting promotion (via nutrition and health
-
-claims on food labels) of foods which are high in fat, sugar and salt
-
-3.
-
-Extension of mandatory origin or provenance for certain products
-
-4. Date Marking - revise the current EU rules on date marking (‘use-by’ and ‘best before’) to reduce
-
-food waste
-
-Read more here:
-
-https://www.fsai.ie/news_centre/food_labelling_consultation_update_01032022.html
-
-And
-
-https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12749-Food-labelling-
-revision-of-rules-on-information-provided-to-consumers_en
+1. Proposal for mandatory **front-of-pack nutrition labelling**
+2. **Nutrient Profiles** — the setting of 'nutrient profiles' restricting promotion (via nutrition and health claims on food labels) of foods which are high in fat, sugar and salt
+3. Extension of mandatory **origin or provenance** for certain products
+4. **Date Marking** — revise the current EU rules on date marking ('use-by' and 'best before') to reduce food waste
 
 ## Slide 517
 
@@ -8844,13 +7727,13 @@ See commentary here.
 
 ![Slide 518](food_law_slides/slide_518.png)
 
-### Think about this in for NPD — Country of Origin
+### Country of Origin Ingredients Voluntary Terms
+
+Think about this in for NPD
 
 Could anything on your label
-                               Ingredients
 indicate that the product is   Nutrition
 more sustainable?
-                               Voluntary Terms
                                Traceability and how short is your supply chain
                                Who is your target market?
                                Meat Substitution – how?
@@ -8877,7 +7760,7 @@ products.
 
 ![Slide 520](food_law_slides/slide_520.png)
 
-### Regulation on Deforestation-free — Products
+### Regulation on Deforestation-free Products
 
 EU rules to guarantee that the products EU citizens consume do not contribute to
 deforestation or forest degradation worldwide.
@@ -8918,7 +7801,7 @@ the environment.
 
 It is an amendment to the 2014 Non-Financial Reporting Directive. It introduces more
 detailed reporting requirements and ensures that large companies are required to report
-on sustainability issues suc
+- n sustainability issues suc
 
 A large company in this context is one that meets at least two of the three following
 criteria is one with > 250 employees and/or > €40M turnover and/or > €20M in total
@@ -8947,7 +7830,7 @@ track and measure the environmental impact of your business. More here.
 
 ![Slide 524](food_law_slides/slide_524.png)
 
-### Green Washing — and Green — Hushing
+### Green Washing and Green — Hushing
 
 ## Slide 525
 
@@ -8983,8 +7866,10 @@ broader system.
 
 ![Slide 526](food_law_slides/slide_526.png)
 
-### Green Laws in EU — A new directive on empowering consumers for the green transition — was adopted in 2024, to better inform and protect them against
+### Green Laws in EU
 
+A new directive on empowering consumers for the green transition
+was adopted in 2024, to better inform and protect them against
 unfair labelling practices. On 22 March 2023, the Commission also
 published its proposal for the Green Claims Directive. These two
 legal acts will define the conditions for the use of sustainability labels
@@ -9009,18 +7894,21 @@ future.
 
 ![Slide 529](food_law_slides/slide_529.png)
 
-### Farm to Fork Strategy — “designing a fair, healthy and — environmentally-friendly food system”
+### Farm to Fork Strategy
+
+“designing a fair, healthy and
+                        environmentally-friendly food system”
 
 ## Slide 530
 
 ![Slide 530](food_law_slides/slide_530.png)
 
-### What does the F2F Strategy — say about organics in the EU?
+### What does the F2F Strategy say about organics in the EU?
 
 F2F and Biodiversity strategies adopted 25/3/22
 
 2030 Target that 25% of agricultural land will be given over to
-organic production
+- rganic production
 
 Currently 9.1% of EU's UAA (Approx. 15 million hectares)
 
@@ -9054,7 +7942,7 @@ Organic Livestock is 1%
 Organic farming is an agricultural method that aims to produce food using natural substances and processes.
 
 The EU sets out a number of rules and regulations governing the production, distribution and marketing of
-organic products in the EU. There are specific regulations related to particular products.
+- rganic products in the EU. There are specific regulations related to particular products.
 
 Since 1 January 2022, Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 is
 the applicable legislative act, also known as the basic act, laying down the rules on organic production and
@@ -9070,13 +7958,15 @@ See here for more details on legislation.
 
 ![Slide 533](food_law_slides/slide_533.png)
 
-### What is organic food? — Organic food is the product of an agricultural farming system that — places a strong emphasis on environmental protection and
+### What is organic food?
 
+Organic food is the product of an agricultural farming system that
+places a strong emphasis on environmental protection and
 animal welfare. While organic and non-organically produced food
 may appear very similar, the systems of farming involved in
 their production can be very different. Food can only be labelled and
 marketed as organic when produced on a farm certified as
-organic and inspected by an official certification body.
+- rganic and inspected by an official certification body.
 
 ## Slide 534
 
@@ -9088,7 +7978,7 @@ organic and inspected by an official certification body.
 
 ![Slide 535](food_law_slides/slide_535.png)
 
-### Importance of — Organic
+### Importance ofOrganic
 
 Environment
 
@@ -9127,15 +8017,9 @@ decrease country divergence in order to drive improved sustainability outcomes. 
 most relevant provisions for the hospitality and foodservice sector are new targets for the
 takeaway sector to encourage a shift towards reusable and refillable packaging.
 
-- By February 2027, hospitality, restaurant and catering companies offering takeaway will need
-to provide a system for consumers to be able to bring their own containers. By 2028 they'll
-need to have the option of obtaining products in reusable packaging and have an associated
-system of reuse, and by 2030 final distributors will need to endeavor to offer 10% of products
-in reusable packaging.
+- By February 2027, hospitality, restaurant and catering companies offering takeaway will need to provide a system for consumers to be able to bring their own containers. By 2028 they'll need to have the option of obtaining products in reusable packaging and have an associated system of reuse, and by 2030 final distributors will need to endeavor to offer 10% of products in reusable packaging.
 
-- Updated requirements for extended producer responsibility, and for an EU-wide deposit
-return scheme by January 2029, designed to help member states meet a target of 90%
-collection for single use plastic beverage bottles and single use metal beverage containers.
+- Updated requirements for extended producer responsibility, and for an EU-wide deposit return scheme by January 2029, designed to help member states meet a target of 90% collection for single use plastic beverage bottles and single use metal beverage containers.
 
 - The PPWR prohibits the placing of food contact packaging on the market if it contains PFAS
 
@@ -9169,24 +8053,21 @@ Assignment            Examination
 
 ![Slide 542](food_law_slides/slide_542.png)
 
-### Labelling Assignment
+### Labelling Assignment KNOWLEDGE AND REFERENCES MISSING
 
 DELAY IN FEEDBACK    FEEDBACK IDENTIFIES GAPS IN YOUR
-                         KNOWLEDGE AND REFERENCES MISSING
                               – CAN HELP FOR REVISON
 
 ## Slide 543
 
 ![Slide 543](food_law_slides/slide_543.png)
 
-### Exam Format
+### Exam Format question
 
 - 3 hours
 - 3 out of 5 questions to be answered
 - All questions carry equal marks
 - Questions show how marks allocated within
-
-question
 
 - References to legislation extra marks.
 - Pass mark = 40%
@@ -9195,11 +8076,9 @@ question
 
 ![Slide 544](food_law_slides/slide_544.png)
 
-### Where can I — find passed — exam
+### Where can I find passed exam LIBRARY Brightspace
 
 papers?
-
-LIBRARY
 
 You can access past exam papers online. Visit the Library website for
 information on how to find and access past exam papers for your
@@ -9212,10 +8091,7 @@ Please note that we only hold papers for the previous five years from
 collection from 2020-2022 due to the COVID-19 pandemic.
 
 When searching use module code = TFCA1402 and an older version
-of this module = TFFL9007.  (Note, the older version is also delivered
-to FSEH School with slightly different emphasis on questions.)
-
-Brightspace
+- f this module = TFFL9007.  (Note, the older version is also delivered to FSEH School with slightly different emphasis on questions.)
 
 For you convenience, I have uploaded a sample on Brightspace.
 
@@ -9227,8 +8103,7 @@ For you convenience, I have uploaded a sample on Brightspace.
 
 - Food Information, where it can be misleading
 
-- Food Information to the consumer in context of misleading information: Can we use terms
-like milk, sausage, steak.  Debate from perspective of meat lobby and vegetarian/vegan.
+- Food Information to the consumer in context of misleading information: Can we use terms like milk, sausage, steak.  Debate from perspective of meat lobby and vegetarian/vegan.
 
 - Food Information to the consumer in context of misleading information and greenwashing.
 
@@ -9240,7 +8115,7 @@ Sustainability in food labelling – see extra slides and resources
 
 - The General Food Law – is it is fit for purpose.  Can refer back also to experience
 
-of BSE, dioxin and other cases – covered mostly
+- f BSE, dioxin and other cases – covered mostly
 
 ## Slide 546
 
@@ -9258,13 +8133,11 @@ Food Information for Consumers and Labelling
 
 1. The General Food Law
 2. Role of EFSA and FSAI
-3. Running a Food Business – how do you comply with Food Legislation
-4.
+3. Running a Food Business – how do you comply with Food Legislation 4.
 5. Nutrition & Health Claims
 6. The Hygiene Package
 7. Allergen Management
-8. Traceability and Risk Analysis
-9.
+8. Traceability and Risk Analysis 9.
 
 Some more specific rules:  Organic, Gluten-Free, Communicating Voluntary
 claims around sustainability etc
@@ -9276,12 +8149,11 @@ every paper, some in May and others in the supplementals.
 
 ![Slide 548](food_law_slides/slide_548.png)
 
-### The General Food Law
+### The General Food Law matters of food safety
 
 Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28
 January 2002 laying down the general principles and requirements of food law,
 establishing the European Food Safety Authority and laying down procedures in
-matters of food safety
 - Article 5 & 8: Fair Information Practices (misleading)
 - Article 7:  Precautionary Principle
 - Article 6:  Risk Assessment
@@ -9319,19 +8191,17 @@ food business
      Food          Step 4      Food Safety Training
  regulations?
                    Step 5      Comply with food laws
-- Microbial Growth
-- Labelling including making nutrition and health claims
-- Other voluntary labelling sometimes regulated
-                Reference to
-                               FSAI Guidance on Starting a Food Business here
-                                                                         here.
-                 legislation
+    - Microbial Growth
+    - Labelling including making nutrition and health claims
+    - Other voluntary labelling sometimes regulated Reference to FSAI Guidance on Starting a Food Business here here. legislation
 
 ## Slide 551
 
 ![Slide 551](food_law_slides/slide_551.png)
 
-### Food Safety Culture — New Legislation and linked resource
+### Food Safety Culture webinar here
+
+New Legislation and linked resource
 
 Since March 2021, there is a legal requirement that all food businesses to
 establish, maintain and demonstrate an appropriate food safety culture
@@ -9342,11 +8212,7 @@ food businesses to provide evidence of an appropriate food safety culture
 by satisfying a number of requirements set out in the regulation.
 
 Please see the learning portal here where you can complete a short
-online module. Also, this links to a webinar about new rules.
-
-webinar
-
-here
+- nline module. Also, this links to a webinar about new rules.
 
 ## Slide 552
 
@@ -9354,34 +8220,16 @@ here
 
 ### Food Hygiene
 
-- 
-- 
-
-Pre-requisites and good manufacturing practice
-The Food Safety Management System (FSMS): (i) food safety (ii) traceability, (iii) NEW food safety
-culture (iv) NEW food waste and (iv) allergens.
-
+- Pre-requisites and good manufacturing practice
+- The Food Safety Management System (FSMS): (i) food safety (ii) traceability (iii) NEW food safety culture (iv) NEW food waste (iv) allergens
 - What does flexibility mean in this context?
 
-Legislation
+**Legislation:**
 
-o
-
-o
-
-o
-
-o
-
-Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the
-hygiene of foodstuffs
-Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying
-down specific hygiene rules for food of animal origin
-Commission Regulation (EC) No 2073/2005 of 15 November 2005 on microbiological criteria for
-foodstuffs (Text with EEA relevance)
-COMMISSION REGULATION (EU) 2021/382 of 3 March 2021 amending the Annexes to Regulation
-(EC) No 852/2004 of the European Parliament and of the Council on the hygiene of foodstuffs as
-regards food allergen management, redistribution of food and food safety culture
+- **Regulation (EC) No 852/2004** of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs
+- **Regulation (EC) No 853/2004** of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin
+- **Commission Regulation (EC) No 2073/2005** of 15 November 2005 on microbiological criteria for foodstuffs
+- **Commission Regulation (EU) 2021/382** of 3 March 2021 amending the Annexes to Regulation (EC) No 852/2004 as regards food allergen management, redistribution of food and food safety culture
 
 ## Slide 553
 
@@ -9399,28 +8247,14 @@ regards food allergen management, redistribution of food and food safety culture
 
 ### Food Information to Consumers
 
-How do you communicate information within the parameters of the legislation?
-
 - What is the purpose of this legislation?
-- 
-- What is misleading?
-- 
+- How do you communicate information within the parameters of the legislation?
+- What is **misleading**?
+- Free-from claims: allergen/nut-free or dairy-free; lactose free; meat-free/vegetarian/vegan; gluten-free
 
-Free-from claims: allergen/nut-free or dairy-free; lactose free; meat-
-free/vegetarian/vegan/; gluten-free;
+**Food Information to Consumers (FIC): Regulation (EU) No 1169/2011** of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006, and repealing Commission Directives 87/250/EEC, 90/496/EEC, 1999/10/EC, 2000/13/EC, 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004.
 
-Food Information to Consumers (FIC): Regulation (EU) No 1169/2011 of the
-European Parliament and of the Council of 25 October 2011 on the provision of
-food information to consumers, amending Regulations (EC) No 1924/2006 and (EC)
-No 1925/2006 of the European Parliament and of the Council, and
-repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC,
-Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament
-and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission
-Regulation (EC) No 608/2004 Text with EEA relevance
-Gluten-Free Legislation:
-
-Commission Implementing Regulation (EU) No 828/2014 of 30 July 2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in
-food Text with EEA relevance
+**Gluten-Free Legislation:** Commission Implementing Regulation (EU) No 828/2014 of 30 July 2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in food.
 
 ## Slide 555
 
@@ -9428,42 +8262,21 @@ food Text with EEA relevance
 
 ### Nutritional Information and Claims
 
-- 
+- **Nutrition Declaration** — what to include:
+    - Mandatory
+    - Supplementary
+    - Front of Pack
+- **Nutrition Claims:**
+    - Define and reference Reg 1924/2006
+    - Know how to check if you can make a claim (Annex)
+- **Health Claims:**
+    - Define and reference Reg 1924/2006
+    - How do you check if a health claim is authorised?
 
-- 
+**Legislation:**
 
-- 
-
-Nutrition Declaration what to include
-- 
-Mandatory
-- 
-Supplementary
-- 
-Front of Pack
-Nutrition Claims
-- 
-- 
-Health Claims
-- 
-- 
-
-Define and reference Reg 1924/2006
-Know how to check if you can make a claim (Annex)
-
-Define and reference Reg 1924/2006
-How so you check if a health claim is authorized?
-
-Legislation:
-o
-
-o
-
-Nutrition & Health Claims: Regulation (EC) No 1924/2006 of the European Parliament and of the
-Council of 20 December 2006 on nutrition and health claims made on foods
-Food Fortification: REGULATION (EC) No 1925/2006 OF THE EUROPEAN PARLIAMENT AND OF THE
-COUNCIL of 20 December 2006 on the addition of vitamins and minerals and of certain other
-substances to foods
+- **Nutrition & Health Claims:** Regulation (EC) No 1924/2006 of the European Parliament and of the Council of 20 December 2006 on nutrition and health claims made on foods
+- **Food Fortification:** Regulation (EC) No 1925/2006 of the European Parliament and of the Council of 20 December 2006 on the addition of vitamins and minerals and of certain other substances to foods
 
 ## Slide 556
 
@@ -9491,26 +8304,14 @@ substances to foods
 
 ### Sustainability and the Green New Deal
 
-- 
-
 - Organic is defined and legislated for in the EU
-- 
+- How important is Organic status/certification and how is this communicated to producer/consumer?
+- Are there other ways to communicate sustainability? E.g. Country of Origin, Geographic Indication; voluntary claims to communicate sustainability such as free-from meat, reduced meat, plant-based alternatives etc.
+- **Are any of these claims misleading?**
 
-How important is Organic status/certification and how is this communicated to
-producer/consumer?
-Are there other ways to communicate sustainability? E.g. Country of Origin,
-Geographic Indication; Other voluntary claims to communicate sustainability such
-as free-from meat, reduced meat, plant-based alternatives etc.
-Are any of these claims misleading?
+**Organic Legislation:** Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007. *(FSAI website not fully updated)*
 
-- 
-Organic Legislation: Regulation (EU) 2018/848 of the European Parliament and of the
-Council of 30 May 2018 on organic production and labelling of organic products and
-repealing Council Regulation (EC) No 834/2007 Link to EU Commission website of
-Organic Sector here. (FSAI website not fully updated here)
-Marketing of Agricultural Products: Regulation (EU) No 1308/2013 of the European
-Parliament and of the Council of 17 December 2013 establishing a common
-organisation of the markets in agricultural products
+**Marketing of Agricultural Products:** Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products.
 
 ## Slide 558
 
@@ -9526,22 +8327,13 @@ organisation of the markets in agricultural products
 
 ![Slide 559](food_law_slides/slide_559.png)
 
-### Key Legislation to remember
+### Key Legislation to remember food safety
 
 - The General Food Law: Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the
 
 general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of
-food safety
 
 - Food Hygiene
-
-o
-
-o
-
-o
-
-o
 
 Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs
 
@@ -9558,42 +8350,32 @@ the provision of food information to consumers, amending Regulations (EC) No 192
 Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive
 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and
 Commission Regulation (EC) No 608/2004 Text with EEA relevance
-o
 
 Nutrition & Health Claims: Regulation (EC) No 1924/2006 of the European Parliament and of the Council of 20 December 2006 on nutrition and health claims made on foods
-
-o
-
-o
 
 Food Fortification: REGULATION (EC) No 1925/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 December 2006 on the addition of vitamins an d minerals and of certain other substances to foods
 
 Marketing of Agricultural Products: Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products
 
-- Organic Legislation: Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of  organic
-products and repealing Council Regulation (EC) No 834/2007 Link to EU Commission website of Organic Sector here. (FSAI website not fully updated here)
+- Organic Legislation: Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of  organic products and repealing Council Regulation (EC) No 834/2007 Link to EU Commission website of Organic Sector here. (FSAI website not fully updated here)
 
-- GMO Legislation: Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food  and feed
-and Regulation (EC) No 1830/2003 of the European Parliament and of the Council of 22 September 2003 concerning the traceability and labelling of genetically
-modified organisms and the traceability of food and feed products produced from genetically modified organisms and amending Directive 2001/18/EC
+- GMO Legislation: Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food  and feed and Regulation (EC) No 1830/2003 of the European Parliament and of the Council of 22 September 2003 concerning the traceability and labelling of genetically modified organisms and the traceability of food and feed products produced from genetically modified organisms and amending Directive 2001/18/EC
 
 ## Slide 560
 
 ![Slide 560](food_law_slides/slide_560.png)
 
-### FSAI Resources — FSAI Workshop – Slides available on Brightspace
+### FSAI Resources here here here here
+
+FSAI Workshop – Slides available on Brightspace
 
 FSAI Website here.
-             here
 
 Starting a Food Business here.
-                        here
 
 FSAI have introduced a new Learning Portal here.
-                                           here
 
 FSAI webinars are available here.
-                               here
 
 FSAI eModules on labelling already completed for labelling assignment.
 
@@ -9629,44 +8411,24 @@ FSAI Food Reformulation Task Force: Priority Food Categories for Reformulation i
 
 ![Slide 562](food_law_slides/slide_562.png)
 
-### Important — Regulations
+### Important Regulations
 
-- Regulation EC No 178/2002: Defines Food, Consumer Interests, Recall & Traceability
+- **Regulation EC No 178/2002** — Defines Food, Consumer Interests, Recall & Traceability
+- **FOOD SAFETY AUTHORITY OF IRELAND ACT, 1998**
+- **Regulation EC No 852/2004** — Hygiene of Foodstuffs: Food Hygiene, HACCP & FBO
+- **Regulation EC No 853/2004** — Hygiene of Food of Animal Origin: Food Hygiene, HACCP & FBO
+- **\*\*\*\*Regulation EC No 2017/625** — *Official Controls Regulation*
+- **Regulation EC No 1169/2011** — FIC & Nutritional Declarations
+- **\*\*\*\*Regulation EC No 2073/2005** — *Microbiological Criteria (FSAI workshop)*
+- **Regulation EC No 1924/2006** — Nutrition & Health Claims
+- **Regulation EC No 1925/2006** — Vitamins & Minerals
+- **Regulation (EU) No 432/2012** — permitted health claims made on foods, other than those referring to the reduction of disease risk and to children's development and health
+- **Regulation EC No 1331–1334/2008** — Food additives, enzymes & flavourings
+- **Regulation (EU) No 828/2014** — Gluten Intolerance
+- **Regulation (EU) No 1308/2013** — establishing a common organisation of the markets in agricultural products
+- **\*\*\*\*Regulation (EU) 2015/2283** — *Novel Foods (covered in FSAI workshop)*
 
-- 
-
-FOOD SAFETY AUTHORITY OF IRELAND ACT, 1998
-
-- Regulation EC No 852/2004: Hygiene of Foodstuffs - Food Hygiene & HACCP & FBO
-
-- Regulation EC No 853/2004: Hygiene of Food of Animal origin - Food Hygiene & HACCP & FBO
-
-- ****Regulation EC No 2017/625: Official Controls Regulation
-
-- Regulation EC No 1169/2011: FIC & Nutritional Declarations
-
-- ****Regulation EC No 2073/2005: Microbiological Criteria (FSAI workshop)
-
-- Regulation EC No 1924/2006: Nutrition & Health Claims
-
-- Regulation EC No 1925/2006: Vitamins & Minerals
-
-- REGULATION (EU) No 432/2012: permitted health claims made on foods, other than those
-
-referring to the reduction of disease risk and to children's development and health
-
-- Regulation EC No 1331-1334/2008: Food additives, enzymes & flavourings
-
-- Regulation (EU) No 828/2014 : Gluten Intolerance
-
-- REGULATION (EU) No 1308/2013 … establishing a common organisation of the markets in
-
-agricultural products (and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC)
-No 1234/2007)
-
-- ****Regulation (EU) 2015/2283: Novel Foods (covered in FSAI workshop)
-
-- **** Please note regulations in italics not covered in detail this year.
+*\*\*\*\* Please note regulations in italics not covered in detail this year.*
 
 ## Slide 563
 

@@ -1,6 +1,7 @@
 ![Slide 258](food_law_slides/slide_258.png)
 
-### What is a — claim?
+### What is a which is not mandatory
+
+claim?
 
 Any message or representation,
-which is not mandatory

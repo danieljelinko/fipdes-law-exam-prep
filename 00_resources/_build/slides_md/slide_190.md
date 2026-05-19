@@ -10,6 +10,6 @@
 **Frozen meat, frozen meat preparations & frozen unprocessed fishery products** must now show:
 
 - Date of freezing, **or**
-- Date of first freezing where product has been frozen more than once (with words “frozen on….”)
+- Date of first freezing where product has been frozen more than once (with words "frozen on….")
 
-**’Use by’ date expired:** Food considered unsafe — Reg 178/2002
+**'Use by' date expired:** Food considered unsafe — Reg 178/2002

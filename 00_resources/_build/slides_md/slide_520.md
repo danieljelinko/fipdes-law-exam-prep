@@ -1,6 +1,6 @@
 ![Slide 520](food_law_slides/slide_520.png)
 
-### Regulation on Deforestation-free — Products
+### Regulation on Deforestation-free Products
 
 EU rules to guarantee that the products EU citizens consume do not contribute to
 deforestation or forest degradation worldwide.

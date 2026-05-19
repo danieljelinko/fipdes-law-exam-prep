@@ -1,12 +1,12 @@
 ![Slide 287](food_law_slides/slide_287.png)
 
-### Summary:  How to find out if you can make a — nutrition or health claim on your food product
+### Summary:  How to find out if you can make a
+
+nutrition or health claim on your food product
 
 1. Describe your food product
 
-    a. What nutrients are in your food product?
-b.
-c.
+    - a) What nutrients are in your food product? b. c.
 
 How much of each nutrient is present in 100g or 100ml of your food, as eaten?
 Is your food product high in total fat, saturated fat, trans fat, sugars and salt, so that when nutrient profiles

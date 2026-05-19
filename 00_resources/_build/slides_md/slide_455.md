@@ -1,6 +1,6 @@
 ![Slide 455](food_law_slides/slide_455.png)
 
-### Chapter II — Food Business Operators obligations
+### Chapter II Food Business Operators obligations
 
 FBOs obligations.....
 

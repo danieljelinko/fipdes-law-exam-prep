@@ -1,12 +1,19 @@
 ![Slide 177](food_law_slides/slide_177.png)
 
-### How Are Allergens Identified on Labels?
+### Pre-packaged foods and allergens       • Contains Box
 
-**Pre-packaged foods** — allergens must be:
+1. declare in the ingredients list
 
-1. Declared in the ingredients list, **and**
-2. Emphasised through a TYPESET which clearly distinguishes it from the rest of the ingredients e.g. means of font, **style**, background colour
+How are         2.    emphasise through a TYPESET which clearly
+                      distinguishes if from the rest of the ingredients for e.g.
+                      means of font, style, background colour
 
-**Contains Box:** The use of a ‘contains’ box or statement declaring, for example ‘contains nuts’, is **no longer allowed**. Allergenic ingredients must now be declared and highlighted in the list of ingredients **only**.
+    - The use of a ‘contains’ box or statement declaring, for
 
-**Non Pre-packaged foods:** Since 13 December 2014, allergens must also be declared on non pre-packaged food e.g. restaurants, delis, canteens, takeaways, cafes, retail outlets etc.
+identified on     example 'contains nuts', is no longer allowed. Allergenic
+                  ingredients must now be declared and highlighted in the
+                  list of ingredients only.
+
+labels?         • Non Pre-packaged foods
+    - Since 13 December 2014, allergens must also be declared
+    - n non pre-packaged food e.g. restaurants, delis, canteens, takeaways, cafes, retail outlets etc.,

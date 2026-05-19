@@ -14,6 +14,5 @@ Specific health claims based on newly developed scientific evidence
 
 3. Article 14 claims:
 
-    a. Claims referring to reduction of disease risk
-    b. Claims referring to children’s development and health
-e.g. calcium is good for children’s growth
+    - a) Claims referring to reduction of disease risk
+    - b) Claims referring to children’s development and health e.g. calcium is good for children’s growth

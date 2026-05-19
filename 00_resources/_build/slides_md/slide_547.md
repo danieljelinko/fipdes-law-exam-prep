@@ -6,13 +6,11 @@ Food Information for Consumers and Labelling
 
 1. The General Food Law
 2. Role of EFSA and FSAI
-3. Running a Food Business – how do you comply with Food Legislation
-4.
+3. Running a Food Business – how do you comply with Food Legislation 4.
 5. Nutrition & Health Claims
 6. The Hygiene Package
 7. Allergen Management
-8. Traceability and Risk Analysis
-9.
+8. Traceability and Risk Analysis 9.
 
 Some more specific rules:  Organic, Gluten-Free, Communicating Voluntary
 claims around sustainability etc

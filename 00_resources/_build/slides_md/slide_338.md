@@ -2,11 +2,7 @@
 
 ### Glyphosphate
 
-- On 12 December 2017, the Commission renewed
-the approval of glyphosate for 5 years, following
-support by a qualified majority of Member States
-in an Appeal Committee held on 27 November
-2017.
+- On 12 December 2017, the Commission renewed the approval of glyphosate for 5 years, following support by a qualified majority of Member States in an Appeal Committee held on 27 November 2017.
 
 - Therefore, glyphosate can be used as an active
 

@@ -1,6 +1,6 @@
 ![Slide 466](food_law_slides/slide_466.png)
 
-### SAFEFOOD — Report (2018)
+### SAFEFOOD Report (2018)
 
 This report provides details on the
 current situation across the island of

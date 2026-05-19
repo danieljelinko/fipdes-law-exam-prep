@@ -1,5 +1,6 @@
 {
   "page": 361,
   "layout": "title_hr_body + paragraphs",
-  "auto_generated": true
+  "auto_generated": false,
+  "reflow_version": 2
 }

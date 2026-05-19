@@ -3,9 +3,7 @@
 ### What is “The Hygiene Package”
 
 The "Hygiene Package" is a set of European Union regulations designed to ensure a high level
-of food safety and consumer protection throughout the food production chain. Introduced in
-2006, the regulatory framework aims to harmonise food safety standards within the EU,
-covering all aspects of food production, processing and distribution.
+- f food safety and consumer protection throughout the food production chain. Introduced in 2006, the regulatory framework aims to harmonise food safety standards within the EU, covering all aspects of food production, processing and distribution.
 
 The Aim
 

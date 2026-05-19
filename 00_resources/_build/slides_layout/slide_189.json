@@ -1,5 +1,6 @@
 {
   "page": 189,
-  "layout": "title_hr_body + paragraphs",
-  "auto_generated": true
+  "layout": "title_hr_body + bulleted_list(\u2751|o)",
+  "auto_generated": false,
+  "reflow_version": 2
 }

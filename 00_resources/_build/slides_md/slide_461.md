@@ -1,15 +1,7 @@
 ![Slide 461](food_law_slides/slide_461.png)
 
-### Labelling of Meat a concern for — consumers
+### Labelling of Meat — A Concern for Consumers
 
-Certain meat-based foods sold in
-  supermarkets in the European Union            The European Commission wants to
-   are not properly labelled or do not           tighten food labelling rules in the
-   contain accurate information about              wake of the recent horsemeat
-     their ingredients - says Brussels          scandal. Report here. Published on
-                                says Brussels                   here
+- Certain meat-based foods sold in supermarkets in the European Union are not properly labelled or do not contain accurate information about their ingredients — *says Brussels-based consumer lobby group, the European Consumers Organisation.*
 
-    based consumer lobby group - the
-   based consumer lobby group
-                                                            May 6, 2013
-   European Consumers Organisation.
+- The European Commission wants to tighten food labelling rules in the wake of the recent **horsemeat scandal**. *(Published May 6, 2013)*

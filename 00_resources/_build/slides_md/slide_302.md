@@ -1,14 +1,12 @@
 ![Slide 302](food_law_slides/slide_302.png)
 
-### Voluntary Terms
+### Voluntary Terms Today’s   • Gluten-Free Lecture
 
 - Vegetarian
-- Vegan
-Today’s   • Gluten-Free
-- Fairtrade
-Lecture
-- Organic
-- Free-Range
-- GMO
-- Geographic Indications
-- Other Voluntary Terms
+    - Vegan
+    - Fairtrade
+    - Organic
+    - Free-Range
+    - GMO
+    - Geographic Indications
+    - Other Voluntary Terms

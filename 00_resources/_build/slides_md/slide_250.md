@@ -1,12 +1,11 @@
 ![Slide 250](food_law_slides/slide_250.png)
 
-### Nutritional Labelling
+### Nutritional Labelling Nutrition information must be
 
 How must the information be
   What must appear in the nutrition
                                                       presented?
                declaration?
-                                            Nutrition information must be
    Information on the following must
                                           presented in a tabular format with
   be declared per 100g/ml of the final

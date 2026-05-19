@@ -4,8 +4,7 @@
 
 - Food Information, where it can be misleading
 
-- Food Information to the consumer in context of misleading information: Can we use terms
-like milk, sausage, steak.  Debate from perspective of meat lobby and vegetarian/vegan.
+- Food Information to the consumer in context of misleading information: Can we use terms like milk, sausage, steak.  Debate from perspective of meat lobby and vegetarian/vegan.
 
 - Food Information to the consumer in context of misleading information and greenwashing.
 
@@ -17,4 +16,4 @@ Sustainability in food labelling – see extra slides and resources
 
 - The General Food Law – is it is fit for purpose.  Can refer back also to experience
 
-of BSE, dioxin and other cases – covered mostly
+- f BSE, dioxin and other cases – covered mostly

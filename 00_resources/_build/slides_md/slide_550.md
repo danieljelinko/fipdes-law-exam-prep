@@ -12,10 +12,6 @@ food business
      Food          Step 4      Food Safety Training
  regulations?
                    Step 5      Comply with food laws
-- Microbial Growth
-- Labelling including making nutrition and health claims
-- Other voluntary labelling sometimes regulated
-                Reference to
-                               FSAI Guidance on Starting a Food Business here
-                                                                         here.
-                 legislation
+    - Microbial Growth
+    - Labelling including making nutrition and health claims
+    - Other voluntary labelling sometimes regulated Reference to FSAI Guidance on Starting a Food Business here here. legislation

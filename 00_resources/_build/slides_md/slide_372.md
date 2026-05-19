@@ -1,14 +1,12 @@
 ![Slide 372](food_law_slides/slide_372.png)
 
-### FBO has primary responsibility for food safety
+### Maintenance of cold chain Provisions Guides to Good Practice
 
-Need to ensure food safety throughout food chain
+FBO has primary responsibility for food safety
 
-             Maintenance of cold chain
+             Need to ensure food safety throughout food chain
 
 General      HACCP principles & Good Hygiene Practices (GHP)
-Provisions
-             Guides to Good Practice
 
              Microbiological criteria and temperature control
 

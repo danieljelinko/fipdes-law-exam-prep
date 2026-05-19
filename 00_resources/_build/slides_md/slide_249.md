@@ -1,21 +1,8 @@
 ![Slide 249](food_law_slides/slide_249.png)
 
-### Per 100g/ml — Energy                        kJ/kcal
+### Per 100g/mlEnergy                        kJ/kcal
 
 Supplementary                       Fat
-                                       of which saturates
-                                                                  g
-                                                                  g
-Information                                     monounsaturates
-                                                polyunsaturates
-                                                                  g
-                                                                  g
+    - f which saturates g g Information                                     monounsaturates polyunsaturates g g
 - Note: This is a closed list and   Carbohydrate                  g
-other nutrients cannot be              of which sugars
-added. If a healthy/nutrient                    polyols
-claim is authorised and applies                 starch            g
-to a ‘non listed’
-nutrient/substance then the         Fibre                         g
-amount must be declared near        Protein                       g
-to the nutrient list e.g. Omega 3   Salt                          g
-                                    Vitamins and Minerals         Units specified   in Annex XIII   and % RI
+- ther nutrients cannot be              of which sugars added. If a healthy/nutrient                    polyols claim is authorised and applies                 starch            g to a ‘non listed’ nutrient/substance then the         Fibre                         g amount must be declared near        Protein                       g to the nutrient list e.g. Omega 3   Salt                          g Vitamins and Minerals         Units specified   in Annex XIII   and % RI

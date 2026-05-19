@@ -3,7 +3,7 @@
 ### Meat labelling confusing
 
 The requirement to state where meat originates differs depending on the type of meat.  For some meats,
-origin can be easily determined. For others, it is less clear.
+- rigin can be easily determined. For others, it is less clear.
 
 For beef, it’s simple. The country of origin must be given, according to the authority. That applies to both
 fresh and frozen cuts and cuts sold pre-packed or at a butcher counter.

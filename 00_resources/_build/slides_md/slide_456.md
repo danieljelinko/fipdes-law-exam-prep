@@ -1,6 +1,6 @@
 ![Slide 456](food_law_slides/slide_456.png)
 
-### Article 5: — Health and Identification Marks
+### Article 5:Health and Identification Marks
 
 1. Fresh meat must bear a health mark applied by an official veterinarian (see
 

@@ -1,10 +1,8 @@
 ![Slide 510](food_law_slides/slide_510.png)
 
-### “Unintentional presence” — Cross contamination & Allergens
+### “Unintentional presence” Cross contamination & Allergens
 
-- The legislation does not apply to unintentional cross-contamination of
-foods with allergenic ingredients which are used on a manufacturing site
-for foods which are known to contain allergens.
+- The legislation does not apply to unintentional cross-contamination of foods with allergenic ingredients which are used on a manufacturing site for foods which are known to contain allergens.
 
 - Manufacturers should have in place good manufacturing practices
 

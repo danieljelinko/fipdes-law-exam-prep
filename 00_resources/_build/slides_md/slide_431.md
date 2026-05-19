@@ -1,13 +1,7 @@
 ![Slide 431](food_law_slides/slide_431.png)
 
-### Who must — comply with the — HACCP
+### Who must comply with the HACCP requirement of Regulation 852/2004?
 
-requirement of
-Regulation
-852/2004?
+ALL food businesses with the exception of primary producers & associated operations
 
-ALL food businesses with the
-exception of primary producers &
-associated operations
-
-Article 5.3 & Article 16.2
+> Article 5.3 & Article 16.2

@@ -1,12 +1,12 @@
 ![Slide 518](food_law_slides/slide_518.png)
 
-### Think about this in for NPD — Country of Origin
+### Country of Origin Ingredients Voluntary Terms
+
+Think about this in for NPD
 
 Could anything on your label
-                               Ingredients
 indicate that the product is   Nutrition
 more sustainable?
-                               Voluntary Terms
                                Traceability and how short is your supply chain
                                Who is your target market?
                                Meat Substitution – how?

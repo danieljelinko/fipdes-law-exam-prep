@@ -1,6 +1,6 @@
 ![Slide 385](food_law_slides/slide_385.png)
 
-### Article 4:  Gen & Specific Hygiene — Requirements — In addition, FBOs shall:
+### Article 4:  Gen & Specific Hygiene — RequirementsIn addition, FBOs shall:
 
 - Comply with microbiological criteria for foodstuffs
 

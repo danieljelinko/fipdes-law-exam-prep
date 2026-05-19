@@ -1,21 +1,8 @@
 ![Slide 321](food_law_slides/slide_321.png)
 
-### Certifying Bodies in — Ireland Logos + — EU Logo
+### Certifying Bodies in Ireland Logos + EU Logo
 
-- The Organic Certification Bodies (OCBs) provide an
-                           inspection and certification service for all Organic
-                           Production Units in Ireland. They have been designated and
-                           are regulated by the Organic Unit of the Department of
-                           Agriculture, Food and the Marine (DAFM), and are
-                           responsible for upholding the Organic standards as defined
-                           by the EU.
-- The OCB sends an information pack on request. The pack is
-                           tailored to the producers’ needs and will generally contain
-                           information on the application and conversion process, an
-                           application form and a guide to the Organic Standards. Once
-                           the application and conversion plan are received and
-                           assessed, an initial inspection will be arranged.
-- The OCBs carry out annual inspections of every organic
-                           enterprise.
-- Further information can be sourced from these certification
-                           bodies.
+- The Organic Certification Bodies (OCBs) provide an inspection and certification service for all Organic Production Units in Ireland. They have been designated and are regulated by the Organic Unit of the Department of Agriculture, Food and the Marine (DAFM), and are responsible for upholding the Organic standards as defined by the EU.
+    - The OCB sends an information pack on request. The pack is tailored to the producers’ needs and will generally contain information on the application and conversion process, an application form and a guide to the Organic Standards. Once the application and conversion plan are received and assessed, an initial inspection will be arranged.
+    - The OCBs carry out annual inspections of every organic enterprise.
+    - Further information can be sourced from these certification bodies.

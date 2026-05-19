@@ -18,8 +18,7 @@ NOTE:
 
 - Fresh meat is not a primary product since it is obtained after slaughter.
 
-- Fishery products remain primary products even after slaughter, bleeding, handling, gutting, removing
-fins, refrigeration and placing in containers for transport at the level of primary production.
+- Fishery products remain primary products even after slaughter, bleeding, handling, gutting, removing fins, refrigeration and placing in containers for transport at the level of primary production.
 
 - Cheese is the result of processing raw or heat treated milk & is therefore not a primary product.
 

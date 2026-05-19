@@ -6,7 +6,7 @@
 
 people and led to between 370 and 835 fatalities in Spain;
 
-- dioxin in Belgium resulting in massive economic losses (1999);
+- dioxin in Belgium resulting in massive economic losses (1999)
 - milk adulterated with melamine in China resulting in more than 50,000 sick
 
 babies and around six fatalities (2008), and more recently,
@@ -15,6 +15,6 @@ babies and around six fatalities (2008), and more recently,
 
 casualties in the Czech Republic and Poland (2012-2014);
 
-- horse meat in beef products (2013);
+- horse meat in beef products (2013)
 - fipronil in eggs (2017) and
 - the slaughter of sick cows (2019)

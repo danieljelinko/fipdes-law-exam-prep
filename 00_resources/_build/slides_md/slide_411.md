@@ -1,11 +1,9 @@
 ![Slide 411](food_law_slides/slide_411.png)
 
-### OPTION 3 — includes also — flexibility in
+### Option 3 — Flexibility in the Application of Specific HACCP Principles
 
-the    ❑Critical limits
-application of      ❑Monitoring
+Option 3 includes also flexibility in the application of:
 
-        specific    ❑Documents & records
-
-         HACCP
-     principles
+- Critical limits
+- Monitoring
+- Documents & records

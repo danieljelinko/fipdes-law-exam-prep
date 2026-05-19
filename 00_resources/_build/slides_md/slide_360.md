@@ -1,6 +1,6 @@
 ![Slide 360](food_law_slides/slide_360.png)
 
-### National Legislation
+### National Legislation ◦ ◦
 
 Regulation (EC) No. 852/2004 has been given effect by a number of Government Departments
 in so far as it relates to their area of responsibility:
@@ -8,10 +8,6 @@ in so far as it relates to their area of responsibility:
 1.
 
 2.
-
-◦
-
-◦
 
 Food businesses supervised by Department of Agriculture, Food and the Marine (DAFM),
 Sea-Fisheries Protection Authority (SPFA) or Local Authorities:

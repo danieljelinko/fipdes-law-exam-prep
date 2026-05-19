@@ -1,6 +1,6 @@
 ![Slide 458](food_law_slides/slide_458.png)
 
-### Health Mark
+### Health Mark Must be legible
 
 Health Mark must be an oval mark at least 6.5cm wide by
 4.5cm high, bearing the following information in perfectly
@@ -16,15 +16,12 @@ two letter code in accordance with ISO standard e.g. IE
 The mark must indicate the approval number of the
 slaughter house; and
 
-3. When applied in a slaughterhouse within the Community,
-the mark must include the abbreviation EC or similar
+3. When applied in a slaughterhouse within the Community, the mark must include the abbreviation EC or similar
 
 4. Mark may be applied directly to product, the
 
 wrapping or the packaging, or be printed on a label
 affixed to the product, the wrapping or packaging.
-
-Must be legible
 
 Must be irremovable tag or resistant material
 

@@ -1,5 +1,6 @@
 {
   "page": 172,
-  "layout": "numbered_list",
-  "auto_generated": true
+  "layout": "numbered_list, bulleted_list(o)",
+  "auto_generated": false,
+  "reflow_version": 2
 }

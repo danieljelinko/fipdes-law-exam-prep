@@ -3,14 +3,14 @@
 ### Sustainability on your label?
 
 - How to communicate
-- Regulation on Deforestation-free Products
+    - Regulation on Deforestation-free Products
 
 Today's Topics   Healthy Food
 
-- Nutrient Profiles
-- Reformulation
+    - Nutrient Profiles
+    - Reformulation
 
                  Two Terms governed by legislation and regulation:
 
-- Organic
-- GMO
+    - Organic
+    - GMO

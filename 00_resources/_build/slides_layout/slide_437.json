@@ -1,5 +1,6 @@
 {
   "page": 437,
-  "layout": "title_hr_body + paragraphs",
-  "auto_generated": true
+  "layout": "title_hr_body + bulleted_list(o)",
+  "auto_generated": true,
+  "reflow_version": 2
 }

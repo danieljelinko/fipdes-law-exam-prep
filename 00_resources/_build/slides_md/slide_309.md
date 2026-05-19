@@ -7,5 +7,4 @@ the criteria for a product to be suitable for vegetarians or vegans
 (such as thresholds for traces of animal products). Food
 companies producing these foods can voluntarily apply ISO
 standard 23662:2021 on food ingredients suitable for vegetarians
-or vegans, and there are also several voluntary private
-certification schemes.
+- r vegans, and there are also several voluntary private certification schemes.

@@ -1,10 +1,8 @@
 ![Slide 505](food_law_slides/slide_505.png)
 
-### EU Guidance platform
+### EU Guidance platform hygiene/guidance-platform_en
 
 - Link here https://food.ec.europa.eu/food-safety/biological-safety/food-
-
-hygiene/guidance-platform_en
 
 - Includes link to useful guides:
 

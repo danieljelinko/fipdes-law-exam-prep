@@ -1,16 +1,16 @@
 ![Slide 329](food_law_slides/slide_329.png)
 
-### Protected names fall — into two categories:
+### Protected names fall into two categories:
 
 1. Products linked to a geographical
 
 location
 
-    a. Protected Designation of Origin
+    - a) Protected Designation of Origin
 
 (PDO)
 
-    b. Protected Geographic Indication
+    - b) Protected Geographic Indication
 
 (PGI)
 

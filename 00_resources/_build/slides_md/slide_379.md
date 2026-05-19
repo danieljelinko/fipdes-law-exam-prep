@@ -1,6 +1,6 @@
 ![Slide 379](food_law_slides/slide_379.png)
 
-### Chapter II — Food Business Operators obligations
+### Chapter II Food Business Operators obligations
 
 Article 3:  General Obligations
 

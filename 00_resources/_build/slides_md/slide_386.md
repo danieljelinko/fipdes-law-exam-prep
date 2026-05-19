@@ -1,6 +1,6 @@
 ![Slide 386](food_law_slides/slide_386.png)
 
-### Who must — comply with the — HACCP
+### Who must comply with the — HACCP
 
 requirement of
 Regulation

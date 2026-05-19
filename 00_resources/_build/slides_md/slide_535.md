@@ -1,6 +1,6 @@
 ![Slide 535](food_law_slides/slide_535.png)
 
-### Importance of — Organic
+### Importance ofOrganic
 
 Environment
 

@@ -1,6 +1,6 @@
 ![Slide 462](food_law_slides/slide_462.png)
 
-### FSAI has said that current meat — labelling is not ideal.
+### FSAI has said that current meat labelling is not ideal.
 
 ‘Origin Ireland’
 
@@ -11,13 +11,13 @@ and acknowledge that the information on the label can seem misleading”.
 and will come into force ...”
 
 New rules came into effect in 2020 - aimed at giving consumers greater clarity, the country of
-origin of the primary ingredient in a meat product must be given.
+- rigin of the primary ingredient in a meat product must be given.
 
 If the country indicated on a packet differs from where the primary ingredient comes from then
 the primary ingredient must also be labelled clearly as being different to that of the food.
 
 Primary ingredient will be defined in this new legislation as “an ingredient or ingredients of a
 food that represent more than 50% of that food or which are usually associated with the name
-of the food by the consumer,” according to the FSAI.
+- f the food by the consumer,” according to the FSAI.
 
 Ref:  9th February, 2019, Report from The Journal

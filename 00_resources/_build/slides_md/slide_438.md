@@ -1,8 +1,8 @@
 ![Slide 438](food_law_slides/slide_438.png)
 
-### Regulation (EC) No 853/2004 — of the European Parliament and — of the Council of 29 April 2004
+### Regulation (EC) No 853/2004 laying down specific hygiene
 
-laying down specific hygiene
-rules for food of animal origin
+- f the European Parliament and
+- f the Council of 29 April 2004 rules for food of animal origin
 
 LINK HERE.

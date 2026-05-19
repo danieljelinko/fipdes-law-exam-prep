@@ -19,6 +19,5 @@ Topics)     3.   Debate whether flexibility in the design of Food Safety Managem
 
 4. Cross Contamination: debate whether food manufacturers should be
                  held fully accountable for preventing cross-contamination in the context
-                 of allergens, gluten-free in products placed on the market, regardless of
-                 operational challenges. Indicate how this impacts labelling of food
-                 products.
+    - f allergens, gluten-free in products placed on the market, regardless of
+    - perational challenges. Indicate how this impacts labelling of food products.

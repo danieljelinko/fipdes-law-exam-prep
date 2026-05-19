@@ -8,7 +8,4 @@ evidence and/or containing proprietary data protected from unfair use.
 
 in faecal bulk
 
-- Conditions of use of the claim / Restriction of use / Reasons for non-
-authorisation:  The claim may be used only for food which is high in
-that fibre as referred to in the claim HIGH FIBRE as listed in the Annex
-to Regulation (EC) No 1924/2006
+- Conditions of use of the claim / Restriction of use / Reasons for non- authorisation:  The claim may be used only for food which is high in that fibre as referred to in the claim HIGH FIBRE as listed in the Annex to Regulation (EC) No 1924/2006

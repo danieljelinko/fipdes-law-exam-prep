@@ -1,8 +1,6 @@
 ![Slide 341](food_law_slides/slide_341.png)
 
-### Member — States can — refuse or
-
-restrict
+### Member States can refuse or restrict
 
 National governments are the ones who decide
 what products (PPPs) can be sold, what formulae

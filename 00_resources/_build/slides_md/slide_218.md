@@ -1,13 +1,9 @@
 ![Slide 218](food_law_slides/slide_218.png)
 
-### ❑No legal definition for the terms 'vegetarian' or 'vegan' — at European level — ❑Claims such as, 'suitable for vegetarians' or 'suitable for
+### Vegan & Vegetarian
 
-vegans' are subject to the general laws regarding
-              misleading information etc
- Vegan &     ❑These terms: ‘vegetarian’ and ‘vegan’ in food labelling
-              are used voluntarily by industry. Where these terms are
-Vegetarian    absent, consumers rely on the list of ingredients
-- Regulation 1169/2011 mandated that EU set which
-              foods are suitable for vegans and vegetarians (Article
-              36(3)(b) Regulation (EU) No 1169/2011).
-- Some more resources here.
+- No legal definition for the terms 'vegetarian' or 'vegan' at European level
+- Claims such as, 'suitable for vegetarians' or 'suitable for vegans' are subject to the general laws regarding misleading information etc.
+- These terms: 'vegetarian' and 'vegan' in food labelling are used voluntarily by industry. Where these terms are absent, consumers rely on the list of ingredients
+- Regulation 1169/2011 mandated that EU set which foods are suitable for vegans and vegetarians (Article 36(3)(b) Regulation (EU) No 1169/2011)
+- Some more resources — see Brightspace

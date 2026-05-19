@@ -1,6 +1,8 @@
 ![Slide 320](food_law_slides/slide_320.png)
 
-### REGULATION (EU) 2018/848 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL — of 30 May 2018 on organic production and labelling of organic products and repealing — Council Regulation (EC) No 834/2007
+### REGULATION (EU) 2018/848 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+- f 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007
 
 - Recital 1: Organic production is an overall system of farm management
 

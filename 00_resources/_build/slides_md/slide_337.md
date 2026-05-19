@@ -2,17 +2,15 @@
 
 ### What are Plant Protection Products?
 
-Plant protection products are 'pesticides'   They are primarily used in the agricultural   They contain at least one active
-that protect crops or desirable or useful    sector but also in forestry, horticulture,    substance and have one of the following
-plants.                                      amenity areas and in home gardens.            functions:
-                                                                                           protect plants or plant products against
-                                                                                           pests/diseases, before or after harvest
-                                                                                           influence the life processes of plants (such as
-                                                                                           substances influencing their growth, excluding
-                                                                                           nutrients)
-                                                                                           preserve plant products
-                                                                                           destroy or prevent growth of undesired plants or parts
-                                                                                           of plants
-                                                                                           They may also contain other components including
-                                                                                           safeners and synergists.
-                                                                                           Glyphosphate is the active substance in Roundup
+Plant protection products are **'pesticides' that protect crops or desirable or useful plants**.
+
+They are primarily used in the agricultural sector but also in forestry, horticulture, amenity areas and in home gardens.
+
+They contain at least one active substance and have one of the following functions:
+
+- Protect plants or plant products against pests/diseases, before or after harvest
+- Influence the life processes of plants (such as substances influencing their growth, excluding nutrients)
+- Preserve plant products
+- Destroy or prevent growth of undesired plants or parts of plants
+
+They may also contain other components including safeners and synergists. Glyphosate is the active substance in Roundup.

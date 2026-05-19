@@ -5,7 +5,7 @@
 Organic farming is an agricultural method that aims to produce food using natural substances and processes.
 
 The EU sets out a number of rules and regulations governing the production, distribution and marketing of
-organic products in the EU. There are specific regulations related to particular products.
+- rganic products in the EU. There are specific regulations related to particular products.
 
 Since 1 January 2022, Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 is
 the applicable legislative act, also known as the basic act, laying down the rules on organic production and

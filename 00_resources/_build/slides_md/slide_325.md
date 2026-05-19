@@ -1,8 +1,10 @@
 ![Slide 325](food_law_slides/slide_325.png)
 
-### Genetically Modified (GM) food contains or is produced — from a genetically modified organism (GMO)
+### Genetically Modified (GM) food contains or is produced
 
-GM food ingredients that can be marketed in the EU are
+from a genetically modified organism (GMO)
+
+             GM food ingredients that can be marketed in the EU are
              primarily derived from GM plants that have been
              engineered to be resistant to attack by specific pests or be
 What is GM   tolerant to certain herbicides.

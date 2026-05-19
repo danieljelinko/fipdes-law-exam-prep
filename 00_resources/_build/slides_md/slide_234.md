@@ -1,5 +1,7 @@
 ![Slide 234](food_law_slides/slide_234.png)
 
+### 12 Mandatory use
+
 1. Name of the food *
 2. List of ingredients
 3. Allergens/intolerances
@@ -9,8 +11,6 @@
 Last week:     6. Date of minimum durability or use by date
 7. Any special storage conditions and/or conditions of
 
-12 Mandatory
-                  use
 8. Name or business name and address of the FBO
 
 requirements   9. Country of origin

@@ -1,16 +1,11 @@
 ![Slide 285](food_law_slides/slide_285.png)
 
-### “Yes, you can give the name of the — bacteria in the list of ingredients. Under — food law the name of the microorganism
+### “Yes, you can give the name of the
 
-culture(s) the product contains is not
+bacteria in the list of ingredients. Under
+                           food law the name of the microorganism
+                           culture(s) the product contains is not
                            required to be listed in the list of
 Extract from FSAI FAQs     ingredients but manufacturers can
 Can I mention the name     choose to give this information
-of the bacteria on my      voluntarily. In the case of fermented milk
-label e.g. Lactobacillus   and cream products (which includes
-rhamnosus?                 yogurt), the only ingredients required by
-                           law (Article 19 (1)(d) of Regulation (EU)
-                           No. 1169/2011) to be listed are
-                           ingredients other than the lactic
-                           products, enzymes and microorganism
-                           culture essential to their manufacture”.
+- f the bacteria on my      voluntarily. In the case of fermented milk label e.g. Lactobacillus   and cream products (which includes rhamnosus?                 yogurt), the only ingredients required by law (Article 19 (1)(d) of Regulation (EU) No. 1169/2011) to be listed are ingredients other than the lactic products, enzymes and microorganism culture essential to their manufacture”.

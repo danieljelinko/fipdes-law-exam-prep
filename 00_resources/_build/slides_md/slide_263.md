@@ -1,6 +1,6 @@
 ![Slide 263](food_law_slides/slide_263.png)
 
-### List of Nutrition — Claims — Annex of Regulation
+### List of Nutrition — ClaimsAnnex of Regulation
 
 This list is also on the
   1924/2006 (as amended)
@@ -9,11 +9,7 @@ lists the permitted nutrition
                                    claims on the European
 claims with their conditions
                                   Commission website here here.
-    of use (see handout).
+    - f use (see handout).
 
                   Note: Nutrition claims are
-                  only permitted if they are
-                    listed in the Annex of
-                      Regulation (EC) No
-                 1924/2006, last amended in
-                             2012.
+    - nly permitted if they are listed in the Annex of Regulation (EC) No 1924/2006, last amended in 2012.

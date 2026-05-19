@@ -12,7 +12,7 @@ the environment.
 
 It is an amendment to the 2014 Non-Financial Reporting Directive. It introduces more
 detailed reporting requirements and ensures that large companies are required to report
-on sustainability issues suc
+- n sustainability issues suc
 
 A large company in this context is one that meets at least two of the three following
 criteria is one with > 250 employees and/or > €40M turnover and/or > €20M in total

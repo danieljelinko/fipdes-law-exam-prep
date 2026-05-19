@@ -1,13 +1,12 @@
 ![Slide 413](food_law_slides/slide_413.png)
 
-### Monitoring
+### Monitoring refrigeration/freezing facilities
 
 Monitoring may in many cases be a simple procedure, e.g. a visual observation or
 check of:
 
-othe temperature recorded on the temperature dial/display unit of
-refrigeration/freezing facilities
+- the temperature recorded on the temperature dial/display unit of
 
-othe physical properties of food subjected to a particular heat treatment
+- the physical properties of food subjected to a particular heat treatment
 
 e.g. boiling of liquid food demonstrated by liquids bubbling when stirred

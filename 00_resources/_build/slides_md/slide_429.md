@@ -1,6 +1,6 @@
 ![Slide 429](food_law_slides/slide_429.png)
 
-### Implementing and — Delegating Acts
+### Implementing and Delegating Acts
 
 Both are types of non-legislative acts adopted by the European Commission based on a
 primary "basic act" and are subject to judicial review by the Court of Justice of the EU.

@@ -1,8 +1,10 @@
 ![Slide 494](food_law_slides/slide_494.png)
 
-### “any suspected intentional action by businesses or — individuals for the purpose of deceiving purchasers and — gaining undue advantage therefrom, in violation of the
+### “any suspected intentional action by businesses or
 
-rules referred to in Article 1(2) of Regulation (EU)
+individuals for the purpose of deceiving purchasers and
+               gaining undue advantage therefrom, in violation of the
+               rules referred to in Article 1(2) of Regulation (EU)
                2017/625 (the agri-food chain legislation)”.
 
 What is Food   These intentional infringements to the EU agri-food chain
@@ -12,5 +14,4 @@ What is Food   These intentional infringements to the EU agri-food chain
                environment as regards GMOs and plant protection
                products.
 
-- Link: https://ec.europa.eu/food/safety/food-fraud/what-
-                 does-it-mean_en
+    - Link: https://ec.europa.eu/food/safety/food-fraud/what- does-it-mean_en

@@ -1,7 +1,8 @@
 ![Slide 356](food_law_slides/slide_356.png)
 
-### Council Directives that were replaced — Directive 64/433/EEC: Fresh meat                            Directive 91/493/EEC: Fishery products
+### Council Directives that were replaced
 
+Directive 64/433/EEC: Fresh meat                            Directive 91/493/EEC: Fishery products
 Directive 71/118/EEC: Poultry meat                          Directive 91/494/EEC: Poultry meat (animal health rules)
 Directive 72/461/EEC: Fresh meat (animal health rules)      Directive 91/495/EEC: Rabbit meat and farmed game meat
 Directive 77/96/EEC: Trichina examination                   Directive 92/45/EEC: Game meat

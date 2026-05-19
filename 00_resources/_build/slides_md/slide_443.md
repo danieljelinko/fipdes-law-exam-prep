@@ -1,8 +1,6 @@
 ![Slide 443](food_law_slides/slide_443.png)
 
-### Layout of Regulation 853/2004
-
-Chapters
+### Layout of Regulation 853/2004 Chapters Annex
 
 - Chapter I: General provisions
 
@@ -11,8 +9,6 @@ Chapters
 - Chapter III: Trade
 
 - Chapter IV: Final provisions
-
-Annex
 
 - Annex I: Definitions
 

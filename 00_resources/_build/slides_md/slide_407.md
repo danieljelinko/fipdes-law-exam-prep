@@ -1,6 +1,6 @@
 ![Slide 407](food_law_slides/slide_407.png)
 
-### Voluntary Standards and Quality — Management Systems
+### Voluntary Standards and Quality Management Systems
 
 ISO is an independent, non-governmental international organization with a membership of
 161 national standards bodies.  Through its members, it brings together experts to share

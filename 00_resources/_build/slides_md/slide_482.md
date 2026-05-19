@@ -6,4 +6,4 @@
    Invigilated
                   3 hours    be answered
       Exam
-                               out of 5
+    - ut of 5

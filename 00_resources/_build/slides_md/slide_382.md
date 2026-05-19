@@ -1,15 +1,15 @@
 ![Slide 382](food_law_slides/slide_382.png)
 
-### Annex 1 – Scope — Associated operations..... — a)
+### Annex 1 – Scope a) c)
+
+Associated operations.....
 
 the transport, storage and handling of primary products at the place of
 production, provided that this does not substantially alter their nature;
 
-    b. the transport of live animals, where this is necessary to achieve the
+    - b) the transport of live animals, where this is necessary to achieve the
 
-objectives of this Regulation;
-
-c)
+- bjectives of this Regulation
 
 in the case of products of plant origin, fishery products and wild game,
 transport operations to deliver primary products, the nature of which has not

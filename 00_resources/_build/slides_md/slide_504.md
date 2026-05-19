@@ -1,6 +1,6 @@
 ![Slide 504](food_law_slides/slide_504.png)
 
-### Assessment of HACCP — compliance
+### Assessment of HACCP compliance
 
 - FSAI Guidance Note 11
 - The purpose of this guidance document

@@ -1,9 +1,11 @@
 ![Slide 406](food_law_slides/slide_406.png)
 
-### QMS – Quality Management Systems — QMS (e.g. ISO 22000) is — not a legal requirement
+### QMS — Quality Management Systems
 
-Procedures based on HACCP
-                      principles
+Pyramid of food safety management (bottom to top):
 
-       GHP (Prerequisite requirements/Prerequisite
-                  programmes (PRPs)
+| Level | Description |
+|---|---|
+| **GHP** (base) | Prerequisite requirements / Prerequisite Programmes (PRPs) — legal requirement |
+| **HACCP** (middle) | Procedures based on HACCP principles — legal requirement |
+| **QMS** (top) | e.g. ISO 22000 — **not** a legal requirement |

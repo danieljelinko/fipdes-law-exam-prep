@@ -1,9 +1,9 @@
 ![Slide 164](food_law_slides/slide_164.png)
 
-### Additives
+### Additives *(Regulation (EC) No 1333/2008)*
 
 - Food additives are substances added intentionally to foodstuffs to perform certain technological functions, for example to colour, to sweeten or to preserve.
-- Only those additives that are on the list of authorised food additives may be used (Regulation (EC) No 1333/2008)
+- Only those additives that are on the list of authorised food additives may be used.
 
 **Labelling of additives:**
 

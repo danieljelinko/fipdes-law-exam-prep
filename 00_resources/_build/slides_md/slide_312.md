@@ -1,6 +1,6 @@
 ![Slide 312](food_law_slides/slide_312.png)
 
-### Meat-Free Marketing Debate
+### Meat-Free Marketing Debate Webcourses
 
 - Should a sausage be called a
 
@@ -19,4 +19,3 @@ it contains no meat?
 vegans.”
 
 Ref:  Survey conducted by Surveygoo for Ingredients Communications February 2019 – see article on
-Webcourses

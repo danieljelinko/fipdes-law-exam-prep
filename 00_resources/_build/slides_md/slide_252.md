@@ -1,6 +1,9 @@
 ![Slide 252](food_law_slides/slide_252.png)
 
-### Where the labelling of a prepacked food provides the — mandatory nutrition declaration, the following — information may be repeated:
+### Where the labelling of a prepacked food provides the
+
+mandatory nutrition declaration, the following
+                   information may be repeated:
 
 Front of Pack      (a)the energy value; or
 

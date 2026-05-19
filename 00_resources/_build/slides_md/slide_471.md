@@ -1,8 +1,10 @@
 ![Slide 471](food_law_slides/slide_471.png)
 
-### Food Fraud — The Food Safety Authority of Ireland (FSAI) state that — “Food fraud is committed when food is illegally
+### Food Fraud
 
-placed on the market with the intention of deceiving
+The Food Safety Authority of Ireland (FSAI) state that
+             “Food fraud is committed when food is illegally
+             placed on the market with the intention of deceiving
              the customer, usually for financial gain.”
              In recent years food fraud has become much more of
              an issue for consumers as global food supply has

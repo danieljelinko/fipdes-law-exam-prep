@@ -1,6 +1,9 @@
 ![Slide 240](food_law_slides/slide_240.png)
 
-### If you wish for clarity, you can include the following details:  Consoldiated — version accessed online [date]: https://eur-lex.europa.eu/legal- — content/EN/TXT/?uri=CELEX%3A02011R1169-20180101
+### If you wish for clarity, you can include the following details:  Consoldiated
+
+version accessed online [date]: https://eur-lex.europa.eu/legal-
+content/EN/TXT/?uri=CELEX%3A02011R1169-20180101
 
 - Please note that the consolidated version always states at the beginning:
 

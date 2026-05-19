@@ -1,6 +1,6 @@
 ![Slide 351](food_law_slides/slide_351.png)
 
-### The Hygiene Package
+### The Hygiene Package Became applicable from 2006
 
 The rules are provided for in the following key acts:
 
@@ -11,5 +11,3 @@ The rules are provided for in the following key acts:
 3. Regulation (EC) 854/2004 relates to organisation of official controls on products of
 
 animal origin intended for human consumption.
-
-Became applicable from 2006

@@ -3,11 +3,11 @@
 ### The Hygiene Package cont.
 
 With the coming into force of Regulation (EU) 2017/625 (the Official Control Regulation)
-on 14 December 2019, Regulation (EC) No 854/2004 was repealed. Provisions on
-official controls in products of animal origin can be found in:
+- n 14 December 2019, Regulation (EC) No 854/2004 was repealed. Provisions on
+- fficial controls in products of animal origin can be found in:
 
 Commission Delegated Regulation (EU) 2019/624 (Official controls of products of animal
-origin)
+- rigin)
 
 Commission Delegated Regulation (EU) 2019/625 (Import conditions),
 

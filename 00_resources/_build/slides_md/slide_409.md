@@ -8,9 +8,7 @@
 
 https://www.fsai.ie/uploadedFiles/EU_Guidance_852.pdf
 
-2. Commission Staff Working Document on the understanding of certain provisions on flexibility
-provided in the Hygiene Package.  (includes Frequently Asked Questions, Guidelines for FBOs
-& Guidelines for Competent Authorities).
+2. Commission Staff Working Document on the understanding of certain provisions on flexibility provided in the Hygiene Package.  (includes Frequently Asked Questions, Guidelines for FBOs & Guidelines for Competent Authorities).
 
 https://www.fsai.ie/uploadedFiles/EU_Guidance_flexibility.foodbusinesses.pdf
 

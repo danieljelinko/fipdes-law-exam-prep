@@ -25,7 +25,7 @@ production step has taken place.
 
 Traditional Specialities Guaranteed (TSG) emphasise traditional
 composition and mode of production of products (proven usage
-on the domestic market for at least 25 years).
+- n the domestic market for at least 25 years).
 
 Ref: Council Regulation 1151/2012 and S.I. No. 296 of 2015.
 

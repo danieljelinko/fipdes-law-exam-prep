@@ -1,6 +1,8 @@
 ![Slide 551](food_law_slides/slide_551.png)
 
-### Food Safety Culture — New Legislation and linked resource
+### Food Safety Culture webinar here
+
+New Legislation and linked resource
 
 Since March 2021, there is a legal requirement that all food businesses to
 establish, maintain and demonstrate an appropriate food safety culture
@@ -11,8 +13,4 @@ food businesses to provide evidence of an appropriate food safety culture
 by satisfying a number of requirements set out in the regulation.
 
 Please see the learning portal here where you can complete a short
-online module. Also, this links to a webinar about new rules.
-
-webinar
-
-here
+- nline module. Also, this links to a webinar about new rules.

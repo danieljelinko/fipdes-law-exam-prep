@@ -1,10 +1,8 @@
 ![Slide 211](food_law_slides/slide_211.png)
 
-### Salt =Sodium Chloride
+### Salt =Sodium Chloride 1169/2011) you-eating prevention/nutrition/salt
 
 - Salt = Sodium x 2.5 (See Annex 1, Reg
-
-1169/2011)
 
 - Salt, not sodium is included in the nutrition
 
@@ -13,14 +11,9 @@ declaration  (Art. 30, Reg. 1169/2011)
 - How much salt are you eating?
 
 https://www.safefood.eu/How-much-salt-are-
-you-eating
 
-- EFSA have published draft reference values
-https://www.efsa.europa.eu/en/interactive-
-pages/drvs
+- EFSA have published draft reference values https://www.efsa.europa.eu/en/interactive-pages/drvs
 
 - EU Science Hub:
 
-https://ec.europa.eu/jrc/en/health-
-knowledge-gateway/promotion-
-prevention/nutrition/salt
+https://ec.europa.eu/jrc/en/health-knowledge-gateway/promotion-

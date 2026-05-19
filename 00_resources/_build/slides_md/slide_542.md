@@ -1,7 +1,6 @@
 ![Slide 542](food_law_slides/slide_542.png)
 
-### Labelling Assignment
+### Labelling Assignment KNOWLEDGE AND REFERENCES MISSING
 
 DELAY IN FEEDBACK    FEEDBACK IDENTIFIES GAPS IN YOUR
-                         KNOWLEDGE AND REFERENCES MISSING
                               – CAN HELP FOR REVISON
