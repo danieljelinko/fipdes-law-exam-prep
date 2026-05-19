@@ -610,25 +610,18 @@ Please see the learning portal here where you can complete a short
 
 ![Slide 552](../00_resources/food_law_slides/slide_552.png)
 
-### Food Hygiene Legislation hygiene of foodstuffs
+### Food Hygiene
 
-- 
-- 
-
-Pre-requisites and good manufacturing practice
-The Food Safety Management System (FSMS): (i) food safety (ii) traceability, (iii) NEW food safety
-culture (iv) NEW food waste and (iv) allergens.
-
+- Pre-requisites and good manufacturing practice
+- The Food Safety Management System (FSMS): (i) food safety (ii) traceability (iii) NEW food safety culture (iv) NEW food waste (iv) allergens
 - What does flexibility mean in this context?
 
-Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the
-Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying
-down specific hygiene rules for food of animal origin
-Commission Regulation (EC) No 2073/2005 of 15 November 2005 on microbiological criteria for
-foodstuffs (Text with EEA relevance)
-COMMISSION REGULATION (EU) 2021/382 of 3 March 2021 amending the Annexes to Regulation
-(EC) No 852/2004 of the European Parliament and of the Council on the hygiene of foodstuffs as
-regards food allergen management, redistribution of food and food safety culture
+**Legislation:**
+
+- **Regulation (EC) No 852/2004** of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs
+- **Regulation (EC) No 853/2004** of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin
+- **Commission Regulation (EC) No 2073/2005** of 15 November 2005 on microbiological criteria for foodstuffs
+- **Commission Regulation (EU) 2021/382** of 3 March 2021 amending the Annexes to Regulation (EC) No 852/2004 as regards food allergen management, redistribution of food and food safety culture
 
 ## Slide 553
 
@@ -646,28 +639,14 @@ regards food allergen management, redistribution of food and food safety culture
 
 ### Food Information to Consumers
 
-How do you communicate information within the parameters of the legislation?
-
 - What is the purpose of this legislation?
-- 
-- What is misleading?
-- 
+- How do you communicate information within the parameters of the legislation?
+- What is **misleading**?
+- Free-from claims: allergen/nut-free or dairy-free; lactose free; meat-free/vegetarian/vegan; gluten-free
 
-Free-from claims: allergen/nut-free or dairy-free; lactose free; meat-
-free/vegetarian/vegan/; gluten-free;
+**Food Information to Consumers (FIC): Regulation (EU) No 1169/2011** of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006, and repealing Commission Directives 87/250/EEC, 90/496/EEC, 1999/10/EC, 2000/13/EC, 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004.
 
-Food Information to Consumers (FIC): Regulation (EU) No 1169/2011 of the
-European Parliament and of the Council of 25 October 2011 on the provision of
-food information to consumers, amending Regulations (EC) No 1924/2006 and (EC)
-No 1925/2006 of the European Parliament and of the Council, and
-repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC,
-Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament
-and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission
-Regulation (EC) No 608/2004 Text with EEA relevance
-Gluten-Free Legislation:
-
-Commission Implementing Regulation (EU) No 828/2014 of 30 July 2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in
-food Text with EEA relevance
+**Gluten-Free Legislation:** Commission Implementing Regulation (EU) No 828/2014 of 30 July 2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in food.
 
 ## Slide 555
 
@@ -675,34 +654,21 @@ food Text with EEA relevance
 
 ### Nutritional Information and Claims
 
-- 
+- **Nutrition Declaration** — what to include:
+    - Mandatory
+    - Supplementary
+    - Front of Pack
+- **Nutrition Claims:**
+    - Define and reference Reg 1924/2006
+    - Know how to check if you can make a claim (Annex)
+- **Health Claims:**
+    - Define and reference Reg 1924/2006
+    - How do you check if a health claim is authorised?
 
-- 
+**Legislation:**
 
-- 
-
-Nutrition Declaration what to include
-- Mandatory
-- Supplementary
-- Front of Pack Nutrition Claims
-- 
-- Health Claims
-- 
-- 
-
-Define and reference Reg 1924/2006
-Know how to check if you can make a claim (Annex)
-
-Define and reference Reg 1924/2006
-How so you check if a health claim is authorized?
-
-Legislation:
-
-Nutrition & Health Claims: Regulation (EC) No 1924/2006 of the European Parliament and of the
-Council of 20 December 2006 on nutrition and health claims made on foods
-Food Fortification: REGULATION (EC) No 1925/2006 OF THE EUROPEAN PARLIAMENT AND OF THE
-COUNCIL of 20 December 2006 on the addition of vitamins and minerals and of certain other
-substances to foods
+- **Nutrition & Health Claims:** Regulation (EC) No 1924/2006 of the European Parliament and of the Council of 20 December 2006 on nutrition and health claims made on foods
+- **Food Fortification:** Regulation (EC) No 1925/2006 of the European Parliament and of the Council of 20 December 2006 on the addition of vitamins and minerals and of certain other substances to foods
 
 ## Slide 556
 
@@ -730,20 +696,14 @@ substances to foods
 
 ### Sustainability and the Green New Deal
 
-- 
-
 - Organic is defined and legislated for in the EU
-- 
+- How important is Organic status/certification and how is this communicated to producer/consumer?
+- Are there other ways to communicate sustainability? E.g. Country of Origin, Geographic Indication; voluntary claims to communicate sustainability such as free-from meat, reduced meat, plant-based alternatives etc.
+- **Are any of these claims misleading?**
 
-How important is Organic status/certification and how is this communicated to
-producer/consumer?
-Are there other ways to communicate sustainability? E.g. Country of Origin,
-Geographic Indication; Other voluntary claims to communicate sustainability such
-as free-from meat, reduced meat, plant-based alternatives etc.
-Are any of these claims misleading?
+**Organic Legislation:** Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007. *(FSAI website not fully updated)*
 
-- Organic Legislation: Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 Link to EU Commission website of Organic Sector here. (FSAI website not fully updated here) Marketing of Agricultural Products: Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common
-- rganisation of the markets in agricultural products
+**Marketing of Agricultural Products:** Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products.
 
 ## Slide 558
 
@@ -843,43 +803,24 @@ FSAI Food Reformulation Task Force: Priority Food Categories for Reformulation i
 
 ![Slide 562](../00_resources/food_law_slides/slide_562.png)
 
-### Important Regulations No 1234/2007)
+### Important Regulations
 
-- Regulation EC No 178/2002: Defines Food, Consumer Interests, Recall & Traceability
+- **Regulation EC No 178/2002** — Defines Food, Consumer Interests, Recall & Traceability
+- **FOOD SAFETY AUTHORITY OF IRELAND ACT, 1998**
+- **Regulation EC No 852/2004** — Hygiene of Foodstuffs: Food Hygiene, HACCP & FBO
+- **Regulation EC No 853/2004** — Hygiene of Food of Animal Origin: Food Hygiene, HACCP & FBO
+- **\*\*\*\*Regulation EC No 2017/625** — *Official Controls Regulation*
+- **Regulation EC No 1169/2011** — FIC & Nutritional Declarations
+- **\*\*\*\*Regulation EC No 2073/2005** — *Microbiological Criteria (FSAI workshop)*
+- **Regulation EC No 1924/2006** — Nutrition & Health Claims
+- **Regulation EC No 1925/2006** — Vitamins & Minerals
+- **Regulation (EU) No 432/2012** — permitted health claims made on foods, other than those referring to the reduction of disease risk and to children's development and health
+- **Regulation EC No 1331–1334/2008** — Food additives, enzymes & flavourings
+- **Regulation (EU) No 828/2014** — Gluten Intolerance
+- **Regulation (EU) No 1308/2013** — establishing a common organisation of the markets in agricultural products
+- **\*\*\*\*Regulation (EU) 2015/2283** — *Novel Foods (covered in FSAI workshop)*
 
-- 
-
-FOOD SAFETY AUTHORITY OF IRELAND ACT, 1998
-
-- Regulation EC No 852/2004: Hygiene of Foodstuffs - Food Hygiene & HACCP & FBO
-
-- Regulation EC No 853/2004: Hygiene of Food of Animal origin - Food Hygiene & HACCP & FBO
-
-- ****Regulation EC No 2017/625: Official Controls Regulation
-
-- Regulation EC No 1169/2011: FIC & Nutritional Declarations
-
-- ****Regulation EC No 2073/2005: Microbiological Criteria (FSAI workshop)
-
-- Regulation EC No 1924/2006: Nutrition & Health Claims
-
-- Regulation EC No 1925/2006: Vitamins & Minerals
-
-- REGULATION (EU) No 432/2012: permitted health claims made on foods, other than those
-
-referring to the reduction of disease risk and to children's development and health
-
-- Regulation EC No 1331-1334/2008: Food additives, enzymes & flavourings
-
-- Regulation (EU) No 828/2014 : Gluten Intolerance
-
-- REGULATION (EU) No 1308/2013 … establishing a common organisation of the markets in
-
-agricultural products (and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC)
-
-- ****Regulation (EU) 2015/2283: Novel Foods (covered in FSAI workshop)
-
-- **** Please note regulations in italics not covered in detail this year.
+*\*\*\*\* Please note regulations in italics not covered in detail this year.*
 
 ## Slide 563
 

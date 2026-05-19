@@ -45,54 +45,18 @@ Date: 25th February 2026
 
 ![Slide 231](../00_resources/food_law_slides/slide_231.png)
 
-### TU Dublin is hosting the inaugural Student
+### TU Dublin — Student Sustainability Research Conference, 31 March 2026
 
-Sustainability Research Conference on 31 March
-2026 at the East Quad Grangegorman.
+*(East Quad, Grangegorman)*
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-This conference is an opportunity for students of all
-disciplines and levels of study from across Ireland to share
-ideas and best practice for sustainability-related projects with
-each other and to take part in student led sustainability
-activities.
-
-If you have completed work or are working on research
-projects, this is a chance to present you findings and ideas to
-fellow students.
-
-Key details:
-
-Presentation will be short (approx 7 minutes) and in a format
-you think suitable.
-
-The Irish Journal of Social Economic and Environmental
-Sustainability will publish a set of abstracts and summaries of
-the work presented at the conference.
-
-The morning is dedicated to presentations while in the
-afternoon the focus will be on activities.
-
-The Career Development Centre of TU Dublin will be
-providing information on careers opportunities in
-sustainability.
-
-To apply, please fill out this form
+- This conference is an opportunity for students of all disciplines and levels of study from across Ireland to share ideas and best practice for sustainability-related projects with each other and to take part in student led sustainability activities.
+- If you have completed work or are working on research projects, this is a chance to present your findings and ideas to fellow students.
+- **Key details:**
+- Presentation will be short (approx 7 minutes) and in a format you think suitable.
+- The Irish Journal of Social Economic and Environmental Sustainability will publish a set of abstracts and summaries of the work presented at the conference.
+- The morning is dedicated to presentations while in the afternoon the focus will be on activities.
+- The Career Development Centre of TU Dublin will be providing information on careers opportunities in sustainability.
+- To apply, please fill out this form
 
 ## Slide 232
 
@@ -871,24 +835,11 @@ b.
 
 ### Nutrient Profiles
 
-- Nutrient profiling is the science of classifying or ranking foods according to their nutritional
-
-composition for reasons related to preventing disease and promoting health.
-
-- Nutrient profiling can be used for various applications, including marketing of foods to
-
-children, health and nutrition claims, product labelling logos or symbols, information and
-education, provision of food to public institutions … (WHO)
-
-- The term nutrient profile refers to the nutrient composition of a food or diet. The purpose
-- f establishing nutrient profiles is to prevent the use of claims masking the true nature of food products, e.g. a lollipop claiming to be ‘low in fat’, or a milk bottle claiming to ‘boost the immune system’. It aims to prevent consumers from being misled where foods high in saturated fat, sugar or salt may be made to appear healthier than they actually are by being accompanied by a health or nutrition claim.
-
-- 
-
-Regulation 1924/2006/EC establishes permitted nutrition and health claims for use on foods sold in the EU as well as associat ed conditions of use and restrictions (if any).  As part of this legislation, nutrient profiles were to
-be established which would guide the use of NHC on food
-
-- See more here.
+- Nutrient profiling is the science of classifying or ranking foods according to their nutritional composition for reasons related to preventing disease and promoting health.
+- Nutrient profiling can be used for various applications, including marketing of foods to children, health and nutrition claims, product labelling logos or symbols, information and education, provision of food to public institutions … (WHO)
+- The term nutrient profile refers to the nutrient composition of a food or diet. The purpose of establishing nutrient profiles is to prevent the use of claims masking the true nature of food products, e.g. a lollipop claiming to be 'low in fat', or a milk bottle claiming to 'boost the immune system'. It aims to prevent consumers from being **misled** where foods high in saturated fat, sugar or salt may be made to appear healthier than they actually are by being accompanied by a health or nutrition claim.
+- Regulation 1924/2006/EC establishes permitted nutrition and health claims for use on foods sold in the EU as well as associated conditions of use and restrictions. As part of this legislation, nutrient profiles **were to be established** which would guide the use of NHC on food.
+- See more — see Brightspace
 
 ## Slide 290
 
@@ -913,25 +864,11 @@ Find out more
 
 ### Nutrient Profiles
 
-- Nutrient profiling is the science of classifying or ranking foods depending
-- n their nutrient composition.  They can help filter whether a food is allowed to make a claim or not.  They can help prevent misleading claims about food high in fat, sugar, salt or calories.
-
-- FoP nutrition labels which calculate the score of a food, either by colour or symbol, are based on nutrient profiles e.g. Numerical, colour code traffic light system, the Keyhole symbol, heart/health logos and Nutriscore.
-
+- Nutrient profiling is the science of classifying or ranking foods depending on their nutrient composition. They can help filter whether a food is allowed to make a claim or not. They can help prevent misleading claims about food high in fat, sugar, salt or calories.
+- FoP nutrition labels which calculate the score of a food, either by colour or symbol, are based on nutrient profiles e.g. **Numerical, colour code traffic light system, the Keyhole symbol, heart/health logos and Nutriscore**.
 - Nutrient profiles are intended to help consumers make healthier food choices. Nutrient profiles are calculated by using maximum values for restricted nutrients such as sugar and saturated fat and sometimes use minimum values for promoted nutrients such as fibre.
-
-- Based on these calculations, the food is given an overall score or
-
-permitted to display a symbol. The nutrient profiling criteria can be
-applicable to all food categories or be specific to different food categories.
-As such, an explanation of the nutrient profiling criteria does not appear
-- n labels. As well as informing FoP nutrition labelling, nutrient profiles have a variety of applications, including regulation of food marketing to children.
-
-- 
-
-In the EU, it is intended to use the concept of nutrient profiles to
-determine if a food can make a nutrition or health claim. The intention is
-to prevent a positive health message (either by way of a nutritio
+- Based on these calculations, the food is given an overall score or permitted to display a symbol. The nutrient profiling criteria can be applicable to all food categories or be specific to different food categories. As such, an explanation of the nutrient profiling criteria does not appear on labels. As well as informing FoP nutrition labelling, nutrient profiles have a variety of applications, including regulation of food marketing to children.
+- In the EU, it is intended to use the concept of nutrient profiles to determine if a food can make a nutrition or health claim. The intention is to prevent a positive health message (either by way of a nutrition or health claim) from being made on foods high in fat, sugar or salt.
 
 ## Slide 293
 

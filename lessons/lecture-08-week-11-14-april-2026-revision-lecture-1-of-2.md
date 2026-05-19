@@ -130,91 +130,34 @@ York: Oxford University Press)
 
 ![Slide 487](../00_resources/food_law_slides/slide_487.png)
 
-### Enforcement Orders 14th April 2026
+### Enforcement Orders — 14 April 2026
 
-- 
+The FSAI reported that Environmental Health Officers in the HSE served **twelve Closure Orders** and **two Prohibition Orders** on food businesses during March for breaches of food safety legislation, pursuant to the FSAI Act, 1998 and the EU (Official Controls in Relation to Food Legislation) Regulations, 2020.
 
-- 
+**Eight Closure Orders under the FSAI Act, 1998:**
 
-- 
+1. Kebab House 66 (Service Sector), Moore Street Mall, 58 Parnell Street, Dublin 1
+2. Georgian Delight (Restaurant/Café), Unit 3, Moore Street Mall, 58–66 Parnell Street, Dublin 1
+3. Dailo Nepali Kitchen (Restaurant/Café), Kitchen 4, Moore Street Mall, 58–66 Parnell Street, Dublin 1
+4. Tiramisu Mania (Manufacturer), Moore Street Mall, 58 Parnell Street, Dublin 1
+5. Spicy Bite (Restaurant/Café), Unit 1, Moore Mall, Moore Street, Dublin 1
+6. Glanmore Foods Limited, Grange Community College (Service Sector), Donaghmede, Dublin 13
+7. Eskimo Pizza Bandon (Closed area: potato peeling room) (Take Away), 1 St Patrick's Quay, Bandon, Cork
+8. Eurospar (Retailer), 25–27 Annesley Bridge Road, Fairview, Dublin 3
 
-- 
+**Four Closure Orders under EU Official Controls Regulations, 2020:**
 
-- 
+1. Bruno Gomes (Wholesaler/Distributor), domestic dwelling at Ferndale, Navan, Meath
+2. Arsh Bazzar (Closed area: Butcher area) (Retailer), 6 Mary Street, Clonmel, Tipperary
+3. Mars Pizza (Take Away), Coolbeg, Kildimo, Limerick
+4. Meet Brazil (Closed area: kitchen upstairs; retail area downstairs can remain open) (Retailer), Castle Hill, Enniscorthy, Wexford
 
-- 
+**Two Prohibition Orders under EU Official Controls Regulations, 2020:**
 
-The Food Safety Authority of Ireland (FSAI) today reported that Environmental Health Officers in the Health Service Executive (HSE) served twelve Closure Orders and two Prohibition Orders on food
-businesses during the month of March for breaches of food safety legislation, pursuant to the FSAI Act, 1998 and the European Union (Official Controls in Relation to Food Legislation) Regulations, 2020.
+1. Al-Eman Halal Shop Limited (Butcher Shop/Retailer), 21 Irishtown, Clonmel, Tipperary
+2. Pinoy Sari Sari (Retailer), 25–26 Mary Street, Dublin City
 
-Eight Closure Orders were served under the FSAI Act, 1998 on:
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-Kebab House 66 (Service Sector), Moore Street Mall, 58 Parnell Street, Dublin 1
-
-Georgian Delight (Restaurant/ Café), Unit 3, Moore Street Mall, 58-66 Parnell Street, Dublin 1
-
-Dailo Nepali Kitchen (Restaurant/ Café), Kitchen 4, Moore Street Mall, 58-66 Parnell Street, Dublin 1
-
-Tiramisu Mania (Manufacturer), Moore Street Mall, 58 Parnell Street, Dublin 1
-
-Spicy Bite (Restaurant/ Café), Unit 1, Moore Mall, Moore Street, Dublin 1
-
-Glanmore Foods Limited, Grange Community College (Service Sector), Grange Abbey Road, Donaghmede, Dublin 13
-
-Eskimo Pizza Bandon (Closed area: the potato peeling room at the rear of the premises) (Take Away), 1 St Patrick’s Quay, Bandon, Cork
-
-Eurospar (Retailer), 25-27 Annesley Bridge Road, Fairview, Dublin 3
-
-Four Closure Orders were served under the European Union (Official Controls in Relation to Food Legislation) Regulations, 202 0 on:
-
-- 
-
-- 
-
-- 
-
-- 
-
-Bruno Gomes (Wholesaler/ Distributor), A food business in operation from a domestic dwelling at Ferndale, Navan, Meath
-
-Arsh Bazzar (Closed area: Butcher area) (Retailer), 6 Mary Street, Clonmel, Tipperary
-
-Mars Pizza (Take Away), Coolbeg, Kildimo, Limerick
-
-Meet Brazil (Closed area: the kitchen area upstairs serving the restaurant and take away. The retail area downstairs can remain open.) (Retailer), Castle Hill, Enniscorthy, Wexford
-
-Two Prohibition Orders were served under the European Union (Official Controls in Relation to Food Legislation) Regulations,  2020 on:
-
-- 
-
-- 
-
-Al-Eman Halal Shop Limited (Butcher Shop/Retailer), 21 Irishtown, Clonmel Tipperary
-
-Pinoy Sari Sari (Retailer), 25-26 Mary Street, Dublin City
-
-Among the reasons for the Enforcement Orders in March are: active cockroach infestation; dead cockroaches noted inside a frid ge; evidence of rodent activity; dead mouse in a cockroach trap; rodent
-droppings under the sink area; meat being air dried in a bedroom; no suitable hand washing facilities available to food workers; no hot water or soap for hand washing; cleaning materials stored in dirty
-stagnant water; thick waste discharge covering an entire floor in a kitchen; equipment observed to be heavily soiled and in a n unclean condition; insufficient traceability information; no food safety
-management system or procedures in place for food safety; no commercial documents or other suitable records to establish the traceability of the foods.
-
-Lind to FSAI information here.
+**Reasons for Enforcement Orders:** active cockroach infestation; dead cockroaches in a fridge; evidence of rodent activity; dead mouse in a cockroach trap; rodent droppings under the sink; meat air-dried in a bedroom; no suitable hand washing facilities; no hot water or soap; cleaning materials stored in dirty stagnant water; thick waste discharge on kitchen floor; heavily soiled equipment; insufficient traceability information; no food safety management system; no commercial documents to establish traceability.
 
 ## Slide 488
 
@@ -500,49 +443,18 @@ with the HACCP requirement.
 
 ### Cross Contamination
 
-- What do we mean by cross contamination?
+- **What do we mean by cross contamination?**
+- It is the process by which a ‘gluten-free’ product loses that status because it comes into contact with something that is not ‘gluten-free’
+- ‘Gluten-free’ status must prevail at **every link of the chain**. Cross-contamination with gluten can occur at any stage, unintentionally, for example:
 
-- 
-
-- 
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-It is the process by which a ‘gluten-free’ product loses that status because it comes into contact with something that is not
-‘gluten-free’
-
-‘Gluten-free’ status must prevail at every link of the chain.  Cross-contamination with gluten can occur at any stage,
-unintentionally, for example
-
-Incorrect formulation
-
-Inappropriate production sequencing
-
-Poor rework
-
-Product carry-over
-
-Use of common equipment
-
-Poor clean-up and/or sanitation
-
-Poor equipment design
-
-Human error
+1. Incorrect formulation
+2. Inappropriate production sequencing
+3. Poor rework
+4. Product carry-over
+5. Use of common equipment
+6. Poor clean-up and/or sanitation
+7. Poor equipment design
+8. Human error
 
 ## Slide 508
 
