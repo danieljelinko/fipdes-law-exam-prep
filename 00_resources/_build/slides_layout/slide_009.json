@@ -1,0 +1,22 @@
+{
+  "page": 9,
+  "layout": "title_hr_body + 3 interlocking circles (Science / Law / Policy)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "What do we mean by Food Regulation? Not just Food Law"
+    },
+    {
+      "role": "topic_item",
+      "text": "Science"
+    },
+    {
+      "role": "topic_item",
+      "text": "Law"
+    },
+    {
+      "role": "topic_item",
+      "text": "Policy"
+    }
+  ]
+}

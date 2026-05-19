@@ -1,0 +1,30 @@
+{
+  "page": 27,
+  "layout": "two_column_label_right (label 'What is EU Law' + numbered list right with nested sub-numbering)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "What is EU Law"
+    },
+    {
+      "role": "paragraph",
+      "text": "EU law is divided into 'primary' and 'secondary' legislation."
+    },
+    {
+      "role": "step_item",
+      "text": "Primary Legislation: The treaties are the basis or ground rules for all EU action."
+    },
+    {
+      "role": "step_item",
+      "text": "Secondary legislation: This is derived from the principles and objectives set out in the treaties and includes: Regulations, Directives, Decisions, Recommendations, Opinions"
+    },
+    {
+      "role": "paragraph",
+      "text": "Member States have primary responsibility for the correct and timely application of EU Treaties and legislation, and the Commission monitors the application of Union law."
+    },
+    {
+      "role": "paragraph",
+      "text": "The Commission may take action if a Member State fail to introduce directives or are suspected of breaches."
+    }
+  ]
+}

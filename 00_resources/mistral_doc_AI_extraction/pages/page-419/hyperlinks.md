@@ -1,0 +1,1 @@
+https://www.fsai.ie/getmedia/444f317a-4a63-4eeb-b744-f279c8224a78/fsai-guide-to-food-safety-skills-final-accessible.pdf?ext=.pdf

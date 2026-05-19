@@ -1,0 +1,25 @@
+# Reg 178/2002: Important Articles discussed today
+
+![img-30.jpeg](img-30.jpeg)
+
+Article 2: Definition of Food
+
+Article 3: Other definitions e.g. food business operator, placing on the market, risk, traceability et.
+
+Article 6: Risk Analysis
+
+Article 7: Precautionary principle
+
+Article 8: Protection of consumer interests
+
+Article 11 and 12: Import/Export
+
+Article 14: Food Safety Requirements ("Unsafe Food")
+
+Article 16: Presentation of food (misleading labels/claims etc.)
+
+Article 17: General Responsibilities
+
+Article 18: Traceability
+
+Article 19: Responsibilities – withdrawal and notification

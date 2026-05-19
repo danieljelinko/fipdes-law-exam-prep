@@ -1,0 +1,38 @@
+{
+  "page": 8,
+  "layout": "title_hr_body + bulleted_list (o markers)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Today's Lecture \u2014 Introduction to Food Regulation"
+    },
+    {
+      "role": "topic_item",
+      "text": "Development of the need for Regulation in Food Industry"
+    },
+    {
+      "role": "topic_item",
+      "text": "Codex Alimentarius"
+    },
+    {
+      "role": "topic_item",
+      "text": "Food Scares"
+    },
+    {
+      "role": "topic_item",
+      "text": "EU Membership & Free Movement of Goods"
+    },
+    {
+      "role": "topic_item",
+      "text": "EU Institutions"
+    },
+    {
+      "role": "topic_item",
+      "text": "EU Legislation"
+    },
+    {
+      "role": "topic_item",
+      "text": "Where to find information and copies of the legislation"
+    }
+  ]
+}

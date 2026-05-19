@@ -1,0 +1,9 @@
+Legibility & Font
+Size
+
+LARGER LABELS:
+• X-height ≥ 1.2mm
+
+SMALLER LABELS:
+• If the largest surface area <
+80cm2 ≥ 0.9mm

@@ -1,0 +1,6 @@
+# A) The Legal Name
+
+- The legal name is the name specified in Community legislation for a product meeting particular specifications, e.g. compositional criteria are detailed in the Vertical Directives for jam, fruit juice, chocolate etc.
+- If a legal name exists for a foodstuff, this name must be used on the label
+
+![img-74.jpeg](img-74.jpeg)

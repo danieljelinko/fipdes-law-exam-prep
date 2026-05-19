@@ -1,0 +1,9 @@
+![Slide 381](food_law_slides/slide_381.png)
+
+### Activity                 General Hygiene Requirements         Specific Hygiene Requirements
+
+Primary production and   Part A, Annex I of Regulation (EC)   Relevant requirements laid down
+associated operations    No. 852/2004                         in Regulation (EC) No. 853/2004
+
+All other activities     Annex II of Regulation (EC) No.      Relevant requirements laid down
+                         852/2004                             in Regulation (EC) No. 853/2004

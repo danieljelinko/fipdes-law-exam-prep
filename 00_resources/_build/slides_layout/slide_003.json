@@ -1,0 +1,58 @@
+{
+  "page": 3,
+  "layout": "grid_of_pills (4\u00d73)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "INDICATIVE SYLLABUS"
+    },
+    {
+      "role": "topic_item",
+      "text": "Introduction to Food Regulatory Affairs, the EU and its institutions"
+    },
+    {
+      "role": "topic_item",
+      "text": "International Perspective and Codex Alimentarius"
+    },
+    {
+      "role": "topic_item",
+      "text": "Interaction of International, European and National Law and role of Case Law"
+    },
+    {
+      "role": "topic_item",
+      "text": "Background to evolution of EU law (BSE Crisis)"
+    },
+    {
+      "role": "topic_item",
+      "text": "The regulatory environment, enforcement and food inspection agencies"
+    },
+    {
+      "role": "topic_item",
+      "text": "Food Agencies and the European Food Authority (role of FSAI, EFSA and other agencies)"
+    },
+    {
+      "role": "topic_item",
+      "text": "Official Control of Foodstuffs & Veterinary Office Unit"
+    },
+    {
+      "role": "topic_item",
+      "text": "HACCP and Food Hygiene"
+    },
+    {
+      "role": "topic_item",
+      "text": "Food Information to Consumers and Food Labelling"
+    },
+    {
+      "role": "topic_item",
+      "text": "Nutrition Declaration & Health Claims"
+    },
+    {
+      "role": "topic_item",
+      "text": "Food Quality / Additives / Foods for Particular Uses (PARNUTS) / Geographical Indication / Organic / GMOs and Genetically Modified Foods"
+    },
+    {
+      "role": "topic_item",
+      "text": "Emerging issues \u2014 food fraud, RASFF, voluntary labelling and marketing terms"
+    }
+  ]
+}

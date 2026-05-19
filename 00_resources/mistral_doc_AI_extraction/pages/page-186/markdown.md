@@ -1,0 +1,11 @@
+# Date of minimum durability
+
+'Best before' date
+Non-perishable foods, long shelf-life
+e.g. dry pasta, biscuits, frozen foods
+
+'Use by' date
+From a microbiological point of view are highly perishable and likely after a short period to constitute an immediate danger to human health
+e.g. foods with a short shelf-life that require refrigeration fall into this category, such as milk, minced meat, fish, and ready-to eat salads.
+
+Derogations, e.g. chewing gum, vinegar, bakery products normally consumed within 24 hours.

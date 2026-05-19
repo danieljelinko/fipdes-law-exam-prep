@@ -1,0 +1,24 @@
+![Slide 430](food_law_slides/slide_430.png)
+
+### Main Principles
+
+1.
+
+Farm to Fork approach to food hygiene policy
+
+2.
+
+FBOs take primary responsibility for the safety of the food
+they produce
+
+3.
+
+FSMS based on HACCP
+
+4.
+
+Traceability of all food + ingredients
+
+5.
+
+Food Handlers must have training

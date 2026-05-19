@@ -1,0 +1,9 @@
+# Food Fraud
+
+![img-221.jpeg](img-221.jpeg)
+
+![img-222.jpeg](img-222.jpeg)
+
+The Food Safety Authority of Ireland (FSAI) state that "Food fraud is committed when food is illegally placed on the market with the intention of deceiving the customer, usually for financial gain."
+
+In recent years food fraud has become much more of an issue for consumers as global food supply has become so complex that it is almost impossible for food producers and retailers to guarantee the provenance of their products. This has spurred initiatives to address these growing concerns. The effects of a food fraud can range from economic losses for producers, harming people's health and brand/reputational damage.

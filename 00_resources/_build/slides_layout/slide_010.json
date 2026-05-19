@@ -1,0 +1,30 @@
+{
+  "page": 10,
+  "layout": "title_hr_body + bulleted_list (\u2751 markers, 5 discussion questions)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "What do you think?"
+    },
+    {
+      "role": "topic_item",
+      "text": "Why do we need food regulation of food laws?"
+    },
+    {
+      "role": "topic_item",
+      "text": "What do you think would happen if we had no laws?"
+    },
+    {
+      "role": "topic_item",
+      "text": "Who do our food laws actually seek to protect?"
+    },
+    {
+      "role": "topic_item",
+      "text": "What are the problems with regulation?"
+    },
+    {
+      "role": "topic_item",
+      "text": "If you were to run a food business, how would you approach complying with regulation?"
+    }
+  ]
+}

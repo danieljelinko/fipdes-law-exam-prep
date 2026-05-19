@@ -1,0 +1,5 @@
+# RESTRICTIONS: EXAMPLES
+
+- In 2013 the Commission restricted the use of neonicotinoids in order to protect bees.
+
+- More recently, in 2016, the Commission banned at EU level a dangerous co-formulant used together with the active substance glyphosate and reminded Member States of their obligation to limit the use of pesticides in some areas (in the vicinity of parks and playgrounds).

@@ -1,0 +1,18 @@
+# Chilli con Carne Recipe
+
+- Ingredients at mixing bowl stage:
+- Minced beef 300g
+- Kidney beans 200g
+- Tomatoes 500g
+- Onion 50g
+- Celery 20g
+- Garlic 20g
+- Spices 5g
+- Black pepper 3g
+- Salt 2g
+
+Total weight 1100g
+
+Assume 10% loss of moisture during cooking?
+
+- Calculate the QUID?

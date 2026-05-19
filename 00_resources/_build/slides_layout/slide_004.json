@@ -1,0 +1,18 @@
+{
+  "page": 4,
+  "layout": "two_column_label_right + table",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Module Outline"
+    },
+    {
+      "role": "metadata",
+      "text": "Location: CQ-205"
+    },
+    {
+      "role": "table_row",
+      "text": "Week and Date | Topic (header)"
+    }
+  ]
+}

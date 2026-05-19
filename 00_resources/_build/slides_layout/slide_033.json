@@ -1,0 +1,50 @@
+{
+  "page": 33,
+  "layout": "title_hr_body + numbered_list (3 items) + bulleted_list (\u27a2 markers, QMV rules)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Voting for EU Law"
+    },
+    {
+      "role": "paragraph",
+      "text": "The EU has 3 legislative (or law making) institutions:"
+    },
+    {
+      "role": "step_item",
+      "text": "The European Commission proposes new laws"
+    },
+    {
+      "role": "step_item",
+      "text": "These proposals must be passed by both the European Parliament and"
+    },
+    {
+      "role": "step_item",
+      "text": "the Council of the European Union"
+    },
+    {
+      "role": "section_subtitle",
+      "text": "Qualified majority voting (QMV)"
+    },
+    {
+      "role": "paragraph",
+      "text": "In order to have a decision passed by the Council:"
+    },
+    {
+      "role": "topic_item",
+      "text": "At least 55% of member states must agree and"
+    },
+    {
+      "role": "topic_item",
+      "text": "The member states in agreement must represent at least 65% of the EU population"
+    },
+    {
+      "role": "topic_item",
+      "text": "To block the proposal at least 4 member states representing at least 35% of the population of the EU must vote against it."
+    },
+    {
+      "role": "link",
+      "text": "See more here."
+    }
+  ]
+}

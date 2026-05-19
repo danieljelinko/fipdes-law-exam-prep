@@ -1,0 +1,30 @@
+{
+  "page": 7,
+  "layout": "title_hr_body + 5 pill row",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Invigilated Exam in person (60%)"
+    },
+    {
+      "role": "topic_item",
+      "text": "End of semester examination to be held in May 2026"
+    },
+    {
+      "role": "topic_item",
+      "text": "Exam office to confirm dates"
+    },
+    {
+      "role": "topic_item",
+      "text": "3 hours"
+    },
+    {
+      "role": "topic_item",
+      "text": "3 questions to be answered out of 5"
+    },
+    {
+      "role": "topic_item",
+      "text": "No material is permitted in the exam"
+    }
+  ]
+}

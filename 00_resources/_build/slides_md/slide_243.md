@@ -1,0 +1,10 @@
+![Slide 243](food_law_slides/slide_243.png)
+
+### Nutrition Claims
+
+- Make a list of your ingredients in descending order.
+- Look at your labels in groups and identify and nutrition or health
+
+claims.
+
+- Are you considering any claims on your product.

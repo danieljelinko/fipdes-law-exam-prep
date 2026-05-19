@@ -1,0 +1,30 @@
+{
+  "page": 43,
+  "layout": "course_title_template",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Food Law & Regulatory Environment"
+    },
+    {
+      "role": "metadata",
+      "key": "Module code",
+      "value": "TFCA1402"
+    },
+    {
+      "role": "metadata",
+      "key": "Programme",
+      "value": "MSc Culinary Innovation and Food Product Development"
+    },
+    {
+      "role": "metadata",
+      "key": "Lecturer",
+      "value": "Sheona Foley"
+    },
+    {
+      "role": "metadata",
+      "key": "Date (on slide)",
+      "value": "5th February 2025 \u2014 *stale template; actual delivery 4 Feb 2026 per Module Outline*"
+    }
+  ]
+}

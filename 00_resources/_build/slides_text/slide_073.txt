@@ -1,0 +1,14 @@
+Risk Assessment
+
+‘risk’ means a function of the probability of an
+adverse health effect and the severity of that
+effect, consequential to a hazard
+
+‘risk assessment’ means a scientifically based
+process
+
+consisting of four steps:
+1. hazard identification,
+2. hazard characterisation,
+3. exposure assessment and
+4. risk characterisation

@@ -1,0 +1,34 @@
+{
+  "page": 12,
+  "layout": "title_hr_body + grid_of_pills (6 photo-labelled cards)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Mid 1980s Food Scares"
+    },
+    {
+      "role": "topic_item",
+      "text": "Listeria in cheese"
+    },
+    {
+      "role": "topic_item",
+      "text": "Salmonella in chocolate"
+    },
+    {
+      "role": "topic_item",
+      "text": "GMOs"
+    },
+    {
+      "role": "topic_item",
+      "text": "Mad Cow Disease"
+    },
+    {
+      "role": "topic_item",
+      "text": "Avian Flu"
+    },
+    {
+      "role": "topic_item",
+      "text": "E-Coli"
+    }
+  ]
+}

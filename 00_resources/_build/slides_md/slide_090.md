@@ -1,0 +1,10 @@
+![Slide 90](food_law_slides/slide_090.png)
+
+### Article 12: Exports
+
+> Food and feed exported or re-exported from the Community for placing on the market of a third country shall comply with the relevant requirements of food law, **unless**:
+
+- otherwise requested by the **authorities of the importing country**, **or**
+- established by the laws, regulations, standards, codes of practice and other legal and administrative procedures as may be in force in the importing country.
+
+> **However**, where food may be injurious to health or feed is unsafe, the food or feed **cannot be exported or re-exported** and a **safe disposal must be ensured**.

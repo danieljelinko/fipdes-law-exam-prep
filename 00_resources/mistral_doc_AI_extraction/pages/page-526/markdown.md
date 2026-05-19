@@ -1,0 +1,3 @@
+# Green Laws in EU
+
+A new directive on empowering consumers for the green transition was adopted in 2024, to better inform and protect them against unfair labelling practices. On 22 March 2023, the Commission also published its proposal for the Green Claims Directive. These two legal acts will define the conditions for the use of sustainability labels and establish rules for their certification. Food companies will be required to substantiate environmental or green claims used on their products. The impact of these acts will only become apparent in the future.

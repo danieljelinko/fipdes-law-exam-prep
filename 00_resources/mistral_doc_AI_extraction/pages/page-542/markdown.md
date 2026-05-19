@@ -1,0 +1,10 @@
+# Labelling Assignment
+
+![img-247.jpeg](img-247.jpeg)
+
+DELAY IN FEEDBACK
+
+![img-248.jpeg](img-248.jpeg)
+
+FEEDBACK IDENTIFIES GAPS IN YOUR KNOWLEDGE AND REFERENCES MISSING
+- CAN HELP FOR REVISION

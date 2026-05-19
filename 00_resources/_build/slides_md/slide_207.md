@@ -1,0 +1,14 @@
+![Slide 207](food_law_slides/slide_207.png)
+
+### FSAI Announces Consultation on Food — Labelling
+
+- Information available here:
+
+https://www.fsai.ie/uploadedFiles/Legislation/Consultations/consulta
+tion-20210211.pdf
+
+- Online questionnaire available here:
+
+https://www.surveymonkey.com/r/VLXHL7J
+
+Deadline has passed:  25th March 2021

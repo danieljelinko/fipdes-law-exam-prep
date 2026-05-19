@@ -1,0 +1,50 @@
+{
+  "page": 20,
+  "layout": "title_hr_body + horizontal timeline (9 enlargement waves)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "The 27 Countries of the EU"
+    },
+    {
+      "role": "table_row",
+      "text": "1958 | EEC formed with 6 countries (Belgium, France, Germany, Italy, Luxembourg, Netherlands)"
+    },
+    {
+      "role": "table_row",
+      "text": "1973 | Denmark, Ireland, United Kingdom"
+    },
+    {
+      "role": "table_row",
+      "text": "1981 | Greece"
+    },
+    {
+      "role": "table_row",
+      "text": "1986 | Spain, Portugal"
+    },
+    {
+      "role": "table_row",
+      "text": "1995 | Austria, Finland, Sweden"
+    },
+    {
+      "role": "table_row",
+      "text": "2004 | Czech Republic, Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, Slovenia"
+    },
+    {
+      "role": "table_row",
+      "text": "2007 | Bulgaria, Romania"
+    },
+    {
+      "role": "table_row",
+      "text": "2013 | Croatia"
+    },
+    {
+      "role": "table_row",
+      "text": "2016 | BREXIT (referendum)"
+    },
+    {
+      "role": "table_row",
+      "text": "2020 | UK Withdrawal Agreement"
+    }
+  ]
+}

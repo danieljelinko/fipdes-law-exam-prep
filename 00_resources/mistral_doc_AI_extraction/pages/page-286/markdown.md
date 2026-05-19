@@ -1,0 +1,3 @@
+# EU register of health claims
+
+This list is on the Community Register of claims on the European Commission website here.

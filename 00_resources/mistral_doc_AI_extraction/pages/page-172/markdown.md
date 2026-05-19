@@ -1,0 +1,15 @@
+# Details of Allergens
+
+1. Cereals containing gluten, namely: wheat (such as spelt and khorasan wheat), rye, barley, oats or their hybridised strains, and products thereof, except:
+a) wheat based glucose syrups including dextrose;
+b) wheat based maltodextrins;
+c) glucose syrups based on barley;
+d) cereals used for making alcoholic distillates including ethyl alcohol of agricultural origin;
+
+2. Crustaceans and products thereof;
+
+3. Eggs and products thereof;
+
+4. Fish and products thereof, except:
+a) fish gelatine used as carrier for vitamin or carotenoid preparations;
+b) fish gelatine or Isinglass used as fining agent in beer and wine;

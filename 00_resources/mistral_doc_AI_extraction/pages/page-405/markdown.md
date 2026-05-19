@@ -1,0 +1,5 @@
+|  Business Risk Category | GHP Alone Sufficient?  |
+| --- | --- |
+|  Low | Yes  |
+|  Medium | Yes?  |
+|  High | No  |

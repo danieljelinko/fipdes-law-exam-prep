@@ -1,0 +1,6 @@
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12749-Food-labelling-revision-of-rules-on-information-provided-to-consumers/public-consultation_en
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12749-Food-labelling-revision-of-rules-on-information-provided-to-consumers/public-consultation_en
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12749-Food-labelling-revision-of-rules-on-information-provided-to-consumers/public-consultation_en
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12749-Food-labelling-revision-of-rules-on-information-provided-to-consumers/public-consultation_en
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12749-Food-labelling-revision-of-rules-on-information-provided-to-consumers/public-consultation_en
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12749-Food-labelling-revision-of-rules-on-information-provided-to-consumers/public-consultation_en

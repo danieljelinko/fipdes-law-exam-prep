@@ -1,0 +1,26 @@
+{
+  "page": 38,
+  "layout": "two_column (exclamation icon left, title + 4 link entries right)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Where can I find the legislation?"
+    },
+    {
+      "role": "topic_item",
+      "text": "Link to EU Legislation: http://eur-lex.europa.eu/homepage.html"
+    },
+    {
+      "role": "topic_item",
+      "text": "Link to Irish Legislation: https://www.irishstatutebook.ie/"
+    },
+    {
+      "role": "topic_item",
+      "text": "Link to Food Safety Authority of Ireland: https://www.fsai.ie"
+    },
+    {
+      "role": "topic_item",
+      "text": "Link to European Food Safety Authority: http://www.efsa.europa.eu"
+    }
+  ]
+}

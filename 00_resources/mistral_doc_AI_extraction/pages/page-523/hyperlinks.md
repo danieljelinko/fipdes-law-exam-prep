@@ -1,0 +1,2 @@
+https://www.carbontrust.com/en-eu/our-work-and-impact/guides-reports-and-tools/what-are-scope-3-emissions-and-why-do-they-matter
+https://www.nutritics.com/en/blog/everything-food-businesses-need-to-know-about-the-corporate-sustainability-reporting-directive/

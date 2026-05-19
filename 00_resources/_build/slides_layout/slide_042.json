@@ -1,0 +1,22 @@
+{
+  "page": 42,
+  "layout": "title_hr_body + 3 icon pills (preview of next lecture)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Next Lecture"
+    },
+    {
+      "role": "topic_item",
+      "text": "Food Scares/Crises"
+    },
+    {
+      "role": "topic_item",
+      "text": "Regulation 178/2002"
+    },
+    {
+      "role": "topic_item",
+      "text": "How to search for EU legislation"
+    }
+  ]
+}

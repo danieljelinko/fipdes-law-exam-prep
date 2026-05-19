@@ -1,0 +1,16 @@
+KEY STEPS IN DEVELOPING FOOD
+TRACEABILITY SYSTEMS
+                                                                                    Step 3. Identify the traceability
+                                                                                    information needed, including:
+                                                                                    •Information that must accompany food ingredients
+                                                                                     used by the food business operator
+    Step 1. Define the scope of the
+                                         Step 2. Decide on the optimal batch size   •Internal process information that is needed to
+          traceability system                                                        maintain traceability through food processing or
+                                                                                     preparation where applicable
+                                                                                    •Information that must accompany distribution of the
+                                                                                     food produced by the food business operator
+
+  Step 4. Establish a system of record   Step 5. Establish procedures for review
+                                                                                    Step 6. Document the traceability system
+         keeping and retrieval            and testing of the traceability system

@@ -1,0 +1,19 @@
+![img-183.jpeg](img-183.jpeg)
+
+![img-184.jpeg](img-184.jpeg)
+
+# US Cases
+
+- A lawyer for a man who said his cancer was caused by Bayer AG’s glyphosate-based weed killer Roundup on Tuesday urged U.S. jurors to “send a message” to the company by holding it liable and awarding millions in damages. The case is only the second of more than 11,200 Roundup lawsuits to go to trial in the United States as litigation setbacks and a prior jury verdict against the company have sent Bayer shares plunging. “A responsible company would test its product. A responsible company would tell their customers if they knew it causes cancer,” Aimee Wagstaff, a lawyer for plaintiff Edwin Hardeman, said during closing arguments on Tuesday. She called conduct by Bayer’s Monsanto unit reckless and offensive.
+
+- Bayer, which bought Roundup maker Monsanto in a $63 billion deal last year, denies the allegations, saying decades of studies by independent scientists have shown glyphosate and Roundup to be safe for human use. In Hardeman’s case, the jury on March 19 found Roundup to have been a “substantial factor” in causing his non-Hodgkin’s lymphoma. That verdict followed a first phase of the trial that focused exclusively on science.
+
+- The decision allowed the trial to proceed to a second phase in which the same jury will decide if Bayer is liable. In the second phase lawyers for Hardeman were able to present previously excluded internal documents allegedly showing the company’s efforts to influence scientists and regulators about the popular product’s safety. Jurors will now decide whether Roundup was defectively designed, whether Monsanto acted negligently, and if it failed to warn consumers of Roundup’s cancer risks. If jurors find the company liable, they can award compensatory and punitive damages.
+
+- Brian Stekloff, a lawyer for Bayer, on Tuesday said the U.S. Environmental Protection Agency (EPA), which regulates herbicides, never removed Roundup from the market or required a cancer warning. He also said any contribution to scientific studies by Monsanto employees had been properly disclosed, accusing plaintiffs of taking cherry-picked emails out of context.
+
+- The EPA, the European Chemicals Agency and other regulators have found that glyphosate is not likely carcinogenic to humans. The World Health Organization’s cancer arm, however, reached a different conclusion in 2015, classifying glyphosate as “probably carcinogenic to humans.”
+
+- In the first U.S. Roundup trial last year, another California man was awarded $289 million after a state court jury found the weed killer caused his cancer. That award was later reduced to $78 million and is on appeal.
+
+- Ref: Reuters and Wall Street Journal

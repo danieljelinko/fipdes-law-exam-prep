@@ -1,0 +1,22 @@
+{
+  "page": 14,
+  "layout": "title_hr_body + 3 interlocking circles (Consumer Protection / Public Health / Diversity & Creativity)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Dilemma in Regulating Food and Getting the balance right"
+    },
+    {
+      "role": "topic_item",
+      "text": "Consumer Protection"
+    },
+    {
+      "role": "topic_item",
+      "text": "Public Health"
+    },
+    {
+      "role": "topic_item",
+      "text": "Diversity & Creativity"
+    }
+  ]
+}

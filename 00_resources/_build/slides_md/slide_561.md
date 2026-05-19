@@ -1,0 +1,25 @@
+![Slide 561](food_law_slides/slide_561.png)
+
+### Other FSAI Publications
+
+FSAI (2023) Resources Booklet for Small Food Businesses
+
+FSAI Guidance Note 1: Guidance for the HSE on the Inspection of Food Businesses
+
+FSAI Guidance Note 11: Assessment of HACCP Compliance
+
+Guidance Note No.10 Product Recall and Traceability (Revision 3)
+
+Guidance Note No.18 Validation of Product Shelf-life (Revision 3)
+
+Guidance for Labelling Assignment:
+
+Guidance Note No 3 Guidelines for the Interpretation of Results of Microbiological Testing of
+
+Food Information on Pre-Packed Foods (FSAI, 2019)
+
+Guidance Note 17 - The Labelling of Meat and Meat as an Ingredient (Revision 1)
+
+FSAI Guidance Note on Additives
+
+FSAI Food Reformulation Task Force: Priority Food Categories for Reformulation in Ireland

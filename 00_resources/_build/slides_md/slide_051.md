@@ -1,0 +1,12 @@
+![Slide 51](food_law_slides/slide_051.png)
+
+### Green Paper on Food Law — May 1997
+
+> *Green Papers are documents published by the European Commission to stimulate discussion on given topics at European level. They invite the relevant parties (bodies or individuals) to participate in a consultation process and debate on the basis of the proposals they put forward. Green Papers may give rise to legislative developments that are then outlined in White Papers.*
+
+- In **1996** the Commission launched a public consultation on food law.
+- **A Green Paper on Food Law was published in 1997.**
+- The Green Paper stated that there was a need for a European food policy requiring that only foodstuffs which are **safe, wholesome and fit for consumption** be placed on the market for consumers.
+- The Green Paper noted that:
+  > "Health protection in relation with consumption of foodstuffs is to be an absolute priority at any time and not only something to be looked at in emergency situations."
+- The Commission invited other European and national institutions and all interested groups to submit opinions. Following a series of intensive consultations the **White Paper** was published.

@@ -1,0 +1,21 @@
+![Slide 319](food_law_slides/slide_319.png)
+
+### *(Image-only slide — no extractable text.)*
+
+**Grains Containing Gluten** — infographic with product photos:
+
+| Grain | Notes |
+|---|---|
+| Barley | |
+| Bulgur | |
+| Farina | (Cream of Wheat) |
+| Durum Wheat | (Pasta, Semolina) |
+| Kamut | (Khorasan wheat or Oriental wheat) |
+| Farro | |
+| Rye | |
+| Semolina | (Couscous, Cream of Wheat, Pasta, Orzo) |
+| Spelt | |
+| Triticale | |
+| Wheat | (All-purpose flour, Enriched flour, Cake flour, Whole-wheat flour, Wheat berries) |
+
+*Note: Oats are naturally gluten-free but may be contaminated with gluten during processing.*

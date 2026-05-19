@@ -1,0 +1,22 @@
+{
+  "page": 25,
+  "layout": "title_hr_body + paragraph + nested bullets",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "The Need for a European Policy"
+    },
+    {
+      "role": "topic_item",
+      "text": "1985: Completion of Internal Market \u2014 Community Legislation on Foodstuffs: Public Health, Consumer Information, Controls of Foodstuffs"
+    },
+    {
+      "role": "topic_item",
+      "text": "BSE Crisis (1986 onwards) \u2014 call for safe food on the EU market"
+    },
+    {
+      "role": "topic_item",
+      "text": "Green Paper 1997: called for Food Law to address: public health; free circulation of goods; scientific basis (evidence and risk assessment); competitiveness, HACCP"
+    }
+  ]
+}

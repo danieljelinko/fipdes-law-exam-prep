@@ -1,0 +1,10 @@
+![Slide 105](food_law_slides/slide_105.png)
+
+### How much should be withdrawn or recalled?
+
+- **Assume that all food in that batch is unsafe** unless there is evidence to the contrary *(Article 14.3 of Regulation 178/2002)*.
+- **Batch** — means a group or set of identifiable products obtained from a given process under practically identical circumstances and produced in a given place within one defined production period *(Regulation (EC) 2073/2005)*.
+
+> **Note:** If your batch size is **small and narrowly defined**, and you have a **more detailed traceability system**, you will have a **smaller product withdrawal or recall**.
+
+*Slide shows visual comparison:* small batch (single biscuit) vs. large batch (stacked column of biscuits).

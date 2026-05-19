@@ -1,0 +1,12 @@
+# Food Hygiene
+
+- Pre-requisites and good manufacturing practice
+- The Food Safety Management System (FSMS): (i) food safety (ii) traceability, (iii) NEW food safety culture (iv) NEW food waste and (iv) allergens.
+- What does flexibility mean in this context?
+
+## Legislation
+
+- Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs
+- Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin
+- Commission Regulation (EC) No 2073/2005 of 15 November 2005 on microbiological criteria for foodstuffs (Text with EEA relevance)
+- COMMISSION REGULATION (EU) 2021/382 of 3 March 2021 amending the Annexes to Regulation (EC) No 852/2004 of the European Parliament and of the Council on the hygiene of foodstuffs as regards food allergen management, redistribution of food and food safety culture

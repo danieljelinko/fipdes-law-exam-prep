@@ -1,0 +1,101 @@
+[
+  {
+    "lecture": 1,
+    "week": 1,
+    "date": "28 January 2026",
+    "title": "Introduction to Food Law & EU Institutions",
+    "topics": "Module overview · syllabus · history of EU food law · EU institutions (Commission, Parliament, Council) · early food law evolution · BSE crisis",
+    "start_slide": 1,
+    "end_slide": 42,
+    "n_slides": 42,
+    "title_slide_evidence": "Slide 1 — course title 'Food Regulatory Affairs, Module TFCA1402, Sheona Foley, 28 January 2026'. End: slide 41 'Questions' + slide 42 'Next Lecture' preview."
+  },
+  {
+    "lecture": 2,
+    "week": 2,
+    "date": "4 February 2026",
+    "title": "General Principles of Food Law (178/2002), EFSA, FSAI, DG Sante",
+    "topics": "Reg (EC) 178/2002 · BSE crisis · Dioxin crisis · EFSA · FSAI · DG Sante · RASFF · risk analysis · Article 6 · Article 8 (consumer protection) · fieldtrip photos",
+    "start_slide": 43,
+    "end_slide": 124,
+    "n_slides": 82,
+    "title_slide_evidence": "Slide 43 — repeated course title (date '5th February 2025' on slide is from reused template; actual delivery 4 Feb 2026). Slide 44 'This Week — Evolution of General Food Law in Europe'. Slide 120 'Questions ?'. Slides 123–124 fieldtrip photos."
+  },
+  {
+    "lecture": 3,
+    "week": 4,
+    "date": "18 February 2026",
+    "title": "Food Information to Consumers (FIC) Regulation 1169/2011",
+    "topics": "FIC Reg 1169/2011 · FLIS · date of minimum durability · mandatory information · allergens (14 major allergens) · labelling rules",
+    "start_slide": 125,
+    "end_slide": 227,
+    "n_slides": 103,
+    "title_slide_evidence": "Slide 125 'Food Law & Regulatory Environment — Module Code TFCA1402 — Workshop Week 4 — Date 18th February 2026'."
+  },
+  {
+    "lecture": 4,
+    "week": 5,
+    "date": "25 February 2026",
+    "title": "Nutrition & Health Claims",
+    "topics": "Nutrition declaration · per-portion rules · nutrition claims · health claims · EU register · Article 13 / Article 14 · Reg 1924/2006 · FSAI guidance",
+    "start_slide": 228,
+    "end_slide": 300,
+    "n_slides": 73,
+    "title_slide_evidence": "Slide 228 'Food Regulatory Affairs — Date: 25th February 2026'. Followed by slide 229 'Some Announcements' and slide 232 'Today's Health and Nutrition Claims Lecture'."
+  },
+  {
+    "lecture": 5,
+    "week": 6,
+    "date": "4 March 2026",
+    "title": "Additives, Voluntary Terms (Vegetarian/Vegan/Gluten-Free/Fairtrade/Organic) & Food Fraud Intro",
+    "topics": "Voluntary terms · Vegetarian · Vegan · Gluten-Free · Fairtrade · Organic · GMO · glyphosate US cases · Food Fraud (intro) · Farm to Fork strategy",
+    "start_slide": 301,
+    "end_slide": 348,
+    "n_slides": 48,
+    "title_slide_evidence": "Slide 301 'Food Regulatory Affairs — Date: 4th March 2025' (stale year, actual 4 March 2026). Slide 302 'Voluntary Terms — Today's Lecture: Vegetarian, Vegan, Gluten-Free, Fairtrade, Organic'. Slide 346 'Questions ?'. Includes Food Fraud bridge (344–348) and Farm to Fork."
+  },
+  {
+    "lecture": 6,
+    "week": 8,
+    "date": "18 March 2026",
+    "title": "The Hygiene Package & HACCP (Reg 852/2004)",
+    "topics": "Hygiene Package overview · Reg 852/2004 · HACCP principles · HACCP flow chart · HACCP decision tree · GHP · registration · inspection · risk categorisation · Annex I/II",
+    "start_slide": 349,
+    "end_slide": 424,
+    "n_slides": 76,
+    "title_slide_evidence": "Slide 349 — repeated course title (full Module TFCA1402 / Lecturer template). Slide 350 'What is The Hygiene Package'. Slide 424 'Questions ?'."
+  },
+  {
+    "lecture": 7,
+    "week": 9,
+    "date": "25 March 2026",
+    "title": "Hygiene Package (cont.) & Foods of Animal Origin (Reg 853/2004)",
+    "topics": "Reg 853/2004 · specific hygiene rules for products of animal origin · ID marking · HACCP objectives · national legislation · documentation & records · FBO obligations",
+    "start_slide": 425,
+    "end_slide": 478,
+    "n_slides": 54,
+    "title_slide_evidence": "Slide 425 — repeated course title. Slide 426 'What is The Hygiene Package' (Week 9 recap intro). Slide 438 'Regulation (EC) No 853/2004 of 29 April 2004'. Slide 478 'Questions'."
+  },
+  {
+    "lecture": 8,
+    "week": 11,
+    "date": "14 April 2026",
+    "title": "Revision Lecture 1 of 2",
+    "topics": "Revision recap · food scares & fraud · enforcement pyramid · green laws · EU consumer-empowerment directive · Organic recap",
+    "start_slide": 479,
+    "end_slide": 511,
+    "n_slides": 33,
+    "title_slide_evidence": "Slide 479 'Module TFCA1402 — Food Law & Regulatory Environment — Revision Lecture 1 of 2 — Date: 14th April 2026'. End: slide 511 'Next Week's Topics' preview."
+  },
+  {
+    "lecture": 9,
+    "week": 11,
+    "date": "22 April 2026",
+    "title": "Revision Lecture 2 of 2 (incl. Recap, Exam Info & Closing)",
+    "topics": "Sustainability · Regulation on Deforestation-free Products · nutrient profiles · healthy food · recap · exam format · past papers · NPD showcase · closing",
+    "start_slide": 512,
+    "end_slide": 564,
+    "n_slides": 53,
+    "title_slide_evidence": "Slide 512 — repeated course title. Slide 513 'Sustainability on your label? — Today's Topics'. Slide 540 'Recap — 22nd April 2025'. Slide 543 'Exam Format'. Slide 564 'Thank you, Good luck in your exams!'."
+  }
+]

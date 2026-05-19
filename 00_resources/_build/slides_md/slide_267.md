@@ -1,0 +1,8 @@
+![Slide 267](food_law_slides/slide_267.png)
+
+### *(Image-only slide — no extractable text.)*
+
+Product packaging examples (Irish market):
+- **Glenisk** High Protein Strained Greek Style Yogurt — "0% Fat", "No Added Sugar"
+- **Connacht Gold** Low Fat Butter — "Love the Taste, Half the Fat"
+- **Avonmore** milk range: Fresh Milk, Light Milk, Low Fat Super Milk, Whole Super Milk

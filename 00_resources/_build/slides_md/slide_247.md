@@ -1,0 +1,16 @@
+![Slide 247](food_law_slides/slide_247.png)
+
+4. by suggesting, by means of the appearance, the
+                   description or pictorial representations, the presence
+                   of a particular food or an ingredient, while in reality a
+                   component naturally present or an ingredient
+                   normally used in that food has been substituted with
+    Food           a different component or a different ingredient.
+
+information   All of the above apply to:
+must not be   ❑Advertising
+
+ misleading   ❑Presentation of foods, in particular their shape,
+               appearance or packaging, the packaging materials used,
+               the way in which they are arranged and the setting in
+               which they are displayed.

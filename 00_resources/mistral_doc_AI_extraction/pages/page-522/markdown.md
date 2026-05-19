@@ -1,0 +1,9 @@
+# Corporate sustainability reporting
+
+The Corporate Sustainability Reporting Directive (CSRD): Directive (EU) 2022/2464 of the European Parliament and of the Council of 14 December 2022 amending Regulation (EU) No 537/2014, Directive 2004/10
+
+EU rules require large companies and listed companies to publish regular reports on the social and environmental risks they face, and on how their activities impact people and the environment.
+
+It is an amendment to the 2014 Non-Financial Reporting Directive. It introduces more detailed reporting requirements and ensures that large companies are required to report on sustainability issues such
+
+A large company in this context is one that meets at least two of the three following criteria is one with &gt; 250 employees and/or &gt; €40M turnover and/or &gt; €20M in total assets.

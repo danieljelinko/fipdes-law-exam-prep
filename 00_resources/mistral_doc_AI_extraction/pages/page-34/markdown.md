@@ -1,0 +1,8 @@
+# Directorate-General for Health &amp; Food Safety
+
+- ☐ Commission is made up of Directorate-Generals (DGs)
+- ☐ DG SANTE (formerly DG SANCO, Santé et Consommateurs) deals with health and food safety
+- ☐ Founded in October 1999
+- ☐ Primary function is to draft and propose EU laws on food and product safety, consumer rights and health protection + oversee their application
+
+Link to website: https://ec.europa.eu/knowledge4policy/organisation/dg-sante-dg-health-food-safety_en

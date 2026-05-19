@@ -1,0 +1,7 @@
+# HACCP, TACCP and VACCP
+
+TACCP and VACCP address threats and vulnerabilities instead of hazards.
+
+TACCP stands for **Threat Assessment and Critical Control Points**. This protocol focuses on tampering, intentional adulteration of food, and food defence.
+
+VACCP stands for **Vulnerability Assessment and Critical Control Points**. It focuses on food fraud as well, and widens the scope to include systematic prevention of any potential adulteration of food, whether intentional or not, by identifying the vulnerable points in a supply chain. It is especially concerned with economically motivated adulteration (EMA).

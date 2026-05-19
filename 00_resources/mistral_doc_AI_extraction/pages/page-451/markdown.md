@@ -1,0 +1,11 @@
+# ANNEX II
+
+Requirements concerning several products of animal origin
+
+Section I: ID marking
+
+Section II: HACCP Objectives
+
+Section III: Food Chain Information
+
+Section IV: Frozen Food

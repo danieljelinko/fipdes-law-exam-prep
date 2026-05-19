@@ -1,0 +1,11 @@
+Nutrition Claims
+
+Source of ... is the simplest type of claim about the
+nutrients a food contains
+ • Protein
+ • Carbohydrate
+ • Fat
+                                 Source of Vitamin C
+ • Fibre
+ • Sodium
+ • Vitamins & Minerals

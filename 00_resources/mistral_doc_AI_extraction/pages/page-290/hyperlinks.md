@@ -1,0 +1,1 @@
+https://adstandards.ie/new-rules-relating-to-advertising-of-high-fat-salt-and-sugar-hfss-food-and-beverage-products-unveiled-by-the-advertising-standards-authority-for-ireland/#:~:text=Thresholds%20for%20non%2Dbroadcast%20media,under%2015%20years%20of%20age

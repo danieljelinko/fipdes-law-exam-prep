@@ -1,0 +1,30 @@
+{
+  "page": 34,
+  "layout": "title_hr_body + bulleted_list (\u2751 markers, 4 items + link)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Directorate-General for Health & Food Safety"
+    },
+    {
+      "role": "topic_item",
+      "text": "Commission is made up of Directorate-Generals (DGs)"
+    },
+    {
+      "role": "topic_item",
+      "text": "DG SANTE (formerly DG SANCO, Sant\u00e9 et Consommateurs) deals with health and food safety"
+    },
+    {
+      "role": "topic_item",
+      "text": "Founded in October 1999"
+    },
+    {
+      "role": "topic_item",
+      "text": "Primary function is to draft and propose EU laws on food and product safety, consumer rights and health protection + oversee their application"
+    },
+    {
+      "role": "link",
+      "text": "https://ec.europa.eu/knowledge4policy/organisation/dg-sante-dg-health-food-safety_en"
+    }
+  ]
+}

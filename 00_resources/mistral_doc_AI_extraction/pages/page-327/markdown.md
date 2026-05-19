@@ -1,0 +1,12 @@
+# E FSA safety assessment necessary
+
+List of GM Food Ingredients Authorised in EU:
+
+1. Soya bean (herbicide tolerant) – food and food additives
+2. Maize (pest resistant/herbicide tolerant) – food and food additives
+3. Oilseed rape (herbicide tolerant) – food and food additives
+4. Cotton (pest resistant/herbicide tolerant) – food and food additives
+5. Sugar Beet (herbicide tolerant) – food
+6. Starch potato (enhanced starch) – food
+
+See EU GMO Register here.

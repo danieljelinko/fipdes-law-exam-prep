@@ -1,0 +1,6 @@
+# How do we manage Hazards?
+
+- Good Hygiene Practices
+- Procedures based on HACCP
+- Regulation 852/2004 – all food businesses
+- Regulation 853/2004 – foods of animal origin

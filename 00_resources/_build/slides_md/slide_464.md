@@ -1,0 +1,17 @@
+![Slide 464](food_law_slides/slide_464.png)
+
+### HACCP Training: Annex II Chapter XII Para 2
+
+Those responsible for the development and maintenance of HACCP based procedures or for the
+operation of relevant guides must receive adequate training in the application of the HACCP principles
+
+- Adequate training:
+
+- Does not necessarily involve participation in training courses
+
+- Could be achieved through information campaigns from professional organisations or from the
+competent authorities
+
+- Should be proportionate to the size and the nature of the business.
+
+See - FSAI Food Safety Training Booklet

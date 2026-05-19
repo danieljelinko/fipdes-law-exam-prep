@@ -1,0 +1,28 @@
+.agents/
+.claude/
+.codex/
+.gitrepo/
+
+__pycache__/
+*.py[cod]
+
+# Large/generated local recordings and media captures.
+10_context/
+*.mkv
+*.mp4
+*.mov
+*.avi
+*.webm
+*.m4v
+*.mp3
+*.wav
+*.flac
+
+# Archives and disk images are usually too large/noisy for this study repo.
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.iso

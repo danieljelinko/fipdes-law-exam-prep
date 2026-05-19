@@ -1,0 +1,5 @@
+Flexibility also in the application of specific HACCP principles
+
+- ☐ Critical limits
+- ☐ Monitoring
+- ☐ Documents &amp; records

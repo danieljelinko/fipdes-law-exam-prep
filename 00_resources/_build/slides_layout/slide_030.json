@@ -1,0 +1,25 @@
+{
+  "page": 30,
+  "layout": "two_column_label_right (label 'EU Legislation: 3 Institutions involved' + 3 stacked blocks with downward arrows)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "EU Legislation \u2014 3 Institutions involved"
+    },
+    {
+      "role": "definition",
+      "term": "Council of the EU",
+      "body": "EU's broad priorities are set by the European Council, which brings together national and EU-level leaders. Governments defend their own country's national interests in the Council of the European Union. Presidency shared on a rotating basis."
+    },
+    {
+      "role": "definition",
+      "term": "European Parliament",
+      "body": "Directly elected MEPs represent European citizens in the European Parliament."
+    },
+    {
+      "role": "definition",
+      "term": "European Commission",
+      "body": "The interests of the EU as a whole are promoted by the European Commission, whose members are appointed by national governments."
+    }
+  ]
+}

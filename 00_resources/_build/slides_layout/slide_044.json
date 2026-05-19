@@ -1,0 +1,14 @@
+{
+  "page": 44,
+  "layout": "two_column_label_right (label 'This Week' + topic right)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "This Week"
+    },
+    {
+      "role": "topic_item",
+      "text": "Evolution of General Food Law in Europe"
+    }
+  ]
+}

@@ -1,0 +1,4514 @@
+[
+  {
+    "page": 1,
+    "source": "pdfminer",
+    "len_chars": 162,
+    "len_words": 17,
+    "len_pdfminer": 249,
+    "len_pdftotext": 193
+  },
+  {
+    "page": 2,
+    "source": "pdftotext",
+    "len_chars": 710,
+    "len_words": 77,
+    "len_pdfminer": 569,
+    "len_pdftotext": 710
+  },
+  {
+    "page": 3,
+    "source": "pdftotext",
+    "len_chars": 1782,
+    "len_words": 107,
+    "len_pdfminer": 834,
+    "len_pdftotext": 1788
+  },
+  {
+    "page": 4,
+    "source": "pdftotext",
+    "len_chars": 2279,
+    "len_words": 247,
+    "len_pdfminer": 1569,
+    "len_pdftotext": 2283
+  },
+  {
+    "page": 5,
+    "source": "pdftotext",
+    "len_chars": 98,
+    "len_words": 9,
+    "len_pdfminer": 67,
+    "len_pdftotext": 100
+  },
+  {
+    "page": 6,
+    "source": "pdftotext",
+    "len_chars": 603,
+    "len_words": 51,
+    "len_pdfminer": 359,
+    "len_pdftotext": 604
+  },
+  {
+    "page": 7,
+    "source": "pdftotext",
+    "len_chars": 412,
+    "len_words": 37,
+    "len_pdfminer": 206,
+    "len_pdftotext": 413
+  },
+  {
+    "page": 8,
+    "source": "pdfminer",
+    "len_chars": 274,
+    "len_words": 39,
+    "len_pdfminer": 274,
+    "len_pdftotext": 267
+  },
+  {
+    "page": 9,
+    "source": "pdftotext",
+    "len_chars": 126,
+    "len_words": 14,
+    "len_pdfminer": 75,
+    "len_pdftotext": 128
+  },
+  {
+    "page": 10,
+    "source": "pdfminer",
+    "len_chars": 295,
+    "len_words": 54,
+    "len_pdfminer": 295,
+    "len_pdftotext": 298
+  },
+  {
+    "page": 11,
+    "source": "pdftotext",
+    "len_chars": 76,
+    "len_words": 10,
+    "len_pdfminer": 64,
+    "len_pdftotext": 79
+  },
+  {
+    "page": 12,
+    "source": "pdftotext",
+    "len_chars": 133,
+    "len_words": 17,
+    "len_pdfminer": 111,
+    "len_pdftotext": 135
+  },
+  {
+    "page": 13,
+    "source": "pdfminer",
+    "len_chars": 269,
+    "len_words": 48,
+    "len_pdfminer": 270,
+    "len_pdftotext": 291
+  },
+  {
+    "page": 14,
+    "source": "pdftotext",
+    "len_chars": 242,
+    "len_words": 16,
+    "len_pdfminer": 119,
+    "len_pdftotext": 244
+  },
+  {
+    "page": 15,
+    "source": "pdfminer",
+    "len_chars": 740,
+    "len_words": 89,
+    "len_pdfminer": 745,
+    "len_pdftotext": 739
+  },
+  {
+    "page": 16,
+    "source": "pdfminer",
+    "len_chars": 819,
+    "len_words": 127,
+    "len_pdfminer": 828,
+    "len_pdftotext": 814
+  },
+  {
+    "page": 17,
+    "source": "pdfminer",
+    "len_chars": 222,
+    "len_words": 31,
+    "len_pdfminer": 223,
+    "len_pdftotext": 218
+  },
+  {
+    "page": 18,
+    "source": "pdfminer",
+    "len_chars": 1037,
+    "len_words": 151,
+    "len_pdfminer": 1047,
+    "len_pdftotext": 1030
+  },
+  {
+    "page": 19,
+    "source": "pdfminer",
+    "len_chars": 71,
+    "len_words": 7,
+    "len_pdfminer": 71,
+    "len_pdftotext": 69
+  },
+  {
+    "page": 20,
+    "source": "pdftotext",
+    "len_chars": 1012,
+    "len_words": 57,
+    "len_pdfminer": 447,
+    "len_pdftotext": 1015
+  },
+  {
+    "page": 21,
+    "source": "pdftotext",
+    "len_chars": 685,
+    "len_words": 82,
+    "len_pdfminer": 546,
+    "len_pdftotext": 688
+  },
+  {
+    "page": 22,
+    "source": "pdftotext",
+    "len_chars": 491,
+    "len_words": 57,
+    "len_pdfminer": 378,
+    "len_pdftotext": 494
+  },
+  {
+    "page": 23,
+    "source": "pdfminer",
+    "len_chars": 543,
+    "len_words": 90,
+    "len_pdfminer": 549,
+    "len_pdftotext": 540
+  },
+  {
+    "page": 24,
+    "source": "pdftotext",
+    "len_chars": 749,
+    "len_words": 96,
+    "len_pdfminer": 594,
+    "len_pdftotext": 751
+  },
+  {
+    "page": 25,
+    "source": "pdfminer",
+    "len_chars": 399,
+    "len_words": 62,
+    "len_pdfminer": 400,
+    "len_pdftotext": 398
+  },
+  {
+    "page": 26,
+    "source": "pdfminer",
+    "len_chars": 295,
+    "len_words": 24,
+    "len_pdfminer": 302,
+    "len_pdftotext": 295
+  },
+  {
+    "page": 27,
+    "source": "pdftotext",
+    "len_chars": 879,
+    "len_words": 99,
+    "len_pdfminer": 648,
+    "len_pdftotext": 879
+  },
+  {
+    "page": 28,
+    "source": "pdftotext",
+    "len_chars": 432,
+    "len_words": 49,
+    "len_pdfminer": 313,
+    "len_pdftotext": 432
+  },
+  {
+    "page": 29,
+    "source": "pdfminer",
+    "len_chars": 1146,
+    "len_words": 192,
+    "len_pdfminer": 1156,
+    "len_pdftotext": 1139
+  },
+  {
+    "page": 30,
+    "source": "pdftotext",
+    "len_chars": 720,
+    "len_words": 79,
+    "len_pdfminer": 562,
+    "len_pdftotext": 724
+  },
+  {
+    "page": 31,
+    "source": "pdftotext",
+    "len_chars": 520,
+    "len_words": 50,
+    "len_pdfminer": 422,
+    "len_pdftotext": 520
+  },
+  {
+    "page": 32,
+    "source": "pdftotext",
+    "len_chars": 436,
+    "len_words": 32,
+    "len_pdfminer": 234,
+    "len_pdftotext": 438
+  },
+  {
+    "page": 33,
+    "source": "pdfminer",
+    "len_chars": 586,
+    "len_words": 102,
+    "len_pdfminer": 588,
+    "len_pdftotext": 579
+  },
+  {
+    "page": 34,
+    "source": "pdfminer",
+    "len_chars": 462,
+    "len_words": 59,
+    "len_pdfminer": 464,
+    "len_pdftotext": 459
+  },
+  {
+    "page": 35,
+    "source": "pdfminer",
+    "len_chars": 490,
+    "len_words": 82,
+    "len_pdfminer": 500,
+    "len_pdftotext": 577
+  },
+  {
+    "page": 36,
+    "source": "pdfminer",
+    "len_chars": 551,
+    "len_words": 81,
+    "len_pdfminer": 561,
+    "len_pdftotext": 626
+  },
+  {
+    "page": 37,
+    "source": "pdfminer",
+    "len_chars": 504,
+    "len_words": 76,
+    "len_pdfminer": 514,
+    "len_pdftotext": 505
+  },
+  {
+    "page": 38,
+    "source": "pdfminer",
+    "len_chars": 288,
+    "len_words": 31,
+    "len_pdfminer": 290,
+    "len_pdftotext": 287
+  },
+  {
+    "page": 39,
+    "source": "pdfminer",
+    "len_chars": 541,
+    "len_words": 76,
+    "len_pdfminer": 548,
+    "len_pdftotext": 532
+  },
+  {
+    "page": 40,
+    "source": "pdftotext",
+    "len_chars": 859,
+    "len_words": 96,
+    "len_pdfminer": 692,
+    "len_pdftotext": 859
+  },
+  {
+    "page": 41,
+    "source": "pdfminer",
+    "len_chars": 12,
+    "len_words": 2,
+    "len_pdfminer": 12,
+    "len_pdftotext": 11
+  },
+  {
+    "page": 42,
+    "source": "pdftotext",
+    "len_chars": 140,
+    "len_words": 12,
+    "len_pdfminer": 88,
+    "len_pdftotext": 143
+  },
+  {
+    "page": 43,
+    "source": "pdfminer",
+    "len_chars": 183,
+    "len_words": 23,
+    "len_pdfminer": 268,
+    "len_pdftotext": 241
+  },
+  {
+    "page": 44,
+    "source": "pdfminer",
+    "len_chars": 50,
+    "len_words": 9,
+    "len_pdfminer": 50,
+    "len_pdftotext": 51
+  },
+  {
+    "page": 45,
+    "source": "pdftotext",
+    "len_chars": 943,
+    "len_words": 95,
+    "len_pdfminer": 662,
+    "len_pdftotext": 943
+  },
+  {
+    "page": 46,
+    "source": "pdftotext",
+    "len_chars": 199,
+    "len_words": 28,
+    "len_pdfminer": 161,
+    "len_pdftotext": 199
+  },
+  {
+    "page": 47,
+    "source": "pdfminer",
+    "len_chars": 619,
+    "len_words": 92,
+    "len_pdfminer": 625,
+    "len_pdftotext": 612
+  },
+  {
+    "page": 48,
+    "source": "pdfminer",
+    "len_chars": 807,
+    "len_words": 141,
+    "len_pdfminer": 813,
+    "len_pdftotext": 808
+  },
+  {
+    "page": 49,
+    "source": "pdfminer",
+    "len_chars": 2177,
+    "len_words": 333,
+    "len_pdfminer": 2192,
+    "len_pdftotext": 2176
+  },
+  {
+    "page": 50,
+    "source": "pdfminer",
+    "len_chars": 706,
+    "len_words": 104,
+    "len_pdfminer": 716,
+    "len_pdftotext": 710
+  },
+  {
+    "page": 51,
+    "source": "pdfminer",
+    "len_chars": 1115,
+    "len_words": 180,
+    "len_pdfminer": 1119,
+    "len_pdftotext": 1116
+  },
+  {
+    "page": 52,
+    "source": "pdftotext",
+    "len_chars": 367,
+    "len_words": 42,
+    "len_pdfminer": 254,
+    "len_pdftotext": 374
+  },
+  {
+    "page": 53,
+    "source": "pdfminer",
+    "len_chars": 960,
+    "len_words": 145,
+    "len_pdfminer": 965,
+    "len_pdftotext": 965
+  },
+  {
+    "page": 54,
+    "source": "pdftotext",
+    "len_chars": 827,
+    "len_words": 56,
+    "len_pdfminer": 426,
+    "len_pdftotext": 830
+  },
+  {
+    "page": 55,
+    "source": "pdfminer",
+    "len_chars": 379,
+    "len_words": 59,
+    "len_pdfminer": 381,
+    "len_pdftotext": 379
+  },
+  {
+    "page": 56,
+    "source": "pdftotext",
+    "len_chars": 749,
+    "len_words": 92,
+    "len_pdfminer": 627,
+    "len_pdftotext": 750
+  },
+  {
+    "page": 57,
+    "source": "pdfminer",
+    "len_chars": 272,
+    "len_words": 43,
+    "len_pdfminer": 275,
+    "len_pdftotext": 272
+  },
+  {
+    "page": 58,
+    "source": "pdftotext",
+    "len_chars": 839,
+    "len_words": 77,
+    "len_pdfminer": 529,
+    "len_pdftotext": 842
+  },
+  {
+    "page": 59,
+    "source": "pdftotext",
+    "len_chars": 537,
+    "len_words": 67,
+    "len_pdfminer": 446,
+    "len_pdftotext": 544
+  },
+  {
+    "page": 60,
+    "source": "pdftotext",
+    "len_chars": 335,
+    "len_words": 40,
+    "len_pdfminer": 262,
+    "len_pdftotext": 335
+  },
+  {
+    "page": 61,
+    "source": "pdftotext",
+    "len_chars": 756,
+    "len_words": 98,
+    "len_pdfminer": 606,
+    "len_pdftotext": 757
+  },
+  {
+    "page": 62,
+    "source": "pdftotext",
+    "len_chars": 1065,
+    "len_words": 103,
+    "len_pdfminer": 650,
+    "len_pdftotext": 1065
+  },
+  {
+    "page": 63,
+    "source": "pdftotext",
+    "len_chars": 731,
+    "len_words": 74,
+    "len_pdfminer": 583,
+    "len_pdftotext": 731
+  },
+  {
+    "page": 64,
+    "source": "pdfminer",
+    "len_chars": 568,
+    "len_words": 82,
+    "len_pdfminer": 578,
+    "len_pdftotext": 563
+  },
+  {
+    "page": 65,
+    "source": "pdftotext",
+    "len_chars": 539,
+    "len_words": 57,
+    "len_pdfminer": 372,
+    "len_pdftotext": 539
+  },
+  {
+    "page": 66,
+    "source": "pdftotext",
+    "len_chars": 86,
+    "len_words": 11,
+    "len_pdfminer": 61,
+    "len_pdftotext": 86
+  },
+  {
+    "page": 67,
+    "source": "pdftotext",
+    "len_chars": 934,
+    "len_words": 116,
+    "len_pdfminer": 747,
+    "len_pdftotext": 934
+  },
+  {
+    "page": 68,
+    "source": "pdftotext",
+    "len_chars": 446,
+    "len_words": 45,
+    "len_pdfminer": 316,
+    "len_pdftotext": 446
+  },
+  {
+    "page": 69,
+    "source": "pdfminer",
+    "len_chars": 34,
+    "len_words": 5,
+    "len_pdfminer": 34,
+    "len_pdftotext": 34
+  },
+  {
+    "page": 70,
+    "source": "pdfminer",
+    "len_chars": 525,
+    "len_words": 78,
+    "len_pdfminer": 533,
+    "len_pdftotext": 520
+  },
+  {
+    "page": 71,
+    "source": "pdfminer",
+    "len_chars": 165,
+    "len_words": 25,
+    "len_pdfminer": 165,
+    "len_pdftotext": 189
+  },
+  {
+    "page": 72,
+    "source": "pdfminer",
+    "len_chars": 346,
+    "len_words": 56,
+    "len_pdfminer": 350,
+    "len_pdftotext": 347
+  },
+  {
+    "page": 73,
+    "source": "pdfminer",
+    "len_chars": 335,
+    "len_words": 48,
+    "len_pdfminer": 344,
+    "len_pdftotext": 338
+  },
+  {
+    "page": 74,
+    "source": "pdfminer",
+    "len_chars": 286,
+    "len_words": 37,
+    "len_pdfminer": 291,
+    "len_pdftotext": 285
+  },
+  {
+    "page": 75,
+    "source": "pdftotext",
+    "len_chars": 745,
+    "len_words": 71,
+    "len_pdfminer": 557,
+    "len_pdftotext": 745
+  },
+  {
+    "page": 76,
+    "source": "pdftotext",
+    "len_chars": 360,
+    "len_words": 37,
+    "len_pdfminer": 286,
+    "len_pdftotext": 361
+  },
+  {
+    "page": 77,
+    "source": "pdftotext",
+    "len_chars": 248,
+    "len_words": 22,
+    "len_pdfminer": 169,
+    "len_pdftotext": 249
+  },
+  {
+    "page": 78,
+    "source": "pdfminer",
+    "len_chars": 329,
+    "len_words": 44,
+    "len_pdfminer": 336,
+    "len_pdftotext": 353
+  },
+  {
+    "page": 79,
+    "source": "pdfminer",
+    "len_chars": 429,
+    "len_words": 66,
+    "len_pdfminer": 440,
+    "len_pdftotext": 446
+  },
+  {
+    "page": 80,
+    "source": "pdfminer",
+    "len_chars": 1356,
+    "len_words": 217,
+    "len_pdfminer": 1374,
+    "len_pdftotext": 1578
+  },
+  {
+    "page": 81,
+    "source": "pdftotext",
+    "len_chars": 1370,
+    "len_words": 152,
+    "len_pdfminer": 1050,
+    "len_pdftotext": 1371
+  },
+  {
+    "page": 82,
+    "source": "pdfminer",
+    "len_chars": 372,
+    "len_words": 48,
+    "len_pdfminer": 379,
+    "len_pdftotext": 426
+  },
+  {
+    "page": 83,
+    "source": "pdfminer",
+    "len_chars": 102,
+    "len_words": 12,
+    "len_pdfminer": 103,
+    "len_pdftotext": 102
+  },
+  {
+    "page": 84,
+    "source": "pdfminer",
+    "len_chars": 163,
+    "len_words": 14,
+    "len_pdfminer": 165,
+    "len_pdftotext": 161
+  },
+  {
+    "page": 85,
+    "source": "pdfminer",
+    "len_chars": 441,
+    "len_words": 57,
+    "len_pdfminer": 448,
+    "len_pdftotext": 437
+  },
+  {
+    "page": 86,
+    "source": "pdfminer",
+    "len_chars": 661,
+    "len_words": 98,
+    "len_pdfminer": 666,
+    "len_pdftotext": 674
+  },
+  {
+    "page": 87,
+    "source": "pdfminer",
+    "len_chars": 684,
+    "len_words": 100,
+    "len_pdfminer": 695,
+    "len_pdftotext": 685
+  },
+  {
+    "page": 88,
+    "source": "pdfminer",
+    "len_chars": 384,
+    "len_words": 63,
+    "len_pdfminer": 389,
+    "len_pdftotext": 384
+  },
+  {
+    "page": 89,
+    "source": "pdftotext",
+    "len_chars": 518,
+    "len_words": 59,
+    "len_pdfminer": 386,
+    "len_pdftotext": 518
+  },
+  {
+    "page": 90,
+    "source": "pdftotext",
+    "len_chars": 722,
+    "len_words": 95,
+    "len_pdfminer": 586,
+    "len_pdftotext": 722
+  },
+  {
+    "page": 91,
+    "source": "pdfminer",
+    "len_chars": 371,
+    "len_words": 67,
+    "len_pdfminer": 374,
+    "len_pdftotext": 368
+  },
+  {
+    "page": 92,
+    "source": "pdfminer",
+    "len_chars": 597,
+    "len_words": 95,
+    "len_pdfminer": 600,
+    "len_pdftotext": 590
+  },
+  {
+    "page": 93,
+    "source": "pdfminer",
+    "len_chars": 302,
+    "len_words": 44,
+    "len_pdfminer": 305,
+    "len_pdftotext": 298
+  },
+  {
+    "page": 94,
+    "source": "pdftotext",
+    "len_chars": 1841,
+    "len_words": 77,
+    "len_pdfminer": 885,
+    "len_pdftotext": 1854
+  },
+  {
+    "page": 95,
+    "source": "pdftotext",
+    "len_chars": 1079,
+    "len_words": 145,
+    "len_pdfminer": 911,
+    "len_pdftotext": 1080
+  },
+  {
+    "page": 96,
+    "source": "pdfminer",
+    "len_chars": 283,
+    "len_words": 42,
+    "len_pdfminer": 285,
+    "len_pdftotext": 304
+  },
+  {
+    "page": 97,
+    "source": "pdfminer",
+    "len_chars": 610,
+    "len_words": 94,
+    "len_pdfminer": 618,
+    "len_pdftotext": 629
+  },
+  {
+    "page": 98,
+    "source": "pdfminer",
+    "len_chars": 914,
+    "len_words": 142,
+    "len_pdfminer": 925,
+    "len_pdftotext": 909
+  },
+  {
+    "page": 99,
+    "source": "pdfminer",
+    "len_chars": 355,
+    "len_words": 52,
+    "len_pdfminer": 364,
+    "len_pdftotext": 363
+  },
+  {
+    "page": 100,
+    "source": "pdftotext",
+    "len_chars": 1016,
+    "len_words": 85,
+    "len_pdfminer": 548,
+    "len_pdftotext": 1017
+  },
+  {
+    "page": 101,
+    "source": "pdftotext",
+    "len_chars": 1506,
+    "len_words": 102,
+    "len_pdfminer": 716,
+    "len_pdftotext": 1509
+  },
+  {
+    "page": 102,
+    "source": "pdfminer",
+    "len_chars": 1423,
+    "len_words": 245,
+    "len_pdfminer": 1434,
+    "len_pdftotext": 1432
+  },
+  {
+    "page": 103,
+    "source": "pdfminer",
+    "len_chars": 132,
+    "len_words": 23,
+    "len_pdfminer": 132,
+    "len_pdftotext": 130
+  },
+  {
+    "page": 104,
+    "source": "pdftotext",
+    "len_chars": 611,
+    "len_words": 77,
+    "len_pdfminer": 439,
+    "len_pdftotext": 611
+  },
+  {
+    "page": 105,
+    "source": "pdfminer",
+    "len_chars": 547,
+    "len_words": 87,
+    "len_pdfminer": 554,
+    "len_pdftotext": 547
+  },
+  {
+    "page": 106,
+    "source": "pdfminer",
+    "len_chars": 52,
+    "len_words": 10,
+    "len_pdfminer": 53,
+    "len_pdftotext": 51
+  },
+  {
+    "page": 107,
+    "source": "pdfminer",
+    "len_chars": 703,
+    "len_words": 112,
+    "len_pdfminer": 725,
+    "len_pdftotext": 831
+  },
+  {
+    "page": 108,
+    "source": "pdfminer",
+    "len_chars": 192,
+    "len_words": 31,
+    "len_pdfminer": 199,
+    "len_pdftotext": 220
+  },
+  {
+    "page": 109,
+    "source": "pdftotext",
+    "len_chars": 689,
+    "len_words": 59,
+    "len_pdfminer": 333,
+    "len_pdftotext": 692
+  },
+  {
+    "page": 110,
+    "source": "pdfminer",
+    "len_chars": 861,
+    "len_words": 139,
+    "len_pdfminer": 871,
+    "len_pdftotext": 856
+  },
+  {
+    "page": 111,
+    "source": "pdftotext",
+    "len_chars": 2097,
+    "len_words": 126,
+    "len_pdfminer": 879,
+    "len_pdftotext": 2100
+  },
+  {
+    "page": 112,
+    "source": "pdftotext",
+    "len_chars": 2994,
+    "len_words": 192,
+    "len_pdfminer": 1192,
+    "len_pdftotext": 3009
+  },
+  {
+    "page": 113,
+    "source": "pdftotext",
+    "len_chars": 3212,
+    "len_words": 206,
+    "len_pdfminer": 1351,
+    "len_pdftotext": 3238
+  },
+  {
+    "page": 114,
+    "source": "pdftotext",
+    "len_chars": 1417,
+    "len_words": 56,
+    "len_pdfminer": 791,
+    "len_pdftotext": 1429
+  },
+  {
+    "page": 115,
+    "source": "pdftotext",
+    "len_chars": 1325,
+    "len_words": 59,
+    "len_pdfminer": 410,
+    "len_pdftotext": 1339
+  },
+  {
+    "page": 116,
+    "source": "pdftotext",
+    "len_chars": 2143,
+    "len_words": 260,
+    "len_pdfminer": 1540,
+    "len_pdftotext": 2154
+  },
+  {
+    "page": 117,
+    "source": "pdfminer",
+    "len_chars": 73,
+    "len_words": 13,
+    "len_pdfminer": 73,
+    "len_pdftotext": 79
+  },
+  {
+    "page": 118,
+    "source": "pdftotext",
+    "len_chars": 192,
+    "len_words": 22,
+    "len_pdfminer": 146,
+    "len_pdftotext": 194
+  },
+  {
+    "page": 119,
+    "source": "pdfminer",
+    "len_chars": 167,
+    "len_words": 15,
+    "len_pdfminer": 167,
+    "len_pdftotext": 167
+  },
+  {
+    "page": 120,
+    "source": "pdfminer",
+    "len_chars": 1,
+    "len_words": 1,
+    "len_pdfminer": 1,
+    "len_pdftotext": 1
+  },
+  {
+    "page": 121,
+    "source": "pdfminer",
+    "len_chars": 833,
+    "len_words": 122,
+    "len_pdfminer": 837,
+    "len_pdftotext": 826
+  },
+  {
+    "page": 122,
+    "source": "pdfminer",
+    "len_chars": 1038,
+    "len_words": 151,
+    "len_pdfminer": 1048,
+    "len_pdftotext": 1030
+  },
+  {
+    "page": 123,
+    "source": "pdftotext",
+    "len_chars": 726,
+    "len_words": 45,
+    "len_pdfminer": 331,
+    "len_pdftotext": 732
+  },
+  {
+    "page": 124,
+    "source": "none",
+    "len_chars": 0,
+    "len_words": 0,
+    "len_pdfminer": 0,
+    "len_pdftotext": 0
+  },
+  {
+    "page": 125,
+    "source": "pdfminer",
+    "len_chars": 99,
+    "len_words": 15,
+    "len_pdfminer": 100,
+    "len_pdftotext": 114
+  },
+  {
+    "page": 126,
+    "source": "pdftotext",
+    "len_chars": 368,
+    "len_words": 24,
+    "len_pdfminer": 213,
+    "len_pdftotext": 370
+  },
+  {
+    "page": 127,
+    "source": "pdftotext",
+    "len_chars": 1019,
+    "len_words": 127,
+    "len_pdfminer": 827,
+    "len_pdftotext": 1019
+  },
+  {
+    "page": 128,
+    "source": "pdfminer",
+    "len_chars": 381,
+    "len_words": 67,
+    "len_pdfminer": 387,
+    "len_pdftotext": 392
+  },
+  {
+    "page": 129,
+    "source": "pdftotext",
+    "len_chars": 466,
+    "len_words": 45,
+    "len_pdfminer": 347,
+    "len_pdftotext": 468
+  },
+  {
+    "page": 130,
+    "source": "pdfminer",
+    "len_chars": 218,
+    "len_words": 33,
+    "len_pdfminer": 226,
+    "len_pdftotext": 217
+  },
+  {
+    "page": 131,
+    "source": "pdfminer",
+    "len_chars": 116,
+    "len_words": 19,
+    "len_pdfminer": 117,
+    "len_pdftotext": 115
+  },
+  {
+    "page": 132,
+    "source": "pdfminer",
+    "len_chars": 152,
+    "len_words": 24,
+    "len_pdfminer": 152,
+    "len_pdftotext": 151
+  },
+  {
+    "page": 133,
+    "source": "pdftotext",
+    "len_chars": 309,
+    "len_words": 35,
+    "len_pdfminer": 226,
+    "len_pdftotext": 309
+  },
+  {
+    "page": 134,
+    "source": "pdfminer",
+    "len_chars": 797,
+    "len_words": 103,
+    "len_pdfminer": 798,
+    "len_pdftotext": 870
+  },
+  {
+    "page": 135,
+    "source": "pdftotext",
+    "len_chars": 886,
+    "len_words": 81,
+    "len_pdfminer": 641,
+    "len_pdftotext": 888
+  },
+  {
+    "page": 136,
+    "source": "pdfminer",
+    "len_chars": 251,
+    "len_words": 40,
+    "len_pdfminer": 257,
+    "len_pdftotext": 259
+  },
+  {
+    "page": 137,
+    "source": "pdfminer",
+    "len_chars": 165,
+    "len_words": 27,
+    "len_pdfminer": 170,
+    "len_pdftotext": 166
+  },
+  {
+    "page": 138,
+    "source": "pdftotext",
+    "len_chars": 296,
+    "len_words": 37,
+    "len_pdfminer": 248,
+    "len_pdftotext": 296
+  },
+  {
+    "page": 139,
+    "source": "pdfminer",
+    "len_chars": 120,
+    "len_words": 22,
+    "len_pdfminer": 123,
+    "len_pdftotext": 121
+  },
+  {
+    "page": 140,
+    "source": "pdftotext",
+    "len_chars": 412,
+    "len_words": 47,
+    "len_pdfminer": 287,
+    "len_pdftotext": 413
+  },
+  {
+    "page": 141,
+    "source": "pdftotext",
+    "len_chars": 631,
+    "len_words": 73,
+    "len_pdfminer": 465,
+    "len_pdftotext": 632
+  },
+  {
+    "page": 142,
+    "source": "pdftotext",
+    "len_chars": 745,
+    "len_words": 95,
+    "len_pdfminer": 570,
+    "len_pdftotext": 745
+  },
+  {
+    "page": 143,
+    "source": "pdftotext",
+    "len_chars": 531,
+    "len_words": 58,
+    "len_pdfminer": 392,
+    "len_pdftotext": 531
+  },
+  {
+    "page": 144,
+    "source": "pdftotext",
+    "len_chars": 1200,
+    "len_words": 138,
+    "len_pdfminer": 942,
+    "len_pdftotext": 1200
+  },
+  {
+    "page": 145,
+    "source": "pdftotext",
+    "len_chars": 779,
+    "len_words": 90,
+    "len_pdfminer": 639,
+    "len_pdftotext": 779
+  },
+  {
+    "page": 146,
+    "source": "pdftotext",
+    "len_chars": 753,
+    "len_words": 89,
+    "len_pdfminer": 593,
+    "len_pdftotext": 753
+  },
+  {
+    "page": 147,
+    "source": "pdfminer",
+    "len_chars": 164,
+    "len_words": 28,
+    "len_pdfminer": 167,
+    "len_pdftotext": 193
+  },
+  {
+    "page": 148,
+    "source": "pdftotext",
+    "len_chars": 604,
+    "len_words": 65,
+    "len_pdfminer": 398,
+    "len_pdftotext": 605
+  },
+  {
+    "page": 149,
+    "source": "pdfminer",
+    "len_chars": 43,
+    "len_words": 7,
+    "len_pdfminer": 44,
+    "len_pdftotext": 42
+  },
+  {
+    "page": 150,
+    "source": "pdftotext",
+    "len_chars": 720,
+    "len_words": 90,
+    "len_pdfminer": 557,
+    "len_pdftotext": 720
+  },
+  {
+    "page": 151,
+    "source": "pdftotext",
+    "len_chars": 202,
+    "len_words": 25,
+    "len_pdfminer": 153,
+    "len_pdftotext": 202
+  },
+  {
+    "page": 152,
+    "source": "pdfminer",
+    "len_chars": 317,
+    "len_words": 53,
+    "len_pdfminer": 323,
+    "len_pdftotext": 323
+  },
+  {
+    "page": 153,
+    "source": "pdfminer",
+    "len_chars": 341,
+    "len_words": 59,
+    "len_pdfminer": 346,
+    "len_pdftotext": 394
+  },
+  {
+    "page": 154,
+    "source": "pdfminer",
+    "len_chars": 193,
+    "len_words": 33,
+    "len_pdfminer": 198,
+    "len_pdftotext": 201
+  },
+  {
+    "page": 155,
+    "source": "pdfminer",
+    "len_chars": 251,
+    "len_words": 46,
+    "len_pdfminer": 258,
+    "len_pdftotext": 255
+  },
+  {
+    "page": 156,
+    "source": "pdftotext",
+    "len_chars": 819,
+    "len_words": 95,
+    "len_pdfminer": 678,
+    "len_pdftotext": 822
+  },
+  {
+    "page": 157,
+    "source": "pdftotext",
+    "len_chars": 839,
+    "len_words": 103,
+    "len_pdfminer": 690,
+    "len_pdftotext": 841
+  },
+  {
+    "page": 158,
+    "source": "pdftotext",
+    "len_chars": 613,
+    "len_words": 73,
+    "len_pdfminer": 503,
+    "len_pdftotext": 614
+  },
+  {
+    "page": 159,
+    "source": "pdftotext",
+    "len_chars": 526,
+    "len_words": 61,
+    "len_pdfminer": 396,
+    "len_pdftotext": 527
+  },
+  {
+    "page": 160,
+    "source": "pdftotext",
+    "len_chars": 635,
+    "len_words": 87,
+    "len_pdfminer": 528,
+    "len_pdftotext": 635
+  },
+  {
+    "page": 161,
+    "source": "pdftotext",
+    "len_chars": 542,
+    "len_words": 42,
+    "len_pdfminer": 249,
+    "len_pdftotext": 544
+  },
+  {
+    "page": 162,
+    "source": "pdftotext",
+    "len_chars": 1238,
+    "len_words": 142,
+    "len_pdfminer": 896,
+    "len_pdftotext": 1239
+  },
+  {
+    "page": 163,
+    "source": "pdftotext",
+    "len_chars": 872,
+    "len_words": 105,
+    "len_pdfminer": 641,
+    "len_pdftotext": 873
+  },
+  {
+    "page": 164,
+    "source": "pdfminer",
+    "len_chars": 475,
+    "len_words": 73,
+    "len_pdfminer": 485,
+    "len_pdftotext": 483
+  },
+  {
+    "page": 165,
+    "source": "pdftotext",
+    "len_chars": 1034,
+    "len_words": 72,
+    "len_pdfminer": 477,
+    "len_pdftotext": 1034
+  },
+  {
+    "page": 166,
+    "source": "pdftotext",
+    "len_chars": 1227,
+    "len_words": 147,
+    "len_pdfminer": 992,
+    "len_pdftotext": 1229
+  },
+  {
+    "page": 167,
+    "source": "pdftotext",
+    "len_chars": 851,
+    "len_words": 107,
+    "len_pdfminer": 664,
+    "len_pdftotext": 851
+  },
+  {
+    "page": 168,
+    "source": "pdftotext",
+    "len_chars": 355,
+    "len_words": 43,
+    "len_pdfminer": 280,
+    "len_pdftotext": 355
+  },
+  {
+    "page": 169,
+    "source": "pdftotext",
+    "len_chars": 916,
+    "len_words": 87,
+    "len_pdfminer": 544,
+    "len_pdftotext": 920
+  },
+  {
+    "page": 170,
+    "source": "none",
+    "len_chars": 0,
+    "len_words": 0,
+    "len_pdfminer": 0,
+    "len_pdftotext": 0
+  },
+  {
+    "page": 171,
+    "source": "pdfminer",
+    "len_chars": 23,
+    "len_words": 3,
+    "len_pdfminer": 24,
+    "len_pdftotext": 23
+  },
+  {
+    "page": 172,
+    "source": "pdftotext",
+    "len_chars": 918,
+    "len_words": 96,
+    "len_pdfminer": 660,
+    "len_pdftotext": 918
+  },
+  {
+    "page": 173,
+    "source": "pdftotext",
+    "len_chars": 1580,
+    "len_words": 144,
+    "len_pdfminer": 1111,
+    "len_pdftotext": 1584
+  },
+  {
+    "page": 174,
+    "source": "pdftotext",
+    "len_chars": 599,
+    "len_words": 71,
+    "len_pdfminer": 477,
+    "len_pdftotext": 599
+  },
+  {
+    "page": 175,
+    "source": "pdfminer",
+    "len_chars": 280,
+    "len_words": 49,
+    "len_pdfminer": 289,
+    "len_pdftotext": 336
+  },
+  {
+    "page": 176,
+    "source": "pdftotext",
+    "len_chars": 606,
+    "len_words": 90,
+    "len_pdfminer": 504,
+    "len_pdftotext": 606
+  },
+  {
+    "page": 177,
+    "source": "pdftotext",
+    "len_chars": 852,
+    "len_words": 100,
+    "len_pdfminer": 661,
+    "len_pdftotext": 852
+  },
+  {
+    "page": 178,
+    "source": "pdftotext",
+    "len_chars": 544,
+    "len_words": 71,
+    "len_pdfminer": 446,
+    "len_pdftotext": 544
+  },
+  {
+    "page": 179,
+    "source": "pdfminer",
+    "len_chars": 614,
+    "len_words": 98,
+    "len_pdfminer": 624,
+    "len_pdftotext": 696
+  },
+  {
+    "page": 180,
+    "source": "pdftotext",
+    "len_chars": 1376,
+    "len_words": 182,
+    "len_pdfminer": 1096,
+    "len_pdftotext": 1378
+  },
+  {
+    "page": 181,
+    "source": "pdftotext",
+    "len_chars": 776,
+    "len_words": 101,
+    "len_pdfminer": 602,
+    "len_pdftotext": 777
+  },
+  {
+    "page": 182,
+    "source": "pdftotext",
+    "len_chars": 813,
+    "len_words": 47,
+    "len_pdfminer": 360,
+    "len_pdftotext": 814
+  },
+  {
+    "page": 183,
+    "source": "pdftotext",
+    "len_chars": 463,
+    "len_words": 45,
+    "len_pdfminer": 266,
+    "len_pdftotext": 463
+  },
+  {
+    "page": 184,
+    "source": "pdfminer",
+    "len_chars": 382,
+    "len_words": 58,
+    "len_pdfminer": 393,
+    "len_pdftotext": 407
+  },
+  {
+    "page": 185,
+    "source": "pdfminer",
+    "len_chars": 244,
+    "len_words": 40,
+    "len_pdfminer": 246,
+    "len_pdftotext": 243
+  },
+  {
+    "page": 186,
+    "source": "pdftotext",
+    "len_chars": 645,
+    "len_words": 78,
+    "len_pdfminer": 533,
+    "len_pdftotext": 647
+  },
+  {
+    "page": 187,
+    "source": "pdftotext",
+    "len_chars": 1432,
+    "len_words": 185,
+    "len_pdfminer": 1137,
+    "len_pdftotext": 1432
+  },
+  {
+    "page": 188,
+    "source": "pdfminer",
+    "len_chars": 336,
+    "len_words": 65,
+    "len_pdfminer": 345,
+    "len_pdftotext": 348
+  },
+  {
+    "page": 189,
+    "source": "pdftotext",
+    "len_chars": 258,
+    "len_words": 23,
+    "len_pdfminer": 182,
+    "len_pdftotext": 258
+  },
+  {
+    "page": 190,
+    "source": "pdftotext",
+    "len_chars": 601,
+    "len_words": 82,
+    "len_pdfminer": 502,
+    "len_pdftotext": 601
+  },
+  {
+    "page": 191,
+    "source": "pdfminer",
+    "len_chars": 211,
+    "len_words": 35,
+    "len_pdfminer": 213,
+    "len_pdftotext": 212
+  },
+  {
+    "page": 192,
+    "source": "pdfminer",
+    "len_chars": 435,
+    "len_words": 59,
+    "len_pdfminer": 438,
+    "len_pdftotext": 453
+  },
+  {
+    "page": 193,
+    "source": "pdftotext",
+    "len_chars": 424,
+    "len_words": 53,
+    "len_pdfminer": 348,
+    "len_pdftotext": 424
+  },
+  {
+    "page": 194,
+    "source": "pdftotext",
+    "len_chars": 493,
+    "len_words": 68,
+    "len_pdfminer": 409,
+    "len_pdftotext": 493
+  },
+  {
+    "page": 195,
+    "source": "pdftotext",
+    "len_chars": 1401,
+    "len_words": 167,
+    "len_pdfminer": 1103,
+    "len_pdftotext": 1401
+  },
+  {
+    "page": 196,
+    "source": "pdfminer",
+    "len_chars": 148,
+    "len_words": 26,
+    "len_pdfminer": 151,
+    "len_pdftotext": 149
+  },
+  {
+    "page": 197,
+    "source": "pdfminer",
+    "len_chars": 125,
+    "len_words": 16,
+    "len_pdfminer": 129,
+    "len_pdftotext": 126
+  },
+  {
+    "page": 198,
+    "source": "pdfminer",
+    "len_chars": 23,
+    "len_words": 2,
+    "len_pdfminer": 23,
+    "len_pdftotext": 23
+  },
+  {
+    "page": 199,
+    "source": "pdfminer",
+    "len_chars": 70,
+    "len_words": 11,
+    "len_pdfminer": 72,
+    "len_pdftotext": 70
+  },
+  {
+    "page": 200,
+    "source": "pdfminer",
+    "len_chars": 21,
+    "len_words": 2,
+    "len_pdfminer": 21,
+    "len_pdftotext": 21
+  },
+  {
+    "page": 201,
+    "source": "pdftotext",
+    "len_chars": 840,
+    "len_words": 84,
+    "len_pdfminer": 544,
+    "len_pdftotext": 841
+  },
+  {
+    "page": 202,
+    "source": "pdftotext",
+    "len_chars": 1212,
+    "len_words": 80,
+    "len_pdfminer": 524,
+    "len_pdftotext": 1212
+  },
+  {
+    "page": 203,
+    "source": "pdftotext",
+    "len_chars": 1044,
+    "len_words": 117,
+    "len_pdfminer": 784,
+    "len_pdftotext": 1044
+  },
+  {
+    "page": 204,
+    "source": "pdftotext",
+    "len_chars": 1291,
+    "len_words": 139,
+    "len_pdfminer": 929,
+    "len_pdftotext": 1295
+  },
+  {
+    "page": 205,
+    "source": "pdftotext",
+    "len_chars": 350,
+    "len_words": 44,
+    "len_pdfminer": 294,
+    "len_pdftotext": 350
+  },
+  {
+    "page": 206,
+    "source": "pdfminer",
+    "len_chars": 727,
+    "len_words": 94,
+    "len_pdfminer": 732,
+    "len_pdftotext": 725
+  },
+  {
+    "page": 207,
+    "source": "pdfminer",
+    "len_chars": 282,
+    "len_words": 24,
+    "len_pdfminer": 289,
+    "len_pdftotext": 285
+  },
+  {
+    "page": 208,
+    "source": "pdftotext",
+    "len_chars": 918,
+    "len_words": 30,
+    "len_pdfminer": 508,
+    "len_pdftotext": 937
+  },
+  {
+    "page": 209,
+    "source": "pdfminer",
+    "len_chars": 189,
+    "len_words": 21,
+    "len_pdfminer": 190,
+    "len_pdftotext": 191
+  },
+  {
+    "page": 210,
+    "source": "pdfminer",
+    "len_chars": 189,
+    "len_words": 21,
+    "len_pdfminer": 190,
+    "len_pdftotext": 191
+  },
+  {
+    "page": 211,
+    "source": "pdfminer",
+    "len_chars": 462,
+    "len_words": 53,
+    "len_pdfminer": 469,
+    "len_pdftotext": 470
+  },
+  {
+    "page": 212,
+    "source": "pdfminer",
+    "len_chars": 584,
+    "len_words": 76,
+    "len_pdfminer": 589,
+    "len_pdftotext": 583
+  },
+  {
+    "page": 213,
+    "source": "pdftotext",
+    "len_chars": 369,
+    "len_words": 45,
+    "len_pdfminer": 303,
+    "len_pdftotext": 372
+  },
+  {
+    "page": 214,
+    "source": "pdftotext",
+    "len_chars": 258,
+    "len_words": 22,
+    "len_pdfminer": 143,
+    "len_pdftotext": 259
+  },
+  {
+    "page": 215,
+    "source": "pdfminer",
+    "len_chars": 510,
+    "len_words": 64,
+    "len_pdfminer": 519,
+    "len_pdftotext": 511
+  },
+  {
+    "page": 216,
+    "source": "pdftotext",
+    "len_chars": 163,
+    "len_words": 14,
+    "len_pdfminer": 125,
+    "len_pdftotext": 166
+  },
+  {
+    "page": 217,
+    "source": "pdftotext",
+    "len_chars": 324,
+    "len_words": 47,
+    "len_pdfminer": 258,
+    "len_pdftotext": 324
+  },
+  {
+    "page": 218,
+    "source": "pdftotext",
+    "len_chars": 698,
+    "len_words": 84,
+    "len_pdfminer": 584,
+    "len_pdftotext": 698
+  },
+  {
+    "page": 219,
+    "source": "pdftotext",
+    "len_chars": 399,
+    "len_words": 37,
+    "len_pdfminer": 308,
+    "len_pdftotext": 399
+  },
+  {
+    "page": 220,
+    "source": "pdfminer",
+    "len_chars": 550,
+    "len_words": 83,
+    "len_pdfminer": 556,
+    "len_pdftotext": 551
+  },
+  {
+    "page": 221,
+    "source": "pdfminer",
+    "len_chars": 300,
+    "len_words": 51,
+    "len_pdfminer": 303,
+    "len_pdftotext": 299
+  },
+  {
+    "page": 222,
+    "source": "pdftotext",
+    "len_chars": 524,
+    "len_words": 66,
+    "len_pdfminer": 412,
+    "len_pdftotext": 526
+  },
+  {
+    "page": 223,
+    "source": "pdftotext",
+    "len_chars": 964,
+    "len_words": 85,
+    "len_pdfminer": 626,
+    "len_pdftotext": 966
+  },
+  {
+    "page": 224,
+    "source": "pdfminer",
+    "len_chars": 369,
+    "len_words": 56,
+    "len_pdfminer": 373,
+    "len_pdftotext": 375
+  },
+  {
+    "page": 225,
+    "source": "pdfminer",
+    "len_chars": 224,
+    "len_words": 19,
+    "len_pdfminer": 225,
+    "len_pdftotext": 264
+  },
+  {
+    "page": 226,
+    "source": "pdftotext",
+    "len_chars": 16,
+    "len_words": 2,
+    "len_pdfminer": 12,
+    "len_pdftotext": 16
+  },
+  {
+    "page": 227,
+    "source": "pdfminer",
+    "len_chars": 31,
+    "len_words": 5,
+    "len_pdfminer": 33,
+    "len_pdftotext": 31
+  },
+  {
+    "page": 228,
+    "source": "pdfminer",
+    "len_chars": 49,
+    "len_words": 7,
+    "len_pdfminer": 49,
+    "len_pdftotext": 54
+  },
+  {
+    "page": 229,
+    "source": "pdfminer",
+    "len_chars": 18,
+    "len_words": 2,
+    "len_pdfminer": 18,
+    "len_pdftotext": 18
+  },
+  {
+    "page": 230,
+    "source": "pdfminer",
+    "len_chars": 492,
+    "len_words": 77,
+    "len_pdfminer": 503,
+    "len_pdftotext": 510
+  },
+  {
+    "page": 231,
+    "source": "pdfminer",
+    "len_chars": 1045,
+    "len_words": 168,
+    "len_pdfminer": 1059,
+    "len_pdftotext": 1153
+  },
+  {
+    "page": 232,
+    "source": "pdftotext",
+    "len_chars": 127,
+    "len_words": 18,
+    "len_pdfminer": 108,
+    "len_pdftotext": 131
+  },
+  {
+    "page": 233,
+    "source": "pdfminer",
+    "len_chars": 189,
+    "len_words": 17,
+    "len_pdfminer": 191,
+    "len_pdftotext": 189
+  },
+  {
+    "page": 234,
+    "source": "pdftotext",
+    "len_chars": 733,
+    "len_words": 91,
+    "len_pdfminer": 567,
+    "len_pdftotext": 733
+  },
+  {
+    "page": 235,
+    "source": "pdfminer",
+    "len_chars": 26,
+    "len_words": 3,
+    "len_pdfminer": 26,
+    "len_pdftotext": 26
+  },
+  {
+    "page": 236,
+    "source": "pdfminer",
+    "len_chars": 539,
+    "len_words": 56,
+    "len_pdfminer": 544,
+    "len_pdftotext": 560
+  },
+  {
+    "page": 237,
+    "source": "pdfminer",
+    "len_chars": 150,
+    "len_words": 26,
+    "len_pdfminer": 151,
+    "len_pdftotext": 149
+  },
+  {
+    "page": 238,
+    "source": "pdfminer",
+    "len_chars": 564,
+    "len_words": 87,
+    "len_pdfminer": 575,
+    "len_pdftotext": 569
+  },
+  {
+    "page": 239,
+    "source": "pdfminer",
+    "len_chars": 705,
+    "len_words": 104,
+    "len_pdfminer": 715,
+    "len_pdftotext": 706
+  },
+  {
+    "page": 240,
+    "source": "pdfminer",
+    "len_chars": 976,
+    "len_words": 143,
+    "len_pdfminer": 989,
+    "len_pdftotext": 986
+  },
+  {
+    "page": 241,
+    "source": "pdfminer",
+    "len_chars": 240,
+    "len_words": 39,
+    "len_pdfminer": 242,
+    "len_pdftotext": 238
+  },
+  {
+    "page": 242,
+    "source": "pdfminer",
+    "len_chars": 551,
+    "len_words": 87,
+    "len_pdfminer": 554,
+    "len_pdftotext": 550
+  },
+  {
+    "page": 243,
+    "source": "pdfminer",
+    "len_chars": 201,
+    "len_words": 35,
+    "len_pdfminer": 202,
+    "len_pdftotext": 200
+  },
+  {
+    "page": 244,
+    "source": "pdftotext",
+    "len_chars": 318,
+    "len_words": 40,
+    "len_pdfminer": 254,
+    "len_pdftotext": 321
+  },
+  {
+    "page": 245,
+    "source": "pdfminer",
+    "len_chars": 165,
+    "len_words": 27,
+    "len_pdfminer": 168,
+    "len_pdftotext": 165
+  },
+  {
+    "page": 246,
+    "source": "pdftotext",
+    "len_chars": 804,
+    "len_words": 93,
+    "len_pdfminer": 643,
+    "len_pdftotext": 805
+  },
+  {
+    "page": 247,
+    "source": "pdftotext",
+    "len_chars": 721,
+    "len_words": 90,
+    "len_pdfminer": 593,
+    "len_pdftotext": 721
+  },
+  {
+    "page": 248,
+    "source": "pdftotext",
+    "len_chars": 1051,
+    "len_words": 84,
+    "len_pdfminer": 537,
+    "len_pdftotext": 1051
+  },
+  {
+    "page": 249,
+    "source": "pdftotext",
+    "len_chars": 1162,
+    "len_words": 81,
+    "len_pdfminer": 508,
+    "len_pdftotext": 1162
+  },
+  {
+    "page": 250,
+    "source": "pdftotext",
+    "len_chars": 865,
+    "len_words": 73,
+    "len_pdfminer": 483,
+    "len_pdftotext": 866
+  },
+  {
+    "page": 251,
+    "source": "pdftotext",
+    "len_chars": 821,
+    "len_words": 97,
+    "len_pdfminer": 631,
+    "len_pdftotext": 821
+  },
+  {
+    "page": 252,
+    "source": "pdftotext",
+    "len_chars": 515,
+    "len_words": 65,
+    "len_pdfminer": 429,
+    "len_pdftotext": 520
+  },
+  {
+    "page": 253,
+    "source": "pdftotext",
+    "len_chars": 987,
+    "len_words": 30,
+    "len_pdfminer": 508,
+    "len_pdftotext": 999
+  },
+  {
+    "page": 254,
+    "source": "pdftotext",
+    "len_chars": 790,
+    "len_words": 93,
+    "len_pdfminer": 605,
+    "len_pdftotext": 790
+  },
+  {
+    "page": 255,
+    "source": "pdfminer",
+    "len_chars": 825,
+    "len_words": 134,
+    "len_pdfminer": 830,
+    "len_pdftotext": 826
+  },
+  {
+    "page": 256,
+    "source": "pdftotext",
+    "len_chars": 457,
+    "len_words": 48,
+    "len_pdfminer": 366,
+    "len_pdftotext": 458
+  },
+  {
+    "page": 257,
+    "source": "pdfminer",
+    "len_chars": 27,
+    "len_words": 4,
+    "len_pdfminer": 28,
+    "len_pdftotext": 27
+  },
+  {
+    "page": 258,
+    "source": "pdfminer",
+    "len_chars": 71,
+    "len_words": 12,
+    "len_pdfminer": 74,
+    "len_pdftotext": 70
+  },
+  {
+    "page": 259,
+    "source": "pdftotext",
+    "len_chars": 361,
+    "len_words": 15,
+    "len_pdfminer": 214,
+    "len_pdftotext": 366
+  },
+  {
+    "page": 260,
+    "source": "pdfminer",
+    "len_chars": 97,
+    "len_words": 14,
+    "len_pdfminer": 99,
+    "len_pdftotext": 100
+  },
+  {
+    "page": 261,
+    "source": "pdftotext",
+    "len_chars": 77,
+    "len_words": 9,
+    "len_pdfminer": 65,
+    "len_pdftotext": 81
+  },
+  {
+    "page": 262,
+    "source": "pdftotext",
+    "len_chars": 762,
+    "len_words": 58,
+    "len_pdfminer": 343,
+    "len_pdftotext": 762
+  },
+  {
+    "page": 263,
+    "source": "pdftotext",
+    "len_chars": 653,
+    "len_words": 61,
+    "len_pdfminer": 396,
+    "len_pdftotext": 654
+  },
+  {
+    "page": 264,
+    "source": "pdfminer",
+    "len_chars": 189,
+    "len_words": 26,
+    "len_pdfminer": 193,
+    "len_pdftotext": 211
+  },
+  {
+    "page": 265,
+    "source": "pdftotext",
+    "len_chars": 226,
+    "len_words": 35,
+    "len_pdfminer": 190,
+    "len_pdftotext": 226
+  },
+  {
+    "page": 266,
+    "source": "pdftotext",
+    "len_chars": 238,
+    "len_words": 21,
+    "len_pdfminer": 152,
+    "len_pdftotext": 240
+  },
+  {
+    "page": 267,
+    "source": "none",
+    "len_chars": 0,
+    "len_words": 0,
+    "len_pdfminer": 0,
+    "len_pdftotext": 0
+  },
+  {
+    "page": 268,
+    "source": "pdfminer",
+    "len_chars": 17,
+    "len_words": 2,
+    "len_pdfminer": 17,
+    "len_pdftotext": 17
+  },
+  {
+    "page": 269,
+    "source": "pdftotext",
+    "len_chars": 96,
+    "len_words": 14,
+    "len_pdfminer": 81,
+    "len_pdftotext": 96
+  },
+  {
+    "page": 270,
+    "source": "pdfminer",
+    "len_chars": 249,
+    "len_words": 49,
+    "len_pdfminer": 253,
+    "len_pdftotext": 250
+  },
+  {
+    "page": 271,
+    "source": "pdfminer",
+    "len_chars": 193,
+    "len_words": 36,
+    "len_pdfminer": 195,
+    "len_pdftotext": 195
+  },
+  {
+    "page": 272,
+    "source": "none",
+    "len_chars": 0,
+    "len_words": 0,
+    "len_pdfminer": 0,
+    "len_pdftotext": 0
+  },
+  {
+    "page": 273,
+    "source": "pdfminer",
+    "len_chars": 17,
+    "len_words": 2,
+    "len_pdfminer": 17,
+    "len_pdftotext": 17
+  },
+  {
+    "page": 274,
+    "source": "pdftotext",
+    "len_chars": 946,
+    "len_words": 78,
+    "len_pdfminer": 490,
+    "len_pdftotext": 947
+  },
+  {
+    "page": 275,
+    "source": "pdfminer",
+    "len_chars": 449,
+    "len_words": 69,
+    "len_pdfminer": 456,
+    "len_pdftotext": 453
+  },
+  {
+    "page": 276,
+    "source": "pdfminer",
+    "len_chars": 239,
+    "len_words": 36,
+    "len_pdfminer": 241,
+    "len_pdftotext": 238
+  },
+  {
+    "page": 277,
+    "source": "pdfminer",
+    "len_chars": 1026,
+    "len_words": 175,
+    "len_pdfminer": 1040,
+    "len_pdftotext": 1064
+  },
+  {
+    "page": 278,
+    "source": "pdfminer",
+    "len_chars": 518,
+    "len_words": 89,
+    "len_pdfminer": 522,
+    "len_pdftotext": 521
+  },
+  {
+    "page": 279,
+    "source": "pdfminer",
+    "len_chars": 107,
+    "len_words": 18,
+    "len_pdfminer": 108,
+    "len_pdftotext": 106
+  },
+  {
+    "page": 280,
+    "source": "pdfminer",
+    "len_chars": 733,
+    "len_words": 130,
+    "len_pdfminer": 742,
+    "len_pdftotext": 748
+  },
+  {
+    "page": 281,
+    "source": "pdfminer",
+    "len_chars": 457,
+    "len_words": 82,
+    "len_pdfminer": 462,
+    "len_pdftotext": 463
+  },
+  {
+    "page": 282,
+    "source": "pdfminer",
+    "len_chars": 14,
+    "len_words": 2,
+    "len_pdfminer": 14,
+    "len_pdftotext": 14
+  },
+  {
+    "page": 283,
+    "source": "pdftotext",
+    "len_chars": 432,
+    "len_words": 63,
+    "len_pdfminer": 362,
+    "len_pdftotext": 432
+  },
+  {
+    "page": 284,
+    "source": "pdftotext",
+    "len_chars": 410,
+    "len_words": 58,
+    "len_pdfminer": 339,
+    "len_pdftotext": 411
+  },
+  {
+    "page": 285,
+    "source": "pdftotext",
+    "len_chars": 941,
+    "len_words": 108,
+    "len_pdfminer": 685,
+    "len_pdftotext": 941
+  },
+  {
+    "page": 286,
+    "source": "pdfminer",
+    "len_chars": 119,
+    "len_words": 20,
+    "len_pdfminer": 122,
+    "len_pdftotext": 123
+  },
+  {
+    "page": 287,
+    "source": "pdfminer",
+    "len_chars": 1274,
+    "len_words": 224,
+    "len_pdfminer": 1287,
+    "len_pdftotext": 1371
+  },
+  {
+    "page": 288,
+    "source": "pdfminer",
+    "len_chars": 12,
+    "len_words": 2,
+    "len_pdfminer": 12,
+    "len_pdftotext": 12
+  },
+  {
+    "page": 289,
+    "source": "pdfminer",
+    "len_chars": 1254,
+    "len_words": 205,
+    "len_pdfminer": 1263,
+    "len_pdftotext": 1270
+  },
+  {
+    "page": 290,
+    "source": "pdfminer",
+    "len_chars": 388,
+    "len_words": 57,
+    "len_pdfminer": 399,
+    "len_pdftotext": 407
+  },
+  {
+    "page": 291,
+    "source": "pdftotext",
+    "len_chars": 120,
+    "len_words": 8,
+    "len_pdfminer": 53,
+    "len_pdftotext": 122
+  },
+  {
+    "page": 292,
+    "source": "pdfminer",
+    "len_chars": 1448,
+    "len_words": 235,
+    "len_pdfminer": 1464,
+    "len_pdftotext": 1471
+  },
+  {
+    "page": 293,
+    "source": "pdftotext",
+    "len_chars": 1016,
+    "len_words": 122,
+    "len_pdfminer": 845,
+    "len_pdftotext": 1016
+  },
+  {
+    "page": 294,
+    "source": "pdftotext",
+    "len_chars": 177,
+    "len_words": 8,
+    "len_pdfminer": 65,
+    "len_pdftotext": 177
+  },
+  {
+    "page": 295,
+    "source": "pdfminer",
+    "len_chars": 143,
+    "len_words": 23,
+    "len_pdfminer": 145,
+    "len_pdftotext": 145
+  },
+  {
+    "page": 296,
+    "source": "pdftotext",
+    "len_chars": 366,
+    "len_words": 23,
+    "len_pdfminer": 168,
+    "len_pdftotext": 368
+  },
+  {
+    "page": 297,
+    "source": "pdfminer",
+    "len_chars": 623,
+    "len_words": 91,
+    "len_pdfminer": 631,
+    "len_pdftotext": 631
+  },
+  {
+    "page": 298,
+    "source": "pdftotext",
+    "len_chars": 15,
+    "len_words": 2,
+    "len_pdfminer": 12,
+    "len_pdftotext": 15
+  },
+  {
+    "page": 299,
+    "source": "pdftotext",
+    "len_chars": 3768,
+    "len_words": 371,
+    "len_pdfminer": 2264,
+    "len_pdftotext": 3772
+  },
+  {
+    "page": 300,
+    "source": "pdftotext",
+    "len_chars": 5059,
+    "len_words": 425,
+    "len_pdfminer": 2654,
+    "len_pdftotext": 5060
+  },
+  {
+    "page": 301,
+    "source": "pdfminer",
+    "len_chars": 45,
+    "len_words": 7,
+    "len_pdfminer": 45,
+    "len_pdftotext": 50
+  },
+  {
+    "page": 302,
+    "source": "pdftotext",
+    "len_chars": 239,
+    "len_words": 25,
+    "len_pdfminer": 159,
+    "len_pdftotext": 239
+  },
+  {
+    "page": 303,
+    "source": "pdftotext",
+    "len_chars": 318,
+    "len_words": 40,
+    "len_pdfminer": 254,
+    "len_pdftotext": 321
+  },
+  {
+    "page": 304,
+    "source": "pdfminer",
+    "len_chars": 191,
+    "len_words": 31,
+    "len_pdfminer": 195,
+    "len_pdftotext": 191
+  },
+  {
+    "page": 305,
+    "source": "pdfminer",
+    "len_chars": 1798,
+    "len_words": 276,
+    "len_pdfminer": 1805,
+    "len_pdftotext": 2123
+  },
+  {
+    "page": 306,
+    "source": "pdfminer",
+    "len_chars": 26,
+    "len_words": 3,
+    "len_pdfminer": 26,
+    "len_pdftotext": 26
+  },
+  {
+    "page": 307,
+    "source": "pdftotext",
+    "len_chars": 435,
+    "len_words": 57,
+    "len_pdfminer": 335,
+    "len_pdftotext": 435
+  },
+  {
+    "page": 308,
+    "source": "pdftotext",
+    "len_chars": 698,
+    "len_words": 84,
+    "len_pdfminer": 583,
+    "len_pdftotext": 698
+  },
+  {
+    "page": 309,
+    "source": "pdfminer",
+    "len_chars": 444,
+    "len_words": 67,
+    "len_pdfminer": 450,
+    "len_pdftotext": 445
+  },
+  {
+    "page": 310,
+    "source": "pdfminer",
+    "len_chars": 518,
+    "len_words": 78,
+    "len_pdfminer": 521,
+    "len_pdftotext": 518
+  },
+  {
+    "page": 311,
+    "source": "pdftotext",
+    "len_chars": 682,
+    "len_words": 71,
+    "len_pdfminer": 460,
+    "len_pdftotext": 682
+  },
+  {
+    "page": 312,
+    "source": "pdfminer",
+    "len_chars": 509,
+    "len_words": 90,
+    "len_pdfminer": 515,
+    "len_pdftotext": 509
+  },
+  {
+    "page": 313,
+    "source": "pdfminer",
+    "len_chars": 321,
+    "len_words": 37,
+    "len_pdfminer": 325,
+    "len_pdftotext": 322
+  },
+  {
+    "page": 314,
+    "source": "pdfminer",
+    "len_chars": 550,
+    "len_words": 83,
+    "len_pdfminer": 556,
+    "len_pdftotext": 550
+  },
+  {
+    "page": 315,
+    "source": "pdfminer",
+    "len_chars": 300,
+    "len_words": 51,
+    "len_pdfminer": 303,
+    "len_pdftotext": 299
+  },
+  {
+    "page": 316,
+    "source": "pdftotext",
+    "len_chars": 1169,
+    "len_words": 142,
+    "len_pdfminer": 962,
+    "len_pdftotext": 1171
+  },
+  {
+    "page": 317,
+    "source": "pdfminer",
+    "len_chars": 610,
+    "len_words": 102,
+    "len_pdfminer": 618,
+    "len_pdftotext": 621
+  },
+  {
+    "page": 318,
+    "source": "pdfminer",
+    "len_chars": 84,
+    "len_words": 11,
+    "len_pdfminer": 85,
+    "len_pdftotext": 86
+  },
+  {
+    "page": 319,
+    "source": "none",
+    "len_chars": 0,
+    "len_words": 0,
+    "len_pdfminer": 0,
+    "len_pdftotext": 0
+  },
+  {
+    "page": 320,
+    "source": "pdfminer",
+    "len_chars": 946,
+    "len_words": 147,
+    "len_pdfminer": 957,
+    "len_pdftotext": 967
+  },
+  {
+    "page": 321,
+    "source": "pdftotext",
+    "len_chars": 1315,
+    "len_words": 136,
+    "len_pdfminer": 885,
+    "len_pdftotext": 1315
+  },
+  {
+    "page": 322,
+    "source": "pdfminer",
+    "len_chars": 376,
+    "len_words": 56,
+    "len_pdfminer": 376,
+    "len_pdftotext": 378
+  },
+  {
+    "page": 323,
+    "source": "pdfminer",
+    "len_chars": 95,
+    "len_words": 12,
+    "len_pdfminer": 95,
+    "len_pdftotext": 95
+  },
+  {
+    "page": 324,
+    "source": "pdfminer",
+    "len_chars": 224,
+    "len_words": 19,
+    "len_pdfminer": 225,
+    "len_pdftotext": 264
+  },
+  {
+    "page": 325,
+    "source": "pdftotext",
+    "len_chars": 699,
+    "len_words": 99,
+    "len_pdfminer": 583,
+    "len_pdftotext": 702
+  },
+  {
+    "page": 326,
+    "source": "pdftotext",
+    "len_chars": 819,
+    "len_words": 92,
+    "len_pdfminer": 594,
+    "len_pdftotext": 819
+  },
+  {
+    "page": 327,
+    "source": "pdftotext",
+    "len_chars": 669,
+    "len_words": 75,
+    "len_pdfminer": 494,
+    "len_pdftotext": 669
+  },
+  {
+    "page": 328,
+    "source": "pdftotext",
+    "len_chars": 353,
+    "len_words": 44,
+    "len_pdfminer": 283,
+    "len_pdftotext": 353
+  },
+  {
+    "page": 329,
+    "source": "pdfminer",
+    "len_chars": 279,
+    "len_words": 37,
+    "len_pdfminer": 290,
+    "len_pdftotext": 336
+  },
+  {
+    "page": 330,
+    "source": "pdfminer",
+    "len_chars": 1070,
+    "len_words": 167,
+    "len_pdfminer": 1085,
+    "len_pdftotext": 1097
+  },
+  {
+    "page": 331,
+    "source": "pdftotext",
+    "len_chars": 435,
+    "len_words": 49,
+    "len_pdfminer": 333,
+    "len_pdftotext": 437
+  },
+  {
+    "page": 332,
+    "source": "pdfminer",
+    "len_chars": 316,
+    "len_words": 51,
+    "len_pdfminer": 323,
+    "len_pdftotext": 328
+  },
+  {
+    "page": 333,
+    "source": "pdfminer",
+    "len_chars": 1146,
+    "len_words": 196,
+    "len_pdfminer": 1155,
+    "len_pdftotext": 1152
+  },
+  {
+    "page": 334,
+    "source": "pdfminer",
+    "len_chars": 36,
+    "len_words": 6,
+    "len_pdfminer": 36,
+    "len_pdftotext": 37
+  },
+  {
+    "page": 335,
+    "source": "pdfminer",
+    "len_chars": 28,
+    "len_words": 4,
+    "len_pdfminer": 28,
+    "len_pdftotext": 28
+  },
+  {
+    "page": 336,
+    "source": "pdftotext",
+    "len_chars": 759,
+    "len_words": 51,
+    "len_pdfminer": 493,
+    "len_pdftotext": 761
+  },
+  {
+    "page": 337,
+    "source": "pdftotext",
+    "len_chars": 1792,
+    "len_words": 107,
+    "len_pdfminer": 752,
+    "len_pdftotext": 1793
+  },
+  {
+    "page": 338,
+    "source": "pdfminer",
+    "len_chars": 431,
+    "len_words": 68,
+    "len_pdfminer": 439,
+    "len_pdftotext": 445
+  },
+  {
+    "page": 339,
+    "source": "pdfminer",
+    "len_chars": 1193,
+    "len_words": 176,
+    "len_pdfminer": 1205,
+    "len_pdftotext": 1409
+  },
+  {
+    "page": 340,
+    "source": "pdftotext",
+    "len_chars": 585,
+    "len_words": 79,
+    "len_pdfminer": 477,
+    "len_pdftotext": 585
+  },
+  {
+    "page": 341,
+    "source": "pdfminer",
+    "len_chars": 291,
+    "len_words": 49,
+    "len_pdfminer": 299,
+    "len_pdftotext": 336
+  },
+  {
+    "page": 342,
+    "source": "pdftotext",
+    "len_chars": 483,
+    "len_words": 61,
+    "len_pdfminer": 393,
+    "len_pdftotext": 483
+  },
+  {
+    "page": 343,
+    "source": "pdfminer",
+    "len_chars": 2666,
+    "len_words": 423,
+    "len_pdfminer": 2690,
+    "len_pdftotext": 2755
+  },
+  {
+    "page": 344,
+    "source": "pdfminer",
+    "len_chars": 10,
+    "len_words": 2,
+    "len_pdfminer": 10,
+    "len_pdftotext": 10
+  },
+  {
+    "page": 345,
+    "source": "pdfminer",
+    "len_chars": 428,
+    "len_words": 49,
+    "len_pdfminer": 434,
+    "len_pdftotext": 457
+  },
+  {
+    "page": 346,
+    "source": "pdftotext",
+    "len_chars": 15,
+    "len_words": 2,
+    "len_pdfminer": 12,
+    "len_pdftotext": 15
+  },
+  {
+    "page": 347,
+    "source": "pdftotext",
+    "len_chars": 138,
+    "len_words": 12,
+    "len_pdfminer": 92,
+    "len_pdftotext": 138
+  },
+  {
+    "page": 348,
+    "source": "pdfminer",
+    "len_chars": 142,
+    "len_words": 9,
+    "len_pdfminer": 143,
+    "len_pdftotext": 143
+  },
+  {
+    "page": 349,
+    "source": "pdfminer",
+    "len_chars": 163,
+    "len_words": 19,
+    "len_pdfminer": 248,
+    "len_pdftotext": 203
+  },
+  {
+    "page": 350,
+    "source": "pdfminer",
+    "len_chars": 764,
+    "len_words": 116,
+    "len_pdfminer": 772,
+    "len_pdftotext": 763
+  },
+  {
+    "page": 351,
+    "source": "pdfminer",
+    "len_chars": 382,
+    "len_words": 59,
+    "len_pdfminer": 383,
+    "len_pdftotext": 383
+  },
+  {
+    "page": 352,
+    "source": "pdfminer",
+    "len_chars": 482,
+    "len_words": 69,
+    "len_pdfminer": 487,
+    "len_pdftotext": 493
+  },
+  {
+    "page": 353,
+    "source": "pdfminer",
+    "len_chars": 735,
+    "len_words": 95,
+    "len_pdfminer": 739,
+    "len_pdftotext": 729
+  },
+  {
+    "page": 354,
+    "source": "pdfminer",
+    "len_chars": 435,
+    "len_words": 65,
+    "len_pdfminer": 439,
+    "len_pdftotext": 470
+  },
+  {
+    "page": 355,
+    "source": "pdftotext",
+    "len_chars": 595,
+    "len_words": 59,
+    "len_pdfminer": 486,
+    "len_pdftotext": 595
+  },
+  {
+    "page": 356,
+    "source": "pdftotext",
+    "len_chars": 996,
+    "len_words": 93,
+    "len_pdfminer": 789,
+    "len_pdftotext": 996
+  },
+  {
+    "page": 357,
+    "source": "pdfminer",
+    "len_chars": 225,
+    "len_words": 37,
+    "len_pdfminer": 226,
+    "len_pdftotext": 236
+  },
+  {
+    "page": 358,
+    "source": "pdfminer",
+    "len_chars": 248,
+    "len_words": 23,
+    "len_pdfminer": 250,
+    "len_pdftotext": 246
+  },
+  {
+    "page": 359,
+    "source": "pdfminer",
+    "len_chars": 56,
+    "len_words": 4,
+    "len_pdfminer": 56,
+    "len_pdftotext": 55
+  },
+  {
+    "page": 360,
+    "source": "pdfminer",
+    "len_chars": 467,
+    "len_words": 73,
+    "len_pdfminer": 473,
+    "len_pdftotext": 498
+  },
+  {
+    "page": 361,
+    "source": "pdfminer",
+    "len_chars": 72,
+    "len_words": 12,
+    "len_pdfminer": 74,
+    "len_pdftotext": 71
+  },
+  {
+    "page": 362,
+    "source": "pdfminer",
+    "len_chars": 772,
+    "len_words": 78,
+    "len_pdfminer": 779,
+    "len_pdftotext": 789
+  },
+  {
+    "page": 363,
+    "source": "pdfminer",
+    "len_chars": 185,
+    "len_words": 24,
+    "len_pdfminer": 185,
+    "len_pdftotext": 183
+  },
+  {
+    "page": 364,
+    "source": "pdftotext",
+    "len_chars": 857,
+    "len_words": 100,
+    "len_pdfminer": 675,
+    "len_pdftotext": 857
+  },
+  {
+    "page": 365,
+    "source": "pdfminer",
+    "len_chars": 238,
+    "len_words": 37,
+    "len_pdfminer": 238,
+    "len_pdftotext": 236
+  },
+  {
+    "page": 366,
+    "source": "pdfminer",
+    "len_chars": 112,
+    "len_words": 17,
+    "len_pdfminer": 116,
+    "len_pdftotext": 110
+  },
+  {
+    "page": 367,
+    "source": "pdftotext",
+    "len_chars": 2125,
+    "len_words": 138,
+    "len_pdfminer": 994,
+    "len_pdftotext": 2125
+  },
+  {
+    "page": 368,
+    "source": "pdfminer",
+    "len_chars": 54,
+    "len_words": 7,
+    "len_pdfminer": 55,
+    "len_pdftotext": 54
+  },
+  {
+    "page": 369,
+    "source": "pdftotext",
+    "len_chars": 172,
+    "len_words": 22,
+    "len_pdfminer": 144,
+    "len_pdftotext": 172
+  },
+  {
+    "page": 370,
+    "source": "pdftotext",
+    "len_chars": 944,
+    "len_words": 118,
+    "len_pdfminer": 793,
+    "len_pdftotext": 945
+  },
+  {
+    "page": 371,
+    "source": "pdftotext",
+    "len_chars": 720,
+    "len_words": 75,
+    "len_pdfminer": 572,
+    "len_pdftotext": 720
+  },
+  {
+    "page": 372,
+    "source": "pdftotext",
+    "len_chars": 374,
+    "len_words": 42,
+    "len_pdfminer": 314,
+    "len_pdftotext": 374
+  },
+  {
+    "page": 373,
+    "source": "pdftotext",
+    "len_chars": 655,
+    "len_words": 74,
+    "len_pdfminer": 529,
+    "len_pdftotext": 655
+  },
+  {
+    "page": 374,
+    "source": "pdfminer",
+    "len_chars": 602,
+    "len_words": 90,
+    "len_pdfminer": 608,
+    "len_pdftotext": 615
+  },
+  {
+    "page": 375,
+    "source": "pdfminer",
+    "len_chars": 794,
+    "len_words": 133,
+    "len_pdfminer": 802,
+    "len_pdftotext": 794
+  },
+  {
+    "page": 376,
+    "source": "pdfminer",
+    "len_chars": 154,
+    "len_words": 17,
+    "len_pdfminer": 154,
+    "len_pdftotext": 147
+  },
+  {
+    "page": 377,
+    "source": "pdfminer",
+    "len_chars": 234,
+    "len_words": 35,
+    "len_pdfminer": 238,
+    "len_pdftotext": 232
+  },
+  {
+    "page": 378,
+    "source": "pdfminer",
+    "len_chars": 718,
+    "len_words": 106,
+    "len_pdfminer": 725,
+    "len_pdftotext": 714
+  },
+  {
+    "page": 379,
+    "source": "pdfminer",
+    "len_chars": 326,
+    "len_words": 43,
+    "len_pdfminer": 328,
+    "len_pdftotext": 312
+  },
+  {
+    "page": 380,
+    "source": "pdftotext",
+    "len_chars": 785,
+    "len_words": 62,
+    "len_pdfminer": 426,
+    "len_pdftotext": 785
+  },
+  {
+    "page": 381,
+    "source": "pdftotext",
+    "len_chars": 469,
+    "len_words": 49,
+    "len_pdfminer": 367,
+    "len_pdftotext": 472
+  },
+  {
+    "page": 382,
+    "source": "pdfminer",
+    "len_chars": 532,
+    "len_words": 83,
+    "len_pdfminer": 537,
+    "len_pdftotext": 539
+  },
+  {
+    "page": 383,
+    "source": "pdfminer",
+    "len_chars": 395,
+    "len_words": 53,
+    "len_pdfminer": 402,
+    "len_pdftotext": 389
+  },
+  {
+    "page": 384,
+    "source": "pdfminer",
+    "len_chars": 248,
+    "len_words": 34,
+    "len_pdfminer": 255,
+    "len_pdftotext": 242
+  },
+  {
+    "page": 385,
+    "source": "pdfminer",
+    "len_chars": 238,
+    "len_words": 31,
+    "len_pdfminer": 243,
+    "len_pdftotext": 239
+  },
+  {
+    "page": 386,
+    "source": "pdfminer",
+    "len_chars": 179,
+    "len_words": 27,
+    "len_pdfminer": 188,
+    "len_pdftotext": 196
+  },
+  {
+    "page": 387,
+    "source": "pdfminer",
+    "len_chars": 244,
+    "len_words": 39,
+    "len_pdfminer": 247,
+    "len_pdftotext": 245
+  },
+  {
+    "page": 388,
+    "source": "pdfminer",
+    "len_chars": 171,
+    "len_words": 30,
+    "len_pdfminer": 175,
+    "len_pdftotext": 168
+  },
+  {
+    "page": 389,
+    "source": "pdftotext",
+    "len_chars": 1308,
+    "len_words": 148,
+    "len_pdfminer": 1047,
+    "len_pdftotext": 1308
+  },
+  {
+    "page": 390,
+    "source": "pdfminer",
+    "len_chars": 670,
+    "len_words": 94,
+    "len_pdfminer": 673,
+    "len_pdftotext": 676
+  },
+  {
+    "page": 391,
+    "source": "pdfminer",
+    "len_chars": 372,
+    "len_words": 66,
+    "len_pdfminer": 374,
+    "len_pdftotext": 383
+  },
+  {
+    "page": 392,
+    "source": "pdfminer",
+    "len_chars": 16,
+    "len_words": 3,
+    "len_pdfminer": 16,
+    "len_pdftotext": 16
+  },
+  {
+    "page": 393,
+    "source": "pdfminer",
+    "len_chars": 19,
+    "len_words": 3,
+    "len_pdfminer": 19,
+    "len_pdftotext": 19
+  },
+  {
+    "page": 394,
+    "source": "pdfminer",
+    "len_chars": 50,
+    "len_words": 7,
+    "len_pdfminer": 51,
+    "len_pdftotext": 50
+  },
+  {
+    "page": 395,
+    "source": "none",
+    "len_chars": 0,
+    "len_words": 0,
+    "len_pdfminer": 0,
+    "len_pdftotext": 0
+  },
+  {
+    "page": 396,
+    "source": "pdftotext",
+    "len_chars": 496,
+    "len_words": 53,
+    "len_pdfminer": 360,
+    "len_pdftotext": 496
+  },
+  {
+    "page": 397,
+    "source": "pdfminer",
+    "len_chars": 293,
+    "len_words": 43,
+    "len_pdfminer": 298,
+    "len_pdftotext": 292
+  },
+  {
+    "page": 398,
+    "source": "pdfminer",
+    "len_chars": 463,
+    "len_words": 73,
+    "len_pdfminer": 468,
+    "len_pdftotext": 459
+  },
+  {
+    "page": 399,
+    "source": "pdfminer",
+    "len_chars": 412,
+    "len_words": 65,
+    "len_pdfminer": 415,
+    "len_pdftotext": 410
+  },
+  {
+    "page": 400,
+    "source": "pdfminer",
+    "len_chars": 117,
+    "len_words": 15,
+    "len_pdfminer": 121,
+    "len_pdftotext": 114
+  },
+  {
+    "page": 401,
+    "source": "pdfminer",
+    "len_chars": 541,
+    "len_words": 77,
+    "len_pdfminer": 549,
+    "len_pdftotext": 543
+  },
+  {
+    "page": 402,
+    "source": "pdftotext",
+    "len_chars": 904,
+    "len_words": 98,
+    "len_pdfminer": 750,
+    "len_pdftotext": 907
+  },
+  {
+    "page": 403,
+    "source": "pdfminer",
+    "len_chars": 396,
+    "len_words": 58,
+    "len_pdfminer": 407,
+    "len_pdftotext": 476
+  },
+  {
+    "page": 404,
+    "source": "pdftotext",
+    "len_chars": 360,
+    "len_words": 40,
+    "len_pdfminer": 287,
+    "len_pdftotext": 360
+  },
+  {
+    "page": 405,
+    "source": "pdftotext",
+    "len_chars": 136,
+    "len_words": 12,
+    "len_pdfminer": 79,
+    "len_pdftotext": 142
+  },
+  {
+    "page": 406,
+    "source": "pdftotext",
+    "len_chars": 276,
+    "len_words": 24,
+    "len_pdfminer": 185,
+    "len_pdftotext": 278
+  },
+  {
+    "page": 407,
+    "source": "pdfminer",
+    "len_chars": 711,
+    "len_words": 73,
+    "len_pdfminer": 719,
+    "len_pdftotext": 709
+  },
+  {
+    "page": 408,
+    "source": "pdfminer",
+    "len_chars": 268,
+    "len_words": 42,
+    "len_pdfminer": 275,
+    "len_pdftotext": 268
+  },
+  {
+    "page": 409,
+    "source": "pdfminer",
+    "len_chars": 740,
+    "len_words": 78,
+    "len_pdfminer": 747,
+    "len_pdftotext": 757
+  },
+  {
+    "page": 410,
+    "source": "pdfminer",
+    "len_chars": 186,
+    "len_words": 25,
+    "len_pdfminer": 191,
+    "len_pdftotext": 187
+  },
+  {
+    "page": 411,
+    "source": "pdftotext",
+    "len_chars": 184,
+    "len_words": 18,
+    "len_pdfminer": 145,
+    "len_pdftotext": 184
+  },
+  {
+    "page": 412,
+    "source": "pdfminer",
+    "len_chars": 343,
+    "len_words": 51,
+    "len_pdfminer": 349,
+    "len_pdftotext": 339
+  },
+  {
+    "page": 413,
+    "source": "pdfminer",
+    "len_chars": 353,
+    "len_words": 50,
+    "len_pdfminer": 358,
+    "len_pdftotext": 352
+  },
+  {
+    "page": 414,
+    "source": "pdfminer",
+    "len_chars": 686,
+    "len_words": 94,
+    "len_pdfminer": 697,
+    "len_pdftotext": 687
+  },
+  {
+    "page": 415,
+    "source": "pdfminer",
+    "len_chars": 239,
+    "len_words": 40,
+    "len_pdfminer": 243,
+    "len_pdftotext": 236
+  },
+  {
+    "page": 416,
+    "source": "pdfminer",
+    "len_chars": 525,
+    "len_words": 77,
+    "len_pdfminer": 533,
+    "len_pdftotext": 568
+  },
+  {
+    "page": 417,
+    "source": "pdfminer",
+    "len_chars": 551,
+    "len_words": 80,
+    "len_pdfminer": 558,
+    "len_pdftotext": 563
+  },
+  {
+    "page": 418,
+    "source": "pdfminer",
+    "len_chars": 1229,
+    "len_words": 179,
+    "len_pdfminer": 1240,
+    "len_pdftotext": 1228
+  },
+  {
+    "page": 419,
+    "source": "pdfminer",
+    "len_chars": 42,
+    "len_words": 6,
+    "len_pdfminer": 42,
+    "len_pdftotext": 42
+  },
+  {
+    "page": 420,
+    "source": "pdfminer",
+    "len_chars": 446,
+    "len_words": 67,
+    "len_pdfminer": 453,
+    "len_pdftotext": 445
+  },
+  {
+    "page": 421,
+    "source": "pdfminer",
+    "len_chars": 28,
+    "len_words": 4,
+    "len_pdfminer": 28,
+    "len_pdftotext": 28
+  },
+  {
+    "page": 422,
+    "source": "pdfminer",
+    "len_chars": 438,
+    "len_words": 56,
+    "len_pdfminer": 441,
+    "len_pdftotext": 438
+  },
+  {
+    "page": 423,
+    "source": "pdfminer",
+    "len_chars": 606,
+    "len_words": 87,
+    "len_pdfminer": 613,
+    "len_pdftotext": 607
+  },
+  {
+    "page": 424,
+    "source": "pdftotext",
+    "len_chars": 15,
+    "len_words": 2,
+    "len_pdfminer": 12,
+    "len_pdftotext": 15
+  },
+  {
+    "page": 425,
+    "source": "pdfminer",
+    "len_chars": 166,
+    "len_words": 20,
+    "len_pdfminer": 250,
+    "len_pdftotext": 203
+  },
+  {
+    "page": 426,
+    "source": "pdfminer",
+    "len_chars": 618,
+    "len_words": 97,
+    "len_pdfminer": 625,
+    "len_pdftotext": 617
+  },
+  {
+    "page": 427,
+    "source": "pdfminer",
+    "len_chars": 382,
+    "len_words": 59,
+    "len_pdfminer": 383,
+    "len_pdftotext": 381
+  },
+  {
+    "page": 428,
+    "source": "pdfminer",
+    "len_chars": 746,
+    "len_words": 95,
+    "len_pdfminer": 751,
+    "len_pdftotext": 743
+  },
+  {
+    "page": 429,
+    "source": "pdfminer",
+    "len_chars": 816,
+    "len_words": 134,
+    "len_pdfminer": 825,
+    "len_pdftotext": 816
+  },
+  {
+    "page": 430,
+    "source": "pdfminer",
+    "len_chars": 250,
+    "len_words": 42,
+    "len_pdfminer": 251,
+    "len_pdftotext": 263
+  },
+  {
+    "page": 431,
+    "source": "pdfminer",
+    "len_chars": 179,
+    "len_words": 27,
+    "len_pdfminer": 187,
+    "len_pdftotext": 196
+  },
+  {
+    "page": 432,
+    "source": "pdfminer",
+    "len_chars": 171,
+    "len_words": 30,
+    "len_pdfminer": 175,
+    "len_pdftotext": 168
+  },
+  {
+    "page": 433,
+    "source": "pdfminer",
+    "len_chars": 244,
+    "len_words": 39,
+    "len_pdfminer": 247,
+    "len_pdftotext": 245
+  },
+  {
+    "page": 434,
+    "source": "pdftotext",
+    "len_chars": 1308,
+    "len_words": 148,
+    "len_pdfminer": 1047,
+    "len_pdftotext": 1308
+  },
+  {
+    "page": 435,
+    "source": "pdfminer",
+    "len_chars": 270,
+    "len_words": 39,
+    "len_pdfminer": 274,
+    "len_pdftotext": 266
+  },
+  {
+    "page": 436,
+    "source": "pdfminer",
+    "len_chars": 417,
+    "len_words": 66,
+    "len_pdfminer": 420,
+    "len_pdftotext": 415
+  },
+  {
+    "page": 437,
+    "source": "pdfminer",
+    "len_chars": 233,
+    "len_words": 34,
+    "len_pdfminer": 237,
+    "len_pdftotext": 231
+  },
+  {
+    "page": 438,
+    "source": "pdfminer",
+    "len_chars": 163,
+    "len_words": 28,
+    "len_pdfminer": 167,
+    "len_pdftotext": 162
+  },
+  {
+    "page": 439,
+    "source": "pdfminer",
+    "len_chars": 213,
+    "len_words": 34,
+    "len_pdfminer": 215,
+    "len_pdftotext": 211
+  },
+  {
+    "page": 440,
+    "source": "pdfminer",
+    "len_chars": 26,
+    "len_words": 4,
+    "len_pdfminer": 26,
+    "len_pdftotext": 26
+  },
+  {
+    "page": 441,
+    "source": "pdfminer",
+    "len_chars": 784,
+    "len_words": 121,
+    "len_pdfminer": 790,
+    "len_pdftotext": 784
+  },
+  {
+    "page": 442,
+    "source": "pdfminer",
+    "len_chars": 884,
+    "len_words": 124,
+    "len_pdfminer": 890,
+    "len_pdftotext": 916
+  },
+  {
+    "page": 443,
+    "source": "pdfminer",
+    "len_chars": 289,
+    "len_words": 37,
+    "len_pdfminer": 298,
+    "len_pdftotext": 282
+  },
+  {
+    "page": 444,
+    "source": "pdfminer",
+    "len_chars": 682,
+    "len_words": 104,
+    "len_pdfminer": 688,
+    "len_pdftotext": 692
+  },
+  {
+    "page": 445,
+    "source": "pdfminer",
+    "len_chars": 445,
+    "len_words": 67,
+    "len_pdfminer": 452,
+    "len_pdftotext": 461
+  },
+  {
+    "page": 446,
+    "source": "pdfminer",
+    "len_chars": 422,
+    "len_words": 63,
+    "len_pdfminer": 427,
+    "len_pdftotext": 431
+  },
+  {
+    "page": 447,
+    "source": "pdfminer",
+    "len_chars": 774,
+    "len_words": 119,
+    "len_pdfminer": 784,
+    "len_pdftotext": 822
+  },
+  {
+    "page": 448,
+    "source": "pdfminer",
+    "len_chars": 478,
+    "len_words": 68,
+    "len_pdfminer": 482,
+    "len_pdftotext": 479
+  },
+  {
+    "page": 449,
+    "source": "pdfminer",
+    "len_chars": 121,
+    "len_words": 19,
+    "len_pdfminer": 121,
+    "len_pdftotext": 125
+  },
+  {
+    "page": 450,
+    "source": "pdfminer",
+    "len_chars": 239,
+    "len_words": 37,
+    "len_pdfminer": 239,
+    "len_pdftotext": 241
+  },
+  {
+    "page": 451,
+    "source": "pdfminer",
+    "len_chars": 186,
+    "len_words": 26,
+    "len_pdfminer": 186,
+    "len_pdftotext": 177
+  },
+  {
+    "page": 452,
+    "source": "pdfminer",
+    "len_chars": 232,
+    "len_words": 34,
+    "len_pdfminer": 237,
+    "len_pdftotext": 221
+  },
+  {
+    "page": 453,
+    "source": "pdfminer",
+    "len_chars": 197,
+    "len_words": 29,
+    "len_pdfminer": 197,
+    "len_pdftotext": 185
+  },
+  {
+    "page": 454,
+    "source": "pdfminer",
+    "len_chars": 119,
+    "len_words": 16,
+    "len_pdfminer": 120,
+    "len_pdftotext": 113
+  },
+  {
+    "page": 455,
+    "source": "pdfminer",
+    "len_chars": 515,
+    "len_words": 75,
+    "len_pdfminer": 523,
+    "len_pdftotext": 529
+  },
+  {
+    "page": 456,
+    "source": "pdfminer",
+    "len_chars": 292,
+    "len_words": 47,
+    "len_pdfminer": 295,
+    "len_pdftotext": 296
+  },
+  {
+    "page": 457,
+    "source": "pdfminer",
+    "len_chars": 241,
+    "len_words": 37,
+    "len_pdfminer": 242,
+    "len_pdftotext": 240
+  },
+  {
+    "page": 458,
+    "source": "pdfminer",
+    "len_chars": 722,
+    "len_words": 119,
+    "len_pdfminer": 729,
+    "len_pdftotext": 756
+  },
+  {
+    "page": 459,
+    "source": "pdfminer",
+    "len_chars": 459,
+    "len_words": 70,
+    "len_pdfminer": 461,
+    "len_pdftotext": 455
+  },
+  {
+    "page": 460,
+    "source": "pdfminer",
+    "len_chars": 1277,
+    "len_words": 210,
+    "len_pdfminer": 1284,
+    "len_pdftotext": 1270
+  },
+  {
+    "page": 461,
+    "source": "pdftotext",
+    "len_chars": 653,
+    "len_words": 73,
+    "len_pdfminer": 489,
+    "len_pdftotext": 656
+  },
+  {
+    "page": 462,
+    "source": "pdfminer",
+    "len_chars": 1008,
+    "len_words": 171,
+    "len_pdfminer": 1014,
+    "len_pdftotext": 1000
+  },
+  {
+    "page": 463,
+    "source": "pdfminer",
+    "len_chars": 1240,
+    "len_words": 212,
+    "len_pdfminer": 1247,
+    "len_pdftotext": 1235
+  },
+  {
+    "page": 464,
+    "source": "pdfminer",
+    "len_chars": 551,
+    "len_words": 80,
+    "len_pdfminer": 558,
+    "len_pdftotext": 563
+  },
+  {
+    "page": 465,
+    "source": "pdfminer",
+    "len_chars": 42,
+    "len_words": 6,
+    "len_pdfminer": 42,
+    "len_pdftotext": 42
+  },
+  {
+    "page": 466,
+    "source": "pdfminer",
+    "len_chars": 257,
+    "len_words": 40,
+    "len_pdfminer": 264,
+    "len_pdftotext": 257
+  },
+  {
+    "page": 467,
+    "source": "pdfminer",
+    "len_chars": 240,
+    "len_words": 14,
+    "len_pdfminer": 241,
+    "len_pdftotext": 239
+  },
+  {
+    "page": 468,
+    "source": "pdfminer",
+    "len_chars": 139,
+    "len_words": 21,
+    "len_pdfminer": 140,
+    "len_pdftotext": 139
+  },
+  {
+    "page": 469,
+    "source": "pdfminer",
+    "len_chars": 446,
+    "len_words": 67,
+    "len_pdfminer": 457,
+    "len_pdftotext": 445
+  },
+  {
+    "page": 470,
+    "source": "pdfminer",
+    "len_chars": 28,
+    "len_words": 4,
+    "len_pdfminer": 28,
+    "len_pdftotext": 28
+  },
+  {
+    "page": 471,
+    "source": "pdftotext",
+    "len_chars": 798,
+    "len_words": 101,
+    "len_pdfminer": 643,
+    "len_pdftotext": 798
+  },
+  {
+    "page": 472,
+    "source": "pdfminer",
+    "len_chars": 606,
+    "len_words": 87,
+    "len_pdfminer": 613,
+    "len_pdftotext": 607
+  },
+  {
+    "page": 473,
+    "source": "pdftotext",
+    "len_chars": 1452,
+    "len_words": 161,
+    "len_pdfminer": 1203,
+    "len_pdftotext": 1455
+  },
+  {
+    "page": 474,
+    "source": "pdfminer",
+    "len_chars": 9,
+    "len_words": 1,
+    "len_pdfminer": 9,
+    "len_pdftotext": 9
+  },
+  {
+    "page": 475,
+    "source": "pdfminer",
+    "len_chars": 152,
+    "len_words": 21,
+    "len_pdfminer": 154,
+    "len_pdftotext": 149
+  },
+  {
+    "page": 476,
+    "source": "pdfminer",
+    "len_chars": 405,
+    "len_words": 63,
+    "len_pdfminer": 408,
+    "len_pdftotext": 404
+  },
+  {
+    "page": 477,
+    "source": "pdfminer",
+    "len_chars": 95,
+    "len_words": 12,
+    "len_pdfminer": 95,
+    "len_pdftotext": 93
+  },
+  {
+    "page": 478,
+    "source": "pdfminer",
+    "len_chars": 9,
+    "len_words": 1,
+    "len_pdfminer": 9,
+    "len_pdftotext": 9
+  },
+  {
+    "page": 479,
+    "source": "pdfminer",
+    "len_chars": 96,
+    "len_words": 16,
+    "len_pdfminer": 96,
+    "len_pdftotext": 95
+  },
+  {
+    "page": 480,
+    "source": "pdftotext",
+    "len_chars": 96,
+    "len_words": 9,
+    "len_pdfminer": 67,
+    "len_pdftotext": 99
+  },
+  {
+    "page": 481,
+    "source": "pdftotext",
+    "len_chars": 263,
+    "len_words": 22,
+    "len_pdfminer": 136,
+    "len_pdftotext": 265
+  },
+  {
+    "page": 482,
+    "source": "pdftotext",
+    "len_chars": 173,
+    "len_words": 15,
+    "len_pdfminer": 89,
+    "len_pdftotext": 175
+  },
+  {
+    "page": 483,
+    "source": "pdftotext",
+    "len_chars": 1499,
+    "len_words": 193,
+    "len_pdfminer": 1270,
+    "len_pdftotext": 1500
+  },
+  {
+    "page": 484,
+    "source": "pdfminer",
+    "len_chars": 1247,
+    "len_words": 168,
+    "len_pdfminer": 1256,
+    "len_pdftotext": 1292
+  },
+  {
+    "page": 485,
+    "source": "pdfminer",
+    "len_chars": 11,
+    "len_words": 1,
+    "len_pdfminer": 11,
+    "len_pdftotext": 11
+  },
+  {
+    "page": 486,
+    "source": "pdfminer",
+    "len_chars": 158,
+    "len_words": 19,
+    "len_pdfminer": 160,
+    "len_pdftotext": 158
+  },
+  {
+    "page": 487,
+    "source": "pdfminer",
+    "len_chars": 2946,
+    "len_words": 450,
+    "len_pdfminer": 2950,
+    "len_pdftotext": 3115
+  },
+  {
+    "page": 488,
+    "source": "pdfminer",
+    "len_chars": 26,
+    "len_words": 5,
+    "len_pdfminer": 26,
+    "len_pdftotext": 26
+  },
+  {
+    "page": 489,
+    "source": "pdfminer",
+    "len_chars": 402,
+    "len_words": 14,
+    "len_pdfminer": 402,
+    "len_pdftotext": 403
+  },
+  {
+    "page": 490,
+    "source": "pdfminer",
+    "len_chars": 409,
+    "len_words": 65,
+    "len_pdfminer": 415,
+    "len_pdftotext": 419
+  },
+  {
+    "page": 491,
+    "source": "pdfminer",
+    "len_chars": 458,
+    "len_words": 70,
+    "len_pdfminer": 459,
+    "len_pdftotext": 475
+  },
+  {
+    "page": 492,
+    "source": "pdftotext",
+    "len_chars": 854,
+    "len_words": 103,
+    "len_pdfminer": 650,
+    "len_pdftotext": 854
+  },
+  {
+    "page": 493,
+    "source": "pdfminer",
+    "len_chars": 643,
+    "len_words": 95,
+    "len_pdfminer": 651,
+    "len_pdftotext": 656
+  },
+  {
+    "page": 494,
+    "source": "pdftotext",
+    "len_chars": 796,
+    "len_words": 89,
+    "len_pdfminer": 646,
+    "len_pdftotext": 797
+  },
+  {
+    "page": 495,
+    "source": "pdfminer",
+    "len_chars": 29,
+    "len_words": 5,
+    "len_pdfminer": 29,
+    "len_pdftotext": 29
+  },
+  {
+    "page": 496,
+    "source": "none",
+    "len_chars": 0,
+    "len_words": 0,
+    "len_pdfminer": 0,
+    "len_pdftotext": 0
+  },
+  {
+    "page": 497,
+    "source": "pdfminer",
+    "len_chars": 594,
+    "len_words": 97,
+    "len_pdfminer": 597,
+    "len_pdftotext": 594
+  },
+  {
+    "page": 498,
+    "source": "pdfminer",
+    "len_chars": 930,
+    "len_words": 133,
+    "len_pdfminer": 933,
+    "len_pdftotext": 917
+  },
+  {
+    "page": 499,
+    "source": "pdfminer",
+    "len_chars": 825,
+    "len_words": 125,
+    "len_pdfminer": 832,
+    "len_pdftotext": 823
+  },
+  {
+    "page": 500,
+    "source": "pdfminer",
+    "len_chars": 209,
+    "len_words": 22,
+    "len_pdfminer": 210,
+    "len_pdftotext": 209
+  },
+  {
+    "page": 501,
+    "source": "pdfminer",
+    "len_chars": 11,
+    "len_words": 1,
+    "len_pdfminer": 11,
+    "len_pdftotext": 11
+  },
+  {
+    "page": 502,
+    "source": "pdfminer",
+    "len_chars": 273,
+    "len_words": 43,
+    "len_pdfminer": 277,
+    "len_pdftotext": 273
+  },
+  {
+    "page": 503,
+    "source": "pdfminer",
+    "len_chars": 426,
+    "len_words": 69,
+    "len_pdfminer": 431,
+    "len_pdftotext": 428
+  },
+  {
+    "page": 504,
+    "source": "pdfminer",
+    "len_chars": 236,
+    "len_words": 36,
+    "len_pdfminer": 241,
+    "len_pdftotext": 243
+  },
+  {
+    "page": 505,
+    "source": "pdfminer",
+    "len_chars": 262,
+    "len_words": 30,
+    "len_pdfminer": 263,
+    "len_pdftotext": 271
+  },
+  {
+    "page": 506,
+    "source": "pdfminer",
+    "len_chars": 19,
+    "len_words": 2,
+    "len_pdfminer": 19,
+    "len_pdftotext": 19
+  },
+  {
+    "page": 507,
+    "source": "pdfminer",
+    "len_chars": 577,
+    "len_words": 86,
+    "len_pdfminer": 579,
+    "len_pdftotext": 585
+  },
+  {
+    "page": 508,
+    "source": "pdfminer",
+    "len_chars": 295,
+    "len_words": 46,
+    "len_pdfminer": 296,
+    "len_pdftotext": 290
+  },
+  {
+    "page": 509,
+    "source": "pdfminer",
+    "len_chars": 205,
+    "len_words": 33,
+    "len_pdfminer": 205,
+    "len_pdftotext": 202
+  },
+  {
+    "page": 510,
+    "source": "pdfminer",
+    "len_chars": 593,
+    "len_words": 88,
+    "len_pdfminer": 600,
+    "len_pdftotext": 604
+  },
+  {
+    "page": 511,
+    "source": "pdfminer",
+    "len_chars": 596,
+    "len_words": 96,
+    "len_pdfminer": 600,
+    "len_pdftotext": 596
+  },
+  {
+    "page": 512,
+    "source": "pdfminer",
+    "len_chars": 167,
+    "len_words": 19,
+    "len_pdfminer": 252,
+    "len_pdftotext": 194
+  },
+  {
+    "page": 513,
+    "source": "pdftotext",
+    "len_chars": 350,
+    "len_words": 33,
+    "len_pdfminer": 230,
+    "len_pdftotext": 350
+  },
+  {
+    "page": 514,
+    "source": "pdfminer",
+    "len_chars": 79,
+    "len_words": 12,
+    "len_pdfminer": 79,
+    "len_pdftotext": 80
+  },
+  {
+    "page": 515,
+    "source": "pdftotext",
+    "len_chars": 291,
+    "len_words": 23,
+    "len_pdfminer": 174,
+    "len_pdftotext": 291
+  },
+  {
+    "page": 516,
+    "source": "pdfminer",
+    "len_chars": 793,
+    "len_words": 91,
+    "len_pdfminer": 797,
+    "len_pdftotext": 806
+  },
+  {
+    "page": 517,
+    "source": "pdfminer",
+    "len_chars": 1727,
+    "len_words": 255,
+    "len_pdfminer": 1736,
+    "len_pdftotext": 1724
+  },
+  {
+    "page": 518,
+    "source": "pdftotext",
+    "len_chars": 520,
+    "len_words": 49,
+    "len_pdfminer": 311,
+    "len_pdftotext": 520
+  },
+  {
+    "page": 519,
+    "source": "pdfminer",
+    "len_chars": 645,
+    "len_words": 101,
+    "len_pdfminer": 653,
+    "len_pdftotext": 643
+  },
+  {
+    "page": 520,
+    "source": "pdfminer",
+    "len_chars": 942,
+    "len_words": 144,
+    "len_pdfminer": 950,
+    "len_pdftotext": 936
+  },
+  {
+    "page": 521,
+    "source": "pdfminer",
+    "len_chars": 28,
+    "len_words": 4,
+    "len_pdfminer": 28,
+    "len_pdftotext": 28
+  },
+  {
+    "page": 522,
+    "source": "pdfminer",
+    "len_chars": 815,
+    "len_words": 124,
+    "len_pdfminer": 823,
+    "len_pdftotext": 810
+  },
+  {
+    "page": 523,
+    "source": "pdfminer",
+    "len_chars": 831,
+    "len_words": 136,
+    "len_pdfminer": 839,
+    "len_pdftotext": 828
+  },
+  {
+    "page": 524,
+    "source": "pdfminer",
+    "len_chars": 31,
+    "len_words": 5,
+    "len_pdfminer": 33,
+    "len_pdftotext": 31
+  },
+  {
+    "page": 525,
+    "source": "pdfminer",
+    "len_chars": 1930,
+    "len_words": 280,
+    "len_pdfminer": 1943,
+    "len_pdftotext": 1940
+  },
+  {
+    "page": 526,
+    "source": "pdfminer",
+    "len_chars": 563,
+    "len_words": 90,
+    "len_pdfminer": 571,
+    "len_pdftotext": 563
+  },
+  {
+    "page": 527,
+    "source": "pdfminer",
+    "len_chars": 12,
+    "len_words": 2,
+    "len_pdfminer": 12,
+    "len_pdftotext": 12
+  },
+  {
+    "page": 528,
+    "source": "pdfminer",
+    "len_chars": 19,
+    "len_words": 3,
+    "len_pdfminer": 19,
+    "len_pdftotext": 19
+  },
+  {
+    "page": 529,
+    "source": "pdftotext",
+    "len_chars": 138,
+    "len_words": 12,
+    "len_pdfminer": 92,
+    "len_pdftotext": 138
+  },
+  {
+    "page": 530,
+    "source": "pdfminer",
+    "len_chars": 426,
+    "len_words": 72,
+    "len_pdfminer": 429,
+    "len_pdftotext": 425
+  },
+  {
+    "page": 531,
+    "source": "pdfminer",
+    "len_chars": 131,
+    "len_words": 23,
+    "len_pdfminer": 131,
+    "len_pdftotext": 130
+  },
+  {
+    "page": 532,
+    "source": "pdfminer",
+    "len_chars": 1025,
+    "len_words": 159,
+    "len_pdfminer": 1032,
+    "len_pdftotext": 1027
+  },
+  {
+    "page": 533,
+    "source": "pdfminer",
+    "len_chars": 453,
+    "len_words": 71,
+    "len_pdfminer": 459,
+    "len_pdftotext": 453
+  },
+  {
+    "page": 534,
+    "source": "pdfminer",
+    "len_chars": 16,
+    "len_words": 3,
+    "len_pdfminer": 16,
+    "len_pdftotext": 16
+  },
+  {
+    "page": 535,
+    "source": "pdfminer",
+    "len_chars": 85,
+    "len_words": 11,
+    "len_pdfminer": 86,
+    "len_pdftotext": 82
+  },
+  {
+    "page": 536,
+    "source": "pdfminer",
+    "len_chars": 9,
+    "len_words": 1,
+    "len_pdfminer": 9,
+    "len_pdftotext": 9
+  },
+  {
+    "page": 537,
+    "source": "pdfminer",
+    "len_chars": 236,
+    "len_words": 35,
+    "len_pdfminer": 237,
+    "len_pdftotext": 235
+  },
+  {
+    "page": 538,
+    "source": "pdfminer",
+    "len_chars": 1464,
+    "len_words": 221,
+    "len_pdfminer": 1479,
+    "len_pdftotext": 1476
+  },
+  {
+    "page": 539,
+    "source": "pdftotext",
+    "len_chars": 15,
+    "len_words": 2,
+    "len_pdfminer": 12,
+    "len_pdftotext": 15
+  },
+  {
+    "page": 540,
+    "source": "pdftotext",
+    "len_chars": 64,
+    "len_words": 7,
+    "len_pdfminer": 47,
+    "len_pdftotext": 64
+  },
+  {
+    "page": 541,
+    "source": "pdftotext",
+    "len_chars": 100,
+    "len_words": 9,
+    "len_pdfminer": 67,
+    "len_pdftotext": 103
+  },
+  {
+    "page": 542,
+    "source": "pdftotext",
+    "len_chars": 191,
+    "len_words": 19,
+    "len_pdfminer": 131,
+    "len_pdftotext": 194
+  },
+  {
+    "page": 543,
+    "source": "pdfminer",
+    "len_chars": 208,
+    "len_words": 39,
+    "len_pdfminer": 209,
+    "len_pdftotext": 208
+  },
+  {
+    "page": 544,
+    "source": "pdfminer",
+    "len_chars": 726,
+    "len_words": 121,
+    "len_pdfminer": 735,
+    "len_pdftotext": 858
+  },
+  {
+    "page": 545,
+    "source": "pdfminer",
+    "len_chars": 705,
+    "len_words": 114,
+    "len_pdfminer": 709,
+    "len_pdftotext": 719
+  },
+  {
+    "page": 546,
+    "source": "none",
+    "len_chars": 0,
+    "len_words": 0,
+    "len_pdfminer": 0,
+    "len_pdftotext": 0
+  },
+  {
+    "page": 547,
+    "source": "pdfminer",
+    "len_chars": 569,
+    "len_words": 93,
+    "len_pdfminer": 571,
+    "len_pdftotext": 577
+  },
+  {
+    "page": 548,
+    "source": "pdfminer",
+    "len_chars": 680,
+    "len_words": 115,
+    "len_pdfminer": 684,
+    "len_pdftotext": 719
+  },
+  {
+    "page": 549,
+    "source": "pdfminer",
+    "len_chars": 176,
+    "len_words": 31,
+    "len_pdfminer": 176,
+    "len_pdftotext": 174
+  },
+  {
+    "page": 550,
+    "source": "pdftotext",
+    "len_chars": 798,
+    "len_words": 72,
+    "len_pdfminer": 483,
+    "len_pdftotext": 801
+  },
+  {
+    "page": 551,
+    "source": "pdfminer",
+    "len_chars": 585,
+    "len_words": 90,
+    "len_pdfminer": 590,
+    "len_pdftotext": 653
+  },
+  {
+    "page": 552,
+    "source": "pdfminer",
+    "len_chars": 949,
+    "len_words": 151,
+    "len_pdfminer": 955,
+    "len_pdftotext": 1044
+  },
+  {
+    "page": 553,
+    "source": "pdfminer",
+    "len_chars": 122,
+    "len_words": 23,
+    "len_pdfminer": 122,
+    "len_pdftotext": 122
+  },
+  {
+    "page": 554,
+    "source": "pdfminer",
+    "len_chars": 1106,
+    "len_words": 157,
+    "len_pdfminer": 1114,
+    "len_pdftotext": 1150
+  },
+  {
+    "page": 555,
+    "source": "pdfminer",
+    "len_chars": 721,
+    "len_words": 122,
+    "len_pdfminer": 724,
+    "len_pdftotext": 817
+  },
+  {
+    "page": 556,
+    "source": "pdfminer",
+    "len_chars": 326,
+    "len_words": 57,
+    "len_pdfminer": 326,
+    "len_pdftotext": 325
+  },
+  {
+    "page": 557,
+    "source": "pdfminer",
+    "len_chars": 961,
+    "len_words": 142,
+    "len_pdfminer": 969,
+    "len_pdftotext": 1001
+  },
+  {
+    "page": 558,
+    "source": "pdfminer",
+    "len_chars": 121,
+    "len_words": 22,
+    "len_pdfminer": 121,
+    "len_pdftotext": 120
+  },
+  {
+    "page": 559,
+    "source": "pdfminer",
+    "len_chars": 2944,
+    "len_words": 458,
+    "len_pdfminer": 2953,
+    "len_pdftotext": 3025
+  },
+  {
+    "page": 560,
+    "source": "pdftotext",
+    "len_chars": 402,
+    "len_words": 43,
+    "len_pdfminer": 296,
+    "len_pdftotext": 414
+  },
+  {
+    "page": 561,
+    "source": "pdfminer",
+    "len_chars": 736,
+    "len_words": 108,
+    "len_pdfminer": 736,
+    "len_pdftotext": 725
+  },
+  {
+    "page": 562,
+    "source": "pdfminer",
+    "len_chars": 1304,
+    "len_words": 199,
+    "len_pdfminer": 1308,
+    "len_pdftotext": 1529
+  },
+  {
+    "page": 563,
+    "source": "pdfminer",
+    "len_chars": 12,
+    "len_words": 2,
+    "len_pdfminer": 12,
+    "len_pdftotext": 11
+  },
+  {
+    "page": 564,
+    "source": "pdfminer",
+    "len_chars": 35,
+    "len_words": 7,
+    "len_pdfminer": 35,
+    "len_pdftotext": 34
+  }
+]

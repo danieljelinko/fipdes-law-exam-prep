@@ -1,0 +1,16 @@
+# Net Quantity
+
+☐ Weight or volume
+☐ Metric (L/ml, Kg/g)
+☐ Imperial (lb/oz allowed until December 2009 - in addition to metric)
+
+Exceptions e.g.:
+☐ Multipacks (can/can't be sold individually)
+☐ Foods normally sold by number
+☐ Less than 5g/ml (except herbs and spices)
+☐ Sugar/confectionary/chocolate products &lt;50g
+
+☐ E-mark
+☐ Average quantity (individual units may vary slightly)
+
+![img-95.jpeg](img-95.jpeg)

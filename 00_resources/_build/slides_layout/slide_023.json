@@ -1,0 +1,34 @@
+{
+  "page": 23,
+  "layout": "two_column (gavel illustration left, title + paragraphs right)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "The Need for a European Policy"
+    },
+    {
+      "role": "paragraph",
+      "text": "EU Food law developed incrementally over a long period of time."
+    },
+    {
+      "role": "paragraph",
+      "text": "Treaty of Rome made no explicit mention of consumer protection or public health."
+    },
+    {
+      "role": "paragraph",
+      "text": "Not until the Single European Act 1986 and Maastricht Treaty of 1992 were consumer protection and public health introduced as goals."
+    },
+    {
+      "role": "paragraph",
+      "text": "Food Law concentrated on the free movement of foodstuffs in the earlier years."
+    },
+    {
+      "role": "topic_item",
+      "text": "1962: The first EU food Directive \u2014 concerned with colours in foodstuffs"
+    },
+    {
+      "role": "topic_item",
+      "text": "1979: Cassis de Dijon and other cases \u2014 pushed EU to reorientate its food law"
+    }
+  ]
+}

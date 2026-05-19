@@ -1,0 +1,34 @@
+{
+  "page": 32,
+  "layout": "title_hr_body + flowchart (6 boxes with arrows: Commission -> Proposal -> EU Parliament & Council, then 1st Reading -> 2nd Reading -> Consolidation)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Summary of Ordinary Legislative Procedure"
+    },
+    {
+      "role": "step_item",
+      "text": "Commission"
+    },
+    {
+      "role": "step_item",
+      "text": "Proposal"
+    },
+    {
+      "role": "step_item",
+      "text": "EU Parliament and Council"
+    },
+    {
+      "role": "step_item",
+      "text": "1st Reading"
+    },
+    {
+      "role": "step_item",
+      "text": "2nd Reading \u2014 Informal Negotiation; Accept & Publish"
+    },
+    {
+      "role": "step_item",
+      "text": "Consolidation \u2014 No Agreement = Rejection; Accept & Publish"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+![Slide 436](food_law_slides/slide_436.png)
+
+### What do we mean by flexibility in HACCP?
+
+Option 1:  Implementation of GHP, where this ensures that all hazards are effectively controlled -
+Prerequisites only e.g.
+
+Option 2:  Use of a recognised guide to good practice – person implementing guide must
+understand HACCP e.g. I.S.340
+
+Option 3:  Development of a full FSMS – team must be able to demonstrate sufficient
+knowledge through formal and/or informal training

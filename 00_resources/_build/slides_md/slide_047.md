@@ -1,0 +1,7 @@
+![Slide 47](food_law_slides/slide_047.png)
+
+### What is BSE?
+
+**Bovine spongiform encephalopathy (BSE)** — or *"mad cow disease"* — is a neurodegenerative disorder affecting cattle. It has a fatal effect on the brain and central nervous system. There is **no treatment and no cure**.
+
+There is strong evidence that BSE can be transmitted to humans as **variant Creutzfeldt-Jakob disease (vCJD)**. Those infected can suffer hallucinations, delusions and unpleasant physical sensations, such as pain and numbness in the limbs. This can develop into other symptoms, ultimately into eating and swallowing difficulties. Average life expectancy is around **one year** following infection.

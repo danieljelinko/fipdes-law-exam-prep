@@ -1,0 +1,18 @@
+{
+  "page": 5,
+  "layout": "pills_with_values (2 pills)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "How is this module assessed?"
+    },
+    {
+      "role": "table_row",
+      "text": "Assignment | 40%"
+    },
+    {
+      "role": "table_row",
+      "text": "Examination | 60%"
+    }
+  ]
+}

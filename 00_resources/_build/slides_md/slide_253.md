@@ -1,0 +1,21 @@
+![Slide 253](food_law_slides/slide_253.png)
+
+### EU Consultation on Labelling
+
+https://ec.europa.eu/info/law/better-
+                                          https://ec.europa.eu/info/law/better-
+
+     Upcoming revisions to address                 regulation/have-your-
+                                                               regulation/have-your-
+
+  concerns for front-of-pack nutrition    say/initiatives/12749-Food-labelling-
+                                           say/initiatives/12749-Food-labelling-
+
+   labelling, origin labelling and date      revision-of-rules-on-information-
+                                                revision-of-rules-on-information-
+
+                 marking.                     provided-to-consumers/public-
+                                                   provided-to-consumers/public-
+
+                                                      consultation_en
+                                                                      consultation_en

@@ -1,0 +1,9 @@
+https://ec.europa.eu/food/safety/labelling_nutrition/food-labelling-information-system_en#:~:text=The%20Food%20Labelling%20Information%20System,provisions%20and%20existing%20guidance%20documents
+https://ec.europa.eu/food/safety/labelling_nutrition/food-labelling-information-system_en#:~:text=The%20Food%20Labelling%20Information%20System,provisions%20and%20existing%20guidance%20documents
+https://ec.europa.eu/food/safety/labelling_nutrition/food-labelling-information-system_en#:~:text=The%20Food%20Labelling%20Information%20System,provisions%20and%20existing%20guidance%20documents
+https://ec.europa.eu/food/safety/labelling_nutrition/food-labelling-information-system_en#:~:text=The%20Food%20Labelling%20Information%20System,provisions%20and%20existing%20guidance%20documents
+https://ec.europa.eu/food/safety/labelling_nutrition/food-labelling-information-system_en#:~:text=The%20Food%20Labelling%20Information%20System,provisions%20and%20existing%20guidance%20documents
+https://ec.europa.eu/food/safety/labelling_nutrition/food-labelling-information-system_en#:~:text=The%20Food%20Labelling%20Information%20System,provisions%20and%20existing%20guidance%20documents
+https://ec.europa.eu/food/safety/labelling_nutrition/food-labelling-information-system_en#:~:text=The%20Food%20Labelling%20Information%20System,provisions%20and%20existing%20guidance%20documents
+https://ec.europa.eu/food/safety/labelling_nutrition/food-labelling-information-system_en#:~:text=The%20Food%20Labelling%20Information%20System,provisions%20and%20existing%20guidance%20documents
+https://ec.europa.eu/food/safety/labelling_nutrition/food-labelling-information-system_en#:~:text=The%20Food%20Labelling%20Information%20System,provisions%20and%20existing%20guidance%20documents

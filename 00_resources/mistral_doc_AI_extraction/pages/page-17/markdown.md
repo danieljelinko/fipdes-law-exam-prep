@@ -1,0 +1,7 @@
+# Codex Alimentarius Commission
+
+- ☐ can influence EU laws
+- ☐ Contact point in Ireland is DAFM
+- ☐ Procedural Manual – sets out the rules, Codex Statutes, General Principles
+
+(28th Edition published 2023 available on Brightspace).

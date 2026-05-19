@@ -1,0 +1,12 @@
+![Slide 336](food_law_slides/slide_336.png)
+
+### What is a Pesticide?
+
+A 'pesticide' is something that                       The term includes, amongst
+          prevents, destroys, or controls a                     others: herbicides, fungicides,
+            harmful organism ('pest') or                           insecticides, acaricides,
+           disease, or protects plants or                        nematicides, molluscicides,
+               plant products during                           rodenticides, growth regulators,
+              production, storage and                            repellents, rodenticides and
+                      transport.                                           biocides.
+More information: http://ec.europa.eu/assets/sante/food/plants/pesticides/lop/index.html

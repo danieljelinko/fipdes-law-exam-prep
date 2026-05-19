@@ -1,0 +1,11 @@
+{
+  "page": 1,
+  "layout": "course_title_template",
+  "elements": [
+    {"role": "section_title", "text": "Food Regulatory Affairs"},
+    {"role": "metadata", "key": "Module code", "value": "TFCA1402"},
+    {"role": "metadata", "key": "Programme", "value": "MSc Culinary Innovation and Food Product Development"},
+    {"role": "metadata", "key": "Lecturer", "value": "Sheona Foley"},
+    {"role": "metadata", "key": "Date", "value": "28th January 2026"}
+  ]
+}

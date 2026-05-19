@@ -1,0 +1,27 @@
+Article 5.2: HACCP Principles
+
+1.
+
+2.
+
+3.
+
+4.
+
+Identifying any hazards e.g. survival of E.coli O157 due to inadequate cooking of a minced
+meat/burger.
+
+Identifying the critical control points (CCP) i.e. the cooking step
+
+Establishing critical limits i.e. 75°C at the core.
+
+Establishing and implementing effective monitoring procedures at critical control points i.e.
+periodically check that the correct temperature has been reached
+
+5.
+
+Establishing corrective actions e.g. Cook for longer, i.e. until correct temperature is reached.
+
+6. Verification  Check periodically that staff are monitoring CCPs and taking corrective action.
+
+7. Document  Keep monitoring records

@@ -1,0 +1,7 @@
+![Slide 119](food_law_slides/slide_119.png)
+
+### Is Regulation (EC) 178/2002 fit for purpose?
+
+**Please see the attached link for discussion documents:**
+
+<https://ec.europa.eu/food/safety/general_food_law/fitness_check_en>

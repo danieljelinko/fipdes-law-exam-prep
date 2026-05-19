@@ -1,0 +1,25 @@
+{
+  "page": 35,
+  "layout": "two_column_label_right (label 'Secondary Legislation: Binding' + 3 definition pills)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Secondary Legislation \u2014 Binding"
+    },
+    {
+      "role": "definition",
+      "term": "Regulations",
+      "body": "A 'regulation' is a binding legislative act. It must be applied in its entirety across the EU."
+    },
+    {
+      "role": "definition",
+      "term": "Directives",
+      "body": "A 'directive' is a legislative act that sets out a goal that all EU countries must achieve. However, it is up to the individual countries to devise their own laws on how to reach these goals."
+    },
+    {
+      "role": "definition",
+      "term": "Decisions",
+      "body": "A 'decision' is binding on those to whom it is addressed (e.g. an EU country or an individual company) and is directly applicable."
+    }
+  ]
+}

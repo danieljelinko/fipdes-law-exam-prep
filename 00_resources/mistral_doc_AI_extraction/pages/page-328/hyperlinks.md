@@ -1,0 +1,1 @@
+https://www.rte.ie/brainstorm/2024/0425/1445365-new-genomic-techniques-genetically-modified-crops-eu-legislation-ireland/

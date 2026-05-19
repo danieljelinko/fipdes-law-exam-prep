@@ -1,0 +1,62 @@
+{
+  "page": 26,
+  "layout": "two_column (institution diagram left, links right)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "The EU Institutions"
+    },
+    {
+      "role": "topic_item",
+      "text": "European Council (Summit)"
+    },
+    {
+      "role": "topic_item",
+      "text": "European Parliament"
+    },
+    {
+      "role": "topic_item",
+      "text": "Council of the EU"
+    },
+    {
+      "role": "topic_item",
+      "text": "European Commission"
+    },
+    {
+      "role": "topic_item",
+      "text": "Court of Justice"
+    },
+    {
+      "role": "topic_item",
+      "text": "Court of Auditors"
+    },
+    {
+      "role": "topic_item",
+      "text": "Economic and Social Committee"
+    },
+    {
+      "role": "topic_item",
+      "text": "Committee of the Regions"
+    },
+    {
+      "role": "topic_item",
+      "text": "European Investment Bank"
+    },
+    {
+      "role": "topic_item",
+      "text": "Agencies"
+    },
+    {
+      "role": "topic_item",
+      "text": "European Central Bank"
+    },
+    {
+      "role": "link",
+      "text": "https://europa.eu/european-union/about-eu/institutions-bodies/european-commission_en"
+    },
+    {
+      "role": "link",
+      "text": "https://europa.eu/european-union/about-eu/institutions-bodies/european-council_en"
+    }
+  ]
+}

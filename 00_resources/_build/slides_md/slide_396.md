@@ -1,0 +1,14 @@
+![Slide 396](food_law_slides/slide_396.png)
+
+### Review the HACCP based procedures when — Review    modifications are made to the process or — product
+
+Articles 5.2 &
+5.4: Food
+Business                    Provide the Competent Authority (CA) with
+                  Provide
+Operators                   evidence of their compliance
+
+(FBOs) are also
+required to……..
+                            Ensure documents are kept up-to-date & are
+                  Ensure    retained for an appropriate length of time

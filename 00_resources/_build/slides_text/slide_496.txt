@@ -1,0 +1,10 @@
+*(Image-only slide — text is embedded as image.)*
+
+> Four key operative criteria are referred to for distinguishing whether a case should be considered as fraud or as non-compliance: if a case matches all four criteria, then it could be considered a suspicion of fraud.
+
+The four criteria (with icons):
+
+1. **Violation of EU rules**
+2. **Deception of customers**
+3. **Economic gain**
+4. **Intention**

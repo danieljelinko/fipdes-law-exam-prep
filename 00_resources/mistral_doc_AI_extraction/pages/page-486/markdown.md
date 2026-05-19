@@ -1,0 +1,5 @@
+# Enforcement pyramid
+
+(Adapted from Ayres and Braithwaite (1992) *Responsive Regulation: Transcending the Deregulation Debate*. New York: Oxford University Press)
+
+![img-224.jpeg](img-224.jpeg)

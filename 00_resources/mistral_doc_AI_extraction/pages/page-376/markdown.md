@@ -1,0 +1,11 @@
+# ARTICLE 2: DEFINITIONS
+
+- ☐ Food Hygiene
+- ☐ Primary Production
+- ☐ Competent Authority
+- ☐ Contamination
+- ☐ Potable Water
+- ☐ Clean Seawater
+- ☐ Packaging
+
+and others

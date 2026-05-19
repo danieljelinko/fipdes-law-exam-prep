@@ -1,0 +1,1 @@
+https://ec.europa.eu/food/plant/pesticides/glyphosate_en

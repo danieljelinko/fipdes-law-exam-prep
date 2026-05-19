@@ -1,0 +1,14 @@
+![Slide 355](food_law_slides/slide_355.png)
+
+### ❑Deficiencies in existing legislation — ❑Inconsistencies and being too prescriptive in some — instances
+
+- HACCP (see information provided re CODEX and
+             development of HACCP)
+What drove   ❑Different requirements for different commodities
+Hygiene      (ingredients) due to more processing, pre-packaging,
+             composite foods
+package?
+- Changes in consumer preferences
+- Sourcing of raw materials (global supply chains)
+- Processing and packaging technology
+- Changes in food retailing practices

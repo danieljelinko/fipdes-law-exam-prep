@@ -1,0 +1,25 @@
+![Slide 463](food_law_slides/slide_463.png)
+
+### Other Standards
+
+What does the Bord Bia Quality Assurance Mark (Q Mark) tell me?
+
+Where you see Bord Bia Q Mark on a product it means that the product has been produced in accordance with the
+required Quality Assurance standards and secondly the flag and the ‘Origin Ireland’ on the mark verify that the product
+was produced, in its entirety, in Ireland – where you see this mark it means that the food was farmed and processed in
+the Republic of Ireland.
+
+What products carry the Q Mark?
+
+Bord Bia operates Quality Assurance Schemes for the following:
+Bacon, Beef, Chicken, Duck, Eggs, Fruit, Lamb, Pork, Turkey and Vegetables. A substantial number of farmers/producers
+and processors are members of these schemes and therefore, a large range of food with the Bord Bia Q Mark is available
+from all the major supermarkets and other retail outlets.
+
+Can imported meat or other foods which are processed in a Bord Bia Approved Food Company in Ireland carry the
+Bord Bia Q Mark with the Irish tricolour?
+
+Only food produced on approved Irish farms and processed in approved Irish factories can carry the Origin Ireland Q
+Mark.  Currently all the members of the Bord Bia Quality Assurance schemes are on the island of Ireland.
+
+Learn more here.

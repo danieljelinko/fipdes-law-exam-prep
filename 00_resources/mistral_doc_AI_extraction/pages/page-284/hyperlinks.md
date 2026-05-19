@@ -1,0 +1,1 @@
+https://ec.europa.eu/food/safety/labelling_nutrition/claims/register/public/?event=search

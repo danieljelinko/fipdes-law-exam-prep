@@ -1,0 +1,11 @@
+# What is Hazard – versus - Risk
+
+'hazard' means a biological, chemical or physical agent in, or condition of, food or feed with the potential to cause an adverse health effect
+
+'risk' means a function of the probability of an adverse health effect and the severity of that effect, consequential to a hazard
+
+In other words: Risk is an estimated probability of an adverse health effects occurring as a result of hazards in foods.
+
+![img-32.jpeg](img-32.jpeg)
+
+EFSA Video link: https://www.efsa.europa.eu/en/interactive_pages/riskassessment/RiskAssessment

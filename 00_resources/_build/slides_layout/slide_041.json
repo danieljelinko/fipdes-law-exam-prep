@@ -1,0 +1,10 @@
+{
+  "page": 41,
+  "layout": "question_divider (full-bleed ? icon + 'QUESTIONS' label)",
+  "elements": [
+    {
+      "role": "question_divider",
+      "text": "?  /  QUESTIONS"
+    }
+  ]
+}

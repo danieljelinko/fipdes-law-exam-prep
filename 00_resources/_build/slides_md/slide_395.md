@@ -1,0 +1,15 @@
+![Slide 395](food_law_slides/slide_395.png)
+
+### *(Image-only slide — no extractable text.)*
+
+**HACCP — Ensuring Food Safety** (7-step wheel diagram):
+
+1. Identifying hazards, Assessing the risks
+2. Identifying CCPs (Critical Control Points)
+3. Establishing critical limits
+4. Implementing continuous monitoring
+5. Implementing corrective measures
+6. Verification / Validation
+7. Documentation / Record-keeping
+
+Underpinned by **good hygiene practices**.

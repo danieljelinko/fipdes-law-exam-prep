@@ -1,0 +1,47 @@
+![Slide 507](food_law_slides/slide_507.png)
+
+### Cross Contamination
+
+- What do we mean by cross contamination?
+
+- 
+
+- 
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+It is the process by which a ‘gluten-free’ product loses that status because it comes into contact with something that is not
+‘gluten-free’
+
+‘Gluten-free’ status must prevail at every link of the chain.  Cross-contamination with gluten can occur at any stage,
+unintentionally, for example
+
+Incorrect formulation
+
+Inappropriate production sequencing
+
+Poor rework
+
+Product carry-over
+
+Use of common equipment
+
+Poor clean-up and/or sanitation
+
+Poor equipment design
+
+Human error

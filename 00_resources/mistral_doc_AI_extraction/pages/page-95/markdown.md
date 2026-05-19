@@ -1,0 +1,9 @@
+# Article 18: Traceability
+
+The traceability of food, feed, food processing animals, and any other substance intended to be, or expected to be, incorporated into a food or feed shall be established at *all stages of production, processing and distribution*.
+
+Food and feed business operators shall be able to *identify any person* from whom they have been supplied with a food, a feed, a food-producing animal, or any substance intended to be, or expected to be, incorporated into a food or feed.
+
+To this end, such operators shall have in place *systems and procedures* which allow for this information to be made available to the competent authorities on demand.
+
+Food and feed business operators *shall have in place systems and procedures to identify the other businesses to which their products have been supplied*. This information shall be made available to the competent authorities on demand.

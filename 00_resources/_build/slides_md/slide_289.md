@@ -1,0 +1,26 @@
+![Slide 289](food_law_slides/slide_289.png)
+
+### Nutrient Profiles
+
+- Nutrient profiling is the science of classifying or ranking foods according to their nutritional
+
+composition for reasons related to preventing disease and promoting health.
+
+- Nutrient profiling can be used for various applications, including marketing of foods to
+
+children, health and nutrition claims, product labelling logos or symbols, information and
+education, provision of food to public institutions … (WHO)
+
+- The term nutrient profile refers to the nutrient composition of a food or diet. The purpose
+of establishing nutrient profiles is to prevent the use of claims masking the true nature of
+food products, e.g. a lollipop claiming to be ‘low in fat’, or a milk bottle claiming to ‘boost
+the immune system’. It aims to prevent consumers from being misled where foods high in
+saturated fat, sugar or salt may be made to appear healthier than they actually are by
+being accompanied by a health or nutrition claim.
+
+- 
+
+Regulation 1924/2006/EC establishes permitted nutrition and health claims for use on foods sold in the EU as well as associat ed conditions of use and restrictions (if any).  As part of this legislation, nutrient profiles were to
+be established which would guide the use of NHC on food
+
+- See more here.

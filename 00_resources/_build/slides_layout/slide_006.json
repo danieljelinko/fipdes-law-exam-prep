@@ -1,0 +1,30 @@
+{
+  "page": 6,
+  "layout": "title_hr_body + numbered_pills (5)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Assignment (40%) \u2014 Due Date TBC???"
+    },
+    {
+      "role": "step_item",
+      "text": "Review your food label from a regulatory compliance perspective"
+    },
+    {
+      "role": "step_item",
+      "text": "Assess use of nutritional claims"
+    },
+    {
+      "role": "step_item",
+      "text": "Assess use of health claims"
+    },
+    {
+      "role": "step_item",
+      "text": "Consider mandatory and voluntary claims included and excluded. Indicate rationale."
+    },
+    {
+      "role": "step_item",
+      "text": "Consider target market for your product, e.g. children, elderly, export outside EU."
+    }
+  ]
+}

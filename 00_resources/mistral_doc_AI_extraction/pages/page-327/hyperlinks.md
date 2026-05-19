@@ -1,0 +1,1 @@
+https://food.ec.europa.eu/plants/genetically-modified-organisms/gmo-register_en

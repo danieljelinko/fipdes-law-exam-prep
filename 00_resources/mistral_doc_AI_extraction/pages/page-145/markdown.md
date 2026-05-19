@@ -1,0 +1,5 @@
+# Food information must not be misleading
+
+- ☐ As to **characteristics** of the food and, in particular, as to its nature, identity, properties, composition, quantity, durability, country of origin or place of provenance, method of manufacture or production
+- ☐ By attributing to the food **effects** or **properties** which it does not possess e.g. weight loosing capabilities
+- ☐ By suggesting that the food possesses **special characteristics** when in fact **all similar food** possess such characteristics, in particular by specifically emphasising the presence or absence of certain ingredients and /or nutrients e.g. oranges containing Vitamin C

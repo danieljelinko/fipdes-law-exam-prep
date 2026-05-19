@@ -1,0 +1,14 @@
+{
+  "page": 46,
+  "layout": "title_hr_body + centered paragraph",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Evolution of the EU Food Regulation 178"
+    },
+    {
+      "role": "quote_callout",
+      "text": "The making of laws and the enforcement of laws often closely linked to the political and economic climate of the time."
+    }
+  ]
+}

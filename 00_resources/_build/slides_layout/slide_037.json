@@ -1,0 +1,28 @@
+{
+  "page": 37,
+  "layout": "two_column (columns photo left, title + paragraphs + nested bullets right)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "EU Law and Irish Law"
+    },
+    {
+      "role": "paragraph",
+      "text": "European Union legislation is superior to all national legislation. This means that European law is superior and takes precedence over national law."
+    },
+    {
+      "role": "paragraph",
+      "text": "National infrastructure to cope with influx of EU Directives, Regulations and Decisions:"
+    },
+    {
+      "role": "definition",
+      "term": "New Statutes",
+      "body": "Laws enacted by House of Oireachtas pursuant to the Constitution Article 15.2.1"
+    },
+    {
+      "role": "definition",
+      "term": "Statutory Instruments",
+      "body": "Subordinate form of law that can be brought into power by Government (also pursuant to the Constitution Article 15.2.2)"
+    }
+  ]
+}

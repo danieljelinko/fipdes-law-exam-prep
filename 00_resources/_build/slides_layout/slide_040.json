@@ -1,0 +1,65 @@
+{
+  "page": 40,
+  "layout": "two_column_label_right (label 'Some Important Regulations' + 11 pills stacked right)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Some Important Regulations"
+    },
+    {
+      "role": "definition",
+      "term": "Regulation EC No 178/2002",
+      "body": "Defines Food, Consumer Interests, Recall & Traceability"
+    },
+    {
+      "role": "definition",
+      "term": "Regulation EC No 852/2004",
+      "body": "Hygiene of Foodstuffs \u2014 Food Hygiene & HACCP & FBO"
+    },
+    {
+      "role": "definition",
+      "term": "Regulation EC No 853/2004",
+      "body": "Hygiene of Food of Animal origin \u2014 Food Hygiene & HACCP & FBO"
+    },
+    {
+      "role": "definition",
+      "term": "Regulation EC No 2017/625",
+      "body": "Official Controls Regulation"
+    },
+    {
+      "role": "definition",
+      "term": "Regulation EC No 1169/2001",
+      "body": "FIC & Nutritional Declarations"
+    },
+    {
+      "role": "definition",
+      "term": "Directive 2002/46/EC",
+      "body": "Food Supplements"
+    },
+    {
+      "role": "definition",
+      "term": "Regulation EC No 2073/2005",
+      "body": "Micro Criteria"
+    },
+    {
+      "role": "definition",
+      "term": "Regulation EC No 1924/2006",
+      "body": "Health Claims"
+    },
+    {
+      "role": "definition",
+      "term": "Regulation EC No 1331/2008",
+      "body": "Food additives, enzymes & flavourings"
+    },
+    {
+      "role": "definition",
+      "term": "Regulation EC No 41/2009",
+      "body": "Gluten Intolerance"
+    },
+    {
+      "role": "definition",
+      "term": "Regulation (EU) 2015/2283",
+      "body": "Novel Foods"
+    }
+  ]
+}

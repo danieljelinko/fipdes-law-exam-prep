@@ -1,0 +1,17 @@
+Example of Quid
+Name of Product:                Butter Cookie
+
+Ingredient                                                    Links to more examples:
+                                   Weight in
+                                     grams
+                                                              https://www.food.gov.uk/sites/default/files/multi
+Flour                                     100                 media/pdfs/quid.pdf
+Sugar                                      35
+Butter                                     50                 https://www.fsai.ie/faqs/quid.html
+Eggs                                       10
+Total Weight (at mixing bowl)             195
+
+Total Weight (after baking)               169
+
+Formula for Quid                     50         x 100 = 30%
+                                    169

@@ -1,0 +1,15 @@
+![Slide 452](food_law_slides/slide_452.png)
+
+### Annex III – Specific Requirements
+
+Section I:  Domestic ungulates (cattle, sheep, pigs)
+
+Section II: Poultry
+
+Section III:  Farmed game
+
+Section IV:  Wild game
+
+Section V:  Minced meat & preparations, MSM
+
+Section VI:  Meat Products

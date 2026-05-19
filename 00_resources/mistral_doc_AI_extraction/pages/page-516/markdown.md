@@ -1,0 +1,13 @@
+EU's proposal for a revision of Regulation (EU) No 1169/2011 on the provision of food information to consumers.
+
+1. Proposal for mandatory front-of-pack nutrition labelling
+2. Nutrient Profiles - the setting of ‘nutrient profiles’ restricting promotion (via nutrition and health claims on food labels) of foods which are high in fat, sugar and salt
+3. Extension of mandatory origin or provenance for certain products
+4. Date Marking - revise the current EU rules on date marking (‘use-by’ and ‘best before’) to reduce food waste
+
+Read more here:
+https://www.fsai.ie/news_centre/food_labelling_consultation_update_01032022.html
+
+And
+
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12749-Food-labelling-revision-of-rules-on-information-provided-to-consumers_en

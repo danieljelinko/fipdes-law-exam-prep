@@ -1,0 +1,36 @@
+{
+  "page": 36,
+  "layout": "two_column_label_right (label 'Secondary Legislation: Non-Binding' + 3 pills/blocks)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Secondary Legislation \u2014 Non-Binding"
+    },
+    {
+      "role": "definition",
+      "term": "Recommendations",
+      "body": "A 'recommendation' is not binding."
+    },
+    {
+      "role": "definition",
+      "term": "Opinions",
+      "body": "An 'opinion' is an instrument that allows the institutions to make a statement in a non-binding fashion, in other words without imposing any legal obligation on those to whom it is addressed. An opinion is not binding."
+    },
+    {
+      "role": "question_label",
+      "text": "But what can non-binding secondary legislation achieve?"
+    },
+    {
+      "role": "topic_item",
+      "text": "Allow EU institutions make their view known and suggest course of action."
+    },
+    {
+      "role": "topic_item",
+      "text": "Influence policy."
+    },
+    {
+      "role": "topic_item",
+      "text": "Some recommendations and opinions may later feed into mandatory rules."
+    }
+  ]
+}

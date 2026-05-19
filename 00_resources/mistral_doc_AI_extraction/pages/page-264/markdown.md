@@ -1,0 +1,6 @@
+# Why?
+
+1. Consumer Protection
+2. Clear, accurate and substantiated
+3. Enables consumers to make informed and meaningful choices
+4. Allow fair competition between different food products

@@ -1,0 +1,6 @@
+# Language
+
+In Ireland, food information must be
+- in English or
+- in Irish and English
+- information in other languages may be included in addition to English

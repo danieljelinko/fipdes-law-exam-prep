@@ -1,0 +1,1 @@
+https://www.fsai.ie/enforcement-and-legislation/legislation/food-legislation/foodstuffs-with-specific-restrictions-emergency/sprouts-and-seeds

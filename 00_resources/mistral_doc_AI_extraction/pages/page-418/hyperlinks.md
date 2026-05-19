@@ -1,0 +1,1 @@
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022XC0916%2801%29

@@ -1,0 +1,7 @@
+![Slide 271](food_law_slides/slide_271.png)
+
+### Source of Vitamin E — Per 100g and per portion
+
+For all products (solids, liquids & beverages) in
+single-serve portion packs, to claim ‘source of’
+there must be at least 15% of the RI in the pack

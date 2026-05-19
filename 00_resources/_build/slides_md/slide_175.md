@@ -1,0 +1,5 @@
+![Slide 175](food_law_slides/slide_175.png)
+
+**For cereals containing gluten, is it 'gluten' or the cereal name that must be highlighted in the list of ingredients?**
+
+The **cereal** itself is considered the allergen and so must be highlighted e.g. wheat, oats, rye etc. Gluten may be placed in brackets after the name of the cereal.

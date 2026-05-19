@@ -1,0 +1,4 @@
+Extract from FSAI FAQs
+Can I mention the name of the bacteria on my label e.g. *Lactobacillus rhamnosus*?
+
+“Yes, you can give the name of the bacteria in the list of ingredients. Under food law the name of the microorganism culture(s) the product contains is not required to be listed in the list of ingredients but manufacturers can choose to give this information voluntarily. In the case of fermented milk and cream products (which includes yogurt), the only ingredients required by law (Article 19 (1)(d) of Regulation (EU) No. 1169/2011) to be listed are ingredients other than the lactic products, enzymes and microorganism culture essential to their manufacture”.

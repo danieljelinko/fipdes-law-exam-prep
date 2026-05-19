@@ -1,0 +1,50 @@
+{
+  "page": 24,
+  "layout": "two_column_label_right (label-left 'EU: Free Movement of Goods' + nested pills/list right)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "EU: Free Movement of Goods \u2014 Principle of Mutual Recognition (Cassis de Dijon Case)"
+    },
+    {
+      "role": "paragraph",
+      "text": "Once a food product is legally marketable in one member State, it must be (subject to certain exceptions), be legally marketable in all EU member States."
+    },
+    {
+      "role": "section_subtitle",
+      "text": "Repercussions:"
+    },
+    {
+      "role": "topic_item",
+      "text": "Harmonisation"
+    },
+    {
+      "role": "topic_item",
+      "text": "Generic foods / foodstuffs"
+    },
+    {
+      "role": "topic_item",
+      "text": "Low common denominator (quality)"
+    },
+    {
+      "role": "topic_item",
+      "text": "Locally and artisan production methods come under threat"
+    },
+    {
+      "role": "topic_item",
+      "text": "Larger manufacturers are in a stronger position to lobby"
+    },
+    {
+      "role": "topic_item",
+      "text": "Foods from outside EU \u2014 WTO and International Concerns"
+    },
+    {
+      "role": "topic_item",
+      "text": "Food Nutrition \u2014 Animal Welfare \u2014 Human Rights"
+    },
+    {
+      "role": "link",
+      "text": "Cassis de Dijon Case \u2014 link here"
+    }
+  ]
+}

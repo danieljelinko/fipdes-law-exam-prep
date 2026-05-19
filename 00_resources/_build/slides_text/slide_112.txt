@@ -1,0 +1,54 @@
+APPENDIX 1. FOOD RECALL DECISION TREE
+
+                                Food business operator considers, or has
+                                reason to believe, that a food which it has
+                              imported, produced, processed, manufactured
+                                                                                                           Food
+                                                                                                           Recall
+                               or distributed is not in compliance with the
+                                         food safety requirements
+
+                                          Suspend distribution
+                                            of affected food
+
+                                      Assemble food incident team
+
+                                                                                                           Decision
+                                Collate and analyse all available product,
+                                   production and quality assurance
+                                 information about the affected food
+
+                                  Determine if the food is unsafe (see
+                                 Appendix 2) including a risk assessment
+                                           (see Appendix 3)
+
+                                                                                                           Tree
+                                                                    Food is NOT          Food is NOT
+                   Food is UNSAFE
+                                                                 unsafe but is NOT      unsafe and is in
+                                                                 in compliance with    compliance with
+                                                                      food law             food law
+              Notify the competent
+                   authorities
+
+                                                                      Consult with     Monitor situation
+                                                                     the competent      and handle as
+                                                                       authorities        complaint
+                               Food is unsafe but can                   regarding
+  Food is unsafe and
+                                be guaranteed not to                   appropriate
+  has reached the final
+                                have reached the final               control actions
+       consumer
+                                      consumer
+
+Carry out a Recall            Carry out Withdrawal
+• Notify trade customers      • Notify trade customers
+• Notify consumers            • Remove food from the
+• Remove food from the        distribution chain
+distribution chain
+• If necessary to protect
+public heath, remove
+food from consumers
+
+                                                    44

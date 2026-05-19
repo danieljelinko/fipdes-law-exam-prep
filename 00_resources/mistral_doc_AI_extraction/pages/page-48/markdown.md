@@ -1,0 +1,7 @@
+# The BSE Crisis
+
+- First confirmed in cattle in the UK in 1986 and in Ireland in 1989, when there were 15 cases confirmed.
+- Ireland began culling herds, with 152 herds including over 22,400 animals killed at a cost to the State of €23.8m by 1996
+- In 1996 suggested that a link between BSE and variant CJD (vCJD), impacting humans. CJD, is a rare brain disorder that leads to dementia. It belongs to a group of human and animal diseases known as prion disorders. vCJD can occur after eating meat from diseased cattle
+- Led to UK &amp; Irish Government Inquiry Bovine Spongiform Encephalopathy (BSE) is a disease that affects adult cattle - most likely spread by cattle eating feed that contained contaminated Meat and Bone Meal (MBM) - banned in the 1990s.
+- BSE was also discovered in Germany and Spain in 2000.

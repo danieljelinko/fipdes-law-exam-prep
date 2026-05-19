@@ -1,0 +1,12 @@
+# Council Directives that were replaced
+
+|  Directive 64/433/EEC: Fresh meat | Directive 91/493/EEC: Fishery products  |
+| --- | --- |
+|  Directive 71/118/EEC: Poultry meat | Directive 91/494/EEC: Poultry meat (animal health rules)  |
+|  Directive 72/461/EEC: Fresh meat (animal health rules) | Directive 91/495/EEC: Rabbit meat and farmed game meat  |
+|  Directive 77/96/EEC: Trichina examination | Directive 92/45/EEC: Game meat  |
+|  Directive 77/99/EEC: Meat products | Directive 92/46/EEC: Milk and milk products  |
+|  Directive 80/215/EEC: Meat products (animal health rules) | Directive 92/48/EEC: Fishing vessels  |
+|  Directive 89/362/EEC: Milking hygiene | Directive 93/43/EEC: Hygiene of foodstuffs  |
+|  Directive 89/437/EEC: Egg products | Directive 94/65/EC: Minced meat and meat preparations  |
+|  Directive 91/492/EEC: Live bivalve molluscs |   |

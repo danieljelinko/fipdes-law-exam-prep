@@ -1,0 +1,12 @@
+2. The List of Ingredients   1.   The word Ingredients
+                                  should be at the beginning
+                                  of the list
+
+                             2.   All ingredients should be
+                                  listed in descending order
+                                  of weight (at mixing bowl
+                                  stage)
+
+                             3.   Names used should be
+                                  designated by their
+                                  specific name

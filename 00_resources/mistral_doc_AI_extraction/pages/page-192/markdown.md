@@ -1,0 +1,4 @@
+# Food Labels and Food Waste
+
+- EUROPEAN COMMISSION Market study on date marking and other information provided on food labels and food waste prevention Final Report:
+- Reference: European Commission, Directorate-General for Health and Food Safety, Market study on date marking and other information provided on food labels and food waste prevention – Final report, Publications Office, 2018, https://data.europa.eu/doi/10.2875/808514

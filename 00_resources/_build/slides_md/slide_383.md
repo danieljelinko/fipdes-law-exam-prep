@@ -1,0 +1,17 @@
+![Slide 383](food_law_slides/slide_383.png)
+
+### General Hygiene requirements
+
+Annex I: General hygiene requirements for primary production & associated operations
+
+Annex II: General hygiene requirements for all food businesses (except when Annex I applies)
+
+1. General requirements
+
+2. Requirements for rooms where food is prepared, treated, processed (excluding dinning areas)
+
+3. Movable and/or temporary premises
+
+4. Transport
+
+5. Equipment

@@ -1,0 +1,17 @@
+![Slide 429](food_law_slides/slide_429.png)
+
+### Implementing and — Delegating Acts
+
+Both are types of non-legislative acts adopted by the European Commission based on a
+primary "basic act" and are subject to judicial review by the Court of Justice of the EU.
+
+Delegated acts are defined as nonlegislative acts of general application, adopted by the
+European Commission on the basis of a delegation contained in a legislative act. They
+may supplement or amend the basic act, but only as to non-essential aspects of the
+policy area.
+
+Implementing acts are not defined as to their legal nature, but to their purpose − where
+uniform conditions for implementing legally binding Union acts are needed. Under no
+circumstances may an implementing act modify anything in the basic act.
+
+Ref:  Articles 290 and 291 of the Treaty on the Functioning of the European Union (TFEU)

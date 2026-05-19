@@ -1,0 +1,38 @@
+{
+  "page": 22,
+  "layout": "two_column_label_right (label-left 'European Union Development' + 7 pill cards stacked right)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "European Union \u2014 Development"
+    },
+    {
+      "role": "topic_item",
+      "text": "Economic and political partnership"
+    },
+    {
+      "role": "topic_item",
+      "text": "28 member states"
+    },
+    {
+      "role": "topic_item",
+      "text": "Created post WW2 \u2014 predominantly economic cooperation + increase trade & prosperity"
+    },
+    {
+      "role": "topic_item",
+      "text": "Rule of Law \u2014 everything EU does founded on its Treaties"
+    },
+    {
+      "role": "topic_item",
+      "text": "Concept of Single Market \u2014 people, goods, services and money"
+    },
+    {
+      "role": "topic_item",
+      "text": "The Euro (launched 1.1.99 and introduced 1.1.02)"
+    },
+    {
+      "role": "topic_item",
+      "text": "Food Law: Free movement of food stuffs"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+![Slide 523](food_law_slides/slide_523.png)
+
+### WHAT DOES THE CSRD MEAN FOR — FOOD BUSINESSES?
+
+The CSRD signals a policy shift towards greater transparency when it comes to the
+tracking and reporting of scope 3 emissions. Within the hospitality and food sector this is
+particularly relevant as Scope 3 can account for up to 90% of the emissions of a typical
+food business (WrapUK).
+
+Scope 3 emissions help account for the carbon emissions from the entire lifecycle of the
+products that you produce. From sourcing of raw materials, to production of precursor
+parts, to the usage of the end product, and eventually, disposal.  See more here.
+
+Foodprint by Nutritics is a reliable and fully automated scope 3 reporting and
+carbon labelling system for food businesses, making it more straightforward than ever to
+track and measure the environmental impact of your business. More here.

@@ -1,0 +1,32 @@
+![Slide 498](food_law_slides/slide_498.png)
+
+### Food Fraud Task Force
+
+The Food Fraud Task Force advises on a multi-agency basis across different enforcement arms of the State. It comprises
+representatives from a number of enforcement agencies including:
+
+- An Garda Síochána
+
+- Customs and Excise Service/Revenue Commissioners
+
+- Department of Agriculture, Food and the Marine
+
+- Food Standards Agency, Northern Ireland
+
+- Health Service Executive
+
+- Health Products Regulatory Authority
+
+- The local authorities
+
+- The Sea-Fisheries Protection Authority
+
+- Public Analyst's Laboratory
+
+- Competition and Consumer Protection Commission (CCPC)
+
+- State Lab
+
+The role of this Task Force is to act as a communications, coordination and networking group where intelligence and research
+can be shared at national and international level. Issues that are considered include raising awareness, improving
+mechanisms for monitoring and surveillance and training of enforcement officers.

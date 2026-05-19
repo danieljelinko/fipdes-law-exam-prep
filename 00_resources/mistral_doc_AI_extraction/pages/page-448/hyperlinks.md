@@ -1,0 +1,4 @@
+https://www.fsai.ie/enforcement-and-legislation/legislation/food-legislation/food-hygiene/national-rules#Marginal,_Localised_and_Restricted_Activity_in_Butcher_Shops
+https://www.fsai.ie/enforcement-and-legislation/legislation/food-legislation/food-hygiene/national-rules#Marginal,_Localised_and_Restricted_Activity_in_Butcher_Shops
+https://www.fsai.ie/enforcement-and-legislation/legislation/food-legislation/food-hygiene/national-rules#Marginal,_Localised_and_Restricted_Activity_in_Retail_Catering_Establishments
+https://www.fsai.ie/enforcement-and-legislation/legislation/food-legislation/food-hygiene/national-rules#Marginal,_Localised_and_Restricted_Activity_in_Retail_Catering_Establishments

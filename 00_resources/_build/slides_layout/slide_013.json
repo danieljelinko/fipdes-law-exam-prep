@@ -1,0 +1,62 @@
+{
+  "page": 13,
+  "layout": "title_hr_body + numbered_list (13 items)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Some more examples of Food Related crises/scares"
+    },
+    {
+      "role": "step_item",
+      "text": "BSE"
+    },
+    {
+      "role": "step_item",
+      "text": "Dioxin"
+    },
+    {
+      "role": "step_item",
+      "text": "Foot & Mouth + Avian Flu"
+    },
+    {
+      "role": "step_item",
+      "text": "Water in Chicken"
+    },
+    {
+      "role": "step_item",
+      "text": "Sudan 1"
+    },
+    {
+      "role": "step_item",
+      "text": "Horsemeat"
+    },
+    {
+      "role": "step_item",
+      "text": "E-Coli (Sprouts)"
+    },
+    {
+      "role": "step_item",
+      "text": "Listeria"
+    },
+    {
+      "role": "step_item",
+      "text": "GMO"
+    },
+    {
+      "role": "step_item",
+      "text": "Baby Food - Melanin"
+    },
+    {
+      "role": "step_item",
+      "text": "Olive Oil"
+    },
+    {
+      "role": "step_item",
+      "text": "Wine"
+    },
+    {
+      "role": "step_item",
+      "text": "Mercury in fish"
+    }
+  ]
+}

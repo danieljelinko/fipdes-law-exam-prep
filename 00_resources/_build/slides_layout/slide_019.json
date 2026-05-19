@@ -1,0 +1,18 @@
+{
+  "page": 19,
+  "layout": "two_column (EU map left, title + link right)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "European Union (EU)"
+    },
+    {
+      "role": "metadata",
+      "text": "Official EU Website"
+    },
+    {
+      "role": "link",
+      "text": "http://europa.eu/index_en.htm"
+    }
+  ]
+}

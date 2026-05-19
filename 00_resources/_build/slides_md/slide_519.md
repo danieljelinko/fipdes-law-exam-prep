@@ -1,0 +1,14 @@
+![Slide 519](food_law_slides/slide_519.png)
+
+### Sustainability Labelling
+
+In a 2013 study, the Commission identified 901 voluntary food labelling schemes
+regarding European agricultural food products, but this figure has not been
+updated. According to this study, a third of the surveyed consumers found the
+labels confusing and the same proportion thought they were misleading.
+
+A 2024 Commission report on sustainability labels identified more than 200 of
+these labels in the EU food sector. It states that 12 % of new product launches
+have a food-related sustainability label. Moreover, the member states we
+covered do not have an overview of all the different labels used on food
+products.

@@ -1,0 +1,14 @@
+# Codex Alimentarius or Food Code
+
+The Codex Alimentarius, or "Food Code" is a collection of standards, guidelines and codes of practice adopted by the Codex Alimentarius Commission. The Commission, also known as CAC, is the central part of the Joint FAO/WHO Food Standards Programme and was established by FAO and WHO to protect consumer health and promote fair practices in food trade. It held its first meeting in 1963.
+
+Codex standards ensure that food is safe and can be traded (helps to remove barriers to trade).
+
+187 Codex members have negotiated science-based recommendations in all areas related to food safety and quality:
+
+- food hygiene;
+- maximum limits for food additives;
+- residues of pesticides and veterinary drugs;
+- max limits and codes for the prevention of chemical and microbiological contamination.
+
+![img-13.jpeg](img-13.jpeg)

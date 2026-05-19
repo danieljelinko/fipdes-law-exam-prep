@@ -1,0 +1,53 @@
+Records of
+deliveries of
+food and
+packaging with
+all information
+necessary to
+maintain
+traceability of
+raw materials
+from the
+supplier.
+
+Examples of relevant information are:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+Supplier name, address and contact details
+
+Nature and description of the food supplied
+
+Any supplier batch codes
+
+Delivery date
+
+Confirmation of acceptance
+
+Number of packs in a case
+
+7. Weight of the packs if applicable
+
+8.
+
+9.
+
+Number of cases in a delivery
+
+Lot number (if any) assigned to the delivery
+
+10. Details of the haulier and vehicle (as applicable)
+
+11. Cross reference to any in-house quality control records associated
+
+with the food or packaging supplied into the food business operator

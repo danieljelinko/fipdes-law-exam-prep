@@ -1,0 +1,2 @@
+http://chrome-extension:/efaidnbmnnnibpcajpcglclefindmkaj/https%3A/commission.europa.eu/document/download/97a0c665-f219-4949-adcc-9c99382badd4_en?filename=food-labelling-scheme-final-report_en.pdf
+https://publications.jrc.ec.europa.eu/repository/handle/JRC134427

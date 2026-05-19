@@ -1,0 +1,27 @@
+Figure 5: Sample Press Release
+
+PRESS RELEASE - FOR IMMEDIATE RELEASE
+
+Food Safety
+AUTHORITY OF RELAND
+
+04 June 2007
+Food Recall
+
+# Horn-It-Up Cooked Ham Produced by B Ltd, Co. Dublin
+
+B Ltd is recalling all cooked ham products under the brand name Horn-It-Up. This product has been implicated in a number of cases of Salmonellaeis in the South West region of the country. Although testing of the ham has yet to identify Salmonella, B Ltd is taking this public health measure in conjunction with the Food Safety Authority of Ireland (FSAI). The FSAI has also advised anybody showing symptoms such as fever, diarrhoea and/or vomiting to seek medical advice.
+
+All Horn-It-Up brand ham is affected irrespective of its 'use-by' date. Consumers should not consume the product. Consumers are also advised to dispose of the product, however, the label should be sent to the following address for a full refund along with the name and address of the consumer:
+
+B Ltd.
+Unit B, Street C
+Co. Dublin
+
+Mr Mass, CEO of B Ltd and "His apologies to our customers for any inconvenience this recall has caused. However, I stress that this is a public health measure and that no Salmonella has yet been found in the implicated food". Dr. Salk, FSAI and "B Ltd has cooperated fully with the FSAI investigation and have acted responsibly to protect public health. Anybody who has consumed this product and is showing symptoms such as fever, diarrhoea and/or vomiting should seek medical advice."
+
+Consumers should contact the following number for further information:
+
+01 -113211223
+
+# Example of a Press Release

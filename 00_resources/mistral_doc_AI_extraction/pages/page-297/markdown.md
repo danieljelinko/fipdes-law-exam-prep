@@ -1,0 +1,5 @@
+# Fortification with vitamins and minerals
+
+- Some nutrients or ingredients (Vitamins, Minerals including trace elements, Amino acids, Essential fatty acids, Fibre, Various plants and herbal extracts) can be added to food in order to "enrich" or "fortify" the food in question, so as to add or emphasise particular nutritional characteristics.
+- Regulation (EC) No 1925/2006 harmonises the provisions regarding the addition of vitamins and minerals and of certain other substances to foods.
+- Regulation 1925/2006 has been aligned with the new Regulatory Committee procedure with Scrutiny by Regulation (EC) No 108/2008.

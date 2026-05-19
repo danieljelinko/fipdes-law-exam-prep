@@ -1,0 +1,42 @@
+{
+  "page": 28,
+  "layout": "two_column_label_right (label 'Primary Legislation \u2013 The Treaties' + timeline list of treaties)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Primary Legislation \u2014 The Treaties"
+    },
+    {
+      "role": "table_row",
+      "text": "1951 | Treaty of European Council Coal & Steel Community"
+    },
+    {
+      "role": "table_row",
+      "text": "1957 | Treaty of Rome (EEC Treaty)"
+    },
+    {
+      "role": "table_row",
+      "text": "1965 | The Merger Treaty"
+    },
+    {
+      "role": "table_row",
+      "text": "1986 | The Single European Act"
+    },
+    {
+      "role": "table_row",
+      "text": "1992 | The Maastricht Treaty (Treaty of the EU)"
+    },
+    {
+      "role": "table_row",
+      "text": "1997 | Treaty of Amsterdam"
+    },
+    {
+      "role": "table_row",
+      "text": "2001 | Treaty of Nice"
+    },
+    {
+      "role": "table_row",
+      "text": "2007 | Treaty of Lisbon"
+    }
+  ]
+}

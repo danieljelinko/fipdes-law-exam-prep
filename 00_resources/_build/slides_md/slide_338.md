@@ -1,0 +1,16 @@
+![Slide 338](food_law_slides/slide_338.png)
+
+### Glyphosphate
+
+- On 12 December 2017, the Commission renewed
+the approval of glyphosate for 5 years, following
+support by a qualified majority of Member States
+in an Appeal Committee held on 27 November
+2017.
+
+- Therefore, glyphosate can be used as an active
+
+substance in Plant Protection Products (PPPs), until
+15 December 2022, subject to each PPP being
+authorised by national authorities following an
+evaluation of their safety.

@@ -1,0 +1,22 @@
+{
+  "page": 17,
+  "layout": "title_hr_body + bulleted_list (\u2751 markers, italic emphasis)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "Codex Alimentarius Commission"
+    },
+    {
+      "role": "topic_item",
+      "text": "can influence EU laws"
+    },
+    {
+      "role": "topic_item",
+      "text": "Contact point in Ireland is DAFM"
+    },
+    {
+      "role": "topic_item",
+      "text": "Procedural Manual \u2014 sets out the rules, Codex Statutes, General Principles (28th Edition published 2023, available on Brightspace)"
+    }
+  ]
+}

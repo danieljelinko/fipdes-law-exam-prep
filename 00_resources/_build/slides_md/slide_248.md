@@ -1,0 +1,17 @@
+![Slide 248](food_law_slides/slide_248.png)
+
+### Per 100g/ml — Energy                                                  kJ/kcal — Fat                                                     g
+
+Mandatory
+                       of which saturates                                   g
+Nutrition
+ Labelling          Carbohydrate                                            g
+                       of which sugars                                      g
+                    Protein                                                 g
+                    Salt                                                    g
+
+- Information must appear in this order.
+- Where appropriate, a statement indicating that the salt content is exclusively due to the presence
+                 of naturally occurring sodium may appear in close proximity to the nutrition declaration. Salt is
+                 calculated by mutiplying the sodium content by 2.5.
+- Contains negligible amount of … if applicable (see EU guidance on agreed “negligible amounts”

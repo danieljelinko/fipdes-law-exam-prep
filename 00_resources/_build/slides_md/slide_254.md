@@ -1,0 +1,17 @@
+![Slide 254](food_law_slides/slide_254.png)
+
+- Citizens’ (General Public) awareness of
+                      nutrition and health claims
+- Are citizens’ purchasing decisions influenced by
+                      nutrition and health claims
+FSAI Survey         • Do citizens think foods with nutrition and
+Unveils Irish         health claims are better
+- How familiar are consumers with Nutrition
+Attitudes to Food     declarations, logos, etc
+
+Labelling           • If there is a claim, are they seeking additional
+                      info somewhere else on label?
+(2009) Here         • What information are consumers looking for?
+- What do they consider most important?
+- Opinion on Plant substances for which claim a
+                      health benefit

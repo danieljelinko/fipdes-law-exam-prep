@@ -1,0 +1,22 @@
+{
+  "page": 11,
+  "layout": "title + 3 pill row (with example photos)",
+  "elements": [
+    {
+      "role": "section_title",
+      "text": "19th Century"
+    },
+    {
+      "role": "topic_item",
+      "text": "Water, milk, beer and foods"
+    },
+    {
+      "role": "topic_item",
+      "text": "Sawdust"
+    },
+    {
+      "role": "topic_item",
+      "text": "Colourants"
+    }
+  ]
+}
